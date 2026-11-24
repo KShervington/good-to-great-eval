@@ -1,0 +1,25 @@
+{
+  "guess": "The Upjohn Company",
+  "confidence": 95,
+  "clues": "The founder patented a pill that dissolved easily, the company introduced the first oral diabetes drug (Orinase), regulators pulled its combination antibiotic (Panalba), it bought a seed company (Asgrow), and it licensed an arthritis drug (Motrin) from a British firm (Boots), which all point to Upjohn of Kalamazoo around 1974.",
+  "_meta": {
+    "job_id": "-|A04|s1|probe",
+    "stage": "probe",
+    "case_id": "A04",
+    "seed": 1,
+    "model": "claude-opus-5-5",
+    "effort": "low",
+    "tokens_in": 2097,
+    "tokens_out": 251,
+    "cost_usd": 0.021788000000000002,
+    "duration_s": 6.3,
+    "finished_at": 1795489654.0484166,
+    "models_used": {
+      "claude-opus-5-5": {
+        "inputTokens": 2,
+        "outputTokens": 251,
+        "costUSD": 0.021788000000000002
+      }
+    }
+  }
+}

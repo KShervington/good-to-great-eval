@@ -1,0 +1,25 @@
+{
+  "guess": "FICTIONAL",
+  "confidence": 90,
+  "clues": "This is a personal career dilemma about an assistant professor's tenure decision; it has no company identifiers, and the invented people and projects (Elena Varga, Martin Hallam, Northern Streams Network) look like a constructed scenario rather than a disguised real firm.",
+  "_meta": {
+    "job_id": "-|D07|s1|probe",
+    "stage": "probe",
+    "case_id": "D07",
+    "seed": 1,
+    "model": "claude-opus-5-5",
+    "effort": "low",
+    "tokens_in": 2387,
+    "tokens_out": 116,
+    "cost_usd": 0.021408,
+    "duration_s": 5.0,
+    "finished_at": 1795489731.731554,
+    "models_used": {
+      "claude-opus-5-5": {
+        "inputTokens": 2,
+        "outputTokens": 116,
+        "costUSD": 0.021408
+      }
+    }
+  }
+}

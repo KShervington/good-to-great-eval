@@ -1,0 +1,25 @@
+{
+  "guess": "Circuit City Stores, Inc.",
+  "confidence": 95,
+  "clues": "The dossier describes a commissioned-sales electronics superstore chain overtaken by Best Buy, with a CarMax used-car tracking stock, the failed DIVX pay-per-view disc venture, and Rick Sharp handing the CEO role to Alan McCollough in 2000.",
+  "_meta": {
+    "job_id": "-|B01|s1|probe",
+    "stage": "probe",
+    "case_id": "B01",
+    "seed": 1,
+    "model": "claude-opus-5-5",
+    "effort": "low",
+    "tokens_in": 2577,
+    "tokens_out": 130,
+    "cost_usd": 0.023208,
+    "duration_s": 5.0,
+    "finished_at": 1795489701.9543688,
+    "models_used": {
+      "claude-opus-5-5": {
+        "inputTokens": 2,
+        "outputTokens": 130,
+        "costUSD": 0.023208
+      }
+    }
+  }
+}

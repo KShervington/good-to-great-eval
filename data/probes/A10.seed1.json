@@ -1,0 +1,25 @@
+{
+  "guess": "Warner-Lambert",
+  "confidence": 95,
+  "clues": "Merger with Lambert (Listerine) and Parke-Davis (1970), acquisitions of American Chicle, Schick, Entenmann's bakery, Halls, Bromo-Seltzer, American Optical, plus the FTC Listerine corrective-advertising order and the gum plant explosion point to Warner-Lambert circa 1980.",
+  "_meta": {
+    "job_id": "-|A10|s1|probe",
+    "stage": "probe",
+    "case_id": "A10",
+    "seed": 1,
+    "model": "claude-opus-5-5",
+    "effort": "low",
+    "tokens_in": 2204,
+    "tokens_out": 146,
+    "cost_usd": 0.020544,
+    "duration_s": 5.2,
+    "finished_at": 1795489666.2132752,
+    "models_used": {
+      "claude-opus-5-5": {
+        "inputTokens": 2,
+        "outputTokens": 146,
+        "costUSD": 0.020544
+      }
+    }
+  }
+}

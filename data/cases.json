@@ -6,9 +6,12 @@
    "group": "great",
    "dossier": "data/dossiers/A01.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": true,
-   "cluster": "E04"
+   "cluster": "E04",
+   "probe_guesses": [
+    "Kimberly-Clark (97)"
+   ]
   },
   {
    "id": "A02",
@@ -16,9 +19,12 @@
    "group": "comparison",
    "dossier": "data/dossiers/A02.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": true,
-   "cluster": "E04"
+   "cluster": "E04",
+   "probe_guesses": [
+    "Scott Paper Company (93)"
+   ]
   },
   {
    "id": "A03",
@@ -26,9 +32,12 @@
    "group": "great",
    "dossier": "data/dossiers/A03.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "E03"
+   "cluster": "E03",
+   "probe_guesses": [
+    "Abbott Laboratories (93)"
+   ]
   },
   {
    "id": "A04",
@@ -36,9 +45,12 @@
    "group": "comparison",
    "dossier": "data/dossiers/A04.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "E03"
+   "cluster": "E03",
+   "probe_guesses": [
+    "The Upjohn Company (95)"
+   ]
   },
   {
    "id": "A05",
@@ -46,9 +58,12 @@
    "group": "great",
    "dossier": "data/dossiers/A05.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "B01"
+   "cluster": "B01",
+   "probe_guesses": [
+    "Circuit City Stores (Wards Company) (93)"
+   ]
   },
   {
    "id": "A06",
@@ -56,9 +71,12 @@
    "group": "comparison",
    "dossier": "data/dossiers/A06.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "B01"
+   "cluster": "B01",
+   "probe_guesses": [
+    "Silo Inc. (85)"
+   ]
   },
   {
    "id": "A07",
@@ -66,9 +84,12 @@
    "group": "great",
    "dossier": "data/dossiers/A07.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "B02"
+   "cluster": "B02",
+   "probe_guesses": [
+    "Fannie Mae (Federal National Mortgage Association) (95)"
+   ]
   },
   {
    "id": "A08",
@@ -76,9 +97,12 @@
    "group": "comparison",
    "dossier": "data/dossiers/A08.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "B02"
+   "cluster": "B02",
+   "probe_guesses": [
+    "Great Western Financial Corporation (80)"
+   ]
   },
   {
    "id": "A09",
@@ -86,9 +110,12 @@
    "group": "great",
    "dossier": "data/dossiers/A09.md",
    "split": "heldout",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "A09"
+   "cluster": "A09",
+   "probe_guesses": [
+    "Gillette (97)"
+   ]
   },
   {
    "id": "A10",
@@ -96,9 +123,12 @@
    "group": "comparison",
    "dossier": "data/dossiers/A10.md",
    "split": "heldout",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "A09"
+   "cluster": "A09",
+   "probe_guesses": [
+    "Warner-Lambert (95)"
+   ]
   },
   {
    "id": "A11",
@@ -106,9 +136,12 @@
    "group": "great",
    "dossier": "data/dossiers/A11.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "A11"
+   "cluster": "A11",
+   "probe_guesses": [
+    "Kroger (93)"
+   ]
   },
   {
    "id": "A12",
@@ -116,9 +149,12 @@
    "group": "comparison",
    "dossier": "data/dossiers/A12.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "A11"
+   "cluster": "A11",
+   "probe_guesses": [
+    "The Great Atlantic & Pacific Tea Company (A&P) (95)"
+   ]
   },
   {
    "id": "A13",
@@ -126,9 +162,12 @@
    "group": "great",
    "dossier": "data/dossiers/A13.md",
    "split": "heldout",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "E01"
+   "cluster": "E01",
+   "probe_guesses": [
+    "Nucor (97)"
+   ]
   },
   {
    "id": "A14",
@@ -136,9 +175,12 @@
    "group": "comparison",
    "dossier": "data/dossiers/A14.md",
    "split": "heldout",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "E01"
+   "cluster": "E01",
+   "probe_guesses": [
+    "Bethlehem Steel (97)"
+   ]
   },
   {
    "id": "A15",
@@ -146,9 +188,12 @@
    "group": "great",
    "dossier": "data/dossiers/A15.md",
    "split": "heldout",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "E05"
+   "cluster": "E05",
+   "probe_guesses": [
+    "Philip Morris (97)"
+   ]
   },
   {
    "id": "A16",
@@ -156,9 +201,12 @@
    "group": "comparison",
    "dossier": "data/dossiers/A16.md",
    "split": "heldout",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "E05"
+   "cluster": "E05",
+   "probe_guesses": [
+    "R.J. Reynolds Tobacco Company (93)"
+   ]
   },
   {
    "id": "A17",
@@ -166,9 +214,12 @@
    "group": "great",
    "dossier": "data/dossiers/A17.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "A17"
+   "cluster": "A17",
+   "probe_guesses": [
+    "Pitney-Bowes (95)"
+   ]
   },
   {
    "id": "A18",
@@ -176,9 +227,12 @@
    "group": "comparison",
    "dossier": "data/dossiers/A18.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "A17"
+   "cluster": "A17",
+   "probe_guesses": [
+    "Addressograph-Multigraph Corporation (93)"
+   ]
   },
   {
    "id": "A19",
@@ -186,9 +240,12 @@
    "group": "great",
    "dossier": "data/dossiers/A19.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "E02"
+   "cluster": "E02",
+   "probe_guesses": [
+    "Walgreens (93)"
+   ]
   },
   {
    "id": "A20",
@@ -196,9 +253,12 @@
    "group": "comparison",
    "dossier": "data/dossiers/A20.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "E02"
+   "cluster": "E02",
+   "probe_guesses": [
+    "Jack Eckerd Corporation (Eckerd Drugs) (93)"
+   ]
   },
   {
    "id": "A21",
@@ -206,9 +266,12 @@
    "group": "great",
    "dossier": "data/dossiers/A21.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "B03"
+   "cluster": "B03",
+   "probe_guesses": [
+    "Wells Fargo (95)"
+   ]
   },
   {
    "id": "A22",
@@ -216,9 +279,12 @@
    "group": "comparison",
    "dossier": "data/dossiers/A22.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "B03"
+   "cluster": "B03",
+   "probe_guesses": [
+    "BankAmerica Corporation (Bank of America) (96)"
+   ]
   },
   {
    "id": "A23",
@@ -226,9 +292,12 @@
    "group": "unsustained",
    "dossier": "data/dossiers/A23.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "A23"
+   "cluster": "A23",
+   "probe_guesses": [
+    "Burroughs Corporation (90)"
+   ]
   },
   {
    "id": "A24",
@@ -236,9 +305,12 @@
    "group": "unsustained",
    "dossier": "data/dossiers/A24.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "A24"
+   "cluster": "A24",
+   "probe_guesses": [
+    "Chrysler Corporation (97)"
+   ]
   },
   {
    "id": "A25",
@@ -246,9 +318,12 @@
    "group": "unsustained",
    "dossier": "data/dossiers/A25.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "A25"
+   "cluster": "A25",
+   "probe_guesses": [
+    "Harris-Intertype Corporation (later Harris Corporation) (90)"
+   ]
   },
   {
    "id": "A26",
@@ -256,9 +331,12 @@
    "group": "unsustained",
    "dossier": "data/dossiers/A26.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "A26"
+   "cluster": "A26",
+   "probe_guesses": [
+    "Hasbro (95)"
+   ]
   },
   {
    "id": "A27",
@@ -266,9 +344,12 @@
    "group": "unsustained",
    "dossier": "data/dossiers/A27.md",
    "split": "heldout",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "B04"
+   "cluster": "B04",
+   "probe_guesses": [
+    "Rubbermaid (93)"
+   ]
   },
   {
    "id": "A28",
@@ -276,9 +357,12 @@
    "group": "unsustained",
    "dossier": "data/dossiers/A28.md",
    "split": "heldout",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "A28"
+   "cluster": "A28",
+   "probe_guesses": [
+    "Teledyne (92)"
+   ]
   },
   {
    "id": "B01",
@@ -286,9 +370,12 @@
    "group": "fallen",
    "dossier": "data/dossiers/B01.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "B01"
+   "cluster": "B01",
+   "probe_guesses": [
+    "Circuit City Stores, Inc. (95)"
+   ]
   },
   {
    "id": "B02",
@@ -296,9 +383,12 @@
    "group": "fallen",
    "dossier": "data/dossiers/B02.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "B02"
+   "cluster": "B02",
+   "probe_guesses": [
+    "Fannie Mae (Federal National Mortgage Association), as of early 2003 (95)"
+   ]
   },
   {
    "id": "B03",
@@ -306,9 +396,12 @@
    "group": "fallen",
    "dossier": "data/dossiers/B03.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "B03"
+   "cluster": "B03",
+   "probe_guesses": [
+    "Wells Fargo (97)"
+   ]
   },
   {
    "id": "B04",
@@ -316,9 +409,12 @@
    "group": "fallen",
    "dossier": "data/dossiers/B04.md",
    "split": "heldout",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "B04"
+   "cluster": "B04",
+   "probe_guesses": [
+    "Rubbermaid (95)"
+   ]
   },
   {
    "id": "B05",
@@ -326,9 +422,12 @@
    "group": "fallen",
    "dossier": "data/dossiers/B05.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "B05"
+   "cluster": "B05",
+   "probe_guesses": [
+    "Motorola (97)"
+   ]
   },
   {
    "id": "B06",
@@ -336,9 +435,12 @@
    "group": "fallen",
    "dossier": "data/dossiers/B06.md",
    "split": "heldout",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "B06"
+   "cluster": "B06",
+   "probe_guesses": [
+    "Merck & Co. (97)"
+   ]
   },
   {
    "id": "B07",
@@ -346,9 +448,12 @@
    "group": "fallen",
    "dossier": "data/dossiers/B07.md",
    "split": "heldout",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "B07"
+   "cluster": "B07",
+   "probe_guesses": [
+    "Ames Department Stores (90)"
+   ]
   },
   {
    "id": "B08",
@@ -356,9 +461,12 @@
    "group": "fallen",
    "dossier": "data/dossiers/B08.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "B08"
+   "cluster": "B08",
+   "probe_guesses": [
+    "Zenith Radio Corporation (95)"
+   ]
   },
   {
    "id": "B09",
@@ -366,9 +474,12 @@
    "group": "fallen",
    "dossier": "data/dossiers/B09.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "B03"
+   "cluster": "B03",
+   "probe_guesses": [
+    "BankAmerica Corporation (Bank of America) (95)"
+   ]
   },
   {
    "id": "C01",
@@ -376,9 +487,12 @@
    "group": "great",
    "dossier": "data/dossiers/C01.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "C01"
+   "cluster": "C01",
+   "probe_guesses": [
+    "Stryker Corporation (95)"
+   ]
   },
   {
    "id": "C02",
@@ -386,9 +500,12 @@
    "group": "comparison",
    "dossier": "data/dossiers/C02.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "C01"
+   "cluster": "C01",
+   "probe_guesses": [
+    "United States Surgical Corporation (95)"
+   ]
   },
   {
    "id": "D01",
@@ -398,7 +515,10 @@
    "split": "dev",
    "recognizable": false,
    "dry_run": true,
-   "cluster": "D01"
+   "cluster": "D01",
+   "probe_guesses": [
+    "FICTIONAL (85)"
+   ]
   },
   {
    "id": "D02",
@@ -408,7 +528,10 @@
    "split": "dev",
    "recognizable": false,
    "dry_run": false,
-   "cluster": "D02"
+   "cluster": "D02",
+   "probe_guesses": [
+    "FICTIONAL (85)"
+   ]
   },
   {
    "id": "D03",
@@ -418,7 +541,10 @@
    "split": "dev",
    "recognizable": false,
    "dry_run": false,
-   "cluster": "D03"
+   "cluster": "D03",
+   "probe_guesses": [
+    "FICTIONAL (60)"
+   ]
   },
   {
    "id": "D04",
@@ -428,7 +554,10 @@
    "split": "heldout",
    "recognizable": false,
    "dry_run": false,
-   "cluster": "D04"
+   "cluster": "D04",
+   "probe_guesses": [
+    "FICTIONAL (72)"
+   ]
   },
   {
    "id": "D05",
@@ -438,7 +567,10 @@
    "split": "dev",
    "recognizable": false,
    "dry_run": false,
-   "cluster": "D05"
+   "cluster": "D05",
+   "probe_guesses": [
+    "FICTIONAL (80)"
+   ]
   },
   {
    "id": "D06",
@@ -448,7 +580,10 @@
    "split": "dev",
    "recognizable": false,
    "dry_run": false,
-   "cluster": "D06"
+   "cluster": "D06",
+   "probe_guesses": [
+    "FICTIONAL (90)"
+   ]
   },
   {
    "id": "D07",
@@ -458,7 +593,10 @@
    "split": "heldout",
    "recognizable": false,
    "dry_run": false,
-   "cluster": "D07"
+   "cluster": "D07",
+   "probe_guesses": [
+    "FICTIONAL (90)"
+   ]
   },
   {
    "id": "D08",
@@ -468,7 +606,10 @@
    "split": "heldout",
    "recognizable": false,
    "dry_run": false,
-   "cluster": "D08"
+   "cluster": "D08",
+   "probe_guesses": [
+    "FICTIONAL (90)"
+   ]
   },
   {
    "id": "D09",
@@ -478,7 +619,10 @@
    "split": "dev",
    "recognizable": false,
    "dry_run": false,
-   "cluster": "D09"
+   "cluster": "D09",
+   "probe_guesses": [
+    "FICTIONAL (88)"
+   ]
   },
   {
    "id": "D10",
@@ -488,7 +632,10 @@
    "split": "dev",
    "recognizable": false,
    "dry_run": false,
-   "cluster": "D10"
+   "cluster": "D10",
+   "probe_guesses": [
+    "FICTIONAL (85)"
+   ]
   },
   {
    "id": "D11",
@@ -498,7 +645,10 @@
    "split": "dev",
    "recognizable": false,
    "dry_run": false,
-   "cluster": "D11"
+   "cluster": "D11",
+   "probe_guesses": [
+    "FICTIONAL (88)"
+   ]
   },
   {
    "id": "D12",
@@ -508,7 +658,10 @@
    "split": "dev",
    "recognizable": false,
    "dry_run": false,
-   "cluster": "D12"
+   "cluster": "D12",
+   "probe_guesses": [
+    "FICTIONAL (85)"
+   ]
   },
   {
    "id": "E01",
@@ -516,9 +669,12 @@
    "group": "already_great",
    "dossier": "data/dossiers/E01.md",
    "split": "heldout",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "E01"
+   "cluster": "E01",
+   "probe_guesses": [
+    "Nucor Corporation (97)"
+   ]
   },
   {
    "id": "E02",
@@ -526,9 +682,12 @@
    "group": "already_great",
    "dossier": "data/dossiers/E02.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "E02"
+   "cluster": "E02",
+   "probe_guesses": [
+    "Walgreens (Walgreen Co.) (95)"
+   ]
   },
   {
    "id": "E03",
@@ -536,9 +695,12 @@
    "group": "already_great",
    "dossier": "data/dossiers/E03.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "E03"
+   "cluster": "E03",
+   "probe_guesses": [
+    "Abbott Laboratories (97)"
+   ]
   },
   {
    "id": "E04",
@@ -546,9 +708,12 @@
    "group": "already_great",
    "dossier": "data/dossiers/E04.md",
    "split": "dev",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "E04"
+   "cluster": "E04",
+   "probe_guesses": [
+    "Kimberly-Clark (97)"
+   ]
   },
   {
    "id": "E05",
@@ -556,9 +721,12 @@
    "group": "already_great",
    "dossier": "data/dossiers/E05.md",
    "split": "heldout",
-   "recognizable": null,
+   "recognizable": true,
    "dry_run": false,
-   "cluster": "E05"
+   "cluster": "E05",
+   "probe_guesses": [
+    "Philip Morris (97)"
+   ]
   },
   {
    "id": "E06",
@@ -568,7 +736,10 @@
    "split": "dev",
    "recognizable": false,
    "dry_run": false,
-   "cluster": "E06"
+   "cluster": "E06",
+   "probe_guesses": [
+    "FICTIONAL (80)"
+   ]
   },
   {
    "id": "E07",
@@ -578,7 +749,10 @@
    "split": "dev",
    "recognizable": false,
    "dry_run": false,
-   "cluster": "E07"
+   "cluster": "E07",
+   "probe_guesses": [
+    "FICTIONAL (72)"
+   ]
   }
  ]
 }

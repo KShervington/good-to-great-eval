@@ -1,0 +1,25 @@
+{
+  "guess": "Circuit City Stores (Wards Company)",
+  "confidence": 93,
+  "clues": "The company was a Richmond TV retailer founded around a new station launch, the founder's lawyer son (Alan Wurtzel) became CEO, it bought the bankrupt NYC chain Lafayette Radio for its tax losses, it ran warehouse-showroom superstores, and its rival Silo had been bought by Cyclops steel.",
+  "_meta": {
+    "job_id": "-|A05|s1|probe",
+    "stage": "probe",
+    "case_id": "A05",
+    "seed": 1,
+    "model": "claude-opus-5-5",
+    "effort": "low",
+    "tokens_in": 2194,
+    "tokens_out": 270,
+    "cost_usd": 0.022944,
+    "duration_s": 6.9,
+    "finished_at": 1795489654.6897814,
+    "models_used": {
+      "claude-opus-5-5": {
+        "inputTokens": 2,
+        "outputTokens": 270,
+        "costUSD": 0.022944
+      }
+    }
+  }
+}

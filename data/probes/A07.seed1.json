@@ -1,0 +1,25 @@
+{
+  "guess": "Fannie Mae (Federal National Mortgage Association)",
+  "confidence": 95,
+  "clues": "A government-chartered secondary mortgage company split off by the 1968 housing act (Ginnie Mae took the government functions), with 5 of 15 directors appointed by the president, HUD oversight and a Treasury backstop, and David Maxwell as CEO in 1981 while it was losing about $1M a day, places this in roughly 1984.",
+  "_meta": {
+    "job_id": "-|A07|s1|probe",
+    "stage": "probe",
+    "case_id": "A07",
+    "seed": 1,
+    "model": "claude-opus-5-5",
+    "effort": "low",
+    "tokens_in": 2417,
+    "tokens_out": 154,
+    "cost_usd": 0.022408,
+    "duration_s": 5.7,
+    "finished_at": 1795489660.0169945,
+    "models_used": {
+      "claude-opus-5-5": {
+        "inputTokens": 2,
+        "outputTokens": 154,
+        "costUSD": 0.022408
+      }
+    }
+  }
+}

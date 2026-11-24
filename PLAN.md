@@ -76,6 +76,37 @@ Assumed roster: about 60 cases (A 28, B 9, C about 4, D 12, E 7), split into abo
 
 **Cost:** about 7 more cases, so about $17 more per improvement round and about $80–130 over the whole run.
 
+## Phase 1 complete (2026-11-23)
+**58 cases:**
+
+| Track | Cases | Notes |
+|---|---|---|
+| A | 28 | 11 great, 11 comparison, 6 unsustained |
+| B | 9 | fallen great companies |
+| C | 2 | Stryker vs U.S. Surgical; 31 of 32 candidates rejected, see `data/track_c_criteria.md` |
+| D | 12 | synthetic, in the mix you specified |
+| E | 7 | 5 real already-great companies plus 2 synthetic |
+
+**Splits:** 42 dev, 16 held-out (stratified; same-company and matched-pair cases kept in the same split). The held-out set has no singleton case types (the Track C pair, the Gate 0/1 fails, the drifting E07), because the loop needs those signals in dev. Final results for those behaviors will come from dev, which is a limitation.
+
+**Contamination probe:** 44 of 44 real-company dossiers were identified by name (80–97% confidence); 14 of 14 synthetic ones were called fictional. So "recognizable vs not" is the same split as "real vs synthetic", and the two can't be separated in the report. A second, per-output measure is also tracked: the judge flags any output that names the real company or uses hindsight (`recognized_subject_by_name`, `hindsight_leak`).
+
+**Build cost:** the 8 research agents used about 1.85M tokens. The probes cost $1.16 API-equivalent.
+
+## Baseline round (awaiting OK)
+v0 on dev, 42 cases × 3 seeds:
+- **Calls:** 252 (126 skill runs + 126 judge calls).
+- **Tokens:** about 4.8M.
+- **Cost:** about $76 API-equivalent.
+- **Time:** about 3 hours of call time at concurrency 2, plus limit pauses.
+
+**Revised whole-run estimate with 58 cases:**
+- **Each improvement round:** about $110.
+- **Likely total (about 5 rounds):** about $700.
+- **Worst case (8 rounds):** about $1,030.
+
+**Next:** I'll show you 6 baseline outputs with their judge scores for calibration. If calibration changes the rubric, the baseline gets re-judged, which costs about $32.
+
 ## Decisions I need from you
 1. **Edit evaluation.** I recommend that each round test one candidate (up to 3 edits bundled), accepted or rejected as a whole. When a bundle fails but one edit looks promising, the next round re-tests that edit alone. Testing every edit separately costs about 3×.
 2. **Approve the next batch.** Build the full roster (Phase 1 proper) and run about 50 contamination probes (about $1). After that, the baseline round: 222 calls, about $67. I'll show you 6 baseline outputs alongside their judge scores for calibration before round 1.

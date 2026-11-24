@@ -1,0 +1,25 @@
+{
+  "guess": "FICTIONAL",
+  "confidence": 90,
+  "clues": "The dossier reads as a constructed case study: an invented county and funder, a win rate that jumps while case selection is tightened, eviction filings rising, and a mission-drift homeownership offer. Nothing points to an identifiable real legal aid organization.",
+  "_meta": {
+    "job_id": "-|D08|s1|probe",
+    "stage": "probe",
+    "case_id": "D08",
+    "seed": 1,
+    "model": "claude-opus-5-5",
+    "effort": "low",
+    "tokens_in": 2707,
+    "tokens_out": 110,
+    "cost_usd": 0.023848,
+    "duration_s": 5.0,
+    "finished_at": 1795489733.391453,
+    "models_used": {
+      "claude-opus-5-5": {
+        "inputTokens": 2,
+        "outputTokens": 110,
+        "costUSD": 0.023848
+      }
+    }
+  }
+}

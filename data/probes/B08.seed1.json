@@ -1,0 +1,25 @@
+{
+  "guess": "Zenith Radio Corporation",
+  "confidence": 95,
+  "clues": "A Chicago TV/radio maker led by a flamboyant founder (Commander McDonald, died 1958) with hand-wired sets and the Space Command remote, plus Phonevision pay-TV trials in Hartford, that overtook RCA in black-and-white TV around 1959 points to Zenith in 1966.",
+  "_meta": {
+    "job_id": "-|B08|s1|probe",
+    "stage": "probe",
+    "case_id": "B08",
+    "seed": 1,
+    "model": "claude-opus-5-5",
+    "effort": "low",
+    "tokens_in": 2366,
+    "tokens_out": 138,
+    "cost_usd": 0.02168,
+    "duration_s": 4.8,
+    "finished_at": 1795489714.9917295,
+    "models_used": {
+      "claude-opus-5-5": {
+        "inputTokens": 2,
+        "outputTokens": 138,
+        "costUSD": 0.02168
+      }
+    }
+  }
+}

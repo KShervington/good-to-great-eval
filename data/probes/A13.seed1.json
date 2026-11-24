@@ -1,0 +1,25 @@
+{
+  "guess": "Nucor",
+  "confidence": 97,
+  "clues": "A failed automaker shell (Reo/Nuclear Corp of America) turned into an atomic-age conglomerate, then rescued by Ken Iverson through its Vulcraft joist division, a small Charlotte headquarters, and scrap-based minimills in Darlington, Norfolk and Jewett all match Nucor around 1975.",
+  "_meta": {
+    "job_id": "-|A13|s1|probe",
+    "stage": "probe",
+    "case_id": "A13",
+    "seed": 1,
+    "model": "claude-opus-5-5",
+    "effort": "low",
+    "tokens_in": 2649,
+    "tokens_out": 138,
+    "cost_usd": 0.023944,
+    "duration_s": 5.8,
+    "finished_at": 1795489672.1995227,
+    "models_used": {
+      "claude-opus-5-5": {
+        "inputTokens": 2,
+        "outputTokens": 138,
+        "costUSD": 0.023944
+      }
+    }
+  }
+}

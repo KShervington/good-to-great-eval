@@ -1,0 +1,25 @@
+{
+  "guess": "FICTIONAL",
+  "confidence": 60,
+  "clues": "This reads like a constructed case study rather than a disguised real company: a peer-to-peer farm-equipment rental marketplace whose renters exchange phone numbers, plus a board push into input financing, with no clear match to any known startup (the input-financing angle loosely resembles Farmers Business Network, but the rental marketplace does not fit).",
+  "_meta": {
+    "job_id": "-|D03|s1|probe",
+    "stage": "probe",
+    "case_id": "D03",
+    "seed": 1,
+    "model": "claude-opus-5-5",
+    "effort": "low",
+    "tokens_in": 2652,
+    "tokens_out": 270,
+    "cost_usd": 0.026608,
+    "duration_s": 6.7,
+    "finished_at": 1795489726.6106393,
+    "models_used": {
+      "claude-opus-5-5": {
+        "inputTokens": 2,
+        "outputTokens": 270,
+        "costUSD": 0.026608
+      }
+    }
+  }
+}

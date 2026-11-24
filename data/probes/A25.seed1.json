@@ -1,0 +1,25 @@
+{
+  "guess": "Harris-Intertype Corporation (later Harris Corporation)",
+  "confidence": 90,
+  "clues": "A Cleveland printing-press maker that bought Gates Radio, merged with Radiation Inc. of Melbourne, Florida, in 1967, and later acquired RCA's TV broadcast line and a data-terminal maker fits Harris-Intertype in the early 1970s under Richard Tullis.",
+  "_meta": {
+    "job_id": "-|A25|s1|probe",
+    "stage": "probe",
+    "case_id": "A25",
+    "seed": 1,
+    "model": "claude-opus-5-5",
+    "effort": "low",
+    "tokens_in": 2316,
+    "tokens_out": 278,
+    "cost_usd": 0.02408,
+    "duration_s": 6.7,
+    "finished_at": 1795489696.5881872,
+    "models_used": {
+      "claude-opus-5-5": {
+        "inputTokens": 2,
+        "outputTokens": 278,
+        "costUSD": 0.02408
+      }
+    }
+  }
+}

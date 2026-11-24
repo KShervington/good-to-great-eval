@@ -1,0 +1,25 @@
+{
+  "guess": "Burroughs Corporation",
+  "confidence": 90,
+  "clues": "Detroit adding-machine maker founded around 1886 that bought ElectroData, launched the B5000 with ALGOL/COBOL compilers, sold magnetic-ink check sorters, made calculators in Scotland, lost SAGE to IBM, and had ex-export chief Ray Macdonald rising to run operations.",
+  "_meta": {
+    "job_id": "-|A23|s1|probe",
+    "stage": "probe",
+    "case_id": "A23",
+    "seed": 1,
+    "model": "claude-opus-5-5",
+    "effort": "low",
+    "tokens_in": 2424,
+    "tokens_out": 180,
+    "cost_usd": 0.022984,
+    "duration_s": 5.3,
+    "finished_at": 1795489691.2182155,
+    "models_used": {
+      "claude-opus-5-5": {
+        "inputTokens": 2,
+        "outputTokens": 180,
+        "costUSD": 0.022984
+      }
+    }
+  }
+}
