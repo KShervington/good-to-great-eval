@@ -66,6 +66,11 @@ def cmd_enqueue(a) -> int:
     p = paths_from_env(a.root)
     led = Ledger(p.ledger)
     cases = _case_ids(p, a.cases)
+    from .stages import load_cases
+    allc = load_cases(p)
+    held = [c for c in cases if allc[c].get("split") == "heldout"]
+    if held and not a.final_eval:
+        raise SystemExit(f"refusing to enqueue held-out cases {held} without --final-eval (Phase 4 only)")
     stages_ = [s.strip() for s in a.stages.split(",")]
     if a.round:
         led.add_round(a.round, a.version, a.compare_to, a.cases)
@@ -198,6 +203,7 @@ def main(argv=None) -> int:
     e.add_argument("--cases", required=True, help="dev | heldout | dryrun | all | comma-separated ids")
     e.add_argument("--seeds", type=int, default=3)
     e.add_argument("--stages", default="run,judge")
+    e.add_argument("--final-eval", action="store_true", help="allow held-out cases (Phase 4 only)")
     e.set_defaults(fn=cmd_enqueue)
 
     s = sub.add_parser("status")

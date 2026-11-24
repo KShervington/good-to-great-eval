@@ -1,0 +1,48 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to 'branded household paper towels and bath tissue, made at the lowest cost' with profit per brand, rules out all four acquisitions and admits 'best in world' is contested by Rival P, but it only implies (doom loop, 'split on what the company even is') rather than plainly states that the current portfolio lacks a hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top stop-doing items in the verdict are 'Divest the four non-core acquisitions' and 'Stop treating diversify into growth industries as the strategy', and the full list adds a board rule against outside acquisitions and ending the 'no coupons, ever' dogma."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks Rival P's national softer-tissue launch as Critical #1, with no softness answer at #2, eroding ROE and earnings at #3 and the roughly $200M of unprofitable acquisitions at #4, and the verdict states the consequence."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names share loss to Rival P explained away as 'regional' or 'temporary', a new chairman reaching for a 'charismatic turnaround promise' or single bold move, and capitulation as 'an acquisition target', each with a specific warning sign; it misses only the later capacity-expansion blunder."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are tagged [ASSUMPTION] and the missing share, blind-test and acquisition P&L data are flagged rather than guessed, with a sober 25/100 verdict, but it upgrades Rival P to 'the strongest packaged-goods marketer in the country' without marking it and the 25/100 score has no stated basis."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (product superiority), three stop-doing items, the most urgent brutal fact and the missing numbers, but with four missing-number bullets and a closing paragraph it runs somewhat past one phone screen."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A02|s1|judge",
+    "stage": "judge",
+    "case_id": "A02",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12448,
+    "tokens_out": 2290,
+    "cost_usd": 0.261443,
+    "duration_s": 25.7,
+    "finished_at": 1795486253.5041916,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2290,
+        "costUSD": 0.261443
+      }
+    }
+  }
+}

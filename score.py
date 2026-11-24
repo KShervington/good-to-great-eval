@@ -56,7 +56,9 @@ def section(md: str, pattern: str) -> str:
     """Text of the first heading matching pattern, up to the next heading of the same or higher level."""
     lines = md.splitlines()
     hs = headings(md)
-    for k, (lvl, text, i) in enumerate(hs):
+    order = sorted(range(len(hs)), key=lambda k: (hs[k][0] == 7, k))  # real headings first
+    for k in order:
+        lvl, text, i = hs[k]
         if re.search(pattern, text, re.I):
             end = len(lines)
             for lvl2, _, j in hs[k + 1:]:
@@ -119,12 +121,13 @@ def check_stop_doing(md: str) -> tuple[bool, int]:
 
 def hedgehog_sentence(md: str) -> str:
     sec = section(md, r"hedgehog") or ""
-    for pat in (r"^\s*>\s*\**(.+?)\**\s*$", r"\*\*(?:the )?hedgehog(?: concept)?(?: sentence)?:?\*\*:?\s*(.+)",
+    for pat in (r"^\s*>\s*\**(.+?)\**\s*$",
+                r"\*\*(?:the )?(?:hedgehog(?: concept)?(?: sentence)?|sentence|concept)(?: \([^)]*\))?:?\*\*:?\s*(.+)",
                 r"^\s*\*\*(.+?)\*\*\s*$"):
         m = re.search(pat, sec, re.I | re.M)
         if m and len(m.group(1).split()) >= 6:
             return m.group(1).strip().strip('*"“” ')
-    m = re.search(r"hedgehog(?: concept)?\s*[:\-–]\s*\**[\"“]?(.+?)[\"”]?\**\s*$", md, re.I | re.M)
+    m = re.search(r"hedgehog(?: concept)?(?: \([^)]*\))?\**\s*[:\-–]\s*\**[\"“*]?(.+?)[\"”*]?\**\s*$", md, re.I | re.M)
     return m.group(1).strip() if m else ""
 
 
@@ -147,6 +150,7 @@ def _norm(n: str) -> str:
 
 def check_assumptions(md: str, dossier: str) -> tuple[bool, list[str]]:
     """Numbers that aren't in the dossier must sit on a line (or table row) tagged [ASSUMPTION]."""
+    gp = greatness_potential(md)
     dnums = {_norm(m) for m in _NUM.findall(dossier)}
     dnums |= {re.sub(r"[^\d.]", "", x) for x in dnums}
     flagged = []
@@ -161,6 +165,12 @@ def check_assumptions(md: str, dossier: str) -> tuple[bool, list[str]]:
             if not digits or digits in _STRUCTURAL and not re.search(r"[%$xkmb]", n):
                 continue
             if re.fullmatch(r"(19|20)\d\d", digits):  # years
+                continue
+            if re.search(rf"{re.escape(raw.strip())}\s*(?:[-–]\s*\d+\s*)?\+?\s*(?:months?|years?|yrs?|days?|weeks?|quarters?|steps?|gates?|items?|facts?)\b", line, re.I):
+                continue  # horizons and counts of the analysis's own parts, not metrics
+            if re.search(rf"(?:day|week|month|year|gate|stage|step|item|#)\s*{re.escape(digits)}\b", line, re.I):
+                continue  # "by day 60", "Stage 3", "#4"
+            if gp is not None and digits == str(gp):
                 continue
             if re.search(rf"gate\s*{re.escape(digits)}\b", line, re.I):
                 continue

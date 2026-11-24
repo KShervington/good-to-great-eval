@@ -1,0 +1,48 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the independent vet clinic's own inventory brain' with denominator 'gross profit per clinic-year', and it explicitly rules out dental, chains and reminder growth, matching the key on all three points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "'The dental build. Decline the letter of intent and return the two engineers' is stop-doing item 1 in both the one-screen verdict and the full list, with corporate-chain pilots as item 2."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical and named most urgent in the verdict, cites 38% of ARR, the renewal 5 months out, two unanswered emails and VetSource's announced native inventory product, and says it should be board item one."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names stage 2 undisciplined pursuit of more (dental and chains, 'already active') and stage 3 denial of risk (VetSource silence read as noise), each with a specific early warning such as 'Notice date approaches with no plan B'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "The channel split and new clinics per channel are flagged as missing and thresholds are marked [ASSUMPTION], but it still computes a blended CAC of roughly $9–10K and an 18–20 month payback, labelled 'derived' rather than left as a gap, and the implied churn ranges rest on partly unstated assumptions."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stops, most urgent brutal fact and missing numbers and is actionable, but with the gate result, score and evidence note it runs somewhat past one phone screen."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D01|s1|judge",
+    "stage": "judge",
+    "case_id": "D01",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13867,
+    "tokens_out": 1601,
+    "cost_usd": 0.256587,
+    "duration_s": 20.0,
+    "finished_at": 1795486442.4049737,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1601,
+        "costUSD": 0.256587
+      }
+    }
+  }
+}
