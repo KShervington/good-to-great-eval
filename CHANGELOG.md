@@ -21,3 +21,7 @@ Every phase and every improvement round is logged here: what ran, scores, the ed
 - Corrected Kimberly-Clark's transition year to 1972 in the A01 key (Collins's appendix).
 - Splits: 42 dev / 16 held-out, clustered by company. Held-out runs are blocked in the harness without `--final-eval`.
 - Contamination probes: 44/44 real cases recognized; 14/14 synthetic cases called fictional.
+
+## 2026-11-24: Baseline round r0 in progress
+- First real limit at 01:07: a shared session limit hit both Opus and Fable at once (the message: "You've hit your session limit · resets 1:50am (America/New_York)"). Usage up to that point: Opus 176 calls / $38.81 and Fable 120 calls / $32.42, about $71 API-equivalent in one window. Auto-resume at 01:52. 17 jobs remaining (3 paused_limit, 14 pending).
+- Next step after the round finishes: `python scripts/calibration.py make`, then the user scores 6 sheets.
