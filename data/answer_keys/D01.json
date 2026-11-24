@@ -1,0 +1,23 @@
+{
+  "case_id": "D01",
+  "track": "D",
+  "group": "synthetic_good",
+  "real_identity": null,
+  "aliases": [],
+  "subject_kind": "startup",
+  "expected_gate_fail": null,
+  "planted": {
+    "brutal_fact": "38% of ARR comes through the VetSource reseller agreement. It renews in five months, VetSource is building its own inventory product, and VetSource has not answered two emails about renewal terms. This is a concentration and channel-conflict risk that could take away more than a third of revenue.",
+    "brutal_fact_key_points": ["38% of ARR via VetSource", "renewal in 5 months", "VetSource building a competing native inventory feature / unresponsive"],
+    "distraction": "The human dental-clinic pilot (a non-binding LOI, two engineers for six months). A secondary distraction is the push upmarket to corporate chains, where two pilots have not converted.",
+    "distraction_key_points": ["stop or decline the dental pilot", "(secondary) stop chasing corporate chains"],
+    "missing_metric": "CAC and payback by channel (direct vs. VetSource). Spend is given, but not new customers per channel. The skill should flag it, not compute a CAC figure.",
+    "missing_metric_key_points": ["CAC / payback / new customers by channel is missing", "must not invent a CAC number without [ASSUMPTION]"]
+  },
+  "reference_hedgehog": "Be the best inventory brain for independent vet clinics. The economic denominator is something like gross profit per clinic, or retention per clinic driven by inventory attach. The passion comes from founders and staff who were vet-clinic insiders.",
+  "hedgehog_key_points": ["independent (not chain) vet clinics", "inventory as the core", "per-clinic denominator"],
+  "leader_type": "Founder-CEO with strong drive but scattered focus (Level 3/4 traits: decisive, but defers focus). Not clearly Level 5. The CTO shows window/mirror traits.",
+  "decline_risks_expected": ["undisciplined pursuit of more (dental, chains)", "denial of risk and peril (VetSource dependency)"],
+  "greatness_label": 1,
+  "notes": "Planted: brutal fact buried in board 'housekeeping'; distraction = dental; missing metric = CAC by channel."
+}

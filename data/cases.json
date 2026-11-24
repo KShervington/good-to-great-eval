@@ -1,0 +1,7 @@
+{
+  "cases": [
+    {"id": "A01", "track": "A", "group": "great", "dossier": "data/dossiers/A01.md", "split": "dev", "recognizable": null, "dry_run": true},
+    {"id": "A02", "track": "A", "group": "comparison", "dossier": "data/dossiers/A02.md", "split": "dev", "recognizable": null, "dry_run": true},
+    {"id": "D01", "track": "D", "group": "synthetic_good", "dossier": "data/dossiers/D01.md", "split": "dev", "recognizable": false, "dry_run": true}
+  ]
+}
