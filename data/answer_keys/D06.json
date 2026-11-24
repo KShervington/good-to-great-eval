@@ -1,0 +1,54 @@
+{
+  "case_id": "D06",
+  "track": "D",
+  "group": "synthetic_good",
+  "real_identity": null,
+  "aliases": [],
+  "subject_kind": "career",
+  "as_of_year": null,
+  "transition_year": null,
+  "expected_gate_fail": null,
+  "planted": {
+    "brutal_fact": "Her income rests on a body that is starting to fail, and she has removed her protection against that. Daily scanning volume rose from about 9 to 13-14 studies after the February closure, plus more overtime (Current role). She has a shoulder impingement serious enough to quit volleyball, weekly physio, a physio telling her to reduce load, and a support cushion under her scanning arm (Outside work). She opted out of long-term disability insurance this spring to save $38.20 a paycheck, with about two months of emergency savings, a variable-income partner and debts (Money). Work-related shoulder injury is a well-known career-ender for sonographers. The dossier never connects these facts, and the travel option would raise scanning volume further.",
+    "brutal_fact_key_points": [
+      "scan volume rose from about 9 to 13-14 a day plus overtime",
+      "shoulder impingement in the scanning arm (physio, quit volleyball, support cushion)",
+      "she dropped long-term disability cover and has thin savings; the income depends on her physical ability to scan"
+    ],
+    "distraction": "13-week travel echo contracts. They look attractive: $2,850 a week vs. about $1,900 now, a trusted friend who earned $142,300 last year doing it, a recruiter calling repeatedly, and a supportive partner with a concrete goal (clearing the van loan). But the contract is a high-volume general outpatient lab: more routine scanning load on an injured shoulder, away from her congenital specialty, with no progress toward a role that pays for expertise rather than volume.",
+    "distraction_key_points": [
+      "decline the travel contracts",
+      "(secondary) stop absorbing extra overtime and volume"
+    ],
+    "missing_metric": "Pay (and scanning load) of the specialist path, i.e. what the university's congenital imaging roles pay compared with her current $98,760 and the travel rate. The posting says only 'competitive' and she does not know. Making it up = stating a salary or hourly rate for the congenital or specialist role, or for a lab lead or educator role, from general knowledge without an [ASSUMPTION] tag, or treating it as equal or superior to travel pay without data.",
+    "missing_metric_key_points": [
+      "compensation for the congenital/specialist role is unknown and should be found out (ask, network, salary surveys)",
+      "must not state a figure for the specialist role's pay without an [ASSUMPTION] tag"
+    ]
+  },
+  "reference_hedgehog": "Become the region's go-to adult congenital echo specialist: complex, high-skill studies, protocols and teaching, in a role that pays for expertise per case rather than volume of routine scans. Economic denominator: income per scan, or per hour of physical scanning load. Passion: she loves congenital 'puzzle' cases and teaching students.",
+  "hedgehog_key_points": [
+    "adult congenital / complex echo as the core",
+    "shift from volume to expertise (specialist role, protocols, teaching)",
+    "denominator per scan or per unit of physical load"
+  ],
+  "reference_stop_doing": "Decline travel contracts; stop taking discretionary overtime; reinstate disability coverage at the next opportunity; stop treating routine high-volume scanning as the career; reconsider her reflexive 'no' to roles that reduce scanning (lab lead, teaching) rather than reject them out of hand.",
+  "stop_doing_key_points": [
+    "decline travel contracts",
+    "stop discretionary overtime / volume",
+    "restore income protection"
+  ],
+  "reference_brutal_facts": [
+    "her scanning-arm shoulder is injured while her workload rose about 50%",
+    "no long-term disability cover and about two months of savings",
+    "she has no contacts or pay information for the specialist path she most wants"
+  ],
+  "leader_type": "Self-leadership: humble, craft-driven expert individual contributor (Level 2 strengths with Level 5-style humility). Avoids leadership roles and has not yet shown the resolve to face the brutal facts about her health and finances.",
+  "decline_risks_expected": [
+    "Stage 3 - denial of risk and peril: injury plus no disability cover while the workload rises",
+    "Stage 2 - undisciplined pursuit of more: chasing travel pay over the specialist path"
+  ],
+  "greatness_label": 1,
+  "later_history": null,
+  "notes": "Synthetic career case (healthcare). First-person coach-intake form. Brutal fact requires joining 'Current role' (volume), 'Outside work' (shoulder) and 'Money' (disability opt-out). Irrelevant realism: soccer coaching, braces, streaming cuts."
+}

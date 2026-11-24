@@ -1,0 +1,21 @@
+{
+  "case_id": "A10",
+  "track": "A",
+  "group": "comparison",
+  "real_identity": "Warner-Lambert",
+  "aliases": ["Warner-Lambert", "Warner Lambert", "Parke-Davis", "Listerine", "Schick", "Entenmann's", "American Chicle", "Elmer Bobst", "Ward Hagan", "Joseph Williams"],
+  "as_of_year": 1980,
+  "transition_year": null,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "None. Collins's comparison company swung back and forth between consumer products and health care: consumer products in 1979, health care in 1980, back to diversification and consumer in 1981, toward Merck-style pharma in 1987, and back to consumer brands in the early 1990s. It never committed to one concept.",
+    "hedgehog_key_points": ["no coherent hedgehog", "lurched between consumer-products and pharmaceutical identities", "each new CEO reset the strategy"],
+    "stop_doing": "Stop lurching between consumer and pharmaceutical strategies, and stop the restructure-with-each-CEO cycle. Stop buying unrelated businesses (bakery, optical, later medical devices) as a substitute for a clear concept.",
+    "stop_doing_key_points": ["stop flip-flopping strategic direction", "stop unrelated acquisitions (bakery, optical, devices)", "stop resetting strategy with each new CEO"],
+    "leader_type": "Not Level 5. Collins counts three major restructurings between 1979 and 1998, roughly one per CEO. Each new leader launched his own program and halted his predecessor's momentum, a textbook doom loop.",
+    "brutal_facts": ["profit margins down about 40% and ROE about 9% in 1979", "a grab-bag of unrelated acquisitions", "regulatory and legal problems across several lines", "a distant No. 2 to Gillette in shaving"]
+  },
+  "later_history": "Entenmann's was sold to General Foods in 1982 for $315M. IMED was bought for $468M in 1982 and sold in 1986 for $163.5M. Five units were divested in 1982-86 and the workforce was cut from about 61,000 to 32,000; ROE recovered to 32% by 1986. Another reorganization followed in 1991 under Melvin Goodes. Later it co-marketed Lipitor. Pfizer acquired the company in 2000 after a hostile bid, ending its independence, and auctioned off Schick (to Energizer, 2003).",
+  "greatness_label": 0,
+  "notes": "Direct comparison company for A09. The year-by-year lurching (1979-1990s) comes from Collins's own 'Good to Great' article on jimcollins.com, paraphrased. Sources conflict on 1979-80 titles (Hagan as chairman, Williams as CEO or president), so the dossier says only that a new chairman and chief executive took over in Year -1."
+}

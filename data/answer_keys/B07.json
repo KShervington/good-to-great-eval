@@ -1,0 +1,55 @@
+{
+  "case_id": "B07",
+  "track": "B",
+  "group": "fallen",
+  "already_great": true,
+  "real_identity": "Ames Department Stores",
+  "aliases": [
+    "Ames",
+    "Ames Department Stores",
+    "Herbert Gilman",
+    "Herb Gilman",
+    "Gilman brothers",
+    "G.C. Murphy",
+    "Zayre"
+  ],
+  "as_of_year": 1986,
+  "transition_year": 1989,
+  "gtg_transition_year": null,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "Collins (HTMF): Ames's original idea was the one that made Wal-Mart famous: bring discount retailing to rural and small-town areas, with everyday low prices on everything, backed by a partnership ethos, information systems and a performance culture. A plausible denominator is profit per store (or per square foot) in small-town markets.",
+    "hedgehog_key_points": [
+      "rural/small-town discount retailing",
+      "everyday low prices on everything (not promotional loss-leaders)",
+      "grow store by store at the pace the culture and people can absorb"
+    ],
+    "stop_doing": "Stop growing by big acquisitions that change the model, and in particular stop buying urban, promotion-driven chains. Stop debt-funded leaps and experimental side formats (variety, crafts, stationery). Pick a successor from inside who embodies the model, not an outside visionary who redefines the company.",
+    "stop_doing_key_points": [
+      "stop large acquisitions that change the model (urban, promotional)",
+      "stop debt-fueled leaps and side formats",
+      "choose an insider successor who embodies the core"
+    ],
+    "leader_type": "Herb Gilman led the long rise but, per HTMF, brought in an outsider as successor, a visionary who boldly redefined the company. Collins contrasts this with Sam Walton's handover to insider David Glass. Problematic succession (a Stage 2 marker); not Level 5 in succession.",
+    "brutal_facts": [
+      "acquired chains bring different locations, customers and pricing habits that dilute the model",
+      "debt is about 80% of net worth after the latest deal",
+      "Wal-Mart, with the same model, is expanding steadily toward the Northeast",
+      "integration of several chains at once strains people and systems"
+    ]
+  },
+  "decline_mechanism": "Ames founded rural discounting four years before Wal-Mart, and from 1973 to 1986 its stock tracked Wal-Mart's at more than nine times the market. Collins dates its Stage 2 to 1982-1988: a run of significant acquisitions (King's, G.C. Murphy), a move from rural to urban markets, experimental side formats, and sales up fivefold from 1983 to 1988. Gilman's succession went to an outsider who redefined the company. In 1988 Ames bought Zayre's 392 discount stores for about $778M, expecting to more than double in a year. The deal made Ames urban overnight and brought in a promotional, loss-leader model in place of everyday low prices. Revenue more than doubled from 1986 to 1989, but cumulative stock returns fell 98% from 1986 to 1992. Ames filed for Chapter 11 in April 1990 after less than two years in Stage 3. It then spent more than a decade in Stage 4: a rotation of CEOs and strategies and the 1998-99 Hills acquisition, which nearly doubled the company again. A second bankruptcy (2001) and liquidation (2002) followed, while Wal-Mart reached the Northeast with Ames's original model.",
+  "decline_risks_expected": [
+    "Stage 1 (hubris): decades of success breed confidence that any chain can be converted to the formula",
+    "Stage 2 (undisciplined pursuit of more): growth by a series of acquisitions (King's, Murphy), with sales multiplying fast",
+    "Stage 2: drift from the rural EDLP core toward urban markets and side formats",
+    "Stage 2: debt-funded growth (debt about 80% of worth)",
+    "Stage 2: problematic succession, with an outside 'visionary' successor",
+    "Stage 3 (denial of risk): integration and shrinkage problems explained away",
+    "Stage 4 risk: a 'game-changing' acquisition (Zayre), followed by CEO and strategy churn"
+  ],
+  "decline_stage_at_dossier_date": "Mid Stage 2 (Collins: 1982-1988). The acquisitions and leverage are under way, but the stock still tracks Wal-Mart and results look strong. The Zayre deal and the outside successor are still ahead.",
+  "greatness_label": 0,
+  "later_history": "Spring 1986 merchandise problems forced markdowns, and high shrinkage hurt results in 1987 (profit $34.2M). In October 1988 Ames acquired the Zayre discount division (392 stores, about $778M, led by CEO Peter Hollis), making it the third-largest U.S. discounter. Losses of about $228M followed in FY1989. Chapter 11 was filed on 25 April 1990; Hollis resigned, 221 stores were closed and about 18,000 laid off. Ames emerged in December 1992 with 309 stores (peak 678). Hills Stores was acquired for about $330M in 1998-99, adding 155 stores. A second Chapter 11 came in 2001, and the remaining 327 stores closed in 2002 (liquidation). Per Collins, cumulative stock returns fell 98% from 1986 to 1992.",
+  "notes": "Track B decline test. The user brief named 'Wertheimer' for the 1988 acquisition; no source supports that name, and the CEO who led the Zayre deal was Peter B. Hollis. The dossier is dated early 1986 rather than 1985, so that the full G.C. Murphy year is included. FY1985 earnings were not verified and are left out. The date of the outsider succession is not verified. transition_year here is the year the decline became visible to outsiders (the Track B turning point). gtg_transition_year is Collins's Good to Great transition year where one exists."
+}

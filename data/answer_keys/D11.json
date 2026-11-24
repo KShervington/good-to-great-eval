@@ -1,0 +1,29 @@
+{
+  "case_id": "D11",
+  "track": "D",
+  "group": "synthetic_good",
+  "real_identity": null,
+  "aliases": [],
+  "subject_kind": "team",
+  "as_of_year": null,
+  "transition_year": null,
+  "expected_gate_fail": null,
+  "planted": {
+    "brutal_fact": "HFTP's advantage largely disappears outside the window it is measured on. At 30 days, enrolled patients are readmitted far less (15.9% vs 21.8%), but at 90 days the rates are nearly equal (32.7% vs 33.9%). The protocol is built to end at day 30 (the 'graduation' call), the same window the federal penalty and the team's headline metric use. So the program mostly delays readmissions rather than preventing them, and even the 30-day gap is flattered by selection (the not-enrolled group includes patients who declined, could not be reached by phone, or went to nursing facilities). The 90-day figures sit in an accreditation-prep checklist between fridge logs and label replacements; the memo never connects them to the program's results.",
+    "brutal_fact_key_points": ["90-day readmissions are nearly equal (32.7% vs 33.9%) despite the 30-day gap", "the protocol ends at day 30, the measured window, so benefits are delayed rather than prevented", "the comparison group is not like-for-like (selection: decliners, unreachable, nursing-facility discharges)"],
+    "distraction": "Leading the Hospital at Home launch: requested by the CMO, backed by a published study (19% lower cost), welcomed by the board's quality committee, and attractive to the manager (6 more FTE and a director title). It is a different service (acute inpatient care at home, run with a vendor platform) and would pull the team away from fixing the 90-day problem in its core program.",
+    "distraction_key_points": ["decline (or do not lead) the Hospital at Home launch", "(secondary) do not chase enrollment volume (75%) before fixing durability of the effect"],
+    "missing_metric": "The financial value of the program: cost per readmission for this service line, and the hospital's net savings or penalty impact attributable to HFTP. Finance has not assigned a cost per readmission. Computing 'readmissions avoided' (for example (21.8% - 15.9%) x 1,146, about 68) as if the non-enrolled group were a valid control, then dividing the $1.46M budget by it (about $21K each) or multiplying by an assumed cost per readmission to produce an ROI, counts as making it up.",
+    "missing_metric_key_points": ["cost per readmission / net financial return of HFTP is missing", "must not compute readmissions avoided x assumed cost, or budget / readmissions avoided, without [ASSUMPTION]"]
+  },
+  "reference_hedgehog": "Be the best at keeping heart-failure patients out of the hospital after discharge across the whole 90-day risk window, through nurse-pharmacist-CHW follow-up at home. Economic denominator: hospital-free days (or 90-day readmissions avoided) per enrolled patient or per navigator. Passion: nurses and pharmacists who care about patients staying home.",
+  "hedgehog_key_points": ["heart-failure transitions after discharge (not hospital-at-home)", "durable outcomes over 90 days, not just the 30-day measure", "per-patient or per-navigator denominator such as hospital-free days"],
+  "reference_stop_doing": "Do not take on Hospital at Home. Stop ending the protocol at day 30 because that is what is measured; stop using the 30-day rate and satisfaction as proof of success. Stop comparing enrolled patients with a non-comparable group. Hold the enrollment push until the effect lasts.",
+  "stop_doing_key_points": ["decline leading Hospital at Home", "stop designing to the 30-day measurement window", "stop relying on 30-day rates, stories and satisfaction as proof of value"],
+  "leader_type": "Dedicated, competent manager (Level 3) who argues from patient stories and the favorable metric; she is drawn to the bigger role on offer and has not confronted the 90-day data her own pharmacist pulled. Not Level 5: ambition shows up as expanding the department.",
+  "reference_brutal_facts": ["the 30-day benefit fades almost completely by 90 days", "results are measured against a non-comparable group", "the program cannot yet show its financial value"],
+  "decline_risks_expected": ["denial of risk and peril (ignoring the 90-day data)", "undisciplined pursuit of more (Hospital at Home, enrollment push)"],
+  "greatness_label": 0,
+  "later_history": "Fictional: HFTP took on Hospital at Home and pushed enrollment to 76%. The 90-day data surfaced at the accreditation visit and in a finance review the next year; with no demonstrable savings, the transitions program was cut back to three navigators when the hospital tightened its budget, and the combined department was reorganized under the CMO.",
+  "notes": "Manager's memo with attachments. The brutal fact is in an accreditation-prep checklist among mundane items and must be connected to the protocol design and the headline metric. Distraction has a CMO advocate, published evidence and a promotion attached."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "A13",
+  "track": "A",
+  "group": "great",
+  "real_identity": "Nucor",
+  "aliases": ["Nucor", "Nucor Corporation", "Nuclear Corporation of America", "Vulcraft", "Ken Iverson", "F. Kenneth Iverson"],
+  "as_of_year": 1975,
+  "transition_year": 1975,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "Harness an egalitarian, pay-for-performance culture to the best available steelmaking technology (scrap-based minimills) to make steel at the lowest cost. Economic denominator: profit per ton of finished steel. Passion: a classless, high-trust culture where workers share in the results.",
+    "hedgehog_key_points": ["culture plus technology to be the low-cost steel producer", "profit per ton of finished steel", "egalitarian pay-for-performance culture as the engine, technology as the accelerator"],
+    "stop_doing": "Stay a pure steel and steel-products company (the non-steel conglomerate units were already shed), and refuse the trappings of big steel: no executive hierarchy or perks, no layoffs-first labor model, and no reliance on seeking government protection from imports.",
+    "stop_doing_key_points": ["no diversification outside steel/joists", "no executive perks or extra management layers", "do not rely on import protection"],
+    "leader_type": "Level 5 (Ken Iverson: engineer who ran the joist division, plain-spoken, tiny headquarters, gave credit to the workforce, relentless on cost and performance)",
+    "brutal_facts": ["minimill technology is not proprietary and can be copied, so advantage must come from culture and cost", "integrated rivals and imports set prices in a cyclical commodity market", "the recession and construction cycle hit joist demand and incentive pay"]
+  },
+  "later_history": "1975-1990 cumulative stock returns about 5.16x the general market (per Collins). Entered the Fortune 500 by 1980. Entered flat-rolled sheet with the first thin-slab minimill (Crawfordsville, Indiana, 1989), then more sheet mills in the 1990s. By 1996 described itself as the second-largest U.S. steelmaker. Iverson stepped down as CEO in 1996 and as chairman at the end of 1998 amid a boardroom split; his successor Correnti was pushed out soon after. Paid $98M in a 2000 EPA settlement over emissions. Bethlehem went bankrupt while Nucor became the largest U.S. steel producer and largest scrap recycler in North America. No collapse comparable to How the Mighty Fall cases.",
+  "greatness_label": 1,
+  "notes": "Track A matched pair with A14 (Bethlehem Steel). Stop-doing is reconstructed: Collins does not single out one Nucor exit decision; the key points paraphrase his contrast with Bethlehem (perks/hierarchy, import protection) and Nucor's single-industry focus."
+}

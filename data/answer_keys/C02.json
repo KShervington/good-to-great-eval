@@ -1,0 +1,21 @@
+{
+  "case_id": "C02",
+  "track": "C",
+  "group": "comparison",
+  "real_identity": "United States Surgical Corporation",
+  "aliases": ["United States Surgical", "U.S. Surgical", "US Surgical", "USSC", "Auto Suture", "Leon Hirsch"],
+  "as_of_year": 1977,
+  "transition_year": null,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "None. In Great by Choice, USSC is Stryker's direct comparison. It never held a consistent 20 Mile March. It grew faster than Stryker in more than half the years, but its growth was erratic and it pushed hard in boom periods. A sound answer would set a bounded, repeatable performance march (a floor and a ceiling) around its stapling franchise rather than maximize growth.",
+    "hedgehog_key_points": ["no disciplined, consistent growth march", "should set bounded growth targets (floor and ceiling) instead of maximizing growth", "build around the stapling franchise without overreaching"],
+    "stop_doing": "Stop the push for maximum growth through a high-pressure, commission-only sales culture. Stop relying on one technology and a near-monopoly that a larger health-care company could contest.",
+    "stop_doing_key_points": ["curb high-pressure, growth-at-all-costs selling", "do not overextend in good years", "reduce dependence on a single uncontested product franchise"],
+    "leader_type": "Not a 10X / Level 5 pattern. Founder-entrepreneur (Leon Hirsch) who ran a high-pressure culture. Great by Choice uses the company as the example of failing to 20 Mile March. The leader characterization comes from independent histories, not from Collins's text.",
+    "brutal_facts": ["early history of losses: surgeons bought staplers but did not use them", "revenue depends on one technology and on repeat cartridge sales", "a near-monopoly that a large suture maker could challenge", "high-pressure, commission-only sales culture"]
+  },
+  "later_history": "J&J's Ethicon entered stapling in 1977 and quickly took share in external wound closure. USSC later replaced its distributors with its own sales force. The SEC alleged it used fraudulent accounting and phantom shipments from 1979. In February 1984 it agreed to cut reported 1979-82 earnings by $26M. Sales were $160M in 1982. The laparoscopy boom took revenue past $1B in 1992, and the stock peaked at $134.50 in January 1992. In 1993 came a quarterly loss, a $130M restructuring charge and a stock price of $22.50. It was acquired by Tyco in 1998 for about $3.2B and stopped being a public company.",
+  "greatness_label": 0,
+  "notes": "Track C direct comparison for C01 (Stryker), same date (early 1977). Fast growth is real. Label 0 because Collins and Hansen class it as a non-10X comparison, and because of its boom-bust record, its 1984 earnings restatement and its disappearance in 1998. A judge could argue that 1977-1992 growth was strong. The Ethicon entry happened during 1977, so it is left out of the dossier."
+}

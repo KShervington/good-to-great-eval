@@ -1,0 +1,54 @@
+{
+  "case_id": "D07",
+  "track": "D",
+  "group": "synthetic_good",
+  "real_identity": null,
+  "aliases": [],
+  "subject_kind": "career",
+  "as_of_year": null,
+  "transition_year": null,
+  "expected_gate_fail": null,
+  "planted": {
+    "brutal_fact": "Her record does not yet show an independent research program, and the tenure dossier is due in about 16 months. Only 2 of her 9 papers since arriving are senior-author, both minor (a regional journal and a methods note), and the other 7 are middle-author work from her former postdoc advisor's consortium (Publications). Her biggest grant is a co-PI award led by the advisor's former student that funds the advisor's network (Funding). Her only independent federal proposal was declined. The third-year review gently asked her to develop 'a distinct research identity' (Teaching and service), and the department guideline asks for 'a coherent, independent program of research' (Questions). Joined together, she is at real risk of being judged an extension of her mentor's lab at tenure. The dossier never says so.",
+    "brutal_fact_key_points": [
+      "only 2 of 9 recent papers are senior-author and both are minor; 7 are middle-author consortium papers",
+      "main funding is co-PI on the advisor-network award; her independent federal proposal was declined",
+      "the third-year review hint plus the guideline's 'independent program' wording point to a tenure-independence risk, with about 16 months left"
+    ],
+    "distraction": "Leading Work Package 3 of the advisor's Network II consortium. It looks attractive: a $4.8M project, a $310k subaward, 'site PI' status, a guaranteed stream of papers, an eminent mentor and an enthusiastic chair (who benefits from indirect costs), and respected colleagues calling a refusal 'career malpractice.' But it deepens dependence on the mentor's program (more middle-author papers, field logistics), and its May start and nine weeks of fieldwork a year compete directly with the July resubmission and with Ama's senior-author paper, the two items that would show independence before the dossier is due. Taking a minor collaborator role, or declining, is defensible. Leading the work package is the stop-doing item. The textbook chapter is a secondary distraction.",
+    "distraction_key_points": [
+      "decline leading Work Package 3 (at most a limited collaborator role)",
+      "(secondary) decline the textbook chapter"
+    ],
+    "missing_metric": "How much external funding she controls as PI, i.e. her institution's (and her own) share of the $612,400 collaborative award. Tenure committees weigh PI-controlled dollars, and only the total is given. Making it up = assuming an even split (for example about $306k) or any specific share of the $612,400, or adding the full $612,400 to her PI total, without an [ASSUMPTION] tag.",
+    "missing_metric_key_points": [
+      "her share of the collaborative award / PI-controlled funding is missing and should be requested",
+      "must not assume a split of the $612,400 (or count it all as hers) without an [ASSUMPTION] tag"
+    ]
+  },
+  "reference_hedgehog": "Become the leading researcher on road-salt impacts on stream ecosystems in her region, built on her own 37-site, four-winter dataset and the state agency relationship. That is where she can be best and clearly independent. Economic denominator: senior-author papers and PI-led external dollars per year from her own lab. Passion: the salt work is clearly what animates her, and it has applied impact.",
+  "hedgehog_key_points": [
+    "road salt / freshwater salinization as her own program",
+    "her 37-site dataset and state agency link as the unique asset",
+    "denominator of senior-author output or PI-controlled funding"
+  ],
+  "reference_stop_doing": "Do not lead WP3 (at most a minimal collaborator role); decline the textbook chapter; stop taking new middle-author consortium work before the dossier; step back from at least one service role (seminar chair or search committee) to protect writing time; make the early-career proposal resubmission and Ama's paper the top priorities.",
+  "stop_doing_key_points": [
+    "decline leading the consortium work package",
+    "decline the textbook chapter",
+    "reduce service and middle-author commitments"
+  ],
+  "reference_brutal_facts": [
+    "weak independent publication record with 16 months to the dossier",
+    "no major PI-led federal grant; the main award belongs to the mentor's network",
+    "the third-year review already flagged research identity"
+  ],
+  "leader_type": "Early-career PI: humble, loyal, collaborative, a strong teacher (Level 2/3). She finds it hard to say no to her mentor, and has not yet shown the Level 5 resolve to put her own program first.",
+  "decline_risks_expected": [
+    "Stage 2 - undisciplined pursuit of more: consortium leadership, textbook chapter, service load",
+    "Stage 3 - denial of risk and peril: reading prestigious middle-author papers as tenure strength"
+  ],
+  "greatness_label": 1,
+  "later_history": null,
+  "notes": "Synthetic career case (academia, a different field from D06). Email-to-mentor form. Brutal fact requires joining the publication breakdown, the funding roles, the third-year letter wording and the guideline quote, which sit in four different sections."
+}

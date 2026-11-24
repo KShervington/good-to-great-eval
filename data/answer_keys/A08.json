@@ -1,0 +1,21 @@
+{
+  "case_id": "A08",
+  "track": "A",
+  "group": "comparison",
+  "real_identity": "Great Western Financial Corporation",
+  "aliases": ["Great Western", "Great Western Financial", "Great Western Savings", "Great Western Bank", "James Montgomery"],
+  "as_of_year": 1984,
+  "transition_year": null,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "None. Collins's comparison company faced the same deregulated mortgage world as Fannie Mae but did not pick one field to be best at. It spread into a collection of financial and real-estate businesses (insurance, consumer finance, brokerage, real estate) on top of its thrift.",
+    "hedgehog_key_points": ["no coherent hedgehog", "used deregulation to diversify into a grab-bag of financial/real-estate businesses", "never defined what it could be best in the world at"],
+    "stop_doing": "Stop using new deregulated powers to diversify into unrelated financial and real-estate lines (insurance, brokerage, real estate development). Concentrate on the mortgage/savings franchise it could lead and on disciplined risk.",
+    "stop_doing_key_points": ["stop diversifying into insurance/brokerage/real estate", "stop growth-by-acquisition without a unifying concept"],
+    "leader_type": "Not Level 5. Collins does not single out a Level 5 leader. Under the CEO from 1979, an accountant by training, the company pursued diversification and growth by acquisition rather than a focused concept.",
+    "brutal_facts": ["the rate squeeze on thrifts that fund long-term mortgages with short-term deposits", "deregulation tempting peers into risky expansion", "a remaining book of fixed-rate mortgages"]
+  },
+  "later_history": "Stayed a large thrift through the 1980s. It moved into insurance (the John Alden Life subsidiary, sold in 1987), commercial real estate (ended in 1987) and consumer finance (City Finance, Aristar). It bought failed thrifts from the RTC in 1990-93. The California recession pushed problem loans to about 5.5% of assets in 1993, and a $115M restructuring with 800 job cuts followed in 1996. After a hostile bid by H.F. Ahmanson, it was acquired by Washington Mutual for about $6.8B and ceased to exist on 1 July 1997.",
+  "greatness_label": 0,
+  "notes": "Direct comparison company for A07. Collins's characterization of Great Western (diversification, no hedgehog) is paraphrased from memory and not checked against the book text. When the insurance subsidiary was acquired could not be confirmed, so the dossier mentions only the 1983 brokerage and real-estate services purchase."
+}

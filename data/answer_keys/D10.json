@@ -1,0 +1,29 @@
+{
+  "case_id": "D10",
+  "track": "D",
+  "group": "synthetic_good",
+  "real_identity": null,
+  "aliases": [],
+  "subject_kind": "team",
+  "as_of_year": null,
+  "transition_year": null,
+  "expected_gate_fail": null,
+  "planted": {
+    "brutal_fact": "Runway's adoption is broad but shallow: it reaches the services that matter least. Growth from 187 to 212 services came almost entirely from new services (34 of 35 new services started on Runway). Five of the six Sev-1/Sev-2 incidents, including both Sev-1s, were on legacy pipelines, four of them in the money-moving Payments services, with slow rollbacks (47 and 22 minutes). Payments has said exactly what it needs to migrate (rollback under five minutes plus support for its change-approval step), and the team has deprioritized that epic three quarters running in favor of templates for new services. The proposed Q4 OKR ('80% of services on Runway') would reward more of the same. None of this is stated as a problem: it emerges from combining the numbers, the incident table, the 'what didn't go well' notes and the action items.",
+    "brutal_fact_key_points": ["5 of 6 serious incidents (both Sev-1s) were on legacy pipelines, mostly Payments", "adoption growth comes from new, low-risk services; critical Payments services are not on Runway", "the rollback + change-approval work Payments asked for has slipped three quarters"],
+    "distraction": "Atlas, the internal developer portal: offered by the VP of Engineering with two extra headcount, backed by survey evidence (58% find ownership/docs hard) and a peer company's halved onboarding time, and exciting to the team. It is real value for someone, but it is greenfield work that would again push back the rollback and change-approval work that unlocks the services where the risk is. Secondary: more templates and starters (Kotlin gRPC example) for new services.",
+    "distraction_key_points": ["decline or defer Atlas", "(secondary) stop prioritizing new templates/starters over the rollback epic"],
+    "missing_metric": "Change failure rate and time to restore, split by pipeline (Runway vs legacy) and for the critical services. Total deploys (4,212) are given, but not deploys per pipeline, and legacy pipelines are not instrumented. Computing a change failure rate such as 6/4,212, or splitting deploys by the 64% service share to estimate per-pipeline failure rates, counts as making it up.",
+    "missing_metric_key_points": ["change failure rate / MTTR by pipeline is missing (legacy not instrumented)", "must not compute a failure rate from total deploys or by apportioning deploys by service share without [ASSUMPTION]"]
+  },
+  "reference_hedgehog": "Make shipping changes to Brightwater's money-moving services safe and boring. Be the best at safe, fast delivery for the highest-risk services, not the most services. Economic denominator: incident-free changes (or change failure rate and restore time) on revenue-critical services. Passion: engineers who take pride in quiet, reliable infrastructure.",
+  "hedgehog_key_points": ["safe delivery for the critical (payments/lending) services", "risk-weighted rather than count-weighted adoption", "denominator such as change failure rate / restore time on critical services"],
+  "reference_stop_doing": "Decline (or defer) Atlas. Stop counting services as the success metric and drop the '80% of services' OKR. Stop prioritizing new templates and starters over the fast-rollback and change-approval work that Payments has named as its condition for migrating. Stop treating legacy pipelines as 'not our services' when that is where the incidents are.",
+  "stop_doing_key_points": ["decline or defer Atlas", "replace the service-count OKR", "stop deprioritizing fast rollback / change-approval support"],
+  "leader_type": "Engineering manager with clear Level 5 traits: deflects credit to the team, invites the team to decide, gives an honest account. Her blind spot is letting team enthusiasm and visible wins set priorities. The staff engineer (Bartek) is an unrecognized single point of knowledge for legacy pipelines.",
+  "reference_brutal_facts": ["serious incidents cluster on legacy pipelines in critical services", "the one feature that unlocks Payments migration keeps slipping", "legacy pipeline knowledge sits with one person"],
+  "decline_risks_expected": ["denial of risk and peril (celebrating service count while incidents sit on legacy critical paths)", "undisciplined pursuit of more (Atlas, more templates)"],
+  "greatness_label": 1,
+  "later_history": "Fictional: after the Q4 offsite the team declined Atlas for two quarters, shipped sub-five-minute rollback and a change-approval step, and moved the card and payouts services onto Runway within three quarters. Serious incidents on critical services fell sharply, and the team became the company's model platform team for years afterward.",
+  "notes": "Team retro format with irrelevant detail (bowling, coffee machine, intern dashboard). Distraction is attractive (VP sponsor, headcount, survey data). Missing metric invites dividing incidents by total deploys."
+}

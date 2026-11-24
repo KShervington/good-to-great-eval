@@ -1,0 +1,21 @@
+{
+  "case_id": "A25",
+  "track": "A",
+  "group": "unsustained",
+  "real_identity": "Harris Corporation (then Harris-Intertype)",
+  "aliases": ["Harris", "Harris Corporation", "Harris-Intertype", "Harris-Intertype Corporation", "Radiation Inc.", "Richard Tullis", "George Dively", "Joseph Boyd", "L3Harris"],
+  "as_of_year": 1973,
+  "transition_year": 1973,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "Per Collins (as reported in summaries of the flywheel chapter), George Dively and his successor Richard Tullis found something like a Hedgehog Concept: to be the best in the world at applying technology to printing and communications. Patient build-up along that line produced breakthrough results by the mid-1970s.",
+    "hedgehog_key_points": ["applying (electronic) technology to printing and communications", "keep printing and electronics joined around that idea", "consistent build-up, flywheel style"],
+    "stop_doing": "Do not let a new CEO stop the flywheel. Collins's lesson is about what the successor should have refused to do: move headquarters for personal reasons, sell the printing business, and lurch into office automation against IBM, DEC and Wang by spending about a third of the company's net worth on Lanier, a low-end word-processing company. For the Year 0 leadership, the stop-doing list is to stop scattered acquisitions outside the printing-and-communications concept, and to make sure the successor will keep the concept.",
+    "stop_doing_key_points": ["stay inside the printing-and-communications technology concept", "no big leap into office automation against IBM/DEC/Wang (Lanier)", "a succession that keeps the concept (avoid a new CEO resetting direction)"],
+    "leader_type": "The rise was led by Dively and Tullis, and Collins does not class them as Level 5. The failure came from the successor, Joseph Boyd (CEO from 1978), whose redirection Collins uses as an example of the doom loop: a new leader halting a turning flywheel and taking the company in a new direction.",
+    "brutal_facts": ["earnings growth has been weak since the late 1960s", "integrating many acquisitions is weighing on profits", "the printing machines are still largely mechanical", "heavy reliance on government contracts"]
+  },
+  "later_history": "Per secondary summaries of Collins, Harris beat the market by more than 5x from 1973 to 1978. Investors began re-rating the stock around 1976, and 1977 sales exceeded $646M. Joseph Boyd took over in 1978 and moved headquarters from Cleveland to Melbourne, Florida. In 1983 he sold the printing business and bought Lanier Business Products for about $276M in stock, aiming at office automation; years of layoffs and restructuring followed. Per Collins (secondary), Harris fell about 39% behind the market from 1978 to 1983, and more than 70% behind by 1988. Harris later rebuilt itself as a defense and communications electronics company and merged with L3 Technologies in 2019 to form L3Harris.",
+  "greatness_label": 0,
+  "notes": "Unsustained comparison. Dossier dated early 1973, when Collins's measured outperformance began. Tullis had been CEO since 1968 and chairman since 1972, so the dossier date is not the start of a CEO's term. The 1973-1978 window and the Collins figures come from a slide-deck summary of chapter 8, not the book text. Collins appears to place the build-up earlier (from the 1960s), so a dossier dated around 1967 would also be defensible."
+}

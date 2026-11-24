@@ -1,0 +1,21 @@
+{
+  "case_id": "A21",
+  "track": "A",
+  "group": "great",
+  "real_identity": "Wells Fargo",
+  "aliases": ["Wells Fargo", "Wells Fargo & Company", "Wells Fargo Bank", "Carl Reichardt", "Dick Cooley", "Richard Cooley", "Paul Hazen"],
+  "as_of_year": 1983,
+  "transition_year": 1983,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "Run the bank like a business, with relentless cost discipline, focused on the western United States where it could be the best, rather than trying to be a global bank. Economic denominator: profit per employee.",
+    "hedgehog_key_points": ["run the bank like a business / cost discipline", "focus on the western U.S. (not a global bank)", "profit per employee"],
+    "stop_doing": "Exit most international banking and close the European offices, and cut costs hard: about 100 branches and 3,000 jobs eliminated, executive perks and frills cut, executive pay held down, starting at the top.",
+    "stop_doing_key_points": ["exit international banking / close overseas offices", "cut branches, staff and executive perks", "stop trying to be everything a big bank does"],
+    "leader_type": "Level 5 (Carl Reichardt: plain-spoken, frugal, low-profile; built on the strong team that his predecessor Dick Cooley had assembled)",
+    "brutal_facts": ["deregulation will end cheap deposits and turn banking into a more commodity-like business", "costs are too high for a deregulated market", "it cannot beat the giant money-center banks globally", "overseas ventures have repeatedly lost money"]
+  },
+  "later_history": "1983-1998 cumulative stock returns about 3.99x the general market (per Collins). Bought Crocker National (1986, about $1.1B) and Barclays Bank of California (1988); won a hostile bid for First Interstate (1996, $11.3B) with a troubled integration. Acquired by Norwest in 1998, which kept the Wells Fargo name. Bought Wachovia in 2008. In 2016 the fake-accounts scandal broke: sales pressure had led employees to open millions of unauthorized accounts; the bank paid $185M in initial fines and CEO John Stumpf resigned. The Federal Reserve capped its asset growth in 2018; it paid $3B in 2020 to settle criminal and civil probes. The asset cap was lifted in 2025.",
+  "greatness_label": 1,
+  "notes": "Track A matched pair with A22 (Bank of America). Wells Fargo is also a Track B decline candidate at a ~2011 date; keep both in the same dev/held-out split."
+}

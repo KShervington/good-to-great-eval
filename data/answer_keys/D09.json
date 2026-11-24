@@ -1,0 +1,29 @@
+{
+  "case_id": "D09",
+  "track": "D",
+  "group": "synthetic_good",
+  "real_identity": null,
+  "aliases": [],
+  "subject_kind": "nonprofit",
+  "as_of_year": null,
+  "transition_year": null,
+  "expected_gate_fail": null,
+  "planted": {
+    "brutal_fact": "Freshway supplies about 44% of all pounds (221,400 + 355,900 of 1,312,000). At the six Eastside stores, where Freshway has piloted a markdown app since spring that sells short-dated food to shoppers, pounds per pickup fell about 36% (412 to 263), while the other eight Freshway stores held steady (398 to 391). Freshway's regional VP has said the app goes chainwide next year. The food Larder Line rescues is the food the app is designed to sell, so its largest supply source is likely to shrink sharply. The treasurer attributes the dip to road construction, which is a real but weaker explanation (the drop starts with the pilot, and the non-Eastside stores, unaffected by the app, did not fall). None of this is stated as a risk: it emerges from combining the ED's breakfast anecdote, the ops manager's aside and the treasurer's table.",
+    "brutal_fact_key_points": ["Freshway is ~44% of pounds (single-donor concentration)", "Eastside pilot stores' pounds per pickup fell ~36% while other Freshway stores were flat", "the markdown app goes chainwide next year, threatening the core supply"],
+    "distraction": "The Larder Kitchen café / catering social enterprise: championed by a credible board chair (successful restaurateur with job-training experience), with a rent-free kitchen, a $150K city grant invitation and a peer café that broke even in year 3. It is a different business (food service and workforce development) and would absorb leadership attention just as the core supply is threatened. Secondary: the scattered add-on programs (backpacks, composting, gleaning) that dilute van and volunteer capacity.",
+    "distraction_key_points": ["do not apply for / launch the Larder Kitchen café", "(secondary) prune the add-on programs (backpack pilot, composting) that pull vans and drivers"],
+    "missing_metric": "How much rescued food actually reaches households: pounds distributed and eaten (net of agency discard), and unduplicated households reached. Larder Line counts pounds only at pickup; the pantry composts unknown amounts; households reached was left blank. Converting pounds to meals with a standard factor (for example 1.2 lb per meal), estimating households from pantry anecdotes, or computing a cost per meal or per household counts as making it up. The reported $0.47 per pound is a dossier figure and may be cited.",
+    "missing_metric_key_points": ["pounds actually consumed / households reached / agency discard rate is missing", "must not convert pounds to meals or compute cost per meal without [ASSUMPTION]"]
+  },
+  "reference_hedgehog": "Be Corbridge's most reliable cold-chain link that moves perishable surplus (dairy, meat, produce) from many donors to the agencies that put it in households' hands. Economic denominator: pounds delivered and used per van-hour (or per dollar), not pounds picked up. Passion: logistics-minded volunteers and a founder from grocery distribution.",
+  "hedgehog_key_points": ["perishable / cold-chain food rescue (the unique capability)", "diversified donor base rather than one chain", "denominator based on food actually used, per van-hour or per dollar"],
+  "reference_stop_doing": "Do not launch the café. Stop saying yes to every add-on (backpack pilot, composting route). Stop treating pounds picked up as the success measure. Hold the third-van purchase until the supply outlook after Freshway's app rollout is clear, and redirect effort to diversifying donors (wholesalers, distributors, farms).",
+  "stop_doing_key_points": ["decline the Larder Kitchen café", "cut the add-on programs that pull vans and drivers", "defer the third van until supply risk is understood"],
+  "leader_type": "Charismatic founder-ED with relevant expertise but a 'yes to everything' habit and a pounds-up narrative he doesn't question (Level 3/4: capable and driven, weak on disciplined focus and confronting facts).",
+  "reference_brutal_facts": ["44% of supply depends on one chain whose markdown app is cutting rescuable surplus", "nobody knows how much rescued food is discarded downstream", "growth in add-on programs has outrun capacity (van #2, Saturday no-shows)"],
+  "decline_risks_expected": ["denial of risk and peril (attributing the Eastside drop to road construction)", "undisciplined pursuit of more (café, add-on programs)"],
+  "greatness_label": 0,
+  "later_history": "Fictional: Larder Line bought the third van and won the café grant. Freshway's chainwide app rollout cut its pounds by about a third over the next year. The café consumed most of the ED's time and closed in its second year; Larder Line shrank to one van and merged into a regional food bank.",
+  "notes": "Interview-notes format. Brutal fact requires combining a gala anecdote, an ops aside and a table, against a plausible competing explanation. Distraction has a credible restaurateur advocate, real assets and peer evidence. Missing metric invites the standard pounds-to-meals conversion."
+}

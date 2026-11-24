@@ -1,0 +1,30 @@
+{
+  "case_id": "D12",
+  "track": "D",
+  "group": "synthetic_gate0_fail",
+  "real_identity": null,
+  "aliases": [],
+  "subject_kind": "one_off_artifact",
+  "as_of_year": null,
+  "transition_year": null,
+  "expected_gate_fail": 0,
+  "gate0_reason": "Bellmoor 250 is a one-off artifact: a single ten-day event. Its steward (the commission) dissolves by charter about 90 days after the final audit, all staff are on fixed-term contracts, and its horizon is about 14 months, so there is no multi-year horizon for a flywheel to compound and no ongoing body to rearrange. It has people, budget and metrics, which is what makes it tempting, but Good to Great's machinery (Level 5 succession, a hedgehog chosen for decades, a flywheel, stop-doing as a durable discipline) has nothing to act on. The right answer is FAIL at Gate 0 with an explanation, plus a suggested reframe: (a) the ongoing endeavor behind it, for example the town's civic-events and heritage capacity under the council (the 'Bellmoor Days' idea, the library-hosted oral-history archive), or the ED's event-production career or firm; or (b) a better-suited method for the event itself: project planning with a critical path, a pre-mortem, a risk register and a cash-flow plan. Passing Gate 0 and producing a hedgehog and flywheel for the festival itself is the error this case tests.",
+  "planted": {
+    "brutal_fact": "The lead sponsor is a cash-flow single point of failure. Calder Mills pledged $270,000 of the $431,000 in sponsorship (about 63%), and $160,000 of it is due in April, after the March tall-ship deposit and just before the town's bridge loan stops covering deposits in May. Calder's parent is consolidating production elsewhere with Bellmoor operations 'under review', and the manager who secured the pledge has retired with no successor named. The pieces sit in a sponsorship report, a volunteer-appreciation item and a press-clippings item, and no one connects them.",
+    "brutal_fact_key_points": ["Calder Mills is ~63% of sponsorship ($270K of $431K), $160K due in April", "parent consolidating, Bellmoor operations under review; sponsor contact retired, no successor", "cash-flow timing: deposits due March, loan cover ends May"],
+    "distraction": "The Bellmoor 250 AR app ($96K, unbudgeted), backed by the youth subcommittee, a 72%-would-use student survey and a $20K tech sponsor offer, framed as the most visible legacy piece.",
+    "distraction_key_points": ["do not fund the unbudgeted AR app"],
+    "missing_metric": "A grounded attendance forecast. The 180,000-visit target came from a workshop; there is no baseline (no records from the 200th, an unmethodical 'over 100,000' from a neighboring city). Deriving attendance from population (31,400) times a multiplier, or computing ticket revenue, per-visitor spending or 'economic impact' from the 180,000 target, counts as making it up.",
+    "missing_metric_key_points": ["no evidence-based attendance forecast", "must not derive attendance or economic impact from population or the workshop target without [ASSUMPTION]"]
+  },
+  "reference_hedgehog": "Not applicable: the subject fails Gate 0, so no hedgehog should be produced for the festival itself. If the user reframes to the town's ongoing heritage-and-events capacity, a hedgehog could be built for that endeavor in a new run.",
+  "hedgehog_key_points": ["no hedgehog for a one-off event; Gate 0 FAIL", "reframe to the ongoing endeavor behind it or use project-planning methods"],
+  "reference_stop_doing": "Not applicable as a Good to Great stop-doing list, because the run should end at Gate 0. If the analysis offers practical project advice after failing Gate 0, the sensible items are: secure or replace the Calder installment before committing the March deposits, and do not fund the unbudgeted app.",
+  "stop_doing_key_points": ["end the run at Gate 0 rather than build a stop-doing list", "(if project advice given) de-risk the Calder installment; decline the app"],
+  "leader_type": "Not assessed (Gate 0 fail). Descriptively: a chair enthusiastic about the framework and a contracted producer with a fixed 26-month engagement; neither is a long-term steward.",
+  "reference_brutal_facts": ["the subject is a one-off event with a dissolving steward, so the framework does not fit", "(project-level) lead-sponsor dependence with an April installment at risk"],
+  "decline_risks_expected": [],
+  "greatness_label": null,
+  "later_history": "Not applicable (one-off event; greatness over 10+ years is undefined for it).",
+  "notes": "Tempting Gate 0 case: the requester explicitly asks for a full Good to Great treatment, and the dossier has people, budget, subcommittees, metrics and a 'legacy' theme. Dissolution clause, fixed-term staff and the ten-day format are stated plainly but not labeled as a fit problem. Plants are included for consistency but should not be reached if the skill stops at Gate 0."
+}

@@ -1,0 +1,54 @@
+{
+  "case_id": "D04",
+  "track": "D",
+  "group": "synthetic_good",
+  "real_identity": null,
+  "aliases": [],
+  "subject_kind": "solo_founder_product",
+  "as_of_year": null,
+  "transition_year": null,
+  "expected_gate_fail": null,
+  "planted": {
+    "brutal_fact": "The main reason individuals buy Linewright is about to become free. Auto-align is cited by 69% of individual buyers (Who buys and why). The free tool everyone learns on added auto-alignment in nightly builds in April and will ship it in a stable release 'this winter' (Competition). Renewals kept falling after Q1 (58% to 55% to 52%), below the founder's own modeled 58% floor for the price rise, and Q3 new individual licenses fell from 209 to 161 (Money). The founder attributes the renewal decline to the January price rise and the license drop to summer. Joined together, the individual-license business, which is about 70% of revenue (new licenses plus update renewals: $147,600 of $211,400), is likely being commoditized. The dossier never says so.",
+    "brutal_fact_key_points": [
+      "69% of individual buyers cite auto-align, the feature the free open-source tool is adding (nightly since April, stable 'this winter')",
+      "renewals kept falling past the founder's modeled 58% after the price rise, timed with the free nightly build",
+      "Q3 new individual licenses down from 209 to 161; the individual side is most of revenue"
+    ],
+    "distraction": "'Linewright Lite' for creators ($8/month web app). It looks attractive: 2,310 waitlist signups in nine days, a credible partner (a former colleague with a 140-creator agency and a 60,000-reader newsletter) offering distribution, and a '50x bigger' market claim. But it moves the solo founder into consumer captioning, where auto-generated captions are already free and the commodity pressure is worst. It would take six months of the only developer's time while the core individual business is under threat, and a waitlist is not paying demand.",
+    "distraction_key_points": [
+      "do not build the creator product (Linewright Lite)",
+      "(secondary) skip the Linux port"
+    ],
+    "missing_metric": "Renewal rate split by segment (studio subscriptions vs. individual update plans). Only a blended rate is given (52% in Q3), yet the strategic choice between the individual and studio sides depends on it. Making it up = estimating a studio renewal rate from the revenue mix, from the 'they renewed' anecdote, or by assuming studios renew near 90%, or stating any segment-level renewal figure without an [ASSUMPTION] tag.",
+    "missing_metric_key_points": [
+      "renewal or retention by segment (studio vs individual) is missing and should be requested",
+      "must not infer a studio-only renewal rate from the blended 52% or the revenue mix without an [ASSUMPTION] tag"
+    ]
+  },
+  "reference_hedgehog": "Be the best tool for spec-compliant professional subtitle delivery for small and mid-sized subtitling studios and their freelancers: the spec checker and shared style profiles, not auto-alignment, are where Linewright can be best. Economic denominator: profit per studio seat (or recurring revenue per studio). Passion: a founder who was a professional subtitler and cares about craft quality.",
+  "hedgehog_key_points": [
+    "professional subtitling studios and their freelancers",
+    "QC/spec compliance and shared style profiles as the defensible core (auto-align is being commoditized)",
+    "per-studio-seat or recurring-revenue denominator"
+  ],
+  "reference_stop_doing": "Do not build the creator product; drop the Linux port; stop treating auto-align as the headline feature; stop reading the renewal decline as a pricing effect without checking for the free competitor; cut the 140-item backlog to what studios need.",
+  "stop_doing_key_points": [
+    "decline Linewright Lite / the creator market",
+    "drop the Linux port",
+    "stop leading with auto-align"
+  ],
+  "reference_brutal_facts": [
+    "the free open-source tool is about to ship the top purchase reason",
+    "renewals and new individual licenses are both falling",
+    "a solo founder at about 50 hours a week with a 140-item backlog has little spare capacity"
+  ],
+  "leader_type": "Solo craftsman-founder: deep domain expertise, humble, hard-working (Level 2/3 as an individual contributor), with a tendency to explain away bad numbers. Level 5 resolve not yet shown.",
+  "decline_risks_expected": [
+    "Stage 2 - undisciplined pursuit of more: the creator product and Linux port",
+    "Stage 3 - denial of risk and peril: attributing the renewal and license declines to price and seasonality"
+  ],
+  "greatness_label": 1,
+  "later_history": null,
+  "notes": "Synthetic. Founder's notes-to-self. Brutal fact requires joining the purchase-reasons survey, the competitor's auto-align release, and the renewal and Q3 license trends. Missing metric: renewal by segment."
+}

@@ -1,0 +1,56 @@
+{
+  "case_id": "B02",
+  "track": "B",
+  "group": "fallen",
+  "already_great": true,
+  "real_identity": "Fannie Mae (Federal National Mortgage Association)",
+  "aliases": [
+    "Fannie Mae",
+    "Federal National Mortgage Association",
+    "FNMA",
+    "Franklin Raines",
+    "Freddie Mac",
+    "OFHEO",
+    "GSE"
+  ],
+  "as_of_year": 2003,
+  "transition_year": 2004,
+  "gtg_transition_year": 1984,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "Good to Great: be the best capital-markets player in anything that pertains to mortgages, driven by a passion for democratizing home ownership, with profit per mortgage risk level as the economic denominator. By 2003 the denominator had in practice become EPS growth, pursued with high leverage.",
+    "hedgehog_key_points": [
+      "mortgage capital-markets player, best at managing mortgage risk",
+      "passion for home ownership",
+      "profit per mortgage risk level, not EPS growth or portfolio size"
+    ],
+    "stop_doing": "Stop the public goal to double EPS in five years and stop tying executive pay and company-wide options to EPS targets. Stop growing the retained portfolio on capital barely above the legal minimum. Stop presenting 'operating' earnings to smooth away derivative and hedging volatility. Stop treating missionary zeal and political strength as proof that decisions are sound. Rebuild capital, risk control and accounting conservatism, even at the cost of slower growth.",
+    "stop_doing_key_points": [
+      "drop the EPS-doubling goal and EPS-linked compensation",
+      "stop portfolio growth on thin capital; hold more capital",
+      "stop earnings management; conservative accounting and risk control"
+    ],
+    "leader_type": "Collins's GTG Level 5 example was David Maxwell (1981-1991). He does not rate Franklin Raines, but HTMF Appendix 3 describes a 2000s culture with a reputation for arrogance, missionary righteousness and an EPS-doubling growth goal. The regulator's 2006 report later called the culture arrogant and unethical. Not Level 5 on the evidence.",
+    "brutal_facts": [
+      "core capital is only about 3% of assets and barely above the legal minimum",
+      "the duration gap blew out to -14 months in 2002, triggering the regulator's first supervisory action",
+      "the EPS-doubling goal implies about 15% growth in a slower-growing market, with pay tied to hitting it",
+      "the business depends on an implicit government guarantee that critics want removed"
+    ]
+  },
+  "decline_mechanism": "Collins left Fannie Mae out of HTMF's formal analysis because it had not yet fallen in 2005, but Appendix 3 finds evidence of Stages 1-3 in the 2000s. Stage 1: arrogance and missionary righteousness about expanding home ownership. Stage 2: a public goal (set in 1999 and restated in annual reports) to double EPS in five years, about 15% a year in a market growing more slowly, with executive bonuses and options tied to it. The portfolio was funded on thin capital. Stage 3: accounting used to hit targets and smooth earnings, and interest-rate risk explained away. The regulator's 2004 special examination found misapplied GAAP. Raines left in December 2004. The restatement was about $6.3B, with a $400M penalty. Weakened, the company then bought more subprime and Alt-A loans to stay relevant. Collins notes that highly leveraged financial firms can drop from Stage 3 almost straight to Stage 5. Losses in 2007-2008 led to government conservatorship in September 2008.",
+  "decline_risks_expected": [
+    "Stage 1 (hubris): arrogance and missionary righteousness ('we're the good guys'), political invulnerability",
+    "Stage 2 (undisciplined pursuit of more): public goal to double EPS in five years, with EPS-linked bonuses and company-wide options",
+    "Stage 2: retained-portfolio growth far faster than the mortgage market",
+    "Stage 2: personal interests (EPS-linked pay) above institutional interests",
+    "Stage 3 (denial of risk): leverage, with capital about 3% of assets and barely above the minimum",
+    "Stage 3: interest-rate mismatch (duration gap -14 months) treated as manageable",
+    "Stage 3: 'operating earnings' and hedge accounting used to smooth results",
+    "Stage 3 to 5 risk: leverage means losses can skip Stage 4 (Collins's financial-firm lesson)"
+  ],
+  "decline_stage_at_dossier_date": "Stage 2 moving into Stage 3. The EPS-doubling goal and EPS-linked pay are in force, capital is thin, and the regulator has just taken its first supervisory action. Results still look excellent: 16 straight years of double-digit operating-earnings growth.",
+  "greatness_label": 0,
+  "later_history": "Freddie Mac's accounting scandal broke in 2003. The OFHEO special examination (September 2004) found GAAP violations (derivatives and amortization). Raines left on 21 December 2004. The restatement was about $6.3B. OFHEO's May 2006 report found income and capital overstated by about $10.6B over 1998-2004, and that Raines was paid over $90M in 1998-2003, more than $52M of it tied to EPS targets. Civil penalty of $400M. In December 2006, 101 charges were brought against Raines, Howard and Spencer, settled in 2008. Fannie bought more subprime and Alt-A loans in 2005-2007. Net loss of $2.1B in 2007, then $2.2B and $2.3B in the first two quarters of 2008. Conservatorship began on 6 September 2008, with Treasury taking warrants for 79.9%. Net loss of $58.7B for 2008. The stock fell from about $57 to under $1. Delisted from the NYSE in 2010. Cumulative Treasury draws were about $119.8B.",
+  "notes": "Track B decline test. Also a Track A great company (1984). The dossier is dated January 2003, after 2002 results, rather than the suggested 2002, so that the full-year figures and the 2002 duration-gap episode are included. The EPS goal was set in 1999 and restated in the 2002 10-K. transition_year here is the year the decline became visible to outsiders (the Track B turning point). gtg_transition_year is Collins's Good to Great transition year where one exists."
+}

@@ -3,19 +3,35 @@
   "track": "A",
   "group": "great",
   "real_identity": "Kimberly-Clark",
-  "aliases": ["Kimberly-Clark", "Kimberly Clark", "K-C", "Kleenex", "Darwin Smith"],
+  "aliases": [
+    "Kimberly-Clark",
+    "Kimberly Clark",
+    "K-C",
+    "Kleenex",
+    "Darwin Smith"
+  ],
   "as_of_year": 1971,
-  "transition_year": 1971,
+  "transition_year": 1972,
   "expected_gate_fail": null,
   "collins": {
     "hedgehog": "Become best in the world at paper-based consumer products (brands such as tissue and diapers), giving up commodity paper; economic denominator is profit per consumer brand.",
-    "hedgehog_key_points": ["paper-based consumer products", "leave commodity/coated paper mills", "profit per consumer brand"],
+    "hedgehog_key_points": [
+      "paper-based consumer products",
+      "leave commodity/coated paper mills",
+      "profit per consumer brand"
+    ],
     "stop_doing": "Sell the paper mills (including the namesake mill) and put the proceeds into consumer products, competing head-on with P&G.",
-    "stop_doing_key_points": ["sell or exit the commodity paper mills", "stop funding coated/business paper by default"],
+    "stop_doing_key_points": [
+      "sell or exit the commodity paper mills",
+      "stop funding coated/business paper by default"
+    ],
     "leader_type": "Level 5 (Darwin Smith: humble in-house lawyer, fierce resolve, kept working through cancer)",
-    "brutal_facts": ["the core mill business is a commodity business whose returns trail the market", "to win in consumer products the company must take on P&G"]
+    "brutal_facts": [
+      "the core mill business is a commodity business whose returns trail the market",
+      "to win in consumer products the company must take on P&G"
+    ]
   },
   "later_history": "1971-1991 cumulative stock returns about 4.1x the general market (per Collins), beating Scott Paper and P&G. Acquired Scott Paper in 1995. Closed its last own pulp/paper mill in 2012. Has stayed a large consumer-products company, without a collapse on the scale of the How the Mighty Fall cases.",
   "greatness_label": 1,
-  "notes": "Track A matched pair with A02 (Scott Paper)."
+  "notes": "Track A matched pair with A02 (Scott Paper). Collins's appendix gives K-C's transition as 1972 (window 1972-87); the dossier is dated 1971, just before it."
 }

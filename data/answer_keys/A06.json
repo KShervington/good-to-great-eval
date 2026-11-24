@@ -1,0 +1,21 @@
+{
+  "case_id": "A06",
+  "track": "A",
+  "group": "comparison",
+  "real_identity": "Silo (Silo Inc., electronics retailer)",
+  "aliases": ["Silo", "Silo Inc.", "Silo Discount Centers", "Silo Electronics", "Cyclops", "Cyclops Steel", "Sidney Cooper", "Barry Feinberg", "Dixons"],
+  "as_of_year": 1982,
+  "transition_year": null,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "None. Collins's comparison company never settled on a coherent concept it could be best at. It grew on price promotion and advertising under changing owners, while the paired company built the superstore model and the systems to scale it.",
+    "hedgehog_key_points": ["no coherent hedgehog", "growth by advertising-led discounting rather than a defined model it could be best at", "strategy driven by changing owners"],
+    "stop_doing": "Stop expanding by advertising blitz and price promotion without a proven, repeatable store model and the operating systems to support it. Stop letting changes of ownership reset the strategy.",
+    "stop_doing_key_points": ["stop growth-for-growth's-sake market blitzes", "stop relying on price promotion as the strategy", "stop strategy resets with each owner"],
+    "leader_type": "Not Level 5. A founder-centered company, then a son-in-law successor, then owners outside retailing (a steel company, later a British retailer, later Fretter). Collins contrasts Wurtzel's team-building with the comparison company's leadership. Silo fits his doom-loop pattern of repeated changes in ownership and direction.",
+    "brutal_facts": ["the founder's death left the company without its central figure", "the parent's core business is steel, not retailing", "rivals were developing a superstore format and systems while Silo competed mainly on price and advertising"]
+  },
+  "later_history": "Silo grew rapidly under Cyclops; Cyclops reportedly earned more than ten times its investment within seven years. It had 119 stores in February 1987, when Cyclops was bought by Alleghany and Silo was transferred to Dixons Group (UK). Dixons kept small store formats while rivals built superstores. Silo posted heavy losses in the early 1990s. A controlling stake was sold to Fretter in 1993 (183 stores, facing Circuit City and Best Buy). Fretter closed the remaining stores in 1995-96 and went bankrupt.",
+  "greatness_label": 0,
+  "notes": "Direct comparison company for A05. Collins's specific statements about Silo's leadership are not verified against the book text. The doom-loop framing comes from memory of Ch. 8 and the appendix and should be checked. The Silo history comes from Wikipedia and secondary sources, and some claims there are marked as needing citations."
+}

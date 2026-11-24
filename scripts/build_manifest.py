@@ -117,9 +117,10 @@ def main() -> int:
 
     by_name = defaultdict(list)
     for cid, k in keys.items():
-        n = norm_name(k.get("real_identity"))
-        if n:
-            by_name[n].append(cid)
+        names = [re.sub(r"\(.*?\)", "", k.get("real_identity") or ""), *(k.get("aliases") or [])]
+        for n in {norm_name(x) for x in names}:
+            if n and len(n) >= 6:
+                by_name[n].append(cid)
     for ids in by_name.values():
         for x in ids[1:]:
             union(ids[0], x)
@@ -140,6 +141,12 @@ def main() -> int:
             if cid in old and old[cid].get("split") in ("dev", "heldout") and not old[cid].get("provisional"):
                 split[cid] = old[cid]["split"]
     rng = random.Random(20261123)
+    for cl in clusters.values():  # clusters partly assigned already: the rest follow the same split
+        assigned = {split[c] for c in cl if c in split}
+        if assigned:
+            s = "heldout" if assigned == {"heldout"} else "dev"
+            for c in cl:
+                split[c] = s
     todo = [cl for cl in clusters.values() if not any(c in split for c in cl)]
     rng.shuffle(todo)
     # stratify: per (track, group), aim for HELDOUT_FRACTION held out

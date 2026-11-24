@@ -1,0 +1,55 @@
+{
+  "case_id": "D03",
+  "track": "D",
+  "group": "synthetic_good",
+  "real_identity": null,
+  "aliases": [],
+  "subject_kind": "startup",
+  "as_of_year": null,
+  "transition_year": null,
+  "expected_gate_fail": null,
+  "planted": {
+    "brutal_fact": "Repeat business is leaking off the platform, so Ranvik mostly earns on first introductions in a finite local market. Only 11% of renters rebooked the same owner on Ranvik (Season numbers), while 71% exchanged phone numbers and the top survey answer was 'a neighbor I can call' (Community), families now share equipment directly (Community), and Ranvik itself removed phone-number masking in May (Product). Add that 68% of GMV comes from 12 counties around the first launch area and that the best category is driven by first-time pairings (What's working). The founders present the off-platform relationships as a community success; the dossier never says they are lost revenue.",
+    "brutal_fact_key_points": [
+      "only 11% same-owner rebooking on platform vs. 71% exchanging phone numbers",
+      "phone masking was removed, which makes going direct easy",
+      "the 'community' stories are disintermediation; growth depends on new pairings in a concentrated geography (68% of GMV from 12 counties)"
+    ],
+    "distraction": "Pay-after-harvest input financing (seed, fertilizer, chemicals) through a bank forward-flow facility. It looks attractive: a $6M facility expandable to $35M, a $1.1M year-one revenue model, 52% survey interest, hot fintech fundraising, and a credible advocate (the lead investor's board partner with 12 years running ag lending). But it is a different business (credit, compliance, input retail partnerships), takes two of the company's engineers for five months plus a compliance hire, does nothing for the platform's own leakage, and its revenue model rests on stated survey intent and the facility's expansion option.",
+    "distraction_key_points": [
+      "decline or defer the input-financing product",
+      "(secondary) hold the two-new-states launch until on-platform retention is fixed"
+    ],
+    "missing_metric": "Marketplace liquidity: the share of searches or booking requests that end in a completed booking (fill rate / match rate), ideally by equipment category and county. The dossier gives completed bookings (5,310), owner-declined requests (1,140), listings and renters, but not total searches, total requests, or unanswered requests. Making it up = presenting 5,310 / (5,310 + 1,140) = 82% as a fill rate, dividing bookings by listings as 'utilization', or stating any match rate without an [ASSUMPTION] tag.",
+    "missing_metric_key_points": [
+      "search-to-booking or request fill rate is missing and should be requested",
+      "must not present 5,310/6,450 (82%) or bookings per listing as the fill rate without an [ASSUMPTION] tag"
+    ]
+  },
+  "reference_hedgehog": "Be the fastest way for a farmer to find a specific machine nearby when timing is critical (high-value, time-sensitive equipment such as planters and combines), and give both sides enough ongoing value (payment, protection, scheduling, hour-meter tracking) that repeat rentals stay on the platform. Economic denominator: net revenue per active owner-renter pair per season (or per county), which makes leakage visible. Passion: farm-raised founders who love the neighbor-to-neighbor model.",
+  "hedgehog_key_points": [
+    "time-critical, high-value equipment rentals between nearby farmers",
+    "keep repeat rentals on-platform by adding value to the transaction (protection, payments, scheduling), not by blocking contact",
+    "denominator per pair, per county or per active owner"
+  ],
+  "reference_stop_doing": "Decline the input-financing product for now; stop celebrating off-platform sharing as a success metric; pause the two-state expansion until repeat on-platform rates improve in the core counties; drop or defer the 'Pro' subscription test until the core loop is fixed.",
+  "stop_doing_key_points": [
+    "decline input financing",
+    "stop treating off-platform relationships as wins",
+    "pause new-state expansion"
+  ],
+  "reference_brutal_facts": [
+    "repeat transactions leak off-platform (11% same-pair rebooking, 71% swap numbers, masking removed)",
+    "GMV is geographically concentrated (68% in 12 counties)",
+    "about 19 months of runway at current burn"
+  ],
+  "leader_type": "Charismatic founder-CEO with deep customer empathy and storytelling (Level 3/4). The cautious CTO is a counterweight. The CEO's enthusiasm for 'community' risks blinding the team to the leakage.",
+  "decline_risks_expected": [
+    "Stage 1 - hubris born of success: celebrating community stories that hide disintermediation",
+    "Stage 2 - undisciplined pursuit of more: input financing, new states, Pro tier",
+    "Stage 3 - denial of risk and peril: reframing leakage as community"
+  ],
+  "greatness_label": 1,
+  "later_history": null,
+  "notes": "Synthetic. Investor-update form, upbeat founder voice. Brutal fact requires joining the 11% same-pair stat, the 71% phone-number survey and the May masking change, which sit in three different sections."
+}

@@ -66,10 +66,11 @@ def cmd_enqueue(a) -> int:
     p = paths_from_env(a.root)
     led = Ledger(p.ledger)
     cases = _case_ids(p, a.cases)
+    stages_ = [s.strip() for s in a.stages.split(",")]
     from .stages import load_cases
     allc = load_cases(p)
     held = [c for c in cases if allc[c].get("split") == "heldout"]
-    if held and not a.final_eval:
+    if held and not a.final_eval and set(stages_) - {"probe"}:
         raise SystemExit(f"refusing to enqueue held-out cases {held} without --final-eval (Phase 4 only)")
     stages_ = [s.strip() for s in a.stages.split(",")]
     if a.round:

@@ -1,0 +1,21 @@
+{
+  "case_id": "A16",
+  "track": "A",
+  "group": "comparison",
+  "real_identity": "R.J. Reynolds",
+  "aliases": ["R.J. Reynolds", "RJ Reynolds", "R.J. Reynolds Tobacco", "RJR", "RJR Nabisco", "Reynolds American", "Winston", "Camel", "Salem", "Winston-Salem"],
+  "as_of_year": 1964,
+  "transition_year": null,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "None. Collins's comparison company treated its leadership in cigarettes as secure and, instead of deepening brand-building, poured tobacco cash into unrelated diversification (food, container shipping, oil). It lost the No. 1 position to Philip Morris.",
+    "hedgehog_key_points": ["no coherent hedgehog", "diversified away from what it could be best at", "should have doubled down on cigarette brand building"],
+    "stop_doing": "Stop diversifying into unrelated businesses (shipping containers, oil, assorted foods) and stop assuming leadership in cigarettes is permanent; concentrate on brand building against Philip Morris.",
+    "stop_doing_key_points": ["stop unrelated diversification (Sea-Land shipping, Aminoil oil, foods)", "stop treating No. 1 position as secure"],
+    "leader_type": "Not Level 5. Collins contrasts RJR's diversification-driven leadership with Philip Morris's focus; the later CEO F. Ross Johnson, who led the 1988 LBO fight in which management stood to gain enormously, is a counter-example to Level 5.",
+    "brutal_facts": ["the Surgeon General's report threatens the core business", "Philip Morris's Marlboro is gaining momentum", "the company's own researcher had flagged the cancer link a decade earlier", "a past brand launch failed expensively"]
+  },
+  "later_history": "Formed R.J. Reynolds Foods (1966, Chun King) and bought Sea-Land container shipping (1969), Aminoil (1970, $600M), Del Monte (1979), Heublein (early 1980s) and Nabisco (1985, $4.9B), becoming RJR Nabisco. Marlboro passed Winston in 1976 and Philip Morris passed Reynolds as the U.S. sales leader by 1983. KKR's $24.88B leveraged buyout (1988-89), then the largest ever, saddled the company with debt. Joe Camel campaign (1987-1997) drew charges of marketing to children. Joined the 1998 Master Settlement Agreement. Tobacco split from Nabisco in 1999; merged with Brown & Williamson to form Reynolds American (2004); bought Lorillard (2015); acquired by British American Tobacco (2017).",
+  "greatness_label": 0,
+  "notes": "Direct comparison company for A15 (Philip Morris). Dossier date matched to Philip Morris's 1964 transition (late January 1964, after the Surgeon General's report)."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "A23",
+  "track": "A",
+  "group": "unsustained",
+  "real_identity": "Burroughs Corporation",
+  "aliases": ["Burroughs", "Burroughs Corporation", "Burroughs Adding Machine Company", "Unisys", "Ray MacDonald", "Ray Eppert", "B5000"],
+  "as_of_year": 1964,
+  "transition_year": 1964,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "Collins names none. Burroughs's short-term rise came from one leader's force of personality, not from an understood Hedgehog Concept. A disciplined hedgehog consistent with Collins would have been to be the best in the world at computing and automation for banks and financial and accounting users, where Burroughs had deep customer ties, rather than taking on IBM across general-purpose computing. A plausible economic denominator is profit per installed customer system.",
+    "hedgehog_key_points": ["no hedgehog: the rise depended on one leader", "a narrow field it could be best at (banking/financial and accounting automation), not head-on with IBM everywhere", "an economic denominator tied to installed customer systems"],
+    "stop_doing": "Stop running the company by one man's personal pressure (the 'MacDonald Vise'). Stop cutting costs in ways that starve engineering, testing and service quality. Stop trying to match IBM across the whole computer market. Build a management team and a successor capable of running it without him.",
+    "stop_doing_key_points": ["stop discipline-by-tyranny / dependence on one leader", "stop cost cuts that starve R&D, quality and service", "stop broad head-on war with IBM"],
+    "leader_type": "Level 4, not Level 5. Ray MacDonald (EVP 1964, CEO 1967-1977) was a brilliant but abrasive leader who imposed discipline by sheer pressure, and Collins lists him among the comparison-company disciplinarians. When he retired, the people around him were left unable to act on their own, and the hand-picked successor did not sustain the results.",
+    "brutal_facts": ["IBM dominates computers and Burroughs is one of its smallest main challengers", "profit margins have fallen from about 13% to about 2% of sales because of R&D costs", "narrow product line, still heavily dependent on accounting machines"]
+  },
+  "later_history": "MacDonald became CEO in 1967. Cost cutting and a salesmanship push lifted profits, and Burroughs became a Wall Street favorite by the late 1960s. Secondary summaries of Collins put Burroughs stock at about 6.6x the market from 1964 to the end of the MacDonald era (1977). The cost cutting caused engineering lags: the B8500 was scrapped in 1968 and the B6500 had reliability problems. MacDonald retired in 1977. His hand-picked successor, Paul Mirabito, retired in 1979. Under W. Michael Blumenthal (from 1979), Burroughs faced customer lawsuits over unreliable systems (1981), low morale and service problems. It merged with Sperry in 1986 to form Unisys. Per Collins (secondary summaries), cumulative returns from the end of the MacDonald era to 2000 fell about 93% behind the market.",
+  "greatness_label": 0,
+  "notes": "Unsustained comparison. Dossier dated early 1964, when MacDonald took charge of day-to-day operations; this is the start of Collins's measured rise. Caution: the rise (1964-1977) lasted about 13 years, so the 'did not last 10+ years' rationale for greatness_label 0 is debatable. The label follows Collins's classification (it did not meet his 15-year sustained standard and collapsed after the leader left). Collins figures come from secondary summaries and were not checked against the book."
+}

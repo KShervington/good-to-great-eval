@@ -1,0 +1,56 @@
+{
+  "case_id": "B01",
+  "track": "B",
+  "group": "fallen",
+  "already_great": true,
+  "real_identity": "Circuit City Stores",
+  "aliases": [
+    "Circuit City",
+    "Circuit City Stores",
+    "Wards",
+    "CarMax",
+    "Divx",
+    "Richard Sharp",
+    "Alan McCollough",
+    "Alan Wurtzel"
+  ],
+  "as_of_year": 2000,
+  "transition_year": 2002,
+  "gtg_transition_year": 1982,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "Good to Great: be the best in the world at executing the consumer-electronics superstore model (wide selection, service, low prices, a distribution and operations system behind the stores), with profit per geographic region as the economic denominator. In How the Mighty Fall, Collins says the company stopped renewing this primary flywheel with the intensity that built it.",
+    "hedgehog_key_points": [
+      "electronics superstore execution is the core flywheel",
+      "renew and reinvent the core store against Best Buy",
+      "profit per region (Collins's GTG denominator)"
+    ],
+    "stop_doing": "Stop letting the next big thing (CarMax, Divx) and revenue/store-count targets take top management's creative attention away from the superstores. Put that energy into reinventing the core store experience to beat Best Buy. Collins does not say CarMax was a mistake; he says it should have been kept. The error was neglect of the core. Abrupt 'silver bullet' moves later (rebrands, firing experienced salespeople, an outside savior CEO) are the Stage 4 behaviour to avoid.",
+    "stop_doing_key_points": [
+      "stop diverting leadership attention and capital from the core superstores",
+      "stop chasing growth targets ($15B, 800 stores) as the goal",
+      "confront Best Buy and renew the format, without panicky silver bullets"
+    ],
+    "leader_type": "Collins's Level 5 transition leader was Alan Wurtzel (GTG), long gone by 2000. Collins does not rate Richard Sharp. HTMF uses Sharp-era quotes (the 1995 Forbes growth profile, the late-1998 'company in great shape' answer) as signs of hubris and arrogant neglect. The 2000 handover to an insider was orderly. Later, an ex-Best Buy executive became president in 2005 and CEO in 2006, the outside savior pattern of Stage 4.",
+    "brutal_facts": [
+      "Best Buy has overtaken Circuit City in sales, profit per store and market share",
+      "the ventures (Divx, about $233M lost; CarMax tracking stock collapsed) diverted attention from the core",
+      "the superstore format and commissioned-sales model are ageing while Best Buy keeps reinventing its stores",
+      "appliances, about 14% of sales, are under attack from home-improvement chains"
+    ]
+  },
+  "decline_mechanism": "Circuit City, a Good to Great company, fell through all five stages of HTMF. Its leaders built a second flywheel (CarMax) and tried an adventure (Divx) while failing to renew the electronics superstore business, a pattern Collins calls arrogant neglect. Stage 2 (Collins: 1992-1997) brought aggressive targets: $15B revenue by 2000 and 800 superstores. Best Buy, which kept reinventing its store concept and dropped commissions, drew level in 1997 and pulled away. Return on equity fell from nearly 20% in the mid-1990s to single digits. When revenue fell in 2002, the company grasped for salvation. It ran new branding campaigns. In 2003 it eliminated commissioned sales and fired more than 3,000 experienced salespeople. It hired a Best Buy executive as president and then CEO, launched the Firedog brand, fired about 3,400 higher-paid workers in 2007, and looked for a buyer. It filed for bankruptcy in November 2008 and was liquidated in 2009.",
+  "decline_risks_expected": [
+    "Stage 1 (hubris): neglect of the primary flywheel (superstores) while attention goes to CarMax and Divx",
+    "Stage 1 (hubris): success entitlement; management answers concerns about distraction with core earnings growth ('in great shape')",
+    "Stage 1/3: underestimating Rival B (Best Buy), which has already passed the company and keeps reinventing its format",
+    "Stage 2 (undisciplined pursuit of more): revenue and store-count targets ($15B, 800 superstores) confusing big with great",
+    "Stage 2: undisciplined leap into a proprietary disc format (Divx) outside the core",
+    "Stage 3 (denial of risk): explaining away an ageing store base, a commission model that customers are rejecting, and the appliance price war",
+    "Stage 4 risk (grasping for salvation): rebrands, mass replacement of experienced salespeople, an outside savior CEO"
+  ],
+  "decline_stage_at_dossier_date": "Late Stage 2 / Stage 3. Collins dates Stage 2 to 1992-1997 and starts Stage 4 in 2002, with declining revenue. By spring 2000, Stage 1 neglect and Stage 2 overreach have already happened, but results are at an all-time high.",
+  "greatness_label": 0,
+  "later_history": "Exited major appliances in 2000-2001. CarMax was spun off in 2002. Revenue declined in 2002. Commissions were eliminated in early 2003, with about 3,900 commissioned salespeople replaced by hourly staff. Losses followed in 2003 and 2004. About $1B was spent on buybacks in 2003-2007. A former Best Buy executive became president in 2005 and CEO in 2006. About 3,400 higher-paid associates were laid off in March 2007. FY2008 (ended Feb 2008): sales $11.74B (-5.5%), net loss $319.9M. The CEO resigned in September 2008. Chapter 11 was filed on 10 November 2008 with 567 stores. Liquidation was announced in January 2009, and the last stores closed in March 2009. Per Collins, a dollar in Best Buy from 1995 to 2006 beat Circuit City by about 4x.",
+  "notes": "Track B decline test. Also a Track A great company at an earlier date (1982), so it shares a split with that case. Dossier dated spring 2000, after the FY2000 10-K, before the July 2000 appliance exit and the June 2000 CEO handover. transition_year here is the year the decline became visible to outsiders (the Track B turning point). gtg_transition_year is Collins's Good to Great transition year where one exists."
+}

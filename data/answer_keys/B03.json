@@ -1,0 +1,56 @@
+{
+  "case_id": "B03",
+  "track": "B",
+  "group": "fallen",
+  "already_great": true,
+  "real_identity": "Wells Fargo & Company",
+  "aliases": [
+    "Wells Fargo",
+    "Wells Fargo & Company",
+    "Norwest",
+    "Wachovia",
+    "John Stumpf",
+    "Carrie Tolstedt",
+    "Gr-eight",
+    "eight is great"
+  ],
+  "as_of_year": 2012,
+  "transition_year": 2016,
+  "gtg_transition_year": 1983,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "Collins did not cover Wells Fargo's 2010s decline (HTMF was published in 2009, and Collins has made no public comment on the scandal that we found). His GTG hedgehog was the Reichardt-era one: run a bank like a business, focused on the western U.S., with profit per employee as the economic denominator. After the 1998 Norwest merger, the operating concept became community-bank cross-sell. Best-documented account (2017 board investigation report): the healthy version of that concept is deep, genuine relationships in which customers choose more products because they need them. The economic denominator should be profit per active customer relationship, not products per household.",
+    "hedgehog_key_points": [
+      "genuine customer relationships in community banking",
+      "denominator: profit per active relationship, not product count",
+      "(GTG legacy) run the bank like a business, cost discipline"
+    ],
+    "stop_doing": "Stop managing to a product count: drop the eight-products goal, daily and monthly product-sales quotas, and incentive pay tied to accounts opened. Stop treating firings of individual 'gamers' as the fix. Stop leaving risk, HR and sales-integrity controls inside the business line under the banner of decentralization. Measure active, funded, used products and customer outcomes instead.",
+    "stop_doing_key_points": [
+      "drop the eight-products goal and product-count sales quotas",
+      "stop incentive pay tied to accounts opened; measure active/used products",
+      "centralize risk and HR control over sales practices; stop firing-as-fix"
+    ],
+    "leader_type": "Not Level 5 in practice. John Stumpf was a well-liked career insider who championed decentralization. The 2017 board report found he was too slow to see the sales-practice problem as systemic, minimized it, and deferred to the head of Community Banking, Carrie Tolstedt. It also found she resisted scrutiny and challenge. Collins's GTG Level 5 leader was Carl Reichardt (1983).",
+    "brutal_facts": [
+      "product-count sales goals are unrealistic and produce gaming (internal data since about 2002)",
+      "the cross-sell metric counts accounts customers do not use or did not request",
+      "regulators already found quota-driven misconduct at a Wells subsidiary (2011 Fed penalty)",
+      "decentralization leaves no central check on sales practices in the largest business"
+    ]
+  },
+  "decline_mechanism": "This is not a Collins case. The mapping to HTMF stages is ours, based on the 2017 independent directors' Sales Practices Investigation Report, the CFPB/OCC 2016 orders and the 2020 DOJ/SEC statement of facts. Success in the crisis and a celebrated cross-sell model bred hubris (Stage 1). The Community Bank pursued an ever-rising product count, set publicly at eight products per household, through daily quotas and incentive pay (Stage 2). Signs of gaming were known internally from about 2002, and about 5,300 employees were fired for it between 2011 and 2016. Leaders treated it as individual misconduct, not a flaw in the model, and the decentralized structure kept it inside the business line (Stage 3). After the LA Times exposé (2013) and the September 2016 settlement over about 2 million (later about 3.5 million) potentially unauthorized accounts, the CEO resigned. A long Stage 4 followed: leadership churn, a Fed asset cap (2018-2025) and a $3B settlement (2020). The bank survived and the asset cap was lifted in 2025, so it did not reach Stage 5.",
+  "decline_risks_expected": [
+    "Stage 1 (hubris): crisis-era success and acclaim; the cross-sell model treated as proof of superiority ('what' replaces 'why')",
+    "Stage 2 (undisciplined pursuit of more): eight-products goal and rising cross-sell ratio as the measure of success",
+    "Stage 2: incentive pay and daily sales quotas tied to product counts",
+    "Stage 2: Wachovia integration and growth stretching control capacity",
+    "Stage 3 (denial of risk): regulator's 2011 finding of quota-driven misconduct at a subsidiary treated as a legacy issue",
+    "Stage 3: decentralization shielding the dominant business line from risk/HR challenge; leaders minimizing negative data",
+    "Stage 4 risk: firings as fix, reputational collapse, regulatory caps, leadership churn"
+  ],
+  "decline_stage_at_dossier_date": "By our mapping, Stage 2 with Stage 3 under way internally. The eight-products goal and quotas are in force, internal signs of gaming are being handled as individual misconduct, and the public face is record profits and acclaim. Collins did not stage this case.",
+  "greatness_label": 0,
+  "later_history": "On 21 December 2013 the LA Times exposed pressure-cooker sales practices. On 8 September 2016, CFPB/OCC/Los Angeles settlements totalled $185M over about 1.5M possibly unauthorized deposit accounts and 565,000 credit-card applications. About 5,300 employees had been fired for sales misconduct between 2011 and 2016. Stumpf resigned on 12 October 2016. The April 2017 board report blamed the decentralized structure and the sales culture, Tolstedt and Stumpf. Clawbacks were about $69M (Stumpf) and $67M (Tolstedt). The estimate of potentially unauthorized accounts rose to about 3.5M in August 2017. A Federal Reserve asset cap was imposed in February 2018. In February 2020 the bank agreed a $3B DOJ/SEC settlement covering 2002-2016 conduct. Several CEO changes followed. The asset cap was lifted on 3 June 2025.",
+  "notes": "Track B decline test. Collins did not cover this decline; the answer key relies on the 2017 board report and regulatory findings. Also a Track A great company (1983). The dossier is dated early 2012 so that FY2011 results and the 2011 regulatory actions are included; it is nearly two years before the first press exposé. Internal termination data is deliberately excluded because it was not public. transition_year here is the year the decline became visible to outsiders (the Track B turning point). gtg_transition_year is Collins's Good to Great transition year where one exists."
+}

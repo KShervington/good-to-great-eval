@@ -1,0 +1,21 @@
+{
+  "case_id": "A03",
+  "track": "A",
+  "group": "great",
+  "real_identity": "Abbott Laboratories",
+  "aliases": ["Abbott Laboratories", "Abbott", "Abbott Labs", "George Cain", "Edward Ledder", "Ted Ledder", "Similac", "Ross Laboratories", "Erythrocin"],
+  "as_of_year": 1974,
+  "transition_year": 1974,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "Stop trying to be the top research-driven pharmaceutical company, a race Abbott could not win against Merck. Instead, become best in the world at a portfolio of products that make health care cost-effective: hospital nutritionals, diagnostics, and hospital supplies and products. Collins gives the economic denominator as profit per employee.",
+    "hedgehog_key_points": ["cost-effective health care products", "hospital nutritionals, diagnostics and hospital products rather than blockbuster drug discovery", "accept it cannot be the best pharmaceutical (Merck-style) company", "profit per employee"],
+    "stop_doing": "Stop chasing the goal of being a leading blockbuster-drug company and stop spreading capital into unrelated consumer diversification. Concentrate resources on cost-effective hospital and diagnostic products. Earlier, the leadership also ended the nepotism that had weakened management.",
+    "stop_doing_key_points": ["stop competing head-on as a research-blockbuster pharma company", "stop drifting into unrelated consumer diversification", "end nepotism / rebuild the management team"],
+    "leader_type": "Level 5. Collins credits George Cain (CEO 1958-72) with rebuilding the board and executive team, breaking the nepotism and setting exacting standards, despite a personality that was not charismatic. The transition itself came under his insider successors (Ledder, then Schoellhorn running hospital products).",
+    "brutal_facts": ["the company had fallen behind in research and had no major new drug in sight", "the cyclamate ban and the IV-solution recall exposed management weakness", "it could not out-research the pharmaceutical leaders", "hospitals and payers were moving toward cost control"]
+  },
+  "later_history": "Collins reports cumulative returns about 3.98x the market for 1974-1989. Hospital products revenue rose 139% from 1974 to 1979. Sales nearly tripled in the 1980s under Schoellhorn, with diagnostics growing (including the first AIDS blood test in 1985). Schoellhorn was ousted in 1989. Abbott paid a $100M FDA-related fine in 1999 over diagnostic-kit quality. It stayed independent and large, agreed in 2000 to buy Knoll from BASF for $6.9B, and split off its research pharma business as AbbVie in 2013. No collapse.",
+  "greatness_label": 1,
+  "notes": "Track A matched pair with A04 (Upjohn). The dossier is dated early 1974. Cain died in 1972, so the dossier's CEO is his successor Ledder. Collins's Level 5 attribution is mainly to Cain. Collins's exact economic denominator wording is paraphrased from summaries (LitCharts, Compound Learning) and from memory of Ch. 5, not checked against the book text."
+}

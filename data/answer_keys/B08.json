@@ -1,0 +1,56 @@
+{
+  "case_id": "B08",
+  "track": "B",
+  "group": "fallen",
+  "already_great": true,
+  "real_identity": "Zenith Radio Corporation (later Zenith Electronics)",
+  "aliases": [
+    "Zenith",
+    "Zenith Radio",
+    "Zenith Electronics",
+    "Eugene McDonald",
+    "Commander McDonald",
+    "Joseph Wright",
+    "Hugh Robertson",
+    "Phonevision"
+  ],
+  "as_of_year": 1966,
+  "transition_year": 1977,
+  "gtg_transition_year": null,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "Collins gives no hedgehog statement for Zenith. In HTMF it is the one fallen company that fell mainly by staying in its core too long while failing to confront the forces changing it. A consistent hedgehog (our reconstruction): be the best American consumer-electronics brand on real quality per dollar. Quality should be defined by what customers get (reliability, picture), not by hand-wiring or U.S. assembly, with profit per set as the denominator.",
+    "hedgehog_key_points": [
+      "quality brand in TV, but quality as the customer defines it",
+      "match or beat Japanese cost and quality; automate and adopt solid-state",
+      "profit per set, not unit share versus RCA"
+    ],
+    "stop_doing": "Stop dismissing Japanese competitors as cheap. Stop treating hand-wiring and tube-era methods as the definition of quality, and move faster to solid-state and automated production. Do not borrow to win a capacity race to beat RCA in color. Cap the pay-TV bet. Fix the succession problem (an aging chairman, a lawyer president, no deep bench).",
+    "stop_doing_key_points": [
+      "stop dismissing the Japanese threat",
+      "stop hand-wired/tube-era pride; adopt solid-state and automation",
+      "no debt-funded capacity race to overtake RCA; cap the pay-TV bet"
+    ],
+    "leader_type": "Problematic succession (HTMF). Commander McDonald, a flamboyant visionary, left Zenith to a septuagenarian CEO with company counsel Joseph Wright as president. Wright later became CEO, but his chosen successor died, and an outsider from Ford eventually became chairman. Not Level 5.",
+    "brutal_facts": [
+      "Japanese makers are learning to lower cost and raise quality",
+      "the industry is moving to printed circuits, transistors and automation, and the company is late",
+      "the color race requires heavy capacity investment",
+      "pay TV is unproven and years from commercial service"
+    ]
+  },
+  "decline_mechanism": "Zenith took about three decades to pass through all five stages. Stage 1 began late in the McDonald era: Zenith became No. 1 in black-and-white TV in 1959, and its stock rose more than 100x from 1950 to 1965 while it dismissed Japanese sets as cheap. Stage 2 (Collins: 1966-1974): it chased and passed RCA to be No. 1 in color by 1972. It made a big bet on pay TV and a massive capacity expansion (Taiwan, Mexico, U.S. automation in 1970-73) that doubled debt-to-equity to 100%. A problematic succession ran at the same time. Stage 3 (mid-1970s): it blamed oil shocks, Watergate, strikes and 'unfair' Japanese competition, cut prices to defend share, and took on more debt. In 1977 it lost money for the first time in decades. Stage 4 (late 1970s on): it jumped into VCRs, videodiscs, phones, security cameras, decoders and PCs, with debt-to-equity at 140%. Its one success, Data Systems, was sold to Bull in 1989 to raise cash. The TV business kept losing money. It went through five CEOs in ten years after 1995, LG took control, and a prepackaged bankruptcy in 1999 left fewer than 400 employees (36,000 in 1988).",
+  "decline_risks_expected": [
+    "Stage 1 (hubris): dismissing the Japanese as makers of cheap products",
+    "Stage 1: pride in hand-wiring and tube-era methods ('what' replaces 'why'); slow to adopt transistors and ICs",
+    "Stage 2 (undisciplined pursuit of more): goal of overtaking RCA in color driving debt-funded capacity expansion",
+    "Stage 2: big bet on pay TV, far ahead of its time",
+    "Stage 2: problematic succession (aging chairman, lawyer president, successor gap)",
+    "Stage 3 (denial of risk): externalizing blame (Japanese 'unfair' trade, the economy, strikes) and price-cutting with more debt",
+    "Stage 4 risk: scattershot diversification ('take a shot at everything')"
+  ],
+  "decline_stage_at_dossier_date": "Late Stage 1 entering Stage 2 (Collins: Stage 1 late in the McDonald era through 1965; Stage 2 1966-1974). Color demand is booming and results are at records.",
+  "greatness_label": 0,
+  "later_history": "Zenith became No. 1 in U.S. color TV in 1972 and held it to 1978. It opened plants in Mexico and Taiwan in 1971. In December 1970 it joined a $900M antidumping/antitrust suit against Japanese makers, which it ultimately lost at the Supreme Court in 1986-87. It posted its first loss in decades in 1977, halved R&D in 1977, and cut 25% of its U.S. workforce in 1978. RCA retook the color lead in 1979. It bought Heath in 1979. In 1982 it lost $24M and skipped its dividend for the first time in nearly 50 years. Zenith Data Systems was sold to Bull in 1989. Zenith became the last U.S.-owned TV maker. LG took a 5% stake (1990/91) and majority control (1995). Losses were $178M (1996), $299M (1997) and $276M (1998). The prepackaged Chapter 11 in 1999 left it wholly owned by LG.",
+  "notes": "Track B decline test. Sourcing is thinner than other cases. Full-year 1965/1966 financials were not found; the dossier uses 1960 figures (Time, 1961) and Q2 1966 results (Time, 12 Aug 1966). Leadership titles in 1966 are not verified, and the dossier says so. Kept because HTMF dates Stage 2 from 1966 and the strategic signals are well sourced; flagged as a weaker case. transition_year here is the year the decline became visible to outsiders (the Track B turning point). gtg_transition_year is Collins's Good to Great transition year where one exists."
+}

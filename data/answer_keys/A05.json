@@ -1,0 +1,21 @@
+{
+  "case_id": "A05",
+  "track": "A",
+  "group": "great",
+  "real_identity": "Circuit City Stores (Wards Company in 1982)",
+  "aliases": ["Circuit City", "Circuit City Stores", "Wards Company", "Wards Loading Dock", "Alan Wurtzel", "Samuel Wurtzel", "Lafayette Radio"],
+  "as_of_year": 1982,
+  "transition_year": 1982,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "Become best in the world at running consumer-electronics superstores (wide selection, service, low prices, satisfaction) and rolling the model out on a national scale with disciplined systems. Collins gives the economic denominator as profit per geographic region rather than per store, reflecting regional economies of scale in distribution, advertising and management.",
+    "hedgehog_key_points": ["consumer-electronics superstore model", "national rollout with operating systems/discipline", "profit per region (regional economies of scale)"],
+    "stop_doing": "Stop running a patchwork of formats (leased departments in discount chains, small audio stores, mail-order, scattered acquired chains) and commit capital to the superstore model.",
+    "stop_doing_key_points": ["exit leased departments and scattered small formats", "stop format-hopping and acquisition patchwork", "concentrate resources on the superstore model"],
+    "leader_type": "Level 5 (Alan Wurtzel: the founder's son, a lawyer, modest and questioning; he led by asking hard questions instead of announcing answers, built a strong team, and set up his successor to succeed).",
+    "brutal_facts": ["the 1974 loss showed the leased-department and mixed-format model was not working", "the superstore format required a large capital bet relative to the company's size", "acquired chains such as Lafayette in New York were struggling"]
+  },
+  "later_history": "Renamed Circuit City Stores in 1984 under Richard Sharp. It passed $1B in sales by 1987 and $2B by 1990. Collins reports cumulative returns about 18.5x the market for 1982-1997, the highest in the study. Lafayette was closed in 1986. CarMax was launched in 1993. Circuit City lost ground to Best Buy from the mid-1990s; the DIVX venture failed (about $233M) and appliances were dropped in 2000. It eliminated commissioned sales in 2003, and in 2007 laid off about 3,400 better-paid store staff. It filed for Chapter 11 in November 2008 and announced liquidation in January 2009; all stores closed by March 2009. It is a How the Mighty Fall case.",
+  "greatness_label": 1,
+  "notes": "Track A matched pair with A06 (Silo). greatness_label = 1 because the company stayed great for 15+ years after 1982, despite the later collapse. Sources disagree on the first superstore date: Wikipedia gives May 1975 for the Loading Dock, while FundingUniverse gives 1974. The dossier avoids an exact year. Collins's denominator is confirmed by a secondary summary; other hedgehog wording is paraphrased from memory of Ch. 5."
+}

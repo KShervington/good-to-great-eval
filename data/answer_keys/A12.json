@@ -1,0 +1,21 @@
+{
+  "case_id": "A12",
+  "track": "A",
+  "group": "comparison",
+  "real_identity": "A&P (Great Atlantic & Pacific Tea Company)",
+  "aliases": ["A&P", "Great Atlantic & Pacific Tea Company", "Great A&P", "WEO", "Where Economy Originates", "Hartford", "Ralph Burger", "William Kane", "Ann Page", "Eight O'Clock"],
+  "as_of_year": 1973,
+  "transition_year": null,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "None. Collins's comparison company clung to the old grocery-store formula of its founders. When the facts showed shoppers wanted larger, more varied stores, it fell back on price-cutting and short-term programs rather than redefining what it could be best at.",
+    "hedgehog_key_points": ["no coherent hedgehog", "clung to the old small-store formula", "used price cuts/programs instead of confronting the store model"],
+    "stop_doing": "Stop defending the old small-store model and stop treating chain-wide price cuts as a strategy. Stop paying out most profits as dividends while the store base ages. Close or replace obsolete stores and leave markets it cannot win.",
+    "stop_doing_key_points": ["stop defending the old store format", "stop relying on price-cut programs (WEO)", "stop starving stores of capital", "stop ignoring what its own store experiments revealed"],
+    "leader_type": "Not Level 5. Leadership was devoted to preserving the Hartford brothers' formula (under Ralph Burger and then a series of insiders). In Collins's account, A&P opened experimental larger stores (Golden Key) that showed what customers wanted, then shut them down instead of acting on the lesson, and later jumped from program to program, a classic failure to confront brutal facts.",
+    "brutal_facts": ["stores too small and old for modern shopping", "losing share and profit; a $51M loss from the WEO price war", "high labor costs and service problems", "a rival (Kroger) adapting while A&P stood still"]
+  },
+  "later_history": "Safeway overtook A&P as the largest U.S. grocer in 1974. Jonathan Scott (from Albertsons) became the first outside CEO in 1975 and closed about 1,500 stores. West Germany's Tengelmann Group took majority control in 1979, and James Wood cut and then rebuilt the chain through acquisitions in the 1980s. It lost money repeatedly from the 1990s. It filed for Chapter 11 in December 2010 and emerged privately in 2012. It filed for Chapter 11 again in July 2015, sold or closed all remaining stores, and was liquidated by November 2015.",
+  "greatness_label": 0,
+  "notes": "Direct comparison company for A11. Collins's Golden Key and leadership account comes from memory of Ch. 4 and is not checked against the text. The dossier does not mention the Golden Key test, because no independent source for it was found. The as-of date is placed just after the fiscal year that produced the WEO loss (about $51M per Time). The Gulf+Western $20 tender offer is placed in early 1973 per Wikipedia. Sources conflict on Burger's dates (Wikipedia and the SN timeline give 1963 retirement; FundingUniverse says he ran it until 1969), so the dossier says only that he led for about a decade."
+}

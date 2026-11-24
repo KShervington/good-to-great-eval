@@ -1,0 +1,21 @@
+{
+  "case_id": "A04",
+  "track": "A",
+  "group": "comparison",
+  "real_identity": "Upjohn",
+  "aliases": ["Upjohn", "The Upjohn Company", "Pharmacia & Upjohn", "Kalamazoo", "Motrin", "Orinase", "Panalba", "Ray Parfet"],
+  "as_of_year": 1974,
+  "transition_year": null,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "None. Collins's comparison company kept trying to be a top research-based pharmaceutical company in Merck's league. It also moved into businesses it could never lead, rather than finding a field where it could be the best in the world.",
+    "hedgehog_key_points": ["no coherent hedgehog", "kept measuring itself against Merck-style research giants", "diversified into areas it could not lead (seeds, chemicals and others)"],
+    "stop_doing": "Stop trying to win the blockbuster-drug race against much larger research companies. Stop adding unrelated businesses such as seeds and agriculture. Stop depending on one or two big bets.",
+    "stop_doing_key_points": ["stop chasing Merck on research scale", "exit or stop adding unrelated diversification", "stop relying on single blockbuster bets"],
+    "leader_type": "Not Level 5. A family-connected, insider leadership tradition (the president had married into the founding family, and the board was closed to outsiders until 1968). Collins presents Upjohn as failing to confront brutal facts. It later bet heavily on single products (Rogaine, Halcion) and was slow to face problems with them.",
+    "brutal_facts": ["it lacked the research scale of the industry leaders", "regulators removed or undermined key drugs (Panalba order, Orinase heart-risk findings)", "future profits would depend on a licensed drug whose rights another firm held"]
+  },
+  "later_history": "Motrin (licensed from Boots, launched 1974) became a mainstay, accounting for 40% of earnings by 1984. Boots entered the U.S. directly in 1977 and began a price war in 1981. Xanax was a success. Rogaine (1986) disappointed despite a $50M 1989 push. Halcion faced safety controversies, over 100 lawsuits and suspensions in 13 countries, and lost 45% of its sales in 1992. Patents expired from 1989, and by 1992 the stock had the lowest earnings multiple among pharma stocks. Upjohn merged with Pharmacia AB in 1995 to form Pharmacia & Upjohn, ending its independence. The Pharmacia successor was later absorbed by Pfizer.",
+  "greatness_label": 0,
+  "notes": "Direct comparison company for A03. Collins's characterization of Upjohn's leadership is paraphrased from summaries and from memory of the book, not checked against the text. The family/insider leadership facts come from company histories."
+}

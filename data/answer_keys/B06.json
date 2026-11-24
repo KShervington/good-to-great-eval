@@ -1,0 +1,55 @@
+{
+  "case_id": "B06",
+  "track": "B",
+  "group": "fallen",
+  "already_great": true,
+  "real_identity": "Merck & Co.",
+  "aliases": [
+    "Merck",
+    "Merck & Co.",
+    "Ray Gilmartin",
+    "Raymond Gilmartin",
+    "Vioxx",
+    "rofecoxib",
+    "Medco",
+    "Roy Vagelos"
+  ],
+  "as_of_year": 1999,
+  "transition_year": 2004,
+  "gtg_transition_year": null,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "Collins gives no formal hedgehog for Merck. In Built to Last its core purpose is George Merck II's: medicine is for the people, not for the profits, and the profits follow. In HTMF, growth (being a 'top-tier growth company', the #1 objective from 1995) displaced that purpose as the driving force. A consistent hedgehog (our reconstruction): be the best at research-driven discovery of breakthrough medicines, with patient benefit as the passion and profit per R&D dollar or per breakthrough drug as the denominator. Growth follows rather than leads.",
+    "hedgehog_key_points": [
+      "research-driven breakthrough medicines; the purpose (patients first) leads",
+      "growth as an outcome, not the #1 objective",
+      "underpromise and overdeliver"
+    ],
+    "stop_doing": "Stop making 'top-tier growth company' the #1 business objective and stop public commitments to growth that the patent cliff makes implausible. Do not stake the company's growth promise on one blockbuster (the COX-2 drug). Treat ambiguous safety data with caution rather than a positive spin. Reconsider low-margin distribution businesses (the PBM) bought to sustain growth.",
+    "stop_doing_key_points": [
+      "drop growth as the #1 objective and audacious public growth promises",
+      "do not bet the growth story on one blockbuster; take safety signals at face value",
+      "question the PBM (Medco) as a growth vehicle"
+    ],
+    "leader_type": "Collins does not label Ray Gilmartin. HTMF shows him setting growth as the #1 objective (1995 letter) and staying confident despite the patent cliff. It credits him with a clear, swift decision to withdraw Vioxx in 2004. He was Merck's first outside CEO. Not Level 5 on Collins's evidence; Collins notes Merck never reached Stage 4.",
+    "brutal_facts": [
+      "drugs with about $5B in sales (about 22% of human-health sales) lose U.S. patents in 2000-2001",
+      "growth on a $25B+ base requires multiple new blockbusters, and the odds per molecule are tiny",
+      "about 43% of revenue is now low-margin PBM business",
+      "a rival COX-2 drug launched first"
+    ]
+  },
+  "decline_mechanism": "In HTMF, Merck is a Built to Last visionary that fell through Stages 1-3 but never reached Stage 4. Stage 2 (Collins: 1993-1998): the $6B Medco acquisition, growth as the #1 business objective (1995 letter, repeated for years), and big reorganization. These came despite a looming patent cliff and a revenue base five times larger than in the 1980s. The growth promise meant Vioxx had to be a blockbuster. It launched in 1999 as the 'biggest, fastest, best launch ever'. In Stage 3 (2000-2004), the VIGOR study showed more cardiovascular events than naproxen. Merck read the data positively, attributing the gap to naproxen's protective effect, and kept defending the drug against critics. In September 2004 a placebo-controlled trial showed raised heart-attack and stroke risk, and Merck withdrew Vioxx. About $40B of market value was lost in six weeks, followed by years of litigation ($4.85B settlement). Gilmartin left in 2005. Merck then refocused under an insider, Richard Clark, and recovered; Collins says it did not grasp for salvation.",
+  "decline_risks_expected": [
+    "Stage 1 (hubris): 'most admired' legacy; confidence that research will always deliver ('if worried, he doesn't show it')",
+    "Stage 2 (undisciplined pursuit of more): 'top-tier growth company' as the #1 objective; growth displacing purpose",
+    "Stage 2: Medco acquisition, a low-margin business bought to sustain growth",
+    "Stage 2: audacious growth promises on a $25B+ base despite a patent cliff",
+    "Stage 3 (denial of risk): big bet on one blockbuster (COX-2) to fill the gap; positive spin on ambiguous safety data",
+    "Stage 3: overpromising rather than underpromising to investors"
+  ],
+  "decline_stage_at_dossier_date": "Late Stage 2 (Collins: 1993-1998). The growth objective is in force, Medco is 43% of revenue, the patent cliff is disclosed, and the Vioxx application is pending. Stage 3 (Vioxx safety signals, 2000-2004) is ahead.",
+  "greatness_label": 0,
+  "later_history": "Vioxx was approved and launched in May 1999 (Merck 1999 sales $32.7B, net income $5.89B). VIGOR (published November 2000) showed higher cardiovascular events than naproxen, which Merck attributed to naproxen. Vioxx sales reached about $2.5B in 2002. Medco was spun off in August 2003. Vioxx was withdrawn worldwide on 30 September 2004 after the APPROVe trial. The stock fell from about $45 to $33 that day, about $40B of market value lost in six weeks. Gilmartin resigned in May 2005 and was succeeded by insider Richard Clark. A $4.85B Vioxx settlement was reached in 2007, and a $321.6M criminal fine in 2011. Merck acquired Schering-Plough in 2009 and remained a leading drugmaker; Collins says Merck never reached Stage 4.",
+  "notes": "Track B decline test. Merck recovered, so whether it 'fell' is milder than in other cases; the label follows Collins's inclusion of Merck among the fallen. Dossier dated January 1999, after the November 1998 NDA filing and before the May 1999 approval. The growth objective is documented from the 1995 annual letter (HTMF); the exact 'top-tier growth company' wording is confirmed only from 2000, so the dossier paraphrases it. Fortune #1 Most Admired (1987-1993) was seen in search excerpts only. transition_year here is the year the decline became visible to outsiders (the Track B turning point). gtg_transition_year is Collins's Good to Great transition year where one exists."
+}

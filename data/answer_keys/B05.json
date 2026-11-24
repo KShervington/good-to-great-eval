@@ -1,0 +1,56 @@
+{
+  "case_id": "B05",
+  "track": "B",
+  "group": "fallen",
+  "already_great": true,
+  "real_identity": "Motorola",
+  "aliases": [
+    "Motorola",
+    "Motorola Inc.",
+    "StarTAC",
+    "Iridium",
+    "Gary Tooker",
+    "Christopher Galvin",
+    "Robert Galvin",
+    "Galvin Manufacturing"
+  ],
+  "as_of_year": 1996,
+  "transition_year": 1998,
+  "gtg_transition_year": null,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "Collins gives no hedgehog statement for Motorola. In Built to Last it is a visionary company whose core is continual self-renewal and honorable service. In HTMF its fall begins with a shift from humility to arrogance around 1995. A consistent hedgehog (our reconstruction): be the best at wireless communication products and the renewal of its own technologies (making its own products obsolete before others do), with growth as a by-product rather than the goal.",
+    "hedgehog_key_points": [
+      "wireless communications, renewed by obsoleting its own products (e.g. analog to digital)",
+      "renewal driven by customers and evidence, not size targets",
+      "growth as an outcome, not a goal"
+    ],
+    "stop_doing": "Stop the goal of doubling in size every five years. Do not commit Iridium to the full launch phase on hope. Keep it an experiment until evidence supports it, since cellular coverage has eroded its case. Stop dismissing digital ('analog customers can't be wrong') and lead the move to digital handsets. Stop strong-arming carriers with restrictive distribution terms.",
+    "stop_doing_key_points": [
+      "drop the double-every-five-years growth goal",
+      "do not bet big on Iridium's launch without empirical validation",
+      "stop the analog-is-enough stance and carrier strong-arming; move to digital"
+    ],
+    "leader_type": "Collins does not rate Gary Tooker or Christopher Galvin. He credits Robert Galvin (CEO until the late 1980s) with disciplined, evolutionary bets and notes the doubling goal came after Galvin retired. HTMF cites a cultural shift from humility to arrogance by 1995. Later (2003) the board hired an outside savior CEO, which is Stage 4. Not Level 5 at the dossier date.",
+    "brutal_facts": [
+      "carriers are moving to digital and the handset lead is in analog",
+      "Iridium's economics are eroding as cellular coverage spreads; it needs far more money to launch",
+      "wireless pricing pressure is already hurting earnings",
+      "carriers, not the handset maker, control distribution"
+    ]
+  },
+  "decline_mechanism": "In HTMF, Motorola is a Built to Last visionary that fell. Stage 2 (Collins: 1990-1995) was a commitment to double in size every five years: revenue went from $11B to $27B, plus Iridium, PowerPC and China. Stage 1 hubris peaked around 1995. A senior leader dismissed digital because tens of millions of analog customers 'can't be wrong', and Motorola tried to dictate terms to carriers for its StarTAC analog phone. Rivals (Nokia, Qualcomm-based phones) took the digital market. Motorola fell from nearly 50% world handset share to 17% by 1999 and lost first place to Nokia in 1998. Stage 3: in 1996 Motorola pressed on with Iridium's full launch despite mounting negative evidence. Iridium went live in 1998 and was bankrupt in 1999, costing Motorola more than $2B in charges. Stage 4 (late 1990s to 2003): a bet on wireless broadband and the Internet, the $17B General Instrument acquisition, radical restructurings, three overhauls of the wireless business in four years, and an outside savior CEO in 2003. Nearly 60,000 jobs were cut in 2001-2003. A RAZR-driven rebound in the mid-2000s faded. The company split in 2011, and the handset business was sold to Google (2012) and Lenovo (2014).",
+  "decline_risks_expected": [
+    "Stage 1 (hubris): arrogance about analog leadership ('analog customers can't be wrong'); dictating terms to carriers",
+    "Stage 1: neglect of the primary handset flywheel's renewal (digital transition)",
+    "Stage 2 (undisciplined pursuit of more): goal to double in size every five years",
+    "Stage 2: big parallel bets (Iridium, PowerPC microprocessors, emerging-market expansion)",
+    "Stage 3 (denial of risk): committing to Iridium's full launch despite eroding evidence (big bet without empirical validation)",
+    "Stage 3: blaming pricing pressure and carriers rather than the product gap",
+    "Stage 4 risk: savior acquisitions, 'radical change' programs, outside savior CEO"
+  ],
+  "decline_stage_at_dossier_date": "Stage 1 hubris and the end of Stage 2 (Collins: Stage 2 1990-1995; Stage 1 arrogance evident in 1995). Stage 3, the 1996 Iridium launch commitment, is imminent. Results are at a record.",
+  "greatness_label": 0,
+  "later_history": "StarTAC (analog) launched in January 1996 at about $1,500, with restrictive carrier terms. Ameritech launched digital service with Qualcomm phones in 1997. Motorola's U.S. share fell to 34% by early 1998. 1997 profit was $1.18B. In 1998 there was a $962M net loss, a $1.95B restructuring charge and about 15,000 job cuts, and Nokia became No. 1 in handsets. World share was about 17% by 1999. Iridium launched in 1998 and filed Chapter 11 in August 1999, with more than $2B in Motorola charges. General Instrument was acquired for about $17B (2000). Employment fell from 147,000 to 88,000 in 2001-2003. Chris Galvin resigned in 2003 and outsider Ed Zander became CEO (2004-2008). The RAZR rebound was followed by $4.3B of losses in 2007-2009. The company split in January 2011. Motorola Mobility was sold to Google in 2012 ($12.5B) and to Lenovo in 2014 ($2.91B). Per Collins, stock returns fell more than 50% behind the market from 1995 to 2005.",
+  "notes": "Track B decline test. Dossier dated January 1996, with 1995 full-year figures, rather than the suggested 1995, so the year's results and the end-1995 Iridium commitment are included. StarTAC is described but not named. The 'analog customers' remark was internal in 1995 and only public via BusinessWeek (1998); the dossier presents it as an internal debate. transition_year here is the year the decline became visible to outsiders (the Track B turning point). gtg_transition_year is Collins's Good to Great transition year where one exists."
+}

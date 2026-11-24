@@ -1,0 +1,21 @@
+{
+  "case_id": "A20",
+  "track": "A",
+  "group": "comparison",
+  "real_identity": "Eckerd",
+  "aliases": ["Eckerd", "Eckerd Drugs", "Jack Eckerd Corporation", "Jack Eckerd", "Eckerd Corporation", "J. Byrons", "Stewart Turley"],
+  "as_of_year": 1975,
+  "transition_year": null,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "None. Collins's comparison company never found a unifying concept. It grew by opportunistic acquisitions in drugstores and unrelated fields (department stores, security, food supply, later video rental) and depended on its founder.",
+    "hedgehog_key_points": ["no coherent hedgehog", "should have committed to being the best drugstore operator in its region", "growth by unrelated acquisitions"],
+    "stop_doing": "Stop unrelated diversification (department stores, security services, food-service supply, and later video stores) and concentrate on drugstores.",
+    "stop_doing_key_points": ["exit or stop buying non-drugstore businesses", "stop growth-by-acquisition without a unifying concept"],
+    "leader_type": "Not Level 5. Collins portrays founder Jack Eckerd as a talented, dominant individual (a 'genius with a thousand helpers' pattern) whose attention went to politics; when he stepped away the company had no strong team or concept to carry on.",
+    "brutal_facts": ["the founder is absorbed by politics", "diversified businesses dilute focus and capital", "the largest national chain has entered its home state"]
+  },
+  "later_history": "Jack Eckerd left to head the U.S. General Services Administration in 1975; Stewart Turley became chairman. The 1977 purchase of the North Carolina Eckerd chain made it the second-largest U.S. drug chain (766 stores); sales passed $1B by 1978. Bought a video-store chain in 1980 and sold it, with the department stores, in 1985. Taken private in a Merrill Lynch-led leveraged buyout in 1986; public again in 1993. Bought by J.C. Penney in 1997 ($3.3B), which later closed hundreds of stores and took a $1.3B charge on its sale. Split in 2004 between CVS and Jean Coutu; Rite Aid bought the Jean Coutu stores in 2007 and retired the Eckerd name.",
+  "greatness_label": 0,
+  "notes": "Direct comparison company for A19 (Walgreens). Collins's 'genius with a thousand helpers' characterization of Eckerd is from memory of Ch. 2 and was not verified online; the phrase is quoted as a short label only."
+}

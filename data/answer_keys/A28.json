@@ -1,0 +1,21 @@
+{
+  "case_id": "A28",
+  "track": "A",
+  "group": "unsustained",
+  "real_identity": "Teledyne, Inc.",
+  "aliases": ["Teledyne", "Teledyne Inc.", "Henry Singleton", "Singleton", "George Kozmetsky", "Amelco", "Allegheny Teledyne", "Instrument Systems"],
+  "as_of_year": 1961,
+  "transition_year": 1961,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "None by Collins's standard. Teledyne became a conglomerate of about 130-150 acquired businesses held together by Henry Singleton's capital-allocation genius, not by a field it could be best in the world at. A disciplined hedgehog consistent with Collins would have been the founders' original focus: be best at applying digital electronics and semiconductors to control and information systems, with an economic denominator such as profit per engineering program, grown at a pace a management team could sustain.",
+    "hedgehog_key_points": ["no hedgehog: an acquisition-driven conglomerate", "a narrow field (digital electronics/semiconductors for control and information systems) instead of 130+ unrelated businesses", "depth that does not depend on one genius"],
+    "stop_doing": "Stop buying unrelated companies just because the company's highly valued stock makes them cheap. Stop running the company as a platform for one brilliant individual. Build a management team and successors that can sustain results when the founder steps back.",
+    "stop_doing_key_points": ["stop serial unrelated acquisitions using inflated stock", "stop the genius-with-a-thousand-helpers model", "build a team/successor"],
+    "leader_type": "Collins's model of the 'genius with a thousand helpers' (Henry Singleton, co-founder, CEO 1960-1986, chairman to 1991): an extraordinarily brilliant leader with no Level 5 succession or strong executive team. When he stepped back, results unwound. Secondary summaries of Collins say cumulative returns trailed the market by about 66% within less than ten years.",
+    "brutal_facts": ["tiny and almost entirely dependent on defense contracts", "growth depends on acquisitions rather than an operating base", "everything depends on the founder's judgment"]
+  },
+  "later_history": "Teledyne made 34 acquisitions by FY1965 and about 90 more by 1969. Sales passed $1B in 1969. Around 1970 it stopped buying companies, and from 1972 to 1976 it bought back about 22 million of its own shares; its stock rose roughly 3,000% for holders through 1972-1980. Sales passed $3B in 1980, then stagnated from 1984. Singleton handed the CEO role to George Roberts in 1986 and retired as chairman in 1991. Insurance arms were spun off (Argonaut 1986, Unitrin 1990). In the early 1990s Teledyne faced defense fraud cases and settlements (about $30M) and heavy downsizing. It merged with Allegheny Ludlum in 1996 to form Allegheny Teledyne, and was split into three public companies in 1999.",
+  "greatness_label": 0,
+  "notes": "Unsustained comparison. Dossier dated late 1961, at the end of the first full fiscal year, just after the IPO and before the acquisition-driven rise. Teledyne had no pre-Singleton history, so this is a startup-stage dossier. Caution: under Singleton the outperformance lasted well over 10 years (from about 1961 to the mid-1980s). greatness_label 0 follows Collins's classification (the run collapsed after the leader stepped back) and the assignment instructions; the 10-year rationale is debatable here. Collins's measurement window for Teledyne was not verified."
+}

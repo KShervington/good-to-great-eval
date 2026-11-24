@@ -1,7 +1,584 @@
 {
-  "cases": [
-    {"id": "A01", "track": "A", "group": "great", "dossier": "data/dossiers/A01.md", "split": "dev", "recognizable": null, "dry_run": true},
-    {"id": "A02", "track": "A", "group": "comparison", "dossier": "data/dossiers/A02.md", "split": "dev", "recognizable": null, "dry_run": true},
-    {"id": "D01", "track": "D", "group": "synthetic_good", "dossier": "data/dossiers/D01.md", "split": "dev", "recognizable": false, "dry_run": true}
-  ]
+ "cases": [
+  {
+   "id": "A01",
+   "track": "A",
+   "group": "great",
+   "dossier": "data/dossiers/A01.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": true,
+   "cluster": "E04"
+  },
+  {
+   "id": "A02",
+   "track": "A",
+   "group": "comparison",
+   "dossier": "data/dossiers/A02.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": true,
+   "cluster": "E04"
+  },
+  {
+   "id": "A03",
+   "track": "A",
+   "group": "great",
+   "dossier": "data/dossiers/A03.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "E03"
+  },
+  {
+   "id": "A04",
+   "track": "A",
+   "group": "comparison",
+   "dossier": "data/dossiers/A04.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "E03"
+  },
+  {
+   "id": "A05",
+   "track": "A",
+   "group": "great",
+   "dossier": "data/dossiers/A05.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "B01"
+  },
+  {
+   "id": "A06",
+   "track": "A",
+   "group": "comparison",
+   "dossier": "data/dossiers/A06.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "B01"
+  },
+  {
+   "id": "A07",
+   "track": "A",
+   "group": "great",
+   "dossier": "data/dossiers/A07.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "B02"
+  },
+  {
+   "id": "A08",
+   "track": "A",
+   "group": "comparison",
+   "dossier": "data/dossiers/A08.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "B02"
+  },
+  {
+   "id": "A09",
+   "track": "A",
+   "group": "great",
+   "dossier": "data/dossiers/A09.md",
+   "split": "heldout",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "A09"
+  },
+  {
+   "id": "A10",
+   "track": "A",
+   "group": "comparison",
+   "dossier": "data/dossiers/A10.md",
+   "split": "heldout",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "A09"
+  },
+  {
+   "id": "A11",
+   "track": "A",
+   "group": "great",
+   "dossier": "data/dossiers/A11.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "A11"
+  },
+  {
+   "id": "A12",
+   "track": "A",
+   "group": "comparison",
+   "dossier": "data/dossiers/A12.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "A11"
+  },
+  {
+   "id": "A13",
+   "track": "A",
+   "group": "great",
+   "dossier": "data/dossiers/A13.md",
+   "split": "heldout",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "E01"
+  },
+  {
+   "id": "A14",
+   "track": "A",
+   "group": "comparison",
+   "dossier": "data/dossiers/A14.md",
+   "split": "heldout",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "E01"
+  },
+  {
+   "id": "A15",
+   "track": "A",
+   "group": "great",
+   "dossier": "data/dossiers/A15.md",
+   "split": "heldout",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "E05"
+  },
+  {
+   "id": "A16",
+   "track": "A",
+   "group": "comparison",
+   "dossier": "data/dossiers/A16.md",
+   "split": "heldout",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "E05"
+  },
+  {
+   "id": "A17",
+   "track": "A",
+   "group": "great",
+   "dossier": "data/dossiers/A17.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "A17"
+  },
+  {
+   "id": "A18",
+   "track": "A",
+   "group": "comparison",
+   "dossier": "data/dossiers/A18.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "A17"
+  },
+  {
+   "id": "A19",
+   "track": "A",
+   "group": "great",
+   "dossier": "data/dossiers/A19.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "E02"
+  },
+  {
+   "id": "A20",
+   "track": "A",
+   "group": "comparison",
+   "dossier": "data/dossiers/A20.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "E02"
+  },
+  {
+   "id": "A21",
+   "track": "A",
+   "group": "great",
+   "dossier": "data/dossiers/A21.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "B03"
+  },
+  {
+   "id": "A22",
+   "track": "A",
+   "group": "comparison",
+   "dossier": "data/dossiers/A22.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "B03"
+  },
+  {
+   "id": "A23",
+   "track": "A",
+   "group": "unsustained",
+   "dossier": "data/dossiers/A23.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "A23"
+  },
+  {
+   "id": "A24",
+   "track": "A",
+   "group": "unsustained",
+   "dossier": "data/dossiers/A24.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "A24"
+  },
+  {
+   "id": "A25",
+   "track": "A",
+   "group": "unsustained",
+   "dossier": "data/dossiers/A25.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "A25"
+  },
+  {
+   "id": "A26",
+   "track": "A",
+   "group": "unsustained",
+   "dossier": "data/dossiers/A26.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "A26"
+  },
+  {
+   "id": "A27",
+   "track": "A",
+   "group": "unsustained",
+   "dossier": "data/dossiers/A27.md",
+   "split": "heldout",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "B04"
+  },
+  {
+   "id": "A28",
+   "track": "A",
+   "group": "unsustained",
+   "dossier": "data/dossiers/A28.md",
+   "split": "heldout",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "A28"
+  },
+  {
+   "id": "B01",
+   "track": "B",
+   "group": "fallen",
+   "dossier": "data/dossiers/B01.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "B01"
+  },
+  {
+   "id": "B02",
+   "track": "B",
+   "group": "fallen",
+   "dossier": "data/dossiers/B02.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "B02"
+  },
+  {
+   "id": "B03",
+   "track": "B",
+   "group": "fallen",
+   "dossier": "data/dossiers/B03.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "B03"
+  },
+  {
+   "id": "B04",
+   "track": "B",
+   "group": "fallen",
+   "dossier": "data/dossiers/B04.md",
+   "split": "heldout",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "B04"
+  },
+  {
+   "id": "B05",
+   "track": "B",
+   "group": "fallen",
+   "dossier": "data/dossiers/B05.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "B05"
+  },
+  {
+   "id": "B06",
+   "track": "B",
+   "group": "fallen",
+   "dossier": "data/dossiers/B06.md",
+   "split": "heldout",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "B06"
+  },
+  {
+   "id": "B07",
+   "track": "B",
+   "group": "fallen",
+   "dossier": "data/dossiers/B07.md",
+   "split": "heldout",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "B07"
+  },
+  {
+   "id": "B08",
+   "track": "B",
+   "group": "fallen",
+   "dossier": "data/dossiers/B08.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "B08"
+  },
+  {
+   "id": "B09",
+   "track": "B",
+   "group": "fallen",
+   "dossier": "data/dossiers/B09.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "B03"
+  },
+  {
+   "id": "C01",
+   "track": "C",
+   "group": "great",
+   "dossier": "data/dossiers/C01.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "C01"
+  },
+  {
+   "id": "C02",
+   "track": "C",
+   "group": "comparison",
+   "dossier": "data/dossiers/C02.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "C01"
+  },
+  {
+   "id": "D01",
+   "track": "D",
+   "group": "synthetic_good",
+   "dossier": "data/dossiers/D01.md",
+   "split": "dev",
+   "recognizable": false,
+   "dry_run": true,
+   "cluster": "D01"
+  },
+  {
+   "id": "D02",
+   "track": "D",
+   "group": "synthetic_good",
+   "dossier": "data/dossiers/D02.md",
+   "split": "dev",
+   "recognizable": false,
+   "dry_run": false,
+   "cluster": "D02"
+  },
+  {
+   "id": "D03",
+   "track": "D",
+   "group": "synthetic_good",
+   "dossier": "data/dossiers/D03.md",
+   "split": "dev",
+   "recognizable": false,
+   "dry_run": false,
+   "cluster": "D03"
+  },
+  {
+   "id": "D04",
+   "track": "D",
+   "group": "synthetic_good",
+   "dossier": "data/dossiers/D04.md",
+   "split": "heldout",
+   "recognizable": false,
+   "dry_run": false,
+   "cluster": "D04"
+  },
+  {
+   "id": "D05",
+   "track": "D",
+   "group": "synthetic_not_yet_good",
+   "dossier": "data/dossiers/D05.md",
+   "split": "dev",
+   "recognizable": false,
+   "dry_run": false,
+   "cluster": "D05"
+  },
+  {
+   "id": "D06",
+   "track": "D",
+   "group": "synthetic_good",
+   "dossier": "data/dossiers/D06.md",
+   "split": "dev",
+   "recognizable": false,
+   "dry_run": false,
+   "cluster": "D06"
+  },
+  {
+   "id": "D07",
+   "track": "D",
+   "group": "synthetic_good",
+   "dossier": "data/dossiers/D07.md",
+   "split": "heldout",
+   "recognizable": false,
+   "dry_run": false,
+   "cluster": "D07"
+  },
+  {
+   "id": "D08",
+   "track": "D",
+   "group": "synthetic_good",
+   "dossier": "data/dossiers/D08.md",
+   "split": "heldout",
+   "recognizable": false,
+   "dry_run": false,
+   "cluster": "D08"
+  },
+  {
+   "id": "D09",
+   "track": "D",
+   "group": "synthetic_good",
+   "dossier": "data/dossiers/D09.md",
+   "split": "dev",
+   "recognizable": false,
+   "dry_run": false,
+   "cluster": "D09"
+  },
+  {
+   "id": "D10",
+   "track": "D",
+   "group": "synthetic_good",
+   "dossier": "data/dossiers/D10.md",
+   "split": "dev",
+   "recognizable": false,
+   "dry_run": false,
+   "cluster": "D10"
+  },
+  {
+   "id": "D11",
+   "track": "D",
+   "group": "synthetic_good",
+   "dossier": "data/dossiers/D11.md",
+   "split": "dev",
+   "recognizable": false,
+   "dry_run": false,
+   "cluster": "D11"
+  },
+  {
+   "id": "D12",
+   "track": "D",
+   "group": "synthetic_gate0_fail",
+   "dossier": "data/dossiers/D12.md",
+   "split": "dev",
+   "recognizable": false,
+   "dry_run": false,
+   "cluster": "D12"
+  },
+  {
+   "id": "E01",
+   "track": "E",
+   "group": "already_great",
+   "dossier": "data/dossiers/E01.md",
+   "split": "heldout",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "E01"
+  },
+  {
+   "id": "E02",
+   "track": "E",
+   "group": "already_great",
+   "dossier": "data/dossiers/E02.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "E02"
+  },
+  {
+   "id": "E03",
+   "track": "E",
+   "group": "already_great",
+   "dossier": "data/dossiers/E03.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "E03"
+  },
+  {
+   "id": "E04",
+   "track": "E",
+   "group": "already_great",
+   "dossier": "data/dossiers/E04.md",
+   "split": "dev",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "E04"
+  },
+  {
+   "id": "E05",
+   "track": "E",
+   "group": "already_great",
+   "dossier": "data/dossiers/E05.md",
+   "split": "heldout",
+   "recognizable": null,
+   "dry_run": false,
+   "cluster": "E05"
+  },
+  {
+   "id": "E06",
+   "track": "E",
+   "group": "already_great",
+   "dossier": "data/dossiers/E06.md",
+   "split": "dev",
+   "recognizable": false,
+   "dry_run": false,
+   "cluster": "E06"
+  },
+  {
+   "id": "E07",
+   "track": "E",
+   "group": "already_great_drifting",
+   "dossier": "data/dossiers/E07.md",
+   "split": "dev",
+   "recognizable": false,
+   "dry_run": false,
+   "cluster": "E07"
+  }
+ ]
 }

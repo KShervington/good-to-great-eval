@@ -1,0 +1,21 @@
+{
+  "case_id": "A17",
+  "track": "A",
+  "group": "great",
+  "real_identity": "Pitney Bowes",
+  "aliases": ["Pitney Bowes", "Pitney-Bowes", "PB", "Fred Allen", "Walter Wheeler", "Monarch Marking", "Alpex"],
+  "as_of_year": 1973,
+  "transition_year": 1973,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "Become the best in the world at providing sophisticated mailing and messaging machines, and the services around them, that help the back offices of businesses run efficiently, building on its deep relationship with every meter customer. Economic denominator: profit per customer (not per postage meter).",
+    "hedgehog_key_points": ["sophisticated back-office mailing/messaging equipment and services", "leverage the installed customer base and service relationship", "profit per customer"],
+    "stop_doing": "Pull back from the computer and retail point-of-sale venture and do not try to beat large computer and copier giants in general office automation; redeploy around mailing and closely related back-office products sold to the same customers.",
+    "stop_doing_key_points": ["exit the point-of-sale / computer venture (Alpex)", "do not chase general office automation against giants", "stop defining the business as postage meters alone"],
+    "leader_type": "Level 5 (Fred Allen, CEO from the early 1970s, followed by George Harvey; a disciplined, low-ego leadership team)",
+    "brutal_facts": ["the meter monopoly is eroding under the free-license consent decree", "meters are a mature, regulated business", "the point-of-sale diversification failed and cost $42M", "copiers face a much stronger incumbent"]
+  },
+  "later_history": "1973-1988 cumulative stock returns about 7.16x the general market (per Collins). Bought Dictaphone (1979, $124M; sold 1995), led U.S. fax placements in the 1980s (about 45% of the corporate fax market by 1990), and kept over 90% of the U.S. meter market. Revenue passed $4B by the late 1990s. From the 2000s, mail volume fell with email and electronic billing; the company shrank, sold units, cut its dividend sharply in 2013 and again in 2019, and faced an activist proxy fight in 2023. A long fade rather than a sudden collapse.",
+  "greatness_label": 1,
+  "notes": "Track A matched pair with A18 (Addressograph). Hedgehog and stop-doing are paraphrased from memory of Collins Ch. 5; exact Pitney wording not verified online. Fred Allen confirmed as one of Collins's Level 5 CEOs (jimcollins.com); his exact start date as CEO was not verified."
+}

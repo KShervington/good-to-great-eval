@@ -1,0 +1,54 @@
+{
+  "case_id": "D02",
+  "track": "D",
+  "group": "synthetic_good",
+  "real_identity": null,
+  "aliases": [],
+  "subject_kind": "startup",
+  "as_of_year": null,
+  "transition_year": null,
+  "expected_gate_fail": null,
+  "planted": {
+    "brutal_fact": "The cheap machine supply that makes the unit economics work is about to end. 288 of 403 refurbished units (about 71%) came from Delmar, which sources them from the Harrow's Grill remodel program (section 3). In a separate market note (section 6), Harrow's says the remodel program is in its final third, with about 118 of 610 locations left and completion by the end of its next fiscal year. Delmar units land at $1,140; the alternatives are $2,700-$3,600 at auction or $7,650 new. Using the dossier's own figures (subscription contribution of about $173/month = 63% of $274; capitalized cost of $1,140 + $610 refurb + $380 install = $2,130), payback per placed machine is roughly 12 months on Delmar units, about 24 months on auction units and about 46 months on new units. Growth plans (162 placements this year, a third metro) assume a supply channel that is running out. The dossier never connects these facts.",
+    "brutal_fact_key_points": [
+      "about 71% of refurbished units (288/403) came via Delmar from the Harrow's Grill remodels",
+      "the Harrow's remodel program is nearly finished (118 of 610 left, done by end of next fiscal year)",
+      "replacement units cost 2.4-6.7x more, so payback per machine roughly doubles or worse; expansion plans rest on the cheap supply"
+    ],
+    "distraction": "The Larchmont Hospitality service-only contract ($412k/yr, 2-hour response with penalties, OEM conveyor machines, 3 new certified techs and $90k of parts). It is attractive: signed LOI, no capital, fills 63% technician utilization, championed by a credible ex-OEM head of field service and two board members. But it is a different business (servicing hotels' manufacturer-brand conveyor machines rather than owning and servicing machines for independents), its 2-hour penalty SLA would pull technicians away from the 4-hour promise that drives the brand ('fast'), and it absorbs leadership attention while the supply problem is unaddressed. A secondary distraction is opening a third metro in the spring while the east territory still misses the 4-hour promise on 19% of calls.",
+    "distraction_key_points": [
+      "decline (or not prioritize) the Larchmont hotel service-only contract",
+      "(secondary) delay the third metro until supply and east-territory service are solved"
+    ],
+    "missing_metric": "Customer (logo) churn and average account lifetime, and therefore lifetime value. The dossier gives accounts at two points (143 and 236) and machines placed (162, including redeployed units), but not new accounts won, accounts lost, or machines returned. Restaurants close often, so this is the metric an analyst most wants. Making it up = deriving a churn rate from 143 + new - 236 with an assumed number of new accounts, treating the 162 placements as new accounts, using an industry restaurant-failure rate as Corvane's churn, or stating an LTV figure without an [ASSUMPTION] tag.",
+    "missing_metric_key_points": [
+      "account churn / customer lifetime / LTV is missing and should be requested",
+      "must not compute churn from 143, 236 and 162 placements, or assume a restaurant failure rate, without an [ASSUMPTION] tag"
+    ]
+  },
+  "reference_hedgehog": "Be the most reliable 'clean dishes, guaranteed' service for independent restaurants in dense metros: owned, refurbished machines with fast local service, where Corvane can be best because of its refurb shop and technician density. Economic denominator: contribution (or payback) per placed machine, which forces attention on machine acquisition cost. Passion: a team of ex-restaurant and service people who care about the 4-hour promise.",
+  "hedgehog_key_points": [
+    "independent restaurants, dense local territories",
+    "owned/refurbished machines plus fast service as the bundle",
+    "per-machine denominator (contribution, payback or cash return per placed machine)"
+  ],
+  "reference_stop_doing": "Decline the Larchmont service-only contract; hold the third metro until a replacement machine supply is secured and the east territory meets the 4-hour promise; stop treating field labor as outside gross margin when judging unit economics; stop planning placements on the assumption that $1,140 units will keep coming.",
+  "stop_doing_key_points": [
+    "decline the hotel service-only contract",
+    "pause the third metro",
+    "stop planning growth on Delmar-priced units"
+  ],
+  "reference_brutal_facts": [
+    "the Delmar/Harrow's supply that provides most units at $1,140 is ending within about a year",
+    "east territory misses the 4-hour promise on about 19% of calls",
+    "reported gross margin excludes field-technician labor"
+  ],
+  "leader_type": "Founder-CEO with strong customer instinct and sales drive (Level 3/4: decisive, expansion-minded). The COO argues for depth before breadth. Not clearly Level 5.",
+  "decline_risks_expected": [
+    "Stage 2 - undisciplined pursuit of more: hotel service contract and a third metro",
+    "Stage 3 - denial of risk and peril: expansion planned on a cheap-supply channel that is ending"
+  ],
+  "greatness_label": 1,
+  "later_history": null,
+  "notes": "Synthetic. Advisor-memo form. Brutal fact requires joining section 3 (Delmar share of supply) with section 6 (Harrow's remodel nearly done) and the cost figures. Distraction championed by a credible ex-OEM head of field service and two board members."
+}

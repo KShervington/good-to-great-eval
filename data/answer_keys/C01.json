@@ -1,0 +1,21 @@
+{
+  "case_id": "C01",
+  "track": "C",
+  "group": "great",
+  "real_identity": "Stryker Corporation",
+  "aliases": ["Stryker", "Stryker Corporation", "Orthopedic Frame Company", "Stryker Frame", "Homer Stryker", "Lee Stryker", "John W. Brown", "John Brown"],
+  "as_of_year": 1977,
+  "transition_year": 1977,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "Great by Choice states no Good to Great-style Hedgehog for Stryker. Its central lesson for Stryker is the 20 Mile March: a self-imposed goal of 20% net-income growth every year, held in bad years and also enforced as a ceiling in boom years. The substance, from independent histories: rebuild a specialist, commission-paid sales force; add formal budgets and goal-setting; grow from a bed-heavy equipment maker into higher-value surgical and orthopedic products (power tools, then hip implants via acquisition) run as autonomous divisions. Economic denominator: annual net-income growth.",
+    "hedgehog_key_points": ["consistent ~20% annual earnings-growth target held in good and bad years (20 Mile March)", "rebuild a specialist, commission-based sales force", "grow beyond hospital beds into higher-value surgical/orthopedic products", "formal budgets, cost discipline and managerial goal-setting"],
+    "stop_doing": "Stop the salaried sales model that left the company with virtually no sales force. Stop founder-style centralized, informal management. Do not chase growth leaps above the march in boom years.",
+    "stop_doing_key_points": ["end the salaried sales arrangement / restore commission selling", "replace centralized informal control with budgets, goals (later autonomous divisions)", "restraint: do not overreach beyond the growth march"],
+    "leader_type": "10Xer with Level 5 traits (John Brown): fanatic discipline (the 20% goal as 'the law'), empirical and unflashy, held back in good times despite criticism. Note: unlike most Good to Great Level 5 leaders he was an outside hire, from a surgical-instrument subsidiary of a large drug company.",
+    "brutal_facts": ["virtually no functioning sales force after the switch to salaries", "almost 70% of sales concentrated in hospital beds and stretchers", "leadership vacuum after the president's death; founder-centric decision-making with no formal budgets", "small family company ($17.3M sales) while implant-based orthopedics is growing and the company makes no implants"]
+  },
+  "later_history": "John Brown was CEO from February 1977 to 2003. Stryker went public in 1979, bought Osteonics (hip implants) in 1979, and divisionalized in 1980. Sales were $36M in 1980, about $100M in 1985 and about $280M in 1990. It was on Forbes's list of the best small companies for ten straight years from 1981. Per Collins and Hansen, it met its 20% net-income growth goal more than 90% of the time from 1977 to 1998 (excluding a 1990 extraordinary gain). It bought Howmedica from Pfizer for $1.9B in 1998. Under Brown, revenue rose from about $17M to $6.7B (Wikipedia). It is one of the seven 10X companies in Great by Choice.",
+  "greatness_label": 1,
+  "notes": "Track C matched pair with C02 (U.S. Surgical), the Great by Choice comparison company. Dossier date: February 1977, the month Brown was named CEO. Brown's 20% goal is deliberately left out of the dossier because it is the answer. Sources disagree on whether it was set on his appointment (Stryker's own timeline) or announced at the 1979 IPO (company histories). The Hedgehog is a paraphrase built from Great by Choice's 20 Mile March account plus independent histories. Collins gives no Stryker Hedgehog."
+}

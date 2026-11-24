@@ -1,0 +1,57 @@
+{
+  "case_id": "B09",
+  "track": "B",
+  "group": "fallen",
+  "already_great": true,
+  "real_identity": "BankAmerica Corporation (Bank of America, before the 1998 NationsBank merger)",
+  "aliases": [
+    "Bank of America",
+    "BankAmerica",
+    "BofA",
+    "Bank of Italy",
+    "A.W. Clausen",
+    "Tom Clausen",
+    "Samuel Armacost",
+    "A.P. Giannini",
+    "BankAmericard"
+  ],
+  "as_of_year": 1980,
+  "transition_year": 1985,
+  "gtg_transition_year": null,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "Collins gives none for BofA. Its founding concept (HTMF) was the Giannini model: serve the 'little guy' (small savers, farmers, small businesses) through a branch network across California, loan by loan and branch by branch. Wells Fargo, its success contrast, ran the bank like a business with profit per employee as the denominator. Our reconstruction: be the best retail and small-business bank in its home state, with profit per employee (cost discipline) as the denominator, not asset growth.",
+    "hedgehog_key_points": [
+      "home-state retail and small-business banking (the Giannini franchise)",
+      "profit per employee / cost discipline, not asset size",
+      "prepare for deregulation: lower costs, tighter credit"
+    ],
+    "stop_doing": "Stop using asset growth as the measure of success. Stop decentralized, fast-growing lending to developing countries, farms and construction, and stop funding long fixed-rate mortgages with short deposits. Cut the costly branch and bureaucracy base before deposit-rate deregulation removes the cheap-deposit cushion. Do not answer decline with a revolution: avoid a charismatic change-agent CEO and silver-bullet acquisitions.",
+    "stop_doing_key_points": [
+      "stop asset growth as the goal",
+      "stop risky decentralized lending growth (LDC, farm, construction) and rate-mismatched mortgages",
+      "cut costs ahead of deregulation; no 'revolution' or savior CEO"
+    ],
+    "leader_type": "Collins does not rate A.W. Clausen as Level 5. HTMF places his 1970s 'action'-driven growth push in Stage 2. The successor the board chose in December 1980, 41-year-old Samuel Armacost, is Collins's example of bold, charismatic change failing (Change or Die). Clausen's return in 1986 with former Wells Fargo officers began the recovery.",
+    "brutal_facts": [
+      "deregulation will remove the cheap-deposit advantage, and money funds are already draining deposits",
+      "the branch network makes costs among the highest in the industry",
+      "rapid foreign, farm and construction lending is untested credit risk",
+      "long fixed-rate mortgages funded short are exposed to high and volatile rates"
+    ]
+  },
+  "decline_mechanism": "Collins uses BofA to open HTMF. In 1980 it was the world's largest bank, admired for its management, yet on the cusp of catastrophic decline. Stage 2 (Collins: 1970-1979): a huge international push with decentralized foreign lending, assets doubled and doubled again, a venture-capital partnership, and late-1970s growth in fixed-rate mortgages, farm, construction and developing-country loans. A culture of entitlement and bureaucracy (about 100 loan committees and up to 15 signatures per loan) eroded responsibility. Deregulation and high rates in the early 1980s exposed the costs and the credit risk. In Stage 4 the new CEO, Armacost, pursued bold change: the Schwab and Seafirst acquisitions, a crash ATM program, a $5B technology program, encounter-group culture change and the end of lifetime employment. Losses still came: 1985-1987 brought some of the biggest in U.S. banking history, the first dividend cut in 53 years, the sale of the headquarters and a hostile bid from First Interstate. Armacost resigned in 1986 and Clausen returned, bringing in ex-Wells Fargo executives. BofA recovered from Stage 4 and became profitable again from 1988. It did not die, but it was acquired by NationsBank in 1998, which took its name.",
+  "decline_risks_expected": [
+    "Stage 1 (hubris): 'world's largest bank' entitlement; reputation for superb management taken for granted",
+    "Stage 2 (undisciplined pursuit of more): asset growth as the goal (doubling, then nearly doubling again)",
+    "Stage 2: decentralized international and developing-country lending growth",
+    "Stage 2: late-1970s growth in fixed-rate mortgages, farm and construction loans",
+    "Stage 2/3: bureaucracy subverting responsibility (loan committees, many signatures)",
+    "Stage 3 (denial of risk): deregulation and rate risk discounted; high-cost branch base",
+    "Stage 4 risk: a charismatic change-agent CEO, a 'revolution' culture program and acquisitions as silver bullets"
+  ],
+  "decline_stage_at_dossier_date": "End of Stage 2 (Collins: 1970-1979), entering Stage 3. Record profits (more than $600M) and acclaim. The CEO succession choice is the next decision.",
+  "greatness_label": 0,
+  "later_history": "Clausen became World Bank president in July 1981, and Samuel Armacost became CEO. Armacost bought Charles Schwab ($55M, 1983) and Seafirst ($400M, 1983, crippled by bad energy loans), ran a $100M ATM crash program, launched culture-change programs and ended lifetime employment. In 1985 BofA lost $337M, its first loss since 1932. The dividend was suspended and the headquarters sold for $660M. In Q2 1986 it lost $640M. First Interstate made a hostile bid. Armacost resigned and Clausen returned in October 1986. In 1987 a $1.1B reserve was taken against Latin American loans, and Schwab was sold back for $280M. Per Collins, cumulative stock returns fell more than 80% behind the market. Profit of $726M came in 1988 and the dividend resumed in 1989. Security Pacific was acquired in 1992. NationsBank acquired BankAmerica in 1998 for about $62B and took the Bank of America name.",
+  "notes": "Track B decline test. HTMF classes BofA as recovering from Stage 4, but the label stays 0 because it fell from great and was later absorbed. BofA is also Wells Fargo's Track A comparison at a different date (1983). The dossier is dated late 1980, after Clausen's World Bank nomination (October 1980) and before the December 1980 successor announcement. Exact 1979-80 net income and assets come only from Collins's chart ('more than $600 million') and the HBR quote (about $100B). transition_year here is the year the decline became visible to outsiders (the Track B turning point). gtg_transition_year is Collins's Good to Great transition year where one exists."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "A15",
+  "track": "A",
+  "group": "great",
+  "real_identity": "Philip Morris",
+  "aliases": ["Philip Morris", "Philip Morris Companies", "Altria", "Marlboro", "Marlboro Man", "Joseph Cullman", "Joe Cullman", "Benson & Hedges", "Parliament"],
+  "as_of_year": 1964,
+  "transition_year": 1964,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "Become the best in the world at building powerful brand image and loyalty in cigarettes (starting with Marlboro), then extending the same brand-building skill globally. Economic denominator: profit per global brand category. Passion: its people genuinely loved the company and its products.",
+    "hedgehog_key_points": ["brand building / brand loyalty in cigarettes (Marlboro)", "global expansion of the brands", "profit per global brand category", "passion for the business among its people"],
+    "stop_doing": "Concentrate money and talent on a few brand franchises (above all Marlboro) and international growth, rather than spreading across many weak brands and small unrelated diversifications. Collins notes the later 7-Up purchase as a stray outside the hedgehog that the company itself came to regret.",
+    "stop_doing_key_points": ["concentrate on Marlboro and a few strong brands", "do not spread into scattered unrelated diversification", "(later) 7-Up was a mistake outside the hedgehog"],
+    "leader_type": "Level 5 (Joseph Cullman III: tobacco-family executive who built a strong team and backed the Marlboro relaunch and international push; credited others, stayed out of the limelight)",
+    "brutal_facts": ["smallest of the six majors, far behind R.J. Reynolds", "the Surgeon General's report threatens the whole category", "most of the brand portfolio is weak; only the relaunched Marlboro is gaining"]
+  },
+  "later_history": "1964-1979 cumulative stock returns about 7.06x the general market (per Collins). Marlboro became the world's best-selling cigarette by 1972 and the top U.S. brand by 1976. Bought Miller Brewing (1969-70), Seven-Up (1978, $520M; sold in the mid-1980s after it failed), General Foods (1985), Kraft (1988) and Nabisco (2000). Passed R.J. Reynolds as the largest U.S. cigarette maker in the early-to-mid 1980s. Tobacco litigation: joined the 1998 Master Settlement Agreement with 46 states (about $206B over 25 years, industry-wide); hit by the Florida Engle class-action verdict (about $145B in punitive damages, 2000, later thrown out on appeal); found liable in the federal racketeering case (U.S. v. Philip Morris, 2006) for decades of deceiving the public about smoking's dangers. Admitted in 1999 that smoking causes lung cancer. Renamed Altria in 2003; spun off Kraft (2007) and Philip Morris International (2008).",
+  "greatness_label": 1,
+  "notes": "Track A matched pair with A16 (R.J. Reynolds). greatness_label follows Collins's financial criterion; the company's products and conduct were the subject of massive litigation. Stop-doing is reconstructed (Collins does not single out one PM exit at 1964)."
+}

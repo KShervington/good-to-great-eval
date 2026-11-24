@@ -1,0 +1,53 @@
+{
+  "case_id": "B04",
+  "track": "B",
+  "group": "fallen",
+  "already_great": true,
+  "real_identity": "Rubbermaid",
+  "aliases": [
+    "Rubbermaid",
+    "Rubbermaid Incorporated",
+    "Wolfgang Schmitt",
+    "Stanley Gault",
+    "Little Tikes",
+    "Newell Rubbermaid"
+  ],
+  "as_of_year": 1994,
+  "transition_year": 1995,
+  "gtg_transition_year": null,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "Collins names none for Rubbermaid. In GTG it is an unsustained comparison: its rise under Stanley Gault depended on one leader. In HTMF its Stage 2 (1980-1993) was growth through frenetic innovation. A consistent hedgehog (our reconstruction): be the best maker of well-designed, durable plastic household products for mass retail, with profit per product line (or per SKU) as the denominator. Innovation should serve that, not volume of launches.",
+    "hedgehog_key_points": [
+      "durable, well-designed household products (not every category)",
+      "innovation in service of profit per product line, not launch counts",
+      "operational excellence (cost, order fill) as part of the engine"
+    ],
+    "stop_doing": "Stop the 15%-compounded growth target and the one-new-product-a-day and new-category-every-12-to-18-months goals. Prune the product line to what can be made and delivered with excellence. Fix cost control and order fulfilment before adding more. Avoid acquisitions and new categories that do not fit.",
+    "stop_doing_key_points": [
+      "drop the 15%/double-every-five-years growth target",
+      "stop one-product-a-day and new-category-every-12-18-months; prune SKUs",
+      "fix cost control and on-time fulfilment first"
+    ],
+    "leader_type": "GTG: Stanley Gault was a Level 4 'sincere tyrant' whose team was left weak when he left. Collins does not rate Wolfgang Schmitt, but HTMF quotes his 1994 'our vision is to grow' agenda as Stage 2. Not Level 5.",
+    "brutal_facts": [
+      "growth and launch targets exceed the company's ability to execute (cost, order fill)",
+      "about 14% of sales go to one giant discount retailer with growing power over suppliers",
+      "the main raw material (resin) is volatile and has recently spiked",
+      "Gault's departure left a shallow bench"
+    ]
+  },
+  "decline_mechanism": "Rubbermaid was named Fortune's most admired company in America in 1994. Collins dates its Stage 2 to 1980-1993. Revenue grew more than sixfold and earnings nearly fifteenfold, and the company aimed for a new product every day and a new category every 12 to 18 months, plus 15% compounded growth. In 1994-1995 resin costs nearly doubled in 18 months. Choking on nearly a thousand new products in three years, the company failed at basic mechanics such as cost control and filling orders on time. Retailers, notably Wal-Mart, pushed back on price increases and gave shelf space to cheaper rivals. In Q4 1995 it posted its first loss in decades. A first restructuring followed: about 6,000 product variations cut, nine plants closed, 1,170 jobs eliminated. Then came a large acquisition (Graco), the sale of office products, an Internet bet, a second restructuring and new incentive schemes, which are classic Stage 4 moves. It sold itself to Newell in October 1998, Stage 5 within about five years of its peak.",
+  "decline_risks_expected": [
+    "Stage 1 (hubris): 'most admired' status and innovation acclaim taken as permanent; discounting luck (low resin prices)",
+    "Stage 2 (undisciplined pursuit of more): 15% compounded growth goal (double every five years)",
+    "Stage 2: frenetic innovation, one new product a day, new category every 12-18 months, SKU proliferation",
+    "Stage 2: growth outrunning operational excellence (cost control, order fill) and the right people after Gault",
+    "Stage 3 (denial of risk): reliance on passing cost increases to powerful retailers; resin volatility discounted",
+    "Stage 4 risk: restructurings, acquisitions, and new bets in rapid succession"
+  ],
+  "decline_stage_at_dossier_date": "End of Stage 2 (Collins: 1980-1993), on the edge of Stage 3. Record sales and earnings and the Most Admired title are current. The resin spike and the first loss are still ahead.",
+  "greatness_label": 0,
+  "later_history": "Resin prices began rising in spring 1994 and roughly doubled. 1995 brought record sales but profits down 74% with a $158M restructuring charge, and a Q4 1995 loss. Nine plants were closed and 1,170 jobs cut. In 1996, 45% of SKUs (10% of sales) were eliminated. Wal-Mart shifted shelf space to the cheaper Sterilite. Graco was bought for $320M in 1996. Office products were sold to Newell for $246.5M in 1997. Profits declined further and a second restructuring followed. On 21 October 1998 Newell agreed to buy Rubbermaid for about $5.8B in stock (a 49% premium to the prior close). The deal closed in March 1999 and the company became Newell Rubbermaid. HTMF counts it as Stage 2 to Stage 5 in about five years.",
+  "notes": "Track B decline test. Rubbermaid also appears in Track A as an unsustained comparison at an earlier date (Gault era). Dossier dated February-March 1994 rather than 1993: the Fortune Most Admired cover (7 Feb 1994) and FY1993 10-K are knowable, and the resin rise starts in spring 1994. Encyclopedia.com says #1 in 1993 and 1994; the Feb 1994 #1 is confirmed, 1993 is not. transition_year here is the year the decline became visible to outsiders (the Track B turning point). gtg_transition_year is Collins's Good to Great transition year where one exists."
+}

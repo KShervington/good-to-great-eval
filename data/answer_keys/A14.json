@@ -1,0 +1,21 @@
+{
+  "case_id": "A14",
+  "track": "A",
+  "group": "comparison",
+  "real_identity": "Bethlehem Steel",
+  "aliases": ["Bethlehem Steel", "Bethlehem", "Bethlehem Steel Corporation", "Martin Tower", "Burns Harbor", "Sparrows Point"],
+  "as_of_year": 1975,
+  "transition_year": null,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "None. Collins's comparison company never confronted that it could not be the low-cost producer with its integrated cost structure. It kept defending the old model with price increases and calls for import protection instead of choosing what it could be best at.",
+    "hedgehog_key_points": ["no coherent hedgehog", "should confront that integrated steel cannot win on cost against minimills and imports, and narrow to where it can be best"],
+    "stop_doing": "Stop relying on price increases and government protection from imports, and stop the hierarchical executive culture (rank-based offices and perks). Confront the cost gap with imports and minimills directly.",
+    "stop_doing_key_points": ["stop blaming imports / seeking protection as the strategy", "stop executive perks and class hierarchy", "stop protecting high-cost capacity by default"],
+    "leader_type": "Not Level 5. Collins describes a status-bound executive class (a headquarters designed to give more executives corner offices, perks tied to rank) and a leadership that pushed for protection from imports rather than facing its own cost problem.",
+    "brutal_facts": ["integrated mills are high-cost against minimills and modern foreign mills", "1974 record profits came from price increases and inventory building, not durable advantage", "labor and legacy costs are locked in", "minimills are taking the bar market"]
+  },
+  "later_history": "Posted a net operating loss of more than $448 million in the late 1970s (1977, per most accounts) amid plant cutbacks. Lost about $1.5B in 1982 and $1.9B over 1982-85; ended steelmaking at Lackawanna in 1983; a new chairman cut executive pay and perks (company jets, limousines) and nearly halved the workforce by 1984. Brief recovery in 1987-88. Filed for Chapter 11 in 2001; its assets were sold to International Steel Group in 2003 and the company dissolved. The PBGC took over its pension obligations, the largest such takeover in U.S. history. Its headquarters tower was demolished in 2019.",
+  "greatness_label": 0,
+  "notes": "Direct comparison company for A13 (Nucor). Dossier date matched to Nucor's 1975 transition."
+}

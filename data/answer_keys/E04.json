@@ -1,0 +1,35 @@
+{
+  "case_id": "E04",
+  "track": "E",
+  "group": "already_great",
+  "real_identity": "Kimberly-Clark",
+  "aliases": ["Kimberly-Clark", "Kimberly Clark", "K-C", "Kleenex", "Huggies", "Darwin Smith", "Wayne Sanders", "Midwest Express"],
+  "as_of_year": 1991,
+  "transition_year": 1972,
+  "expected_gate_fail": null,
+  "already_great": true,
+  "waive_checks": ["stop_doing_5"],
+  "collins": {
+    "hedgehog": "The one K-C already lives by since selling the mills: be the best in the world at paper-based consumer products (tissue, diapers, training pants, feminine and adult care), competing head-on with P&G through brands and product innovation. The economic denominator is profit per consumer brand.",
+    "hedgehog_key_points": ["paper-based consumer products", "win through brands and innovation against P&G", "profit per consumer brand"],
+    "stop_doing": "Restraint decision: do not change the core strategy, and do not invent a new one. Refuse the tempting moves the dossier makes visible: stop funding the airline's expansion and the aviation-services business. They are profitable and growing but have nothing to do with the hedgehog. Put no growth capital into newsprint, printing papers or tobacco papers, and plan an orderly exit or spin-off, finishing the job begun with the mill sales. Any large move, including acquisitions and Europe, should stay inside consumer paper products. Keep the succession inside the consumer-products culture.",
+    "stop_doing_key_points": ["do not expand the airline / aviation services; plan exit", "no growth capital for newsprint / printing / tobacco papers", "stay inside consumer paper products; no new diversification"],
+    "leader_type": "Level 5 (Darwin Smith), with an insider successor (Wayne Sanders) already named",
+    "brutal_facts": ["P&G is larger and still leads overall diaper share", "commodity paper and pulp businesses still tie up capital", "the airline is a growing distraction precisely because it is succeeding", "Europe is a capital-heavy push against entrenched rivals", "CEO succession after 20 years"]
+  },
+  "early_warning_signs": [
+    "capital flowing to non-consumer businesses because they are profitable this year",
+    "large restructuring charges recurring year after year",
+    "integration trouble after a big acquisition",
+    "falling profit per brand in Europe or against private label",
+    "the commodity pulp cycle driving results"
+  ],
+  "decline_risks_expected": [],
+  "risks_faced_and_handled": [
+    "Non-core businesses: the cigarette-paper business was spun off as Schweitzer-Mauduit (1995), the airline was sold via IPO (1995) and secondary offering (1996), K-C Aviation was sold (1998), and most pulp and newsprint was exited by 1997-1999.",
+    "Scott Paper merger (1995, $9.4B): a $1.4B charge and about 6,000 layoffs, a further restructuring in 1997 (about $810M pre-tax, about 7% of the workforce), and an SEC-prompted restatement of merger charges for 1996-1998. This was integration pain, not a How-the-Mighty-Fall decline."
+  ],
+  "greatness_label": 1,
+  "later_history": "Sanders became CEO in December 1991 and chairman in 1992. 1992 net income fell to $135M because of restructuring and accounting-change charges, then recovered to $511M (1993) and $535M (1994). In 1995 the company merged with Scott Paper ($9.4B), becoming #2 in paper products worldwide, and spun off its tobacco papers. It exited the airline in 1995-96 and most commodity pulp and paper by 1997-99. It added medical products (Tecnol, Ballard, Safeskin) in 1997-99. Sales were about $14B in 2000. Annual share returns were positive in every year 1991-2000 except 1993, and roughly in line with the S&P 500 over the decade. 2001-2002 were negative years. Per Collins, K-C returned 3.42 times the market over 15 years after its transition.",
+  "notes": "Track E control. This is the same company as A01 (1971) at a later date. Keep A01 and E04 in the same dev/held-out split. Transition year: Collins's appendix gives K-C's 15-year window as starting 1972 (3.42x). A01 uses 1971, Darwin Smith's first year as CEO, so the lead should reconcile the two. The documented temptation is real: K-C launched Midwest Express in 1984 out of its corporate flight department and was funding a $120M expansion around 1989-91. The 1990s returns are market-level rather than market-beating (statmuse annual returns compounded vs S&P 500 total return). This is a caveat on 'stayed great', but there was no decline stage."
+}

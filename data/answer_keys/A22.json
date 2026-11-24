@@ -1,0 +1,21 @@
+{
+  "case_id": "A22",
+  "track": "A",
+  "group": "comparison",
+  "real_identity": "Bank of America",
+  "aliases": ["Bank of America", "BankAmerica", "BofA", "Bank of Italy", "BankAmericard", "Sam Armacost", "Samuel Armacost", "Tom Clausen", "A.W. Clausen"],
+  "as_of_year": 1983,
+  "transition_year": null,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "None. Collins's comparison company met deregulation with a growth-for-size mindset and a slow, hierarchical response. It did not confront its cost problem or choose what it could be best at, and suffered large losses in the mid-1980s.",
+    "hedgehog_key_points": ["no coherent hedgehog", "growth for size rather than profitability", "should cut costs and narrow to where it can be best"],
+    "stop_doing": "Stop pursuing size and new ventures for their own sake; cut overhead and executive perks; stop lending into sectors and countries it did not understand.",
+    "stop_doing_key_points": ["stop growth-for-size and new ventures as the answer", "cut overhead, branches and executive perks", "stop risky energy/shipping/LDC lending"],
+    "leader_type": "Not Level 5. Collins describes a 'weak generals, strong lieutenants' model under which executives kept their perks and the bank reacted slowly to deregulation; CEO Sam Armacost (1981-86) was replaced after heavy losses.",
+    "brutal_facts": ["highest overhead in the industry", "low-rate mortgage book drags on earnings as rates rise", "deregulation removes its cheap-deposit advantage", "energy, shipping, farm and Third World loans are going bad"]
+  },
+  "later_history": "Rescued the failing Seattle-based Seafirst in 1983. Lost a record $337M in 1985 and $640M in the second quarter of 1986; suspended its dividend; losses ran through 1987. Rejected a hostile bid from First Interstate (1986). Armacost resigned in 1986 and Tom Clausen returned; the bank sold Schwab (1987) and other units and returned to profit in 1988 ($726M). Merged with Security Pacific (1992), then was acquired by NationsBank (1998), which took the Bank of America name. Bought Countrywide and Merrill Lynch in 2008, took TARP aid, and paid a nearly $17B mortgage-securities settlement in 2014.",
+  "greatness_label": 0,
+  "notes": "Direct comparison company for A21 (Wells Fargo). Bank of America is also a Track B (How the Mighty Fall) candidate at ~1980; keep both in the same split. The 'weak generals, strong lieutenants' phrase is a short label from Collins, not a long quotation."
+}

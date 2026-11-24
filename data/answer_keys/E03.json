@@ -1,0 +1,35 @@
+{
+  "case_id": "E03",
+  "track": "E",
+  "group": "already_great",
+  "real_identity": "Abbott Laboratories",
+  "aliases": ["Abbott", "Abbott Laboratories", "Abbott Labs", "Duane Burnham", "TAP Pharmaceuticals", "Ross Laboratories", "Similac"],
+  "as_of_year": 1995,
+  "transition_year": 1974,
+  "expected_gate_fail": null,
+  "already_great": true,
+  "waive_checks": ["stop_doing_5"],
+  "collins": {
+    "hedgehog": "The one Abbott already lives by. It accepted that it could not be the best pure pharmaceutical company, and chose to be the best at building a portfolio of products that make health care more cost-effective: diagnostics, hospital products, nutritionals and selected drugs, with high shares in chosen niches. The economic denominator is profit per employee (as recalled from Collins; see sources).",
+    "hedgehog_key_points": ["cost-effective health-care products portfolio", "not trying to out-research the biggest pharma companies", "profit per employee"],
+    "stop_doing": "Restraint decision: keep the portfolio and the financial discipline. Refuse the tempting moves the dossier makes visible: a megamerger to reach big-pharma research scale, or buying a pharmacy benefit manager because rivals are doing it. Do not raise R&D sharply to chase blockbuster discovery against bigger rivals. Keep growing from niches where it can lead. The one change needed preserves the core rather than adding a new strategy: fix the diagnostics quality-system problems now, before they damage the franchise.",
+    "stop_doing_key_points": ["do not join the merger / PBM-acquisition wave", "do not pivot to pure research-pharma scale", "fix diagnostics quality now (preservation, not new strategy)"],
+    "leader_type": "Collins credits transition-era CEO George Cain with building the right team, breaking with family nepotism (recalled from the book, not verified verbatim). At the dossier date Duane Burnham is a disciplined insider CEO who followed a board ouster. Collins does not classify him; null is acceptable.",
+    "brutal_facts": ["regulators have flagged quality-control problems at the diagnostics plants since 1993", "cost containment and managed care are squeezing prices", "rivals are consolidating and buying PBMs", "it is smaller than the top research-based drugmakers"]
+  },
+  "early_warning_signs": [
+    "unresolved FDA quality findings in diagnostics (denial of risk)",
+    "large acquisitions outside the cost-effective-portfolio logic, done for size",
+    "compliance risk in joint ventures and sales practices",
+    "a slowing earnings streak masked by one-time items"
+  ],
+  "decline_risks_expected": [],
+  "risks_faced_and_handled": [
+    "Diagnostics quality: in November 1999 Abbott agreed to withdraw 125 diagnostic test kits and pay a $100 million civil penalty over problems the FDA had flagged since 1993. This was the clearest early-warning sign in the dossier, and it was handled by remediation rather than a strategic pivot.",
+    "Acquisition temptation: Abbott agreed to buy ALZA for $7.3B in 1999, but the deal was abandoned after FTC concerns. It bought Knoll for $6.9B in 2000, which brought Humira.",
+    "Compliance: the TAP joint venture paid $875M in 2001 to settle Lupron pricing and kickback charges."
+  ],
+  "greatness_label": 1,
+  "later_history": "Abbott remained a leading diversified health-care company. Its consecutive-earnings-increase streak continued through the late 1990s, and Prevacid (via TAP, 1995) became a $1B+ product. Miles White became CEO in 1998-99. Setbacks followed: the 1999 diagnostics penalty and product withdrawal, the failed ALZA deal, and the 2001 TAP settlement. Abbott bought Knoll (2000-01), whose adalimumab became Humira (approved 2002) and later the world's best-selling drug. It spun off its hospital products business as Hospira in 2004. Per Collins, Abbott returned 3.98 times the market over 15 years from its 1974 transition. Shareholder returns from 1995 to 2005 were roughly in line with the market (my estimate, unverified). There was no How-the-Mighty-Fall-style decline.",
+  "notes": "Borderline Track E control. There is no stage 3-5 decline, but the 1999 diagnostics penalty shows a stage-3-like 'denial of risk' symptom inside one division, and stock returns from 1995 to 2005 were about market-level. It is kept because the company stayed a leader, its earnings and dividends kept growing, and the problems were handled without a strategic lurch. The lead may swap it out if a cleaner control is preferred. The dossier date is early 1995, using full-year 1994 results."
+}

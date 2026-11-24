@@ -3,19 +3,35 @@
   "track": "A",
   "group": "comparison",
   "real_identity": "Scott Paper",
-  "aliases": ["Scott Paper", "Scott", "ScotTissue", "Waldorf", "Scott Towels"],
+  "aliases": [
+    "Scott Paper",
+    "Scott",
+    "ScotTissue",
+    "Waldorf",
+    "Scott Towels"
+  ],
   "as_of_year": 1971,
   "transition_year": null,
   "expected_gate_fail": null,
   "collins": {
     "hedgehog": "None. Collins's comparison company had no Hedgehog Concept. It drifted into unrelated diversification and failed to choose and defend a field it could be best at against P&G.",
-    "hedgehog_key_points": ["no coherent hedgehog", "should narrow to a core it can be best at (consumer tissue/towels) or admit it cannot beat P&G"],
+    "hedgehog_key_points": [
+      "no coherent hedgehog",
+      "should narrow to a core it can be best at (consumer tissue/towels) or admit it cannot beat P&G"
+    ],
     "stop_doing": "Stop unrelated diversification (furniture, audio-visual aids, coatings) and stop treating past dominance as a strategy. Confront P&G's entry.",
-    "stop_doing_key_points": ["exit or stop unrelated acquisitions", "stop relying on past dominance and list-price cuts"],
+    "stop_doing_key_points": [
+      "exit or stop unrelated acquisitions",
+      "stop relying on past dominance and list-price cuts"
+    ],
     "leader_type": "Not Level 5. A leadership vacuum followed by a series of chairmen; later the outsider 'Chainsaw' Al Dunlap (1994), whom Collins cites as the opposite of Level 5.",
-    "brutal_facts": ["falling return on equity and earnings", "P&G's national entry into premium tissue with superior softness", "acquisitions worth about $200M that are not profitable"]
+    "brutal_facts": [
+      "falling return on equity and earnings",
+      "P&G's national entry into premium tissue with superior softness",
+      "acquisitions worth about $200M that are not profitable"
+    ]
   },
   "later_history": "Lost ground to P&G (Charmin) and other rivals through the 1970s-80s. A disastrous capacity expansion in 1990. Record loss of $277M in 1993. Dunlap cut about one third of the workforce and sold more than $2B in assets in 1994. Absorbed by Kimberly-Clark in 1995 and ceased to exist as an independent company.",
   "greatness_label": 0,
-  "notes": "Direct comparison company for A01."
+  "notes": "Direct comparison company for A01. Collins's appendix gives K-C's transition as 1972 (window 1972-87); the dossier is dated 1971, just before it."
 }

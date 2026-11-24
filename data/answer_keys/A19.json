@@ -1,0 +1,21 @@
+{
+  "case_id": "A19",
+  "track": "A",
+  "group": "great",
+  "real_identity": "Walgreens",
+  "aliases": ["Walgreens", "Walgreen", "Walgreen Co.", "Cork Walgreen", "Charles Walgreen III", "Globe", "Wag's", "Corky's"],
+  "as_of_year": 1975,
+  "transition_year": 1975,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "Become the best, most convenient drugstores, with high profit per customer visit: dense clusters of stores on the best corners so a customer is never far from one, plus services such as convenient pharmacy. Economic denominator: profit per customer visit (not per store).",
+    "hedgehog_key_points": ["best, most convenient drugstores", "profit per customer visit", "store density / prime locations", "pure drugstore focus"],
+    "stop_doing": "Exit food service entirely (the restaurants and lunch counters the company had run for decades), which Cork Walgreen committed to doing within five years; also exit the discount department stores.",
+    "stop_doing_key_points": ["exit restaurants / food service", "exit discount department stores (Globe)", "concentrate capital on convenient drugstores"],
+    "leader_type": "Level 5 (Charles 'Cork' Walgreen III: modest family heir, set the hedgehog and drove the exit from restaurants against family tradition)",
+    "brutal_facts": ["net margin is very low and earnings have stalled while sales doubled", "capital is spread across restaurants and discount stores", "discount stores are losing money in the recession"]
+  },
+  "later_history": "1975-1990 cumulative stock returns about 7.34x the general market (per Collins). Liquidated the Globe discount stores in 1976. Cut in-store restaurants from 231 (1979) to 119 (1984) and sold its Wag's restaurants to Marriott in 1988. Linked all stores by satellite pharmacy network in the 1980s; opened its 1,000th store in 1984 and 4,000th in 2003, with freestanding stores and drive-through pharmacies. Later decline: merged into Walgreens Boots Alliance (2014); the Theranos blood-testing partnership collapsed (2016); paid billions in opioid-related settlements (about $5.7B nationally in 2022); profits and share price fell sharply in the 2020s with mass store closures; taken private by Sycamore Partners in 2025.",
+  "greatness_label": 1,
+  "notes": "Track A matched pair with A20 (Eckerd). Walgreen's fiscal 1974 annual report (archive.org) supplies the dossier's financial table."
+}

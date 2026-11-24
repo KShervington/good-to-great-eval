@@ -1,0 +1,29 @@
+{
+  "case_id": "D08",
+  "track": "D",
+  "group": "synthetic_good",
+  "real_identity": null,
+  "aliases": [],
+  "subject_kind": "nonprofit",
+  "as_of_year": null,
+  "transition_year": null,
+  "expected_gate_fail": null,
+  "planted": {
+    "brutal_fact": "The jump in the win rate (81% to 93%) is largely a selection effect, and EHDC's reach is shrinking just as need grows. The Q2 screening protocol routes cases without a viable defense or a rental-assistance match to the advice desk, whose outcomes are not tracked. Full-representation cases fell from 1,688 to 1,274 while county eviction filings rose from 6,152 to 7,486, so the share of filings EHDC fully represents fell from about 27% to about 17%. The hardest cases, the ones full representation exists for, are the ones being screened out. None of this is stated in the dossier: it emerges only by combining the intake change (report section 3), the case counts (section 2) and the county filing figures (program officer's notes), and by doubting the 'two vacancies' explanation (two of sixteen attorney slots cannot explain a 25% case drop alongside a 12-point win-rate gain).",
+    "brutal_fact_key_points": ["win-rate rise coincides with a screening protocol that filters for winnable cases (selection effect)", "coverage of county filings fell from ~27% to ~17% while filings rose ~22%", "the hardest cases are diverted to an advice desk whose outcomes are untracked"],
+    "distraction": "The Homeownership Pathways program: $735K over three years from the board treasurer's bank, with an 18% indirect allowance that would close the deficit, backed by an exit survey (41% interested) and bank volunteers. It is first-time-buyer counseling, outside eviction defense, and pulls leadership attention away from the coverage problem. Secondary: doubling the policy unit for a statewide campaign.",
+    "distraction_key_points": ["decline (or do not launch) the Homeownership Pathways program", "(secondary) do not double the policy unit / statewide campaign now"],
+    "missing_metric": "Cost per full-representation case (and per household kept housed). Expenses are reported only as program / management / fundraising, not split across full representation, the advice desk and the policy unit, so no per-case cost can be derived. Dividing total expenses ($3.441M) or any assumed program share by 1,274 cases (about $2,700 per case) counts as making it up, unless clearly marked [ASSUMPTION] and not used as a finding. Secondary acceptable flag: advice-desk outcomes are not tracked.",
+    "missing_metric_key_points": ["cost per case / per household housed by program is missing", "must not divide total expenses by case count to produce a cost per case without [ASSUMPTION]"]
+  },
+  "reference_hedgehog": "Be the best in the county at keeping tenants facing eviction housed through full legal representation, including the hard cases rather than only the winnable ones. Economic denominator: households stably housed per attorney-year (or per dollar). Passion: lawyers from public defense who believe everyone facing loss of their home deserves a lawyer.",
+  "hedgehog_key_points": ["full representation for tenants facing eviction in one county", "coverage of the hard cases, not just win rate", "denominator such as households housed per attorney-year or per dollar"],
+  "reference_stop_doing": "Decline Homeownership Pathways despite the indirect-cost money. Stop managing to the win rate: revisit the screening protocol so full representation reaches the cases that most need it, and measure share of filings covered. Hold the policy unit at its current size until coverage recovers.",
+  "stop_doing_key_points": ["decline the Homeownership Pathways program", "revisit or stop the win-rate-optimizing screening protocol", "do not expand the policy unit now"],
+  "leader_type": "Founder-ED with Level 5 humility (credits the attorneys, candid) but weak on will at the board level: she avoids hard asks and let the treasurer drive the bank proposal, and she accepted the flattering 93% without probing it. Level 4/5 borderline.",
+  "reference_brutal_facts": ["the win-rate gain is a selection effect from the screening protocol", "share of county eviction filings fully represented fell from ~27% to ~17% while filings rose", "running a deficit on thin reserves (3.1 months) makes the bank money tempting"],
+  "decline_risks_expected": ["undisciplined pursuit of more (Homeownership Pathways, policy expansion)", "denial of risk and peril (reading the screened win rate as success)"],
+  "greatness_label": 1,
+  "later_history": "Fictional: EHDC declined the bank program, rewrote intake to take the highest-arrears cases first, and began reporting share of filings covered. The win rate fell to the mid-80s but coverage and housed households rose, and the county expanded the contract at renewal. It became the county's reference model for tenant representation over the following decade.",
+  "notes": "Grant report plus program-officer notes. Brutal fact requires combining three scattered details and doubting the stated explanation for the case drop. Distraction has a credible bank-executive advocate, survey evidence and deficit-closing money."
+}

@@ -1,0 +1,37 @@
+{
+  "case_id": "E01",
+  "track": "E",
+  "group": "already_great",
+  "real_identity": "Nucor",
+  "aliases": ["Nucor", "Nucor Corporation", "Nuclear Corporation of America", "Vulcraft", "Ken Iverson", "John Correnti"],
+  "as_of_year": 1996,
+  "transition_year": 1975,
+  "expected_gate_fail": null,
+  "already_great": true,
+  "waive_checks": ["stop_doing_5"],
+  "collins": {
+    "hedgehog": "The one Nucor already lives by: be the lowest-cost, highest-productivity steelmaker in its chosen products. It does this by combining an egalitarian, pay-for-performance culture with early adoption of new minimill technology (thin-slab casting). The economic denominator is profit per ton of finished steel.",
+    "hedgehog_key_points": ["culture plus technology to make low-cost steel", "profit per ton of finished steel", "stay a steel / minimill company"],
+    "stop_doing": "Restraint decision: keep the model. That means a lean headquarters, four management layers, team production bonuses, cutting hours instead of laying people off, greenfield mills built on new technology, and a focus on steel only. Refuse the tempting moves the dossier makes visible. Do not answer the capacity glut and the falling share price by diversifying beyond steel. Do not copy integrated mills (blast furnaces, more management layers, a bigger head office). Do not scale up the unproven iron-carbide venture: treat it as a bounded experiment and cut it if it does not work. Any growth move, including a future acquisition, must be something the Nucor system can run. Growth for its own sake does not qualify.",
+    "stop_doing_key_points": ["preserve culture, incentive pay and lean HQ / few layers", "no diversification outside steel and no blast furnaces", "keep iron carbide a contained experiment; do not double down"],
+    "leader_type": "Level 5 (Ken Iverson: plain, modest and ambitious for the company rather than himself). The succession to Correnti is an insider handover that keeps continuity.",
+    "brutal_facts": ["the minimill model is being copied: about 10 new rival mills, roughly +40% capacity", "scrap cost and supply are volatile", "sheet prices are falling and the stock is down more than 30% from its peak", "the iron-carbide plant is late, over budget and unreliable", "the chairman of 30 years is stepping back"]
+  },
+  "early_warning_signs": [
+    "board or management pressure for 'new moves' to restore growth rates (diversifying beyond steel, blast furnaces, foreign ventures)",
+    "adding management layers or headquarters staff",
+    "diluting production-team bonuses or the no-layoff practice",
+    "putting more money into the iron-carbide plant before it works",
+    "profit per ton falling relative to rivals",
+    "buying mills that cannot run the Nucor culture"
+  ],
+  "decline_risks_expected": [],
+  "risks_faced_and_handled": [
+    "The Trinidad iron-carbide plant failed (a 'white elephant' per trade press) and was not scaled up.",
+    "In 1999 the board forced out Iverson and then Correnti, and the new chairman proposed acquisitions, global expansion, blast furnaces, non-steel diversification and extra layers. Nucor never diversified outside steel or built blast furnaces. It added a thin executive layer and pursued steel acquisitions (Birmingham Steel, Trico and others) in the 2001-2003 downturn.",
+    "Earnings fell to $63M in 2003 during the steel crisis but stayed positive every year."
+  ],
+  "greatness_label": 1,
+  "later_history": "Correnti became CEO in January 1996. Sales rose from $3.46B (1995) to $4.3B (1998) and stayed profitable every year through the 1998-2003 steel crisis that bankrupted many US producers (2003 trough: $62.8M). Boardroom changes came in 1999: Iverson was forced out, Correnti was voted out in June, and Aycock and then DiMicco (2000) took over. Nucor bought distressed steel assets in 2001-2003. It set records in 2004-2006: 2006 sales $14.75B and net earnings $1.76B. Its first full-year loss came in 2009, more than 10 years after the dossier date. It never diversified outside steel.",
+  "notes": "Track E 'already great' control. The dossier date is early 1996, using full-year 1995 results; the brief asked for about 1995. The tempting moves visible at that date are the iron-carbide raw-materials venture and the pressure from overcapacity and the falling share price. The non-steel diversification and blast-furnace ideas became an explicit board agenda in 1999. That is later history, so it is not in the dossier. The 1999 proxy shows NUE lagged the S&P 500 sharply from 1993 to 1998 (index 84 vs 294). I did not verify stock returns over the whole 1996-2006 window. The label rests on operating results: profitable every year and records in 2004-2006. The probe may recognize thin-slab casting and iron carbide."
+}

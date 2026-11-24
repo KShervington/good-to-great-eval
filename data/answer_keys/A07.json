@@ -1,0 +1,21 @@
+{
+  "case_id": "A07",
+  "track": "A",
+  "group": "great",
+  "real_identity": "Fannie Mae (Federal National Mortgage Association)",
+  "aliases": ["Fannie Mae", "FNMA", "Federal National Mortgage Association", "David Maxwell", "David O. Maxwell"],
+  "as_of_year": 1984,
+  "transition_year": 1984,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "Become best in the world at anything that touches the capital markets for mortgages, and especially at assessing and managing mortgage risk, rather than acting as a thrift-like holder of fixed-rate loans. The economy runs on profit per mortgage risk level, not profit per mortgage. The passion is helping people of all kinds become homeowners.",
+    "hedgehog_key_points": ["mortgage capital markets (securitization, MBS, guarantees)", "best at assessing/managing mortgage risk", "profit per mortgage risk level", "passion for democratizing home ownership"],
+    "stop_doing": "Stop the borrow-short, lend-long interest-rate bet of holding fixed-rate mortgages funded with short-term debt. Shed unprofitable mortgages, move to adjustable-rate loans and mortgage-backed securities, and match assets with liabilities. Also remove executives who would not meet the new standard, before setting strategy.",
+    "stop_doing_key_points": ["stop the maturity-mismatch (borrow short, lend long) model", "sell unprofitable mortgages / stop holding unhedged fixed-rate risk", "replace executives who don't fit before choosing strategy"],
+    "leader_type": "Level 5 (David Maxwell: a quiet lawyer and former mortgage-insurance CEO who put 'who' before 'what'. He required A-level people giving A-plus effort, and 14 of 26 executives left. He later gave up part of his retirement package to fund low-income housing).",
+    "brutal_facts": ["losing about $1 million per business day", "a large book of mortgages yielding less than the cost of funds (underwater)", "the business model was an unhedged interest-rate bet"]
+  },
+  "later_history": "Profitable again by 1985. Maxwell retired in 1991 with the company earning about $4 million a day; his $27M retirement package drew congressional criticism. Collins reports cumulative returns nearly 8x the market (about 7.56x) for 1984-1999. Later it took on more leverage and credit risk. In 2004 OFHEO alleged widespread accounting errors; CEO Raines left, and earnings were restated by $6.3B. Exposure to the housing-bubble collapse led to conservatorship under FHFA on 7 September 2008, with Treasury taking warrants for 79.9%. The shares were delisted from the NYSE in 2010. It is a How the Mighty Fall case.",
+  "greatness_label": 1,
+  "notes": "Track A matched pair with A08 (Great Western). greatness_label = 1 because it stayed great for 15+ years after 1984, before its 2008 collapse. The transition year 1984 is consistent with the 1984-1999 window in Collins's own article. Maxwell became CEO in 1981, so the dossier (early 1984) is about 2.5 years into his tenure. The dossier leaves out the executive turnover because the only source for it is Collins. The early-1980s annual loss figures could not be confirmed from free sources."
+}

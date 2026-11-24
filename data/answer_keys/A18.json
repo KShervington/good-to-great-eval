@@ -1,0 +1,21 @@
+{
+  "case_id": "A18",
+  "track": "A",
+  "group": "comparison",
+  "real_identity": "Addressograph-Multigraph",
+  "aliases": ["Addressograph", "Addressograph-Multigraph", "AM International", "AM", "Multilith", "Varityper", "Roy Ash"],
+  "as_of_year": 1973,
+  "transition_year": null,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "None. Collins's comparison company started in a position similar to Pitney Bowes (an entrenched office-equipment franchise of similar size) but never found what it could be best at. Its later CEO pursued a grand vision of dominating office automation against far stronger rivals, and the company lurched between strategies.",
+    "hedgehog_key_points": ["no coherent hedgehog", "should narrow to where it could be best (e.g. quick-print duplicating niches) instead of a grand office-automation vision"],
+    "stop_doing": "Stop chasing leadership in electronic office automation against giants; stop trying to defend every legacy line. Narrow to the niches where it could be best and fund only those.",
+    "stop_doing_key_points": ["do not bet the company on beating IBM/Xerox-class rivals in office automation", "exit or shrink lines it cannot lead"],
+    "leader_type": "Not Level 5. Collins cites Roy Ash (CEO from 1976) as a charismatic, high-ego leader with a grand vision to dominate office automation; the bet drained the company and the board pushed him out in 1981.",
+    "brutal_facts": ["plain-paper copying is replacing duplicating", "computers are replacing plate-based addressing", "growth has stalled since the late 1960s"]
+  },
+  "later_history": "Roy Ash became chairman and CEO in September 1976, made deep cuts, moved headquarters from Cleveland to Los Angeles (1978) to project a high-tech image, and renamed the company AM International (1979). Earned only $5.8M on $909.6M of sales in 1980, then posted severe losses. Ash left in 1981; the Addressograph unit was sold in late 1981. Filed for Chapter 11 in April 1982 and closed its Cleveland plant; reorganized in 1984; went bankrupt again in 1993; bought by an investor group in 1996.",
+  "greatness_label": 0,
+  "notes": "Direct comparison company for A17 (Pitney Bowes). Pre-1976 company data is thin on the open web; the dossier uses only what could be sourced and lists the rest as missing."
+}

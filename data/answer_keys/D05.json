@@ -1,0 +1,54 @@
+{
+  "case_id": "D05",
+  "track": "D",
+  "group": "synthetic_not_yet_good",
+  "real_identity": null,
+  "aliases": [],
+  "subject_kind": "solo_founder_product",
+  "as_of_year": null,
+  "transition_year": null,
+  "expected_gate_fail": 1,
+  "planted": {
+    "brutal_fact": "There is no working core and no evidence of pull beyond the founder's own circle. Refill sync, the feature interviewees value most (Q5), works for exactly one pharmacy, the one near the founder's father's house, fed by a weekly email the founder loads by hand (Q3). Chain-pharmacy access has been pending since August, and the founder calls it the biggest risk (Q11). So in practice the headline feature works only for her own family's circle. Only 7 of 41 circles are weekly active (Q4); one is her own family (Q2), and the first users came from her support group and former colleagues (Q5). Revenue is 3 subscribers at $6.99. The dossier never connects these facts.",
+    "brutal_fact_key_points": [
+      "refill sync (the most-wanted feature) works only for one pharmacy, near her father's, via a manual weekly export",
+      "only 7 of 41 circles are weekly active, including her own family; early users are from her personal network",
+      "no meaningful revenue (3 subscribers) and the chain-pharmacy dependency is outside her control"
+    ],
+    "distraction": "Pivot to selling Tessel to employers as a caregiving benefit. It looks attractive: a credible advocate (a benefits-consultancy VP with 20 years of placements), $3-$5 per employee per month pricing, a 1-in-5 caregiver statistic, and a named 1,800-employee manufacturer willing to pilot (roughly $65k-$108k a year at those rates). But the pilot requires an admin dashboard, SSO, anonymized reporting and a human-staffed concierge, built by a solo founder before the consumer core works for anyone outside her family. That would be building a second product on top of one that is not yet good.",
+    "distraction_key_points": [
+      "do not pivot to (or build for) the employer-benefits channel now",
+      "focus first on proving the core (refill/medication coordination) works and retains families outside her network"
+    ],
+    "missing_metric": "Retention for families outside the founder's network, i.e. cohort retention (for example week-4 or week-8 active circles by sign-up cohort, excluding friends and family). The dossier gives 318 accounts, 41 circles and 7 weekly active circles, with no cohorts and no split by source. Making it up = presenting 7/41 (17%) or 7/318 (2%) as a retention rate, or estimating organic retention by subtracting an assumed number of friend and family circles, without an [ASSUMPTION] tag.",
+    "missing_metric_key_points": [
+      "cohort retention of non-network users is missing and should be requested",
+      "must not present 7/41 or 7/318 as a retention rate without an [ASSUMPTION] tag"
+    ]
+  },
+  "reference_hedgehog": "Not yet: the subject should fail Gate 1 (not yet good), so no confident Hedgehog is warranted. A working hypothesis to test: help the one exhausted primary caregiver (usually a daughter) never miss a parent's medication or refill after a hospital discharge. Candidate denominator: retained active care circles per month. The passion is genuine and personal.",
+  "hedgehog_key_points": [
+    "states that the subject is not yet good / fails Gate 1 and a Hedgehog is premature",
+    "if a hypothesis is offered: medication and refill coordination for the primary caregiver",
+    "the path to good is proving retention outside the founder's network and a working refill feature"
+  ],
+  "reference_stop_doing": "Stop or decline the employer-benefits build; defer the Android version and hiring until retention is proven; stop treating the pitch prize, newsletter size and app rating as traction; stop waiting passively on aggregator access (find a workaround or test with manual refill tracking across more pharmacies).",
+  "stop_doing_key_points": [
+    "decline the employer pivot for now",
+    "defer Android and hiring",
+    "stop counting vanity signals as traction"
+  ],
+  "reference_brutal_facts": [
+    "the core feature works only for the founder's own family",
+    "7 weekly active circles, largely from the founder's network",
+    "about 17 months of personal runway, with the key dependency (pharmacy data access) outside her control"
+  ],
+  "leader_type": "Sympathetic, resourceful solo founder with deep personal motivation and humility (Level 2/3 individual contributor). Has not yet faced the brutal facts; inclined to treat external validation as progress.",
+  "decline_risks_expected": [
+    "Stage 4 - grasping for salvation: an employer-benefits pivot before the core works",
+    "Stage 3 - denial of risk and peril: treating pitch prizes, newsletter size and a social worker's referrals as traction"
+  ],
+  "greatness_label": 0,
+  "later_history": null,
+  "notes": "Synthetic, NOT YET GOOD. The skill should fail it at Gate 1. Accelerator-application form. Sympathetic signals (prize, newsletter, social worker referrals, 4.9 rating) are real but are not traction. Brutal fact requires joining Q2, Q3, Q4 and Q5."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "A27",
+  "track": "A",
+  "group": "unsustained",
+  "real_identity": "Rubbermaid",
+  "aliases": ["Rubbermaid", "Rubbermaid Incorporated", "Wooster Rubber Company", "Stanley Gault", "Gault", "Newell Rubbermaid"],
+  "as_of_year": 1980,
+  "transition_year": 1980,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "Collins names none. Rubbermaid's rise depended on Stanley Gault personally driving discipline and a stream of new products. A disciplined hedgehog consistent with Collins would have been to be the best in the world at durable, well-designed rubber and plastic products for home and commercial use, sold through mass retail. It would need cost discipline strong enough to absorb resin swings and serve big retailers, and an economic denominator such as profit per product line (or per pound of resin) rather than the number of new products.",
+    "hedgehog_key_points": ["no hedgehog: the rise was imposed by one leader", "durable plastic household/commercial products it can be best at", "a cost-disciplined, per-product-line economic denominator rather than new-product count"],
+    "stop_doing": "Stop relying on a tyrant-style leader to impose discipline; build a culture of discipline that outlasts him. Exit marginal lines (party-plan direct selling, automotive, European industrial). Stop measuring success by new-product volume. Build a strong successor and team before the CEO leaves.",
+    "stop_doing_key_points": ["stop discipline-by-tyrant / build a culture and bench", "exit marginal divisions (party plan, automotive)", "stop chasing new-product volume without cost discipline"],
+    "leader_type": "Level 4. Collins describes Stanley Gault (CEO 1980-1991) as an outside, hard-driving, egocentric leader who called himself a 'sincere tyrant'. He disciplined the company by force of personality and left a shallow team. Rubbermaid rose from obscurity to the top of Fortune's most-admired list, then fell apart within a few years of his departure.",
+    "brutal_facts": ["the company is spread across divisions with different channels and weak returns (party plan, automotive, recreational failure)", "margins are exposed to petrochemical (resin) cost swings", "a complacent culture despite steady growth"]
+  },
+  "later_history": "Gault sold the party-plan and automotive divisions, cut about half of middle management, pushed new products and bought Little Tikes (1984), among others. Sales rose from about $309M to about $1.5B in his decade. Rubbermaid was named Fortune's 'most admired' company in 1993 and 1994. Gault left for Goodyear in 1991. His successors, Walter Williams (1991-1992) and Wolfgang Schmitt (1992-1999), ran into a resin price spike in 1994-1995, customer losses and retailer friction. In 1995 Rubbermaid took its first-ever restructuring charge ($158M; nine plants closed). Newell bought it in 1999 for about $6B, forming Newell Rubbermaid.",
+  "greatness_label": 0,
+  "notes": "Unsustained comparison. Dossier dated early 1980 (sources differ on whether Gault was named in 1979 or 1980). This precedes the Gault-era rise and is distinct from the Track B Rubbermaid case dated around 1993."
+}

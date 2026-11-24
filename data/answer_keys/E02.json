@@ -1,0 +1,35 @@
+{
+  "case_id": "E02",
+  "track": "E",
+  "group": "already_great",
+  "real_identity": "Walgreens",
+  "aliases": ["Walgreens", "Walgreen Co.", "Walgreen", "Cork Walgreen", "Charles Walgreen III", "Dan Jorndt"],
+  "as_of_year": 1995,
+  "transition_year": 1975,
+  "expected_gate_fail": null,
+  "already_great": true,
+  "waive_checks": ["stop_doing_5"],
+  "collins": {
+    "hedgehog": "The one Walgreens already lives by: be the best, most convenient drugstores, with high profit per customer visit. That means dense networks of prime corner locations (freestanding, drive-through), pharmacy at the center, and technology such as the satellite-linked pharmacy system used to deepen convenience.",
+    "hedgehog_key_points": ["convenience: prime freestanding corner sites, density, drive-through", "profit per customer visit", "pure drugstore with pharmacy at the core"],
+    "stop_doing": "Restraint decision: keep the organic, site-by-site convenience strategy and the record-setting discipline. Refuse the tempting move the dossier makes visible, which is joining the consolidation wave by buying rival chains for scale. Acquired chains bring other people's inferior locations and dilute convenience and profit per visit. Do not drift back into non-drugstore businesses, as the restaurant exit showed. Keep mail service and the PBM network as supports for the store pharmacy, not as a separate empire. Do not hit store-count targets with marginal sites.",
+    "stop_doing_key_points": ["no chain acquisitions for scale; keep organic, site-selected growth", "stay a pure drugstore; no re-diversification", "PBM/mail order and technology serve the core, not new businesses"],
+    "leader_type": "Level 5 (Charles 'Cork' Walgreen III: quiet, persistent, and willing to make the hard restaurant exit with a firm deadline)",
+    "brutal_facts": ["third-party payers are squeezing prescription margins", "rivals are consolidating into larger chains (the Rite Aid-Revco deal)", "mail-order/PBM channels and supermarkets and discounters are competing for prescriptions"]
+  },
+  "early_warning_signs": [
+    "falling profit per customer visit or pharmacy gross margin while sales still set records",
+    "chasing the store-count goal with lower-quality sites",
+    "pressure to buy chains for scale or bargaining power",
+    "growing dependence on a few large third-party payers",
+    "the PBM or mail business becoming a strategic end in itself"
+  ],
+  "decline_risks_expected": [],
+  "risks_faced_and_handled": [
+    "Industry consolidation: Rite Aid's purchase of Revco was abandoned in April 1996 after FTC opposition. CVS and Rite Aid later grew by acquisition. Walgreens stayed organic, making no acquisitions until a small purchase in 2003, which ended a 17-year gap.",
+    "Third-party margin pressure: answered with the PBM, mail service and technology while net margin held at about 3.3-3.7% (1998-2003)."
+  ],
+  "greatness_label": 1,
+  "later_history": "Walgreens kept to organic growth. It opened its 3,000th store in March 2000 and its 4,000th in March 2003. Jorndt became CEO in 1998 and Bernauer in 2002. Revenue grew from $15.3B (FY1998) to $32.5B (FY2003). FY2005 sales were $42.2B and net earnings $1.56B, its 31st consecutive year of record sales and earnings, with 4,953 stores. Per Collins, Walgreens returned 7.34 times the market from 1975 to 1990. Growth slowed after about 2006 and leadership changed in 2008-2009, both beyond the 10-year window.",
+  "notes": "Track E 'already great' control. The dossier date is late 1995 (FY ended August 31, 1995). The tempting move is real and documented: drugstore consolidation (Rite Aid-Revco, announced November 1995). Walgreens's refusal is documented in its organic-growth record. The restaurant-deadline detail in the dossier comes from Collins; the rest of the dossier is from SEC filings and company histories."
+}

@@ -1,0 +1,21 @@
+{
+  "case_id": "A11",
+  "track": "A",
+  "group": "great",
+  "real_identity": "Kroger",
+  "aliases": ["Kroger", "The Kroger Co.", "Jim Herring", "James Herring", "Lyle Everingham", "SupeRx"],
+  "as_of_year": 1973,
+  "transition_year": 1973,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "Become best at running combination superstores that offer a supermarket plus pharmacy and specialty departments (one-stop shopping), and be No. 1 or No. 2 in every market it serves. The economic denominator is profit per local population, reflecting local market density and share.",
+    "hedgehog_key_points": ["combination superstores (food + pharmacy + specialty departments)", "be #1 or #2 in each local market", "profit per local population"],
+    "stop_doing": "Stop operating the old-style small grocery store. Eliminate, replace or remodel essentially every store in the chain, and leave regions where the company cannot be No. 1 or No. 2.",
+    "stop_doing_key_points": ["phase out old-model small supermarkets", "exit regions where it can't be #1 or #2", "rebuild the entire store base around the superstore"],
+    "leader_type": "Level 5 (Jim Herring, president from 1970: an outsider to grocery who came in with a drugstore chain. He confronted the brutal facts from consumer research and started the store-by-store transformation without fanfare or a big launch program; successors including Lyle Everingham carried it through).",
+    "brutal_facts": ["consumer data showed the old-style grocery store was becoming obsolete", "many existing stores were too small for what shoppers wanted", "it was weak in several regional markets"]
+  },
+  "later_history": "Herring closed hundreds of small supermarkets and built superstores through the 1970s. Collins reports about 4.16x the market for 1973-1988 and about 10x for 1973-1998. Kroger merged with Dillon Companies in 1983. It fought off takeover bids in 1988 with a leveraged recapitalization ($5.3B of debt) and asset sales. It acquired Fred Meyer in 1999 (about $13B) and passed $50B in revenue by 2000. It remained the largest U.S. supermarket operator. A planned merger with Albertsons was blocked in 2024. No collapse.",
+  "greatness_label": 1,
+  "notes": "Track A matched pair with A12 (A&P). The transition year 1973 matches the 1973-1998 window in Collins's article. The hedgehog wording and denominator are paraphrased from memory of Ch. 5 and could not be confirmed from free summaries. Herring was already president at the dossier date (since 1970)."
+}

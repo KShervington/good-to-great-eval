@@ -1,0 +1,34 @@
+{
+  "case_id": "E05",
+  "track": "E",
+  "group": "already_great",
+  "real_identity": "Philip Morris",
+  "aliases": ["Philip Morris", "Philip Morris Incorporated", "Philip Morris Companies", "Altria", "Marlboro", "Miller Brewing", "Miller Lite", "Seven-Up", "7UP", "Joseph Cullman", "George Weissman"],
+  "as_of_year": 1978,
+  "transition_year": 1964,
+  "expected_gate_fail": null,
+  "already_great": true,
+  "waive_checks": ["stop_doing_5"],
+  "collins": {
+    "hedgehog": "The one Philip Morris already lives by: be the best in the world at building and selling premium, image-driven consumer brands, above all Marlboro, at home and internationally. It is fuelled by an unusually intense passion for its business, which Collins uses as an example of the passion circle. The economic denominator is profit per global brand (category), as recalled from Collins, not verified verbatim. The beer business shows the brand-building skill can transfer when the category rewards it.",
+    "hedgehog_key_points": ["premium global brand-building (flagship cigarette brand first)", "international expansion of the flagship", "passion for the business; profit per global brand"],
+    "stop_doing": "Restraint decision: keep pouring resources into the flagship brand, international cigarettes and the brewer turnaround, which are working. Refuse the tempting move the dossier makes visible: do not buy the soft-drink company. It is outside what PM can be best at. Two cola giants control the category and the bottler networks, and diversifying to escape tobacco pressure is a fear-driven, not hedgehog-driven, reason. At most, test the idea cheaply rather than spend about $500M. Do not respond to the anti-smoking campaign by diving into unrelated businesses. Face the health and litigation risk squarely instead.",
+    "stop_doing_key_points": ["do not buy the soft-drink (Seven-Up) business", "keep capital on the flagship brand, international and beer", "do not diversify out of fear of tobacco pressure; confront the health risk directly"],
+    "leader_type": "Strong, long-tenured insider leadership (Joseph Cullman III, then George Weissman). Collins's account stresses the executives' passion and loyalty. Classifying them as Level 5 is not essential; null is acceptable.",
+    "brutal_facts": ["the federal government has launched a campaign against smoking (Califano, January 1978)", "health and product-liability risk overhangs the core product", "soft drinks are dominated by Coca-Cola and Pepsi and their bottler networks", "the beer business is now in a spending war with Anheuser-Busch"]
+  },
+  "early_warning_signs": [
+    "acquisitions justified by 'reducing dependence on tobacco' rather than by where it can be best",
+    "a diversified unit whose share or profits slide after purchase (the Seven-Up pattern)",
+    "rising litigation and regulatory exposure being downplayed",
+    "beer or other units absorbing capital without matching profit"
+  ],
+  "decline_risks_expected": [],
+  "risks_faced_and_handled": [
+    "Seven-Up: Philip Morris did buy it in 1978 (about $515-520M). It soon went into a profit slide and was sold in 1986, the international business to PepsiCo and the U.S. business to Hicks & Haas for $240M. This is the documented temptation in the dossier, and the actual outcome confirms that refusing it was the right call.",
+    "Health and litigation: these stayed contained through the 1980s and became severe only in the 1990s (Master Settlement Agreement 1998), outside the 10-year window."
+  ],
+  "greatness_label": 1,
+  "later_history": "Weissman became chairman in 1978. Marlboro kept gaining share and became the world's best-selling cigarette. Philip Morris passed R.J. Reynolds as the largest U.S. cigarette maker (sources give 1983 or 1985). Miller stayed #2 in beer. Seven-Up (bought 1978) failed and was sold in 1986. The company acquired General Foods ($5.75B, 1985) and Kraft ($12.9B, 1988). In 1987 Marlboro produced about 60% of total company profit. Per Collins, Philip Morris returned 7.06 times the market from 1964 to 1979, and it is the only company that qualified for both Good to Great and Built to Last. Litigation pressure and 'Marlboro Friday' (the 1993 price cut) came after the 10-year window.",
+  "notes": "Track E control. The user flagged Philip Morris as doubtful because of litigation. Dated at early 1978, its 10-year window (1978-1988) comes before the serious litigation era, so it passes. A dossier dated in the 1990s would fail on Marlboro Friday and the litigation. The dossier has no company-wide financial figures because I could not confirm 1977 revenue or earnings from an independent source; they are listed under 'What is not in this dossier'. The tempting move (Seven-Up) is documented, including a Darden case on management's evaluation and pricing of Seven-Up. The food acquisitions of 1985 and 1988 are arguably undisciplined diversification, but performance stayed strong through the window. The probe may recognize the case from the flagship brand story."
+}

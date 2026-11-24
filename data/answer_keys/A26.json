@@ -1,0 +1,21 @@
+{
+  "case_id": "A26",
+  "track": "A",
+  "group": "unsustained",
+  "real_identity": "Hasbro (then Hasbro Industries)",
+  "aliases": ["Hasbro", "Hasbro Industries", "Hassenfeld Brothers", "Stephen Hassenfeld", "Merrill Hassenfeld", "G.I. Joe", "Empire Pencil", "Romper Room", "Mr. Potato Head"],
+  "as_of_year": 1980,
+  "transition_year": 1980,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "Collins gives no detailed Hasbro hedgehog. The 1980s rise followed a coherent idea: be best at classic, long-lived, low-cost toy and game brands and characters, re-launched and supported with television marketing. That meant refocusing on toys, dropping the pencil business and unrelated ventures, and staying out of fad electronics. A plausible economic denominator is profit per enduring brand.",
+    "hedgehog_key_points": ["classic, long-lived toy/game brands and characters", "toys only (separate from pencils, no unrelated ventures)", "profit per enduring brand, not chasing fads"],
+    "stop_doing": "Stop unrelated diversification (nursery schools, cookware, the pencil business). Stop chasing fad categories such as electronic games. Cut the product line hard. And because the rise depended on one leader, stop leaving succession and the senior team thin: build a bench so momentum can survive the loss of the CEO.",
+    "stop_doing_key_points": ["exit unrelated businesses (pencils, nursery schools, cookware)", "don't chase electronic-game fads; prune the product line", "build a leadership bench/succession"],
+    "leader_type": "A strong, hands-on CEO (Stephen Hassenfeld, CEO 1980-1989) credited personally with the turnaround. Collins does not class him as Level 5. The breakthrough depended heavily on him and lost momentum after his sudden death in 1989.",
+    "brutal_facts": ["losses and heavy debt, with the dividend suspended by the banks", "a family feud over the pencil business threatens to split the company", "its one big hit (the action figure) is off the market", "a record of failed diversifications"]
+  },
+  "later_history": "In 1980 Hasbro spun off Empire Pencil to settle the family feud, and Stephen became chairman and CEO. He cut the product line by about a third and relaunched G.I. Joe in 1982 (Transformers followed in 1984). He bought Milton Bradley for $360M in 1984, making Hasbro the world's largest toymaker, and Coleco in 1989. Profitability grew about 85% a year in 1980-1986, and sales went from about $104M to $1.41B by 1989. Stephen died suddenly in June 1989 at 47, and his brother Alan succeeded him. Hasbro bought Tonka in 1991. Mattel regained the top spot after buying Fisher-Price in 1993, and domestic sales fell in 1993-1995. Hasbro remained a large, durable toy and entertainment company. It was not a collapse, but it did not keep up its 1980s outperformance.",
+  "greatness_label": 0,
+  "notes": "Unsustained comparison. Dossier dated early 1980, after Merrill Hassenfeld's death (1979) and before the Empire Pencil spin-off and Stephen's formal elevation. Collins's specific commentary on Hasbro could not be verified online. The collins block applies his general pattern for unsustained comparisons (a rise dependent on one leader) plus documented history. Label 0 follows Collins's classification; Hasbro stayed a healthy company afterward, so the label is less clear-cut than for the other five."
+}

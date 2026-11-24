@@ -1,0 +1,21 @@
+{
+  "case_id": "A24",
+  "track": "A",
+  "group": "unsustained",
+  "real_identity": "Chrysler Corporation",
+  "aliases": ["Chrysler", "Chrysler Corporation", "Lee Iacocca", "Iacocca", "Dodge", "Plymouth", "K-car"],
+  "as_of_year": 1979,
+  "transition_year": 1979,
+  "expected_gate_fail": null,
+  "collins": {
+    "hedgehog": "Collins names none. The recovery rode on Iacocca's personal charisma and salesmanship. A disciplined hedgehog consistent with Collins would have been to become the best at a few vehicle segments it could lead (efficient front-drive cars, then minivans and light trucks), with a permanently low break-even point. The economic denominator would be profit per vehicle (or per segment) through the cycle, not volume or prestige.",
+    "hedgehog_key_points": ["no hedgehog: the rise depended on a celebrity leader", "focus on a few segments it can lead rather than a full line against GM/Ford", "a low break-even, profit-per-vehicle denominator"],
+    "stop_doing": "Once survival was secured, stop letting the CEO's public celebrity (books, commercials, the Statue of Liberty campaign, talk of a presidential run) pull attention from the business. Stop diversifying away from the core (for example the 1985 Gulfstream purchase). Stop building cars for inventory. Stop postponing succession: develop a strong successor and leave on time.",
+    "stop_doing_key_points": ["stop the leader-celebrity distraction", "stop non-core diversification", "stop delaying succession / build a successor"],
+    "leader_type": "Level 4, the archetypal charismatic celebrity CEO (Lee Iacocca, CEO 1979-1992). Collins credits him with the rescue: in the first half of his tenure Chrysler stock rose about 2.9x the market. Then he became distracted by personal celebrity and stayed on too long, and in the second half the stock fell roughly 31% behind the market. He did not prepare a successor, and after retiring he joined a 1995 hostile bid for the company.",
+    "brutal_facts": ["the company is near bankruptcy and cannot raise private capital", "losses are mounting while it holds the industry's highest inventory", "its product mix is out of step with demand and quality is poor", "the new fuel-efficient cars are a year away"]
+  },
+  "later_history": "Congress passed the $1.5B Loan Guarantee Act in December 1979, signed January 1980. Chrysler lost $1.7B in 1980 and $475M in 1981, returned to profit in 1982, and repaid the guaranteed loans in 1983, seven years early. The K-car (1981) and minivan (1984) drove a strong recovery, and it bought American Motors (with Jeep) in 1987. Late-1980s restructurings followed; it lost $795M in 1991. Iacocca retired at the end of 1992, succeeded by outsider Robert Eaton from GM. In 1995 Iacocca backed Kirk Kerkorian's failed hostile bid for Chrysler. Chrysler merged with Daimler-Benz in 1998, went through a 2009 bankruptcy, and was later absorbed into Fiat (now Stellantis).",
+  "greatness_label": 0,
+  "notes": "Unsustained comparison. Dossier dated early autumn 1979: Iacocca became chairman and CEO in September 1979, before the loan guarantee passed. The 2.9x and 31% figures are recalled from Collins's Level 5 chapter. They are consistent with secondary summaries but were not checked against the text."
+}
