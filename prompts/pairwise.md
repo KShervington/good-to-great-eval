@@ -7,9 +7,10 @@ For each dimension, decide which analysis is better, or "tie" if you can't separ
 - D5 decline risk flags the key's decline mechanism (use "na" if the key has no decline info)
 - D7 calibration and honesty (no invented figures; uncertainty and missing data flagged)
 - D8 one-screen verdict: concise and actionable
+- D9 restraint with an already-great subject: recognizes greatness, preserves the proven core, gives specific warnings (use "na" unless the key has "already_great": true)
 - overall: which would you rather hand to the subject's leader?
 
 Return only JSON, with no other text:
 ```json
-{"D1": "1|2|tie", "D2": "...", "D3": "...", "D5": "1|2|tie|na", "D7": "...", "D8": "...", "overall": "1|2|tie", "why": "two sentences"}
+{"D1": "1|2|tie", "D2": "...", "D3": "...", "D5": "1|2|tie|na", "D7": "...", "D8": "...", "D9": "1|2|tie|na", "overall": "1|2|tie", "why": "two sentences"}
 ```

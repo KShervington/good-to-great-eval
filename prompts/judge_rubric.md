@@ -20,6 +20,8 @@ For comparison companies whose key says "no coherent hedgehog": score 5 if the a
 - 2: Missing, but nothing on the list contradicts it.
 - 1: Missing, and the analysis recommends doing the opposite (for example, investing more in it).
 
+For **already-great subjects** (answer key has `"already_great": true`), the real decision is restraint: keep the current course, and refuse the specific temptations to pursue more without discipline that the key names. Score 5 if the stop-doing list targets those temptations and doesn't dismantle what already works. Score 1 if it recommends exiting or overhauling the subject's proven core.
+
 ## D3. Brutal facts found
 Did the brutal-facts register contain the key's brutal fact (its key points)?
 - 5: It is found, ranked as the most urgent or near the top, and its consequence is stated.
@@ -52,6 +54,15 @@ Judge the opening verdict only (roughly the first screen).
 - 2: It is mostly preamble or process, not results.
 - 1: There is no verdict up front.
 
+## D9. Restraint with an already-great subject (N/A allowed)
+Use this only when the answer key has `"already_great": true`. Otherwise return null.
+Collins's point is that great companies fall when they believe they've arrived. So the ideal answer is neither "change everything" nor "all good." The ideal says: this is already great, here is the evidence, here is what not to change, and here are the specific early-warning signs to watch.
+- 5: It says plainly that the subject is already great, with evidence. The Hedgehog Concept it states is the one the subject already lives by. The recommendations preserve what works (keep pushing the flywheel, build mechanisms that don't depend on one person, watch for decline) and are few. It names the specific risks for this subject.
+- 4: It recognizes greatness and is mostly restrained, but adds one or two changes the evidence doesn't justify, or its warnings are generic.
+- 3: It's ambiguous. It treats the subject as "good, with gaps" and gives a long improvement list, but doesn't attack the core.
+- 2: It treats the subject as merely good and prescribes a significant new strategy, a reorganization or a new Hedgehog Concept.
+- 1: It recommends overhauling, exiting or pivoting away from the subject's proven core, or it fails Gate 1. Also score 1 for complacency: declaring the subject great with no early-warning signs at all.
+
 ## Output
 Return only a JSON object, with no other text:
 ```json
@@ -62,6 +73,7 @@ Return only a JSON object, with no other text:
   "D5": {"score": 1-5 or null, "why": "..."},
   "D7": {"score": 1-5, "why": "..."},
   "D8": {"score": 1-5, "why": "..."},
+  "D9": {"score": 1-5 or null, "why": "..."},
   "hindsight_leak": true/false,
   "recognized_subject_by_name": true/false
 }

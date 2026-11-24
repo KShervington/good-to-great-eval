@@ -191,7 +191,7 @@ def greatness_potential(md: str) -> int | None:
     return int(m.group(1)) if m else None
 
 
-def check_all(md: str, dossier: str) -> dict:
+def check_all(md: str, dossier: str, waive: tuple | set = ()) -> dict:
     s_ok, s_missing = check_sections(md)
     g_ok, g_msg = check_gate_counts(md)
     sd_ok, sd_n = check_stop_doing(md)
@@ -203,6 +203,8 @@ def check_all(md: str, dossier: str) -> dict:
         "sections": s_ok, "gate_counts": g_ok, "stop_doing_5": sd_ok, "hedgehog_1s": h_ok,
         "assumptions": a_ok, "no_long_quote": q_ok, "gp_present": gp is not None,
     }
+    for w in waive:  # e.g. Track E (already great) waives stop_doing_5: restraint is the right answer there
+        checks[w] = None
     scored = [v for v in checks.values() if v is not None]
     return {
         "checks": checks,
@@ -216,7 +218,7 @@ def check_all(md: str, dossier: str) -> dict:
 
 # ---------------------------------------------------------------- aggregation
 
-JUDGE_DIMS = ["D1", "D2", "D3", "D5", "D7", "D8"]
+JUDGE_DIMS = ["D1", "D2", "D3", "D5", "D7", "D8", "D9"]  # D9 (restraint) applies to already-great cases only
 
 
 def gate_fail_correct(md: str, key: dict) -> bool | None:
@@ -236,11 +238,11 @@ def case_record(root: Path, version: str, case: dict, seed: int) -> dict | None:
     md = out.read_text(encoding="utf-8")
     dossier = (root / case["dossier"]).read_text(encoding="utf-8")
     key = json.loads((root / "data" / "answer_keys" / f"{case['id']}.json").read_text(encoding="utf-8"))
-    det = check_all(md, dossier)
+    det = check_all(md, dossier, waive=tuple(key.get("waive_checks", ())))
     rec = {"case": case["id"], "track": case["track"], "group": case["group"], "seed": seed,
            "recognizable": case.get("recognizable"), "det_pass_rate": det["pass_rate"],
            "checks": det["checks"], "gp": det["greatness_potential"], "D6": gate_fail_correct(md, key),
-           "label": key.get("greatness_label")}
+           "label": key.get("greatness_label"), "already_great": bool(key.get("already_great"))}
     jpath = root / "runs" / "judgments" / version / case["id"] / f"seed{seed}.json"
     if jpath.exists():
         j = json.loads(jpath.read_text(encoding="utf-8"))

@@ -41,7 +41,7 @@ What it shows:
 | Probe | Opus 5.5 (low) | 2.2K | 0.16K | $0.02 | 6 s |
 
 ## Total estimate
-Assumed roster: about 53 cases (A 28, B 9, C about 4, D 12), split into about 37 dev and 16 held-out. 3 seeds.
+Assumed roster: about 60 cases (A 28, B 9, C about 4, D 12, E 7), split into about 37 dev and 16 held-out. 3 seeds.
 
 | Block | Calls | Tokens | API-equivalent |
 |---|---|---|---|
@@ -54,6 +54,27 @@ Assumed roster: about 53 cases (A 28, B 9, C about 4, D 12), split into about 37
 | If each edit is tested separately (3 candidates per round) | ~8,300 | ~170M | ~$2,300 |
 
 **Limit resets.** Anthropic doesn't publish Max 5x limits in tokens, so this part is a guess. If a 5-hour window allows roughly $20–40 of Opus/Fable-class usage, the likely run needs **about 16–32 limit resets**, and the worst case about 23–46. The weekly cap will probably bind before the 5-hour cap, so expect **about 1–2 weeks of calendar time**. Call time itself is only about 3.2 hours per round at concurrency 2. The harness logs exactly how many tokens were used before each limit, so after the first real limit I'll replace this guess with a measured figure.
+
+
+## Track E: already-great controls (added 2026-11-23 at the user's request)
+**Why:** every other track rewards prescribing change. Track E tests whether the skill recognizes a subject that is already great and holds back. It also gives Track B a control group: without companies that stayed great, a generic decline register would "flag" decline everywhere, and we couldn't tell foresight from boilerplate.
+
+**Cases:**
+- **E01–E05:** real good-to-great companies dated well after their transition, at a point where greatness then lasted 10 or more years with no How-the-Mighty-Fall decline. Candidates (to be verified): Nucor, Abbott, Walgreens, Gillette and Kimberly-Clark, each around the 1990s.
+- **E06:** a synthetic subject that is great and stays great.
+- **E07:** a synthetic subject that is great but quietly drifting into decline stage 1 or 2 (hubris, or pursuing more without discipline).
+
+**Answer key:** `already_great: true`. The key gives the hedgehog the subject already lives by; the restraint decision (what *not* to change and which temptations to refuse); the expected decline watch-points (E07, plus the real cases where relevant); and `waive_checks: ["stop_doing_5"]`.
+
+**Scoring:**
+- **New judge dimension D9 (restraint):** 5 means it recognizes greatness with evidence, keeps the existing hedgehog, gives a few recommendations that preserve what works, and names specific warning signs. 1 means it overhauls or pivots the proven core, or is complacent with no warnings.
+- **D2:** reinterpreted for these cases as the restraint decision.
+- **D9 elsewhere:** null for all other tracks.
+- **Greatness potential:** Track E is reported separately, not in the AUROC (which measures future greatness from a pre-transition date). The sustained real cases should score high.
+
+**Prediction for v0:** it will over-prescribe. Gate 1 has no "already great" path, the skill's opening principle demands narrowing, and Gate 6 asks for at least five stop-doing items.
+
+**Cost:** about 7 more cases, so about $17 more per improvement round and about $80–130 over the whole run.
 
 ## Decisions I need from you
 1. **Edit evaluation.** I recommend that each round test one candidate (up to 3 edits bundled), accepted or rejected as a whole. When a bundle fails but one edit looks promising, the next round re-tests that edit alone. Testing every edit separately costs about 3×.
