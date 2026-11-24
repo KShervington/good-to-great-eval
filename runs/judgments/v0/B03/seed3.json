@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the trusted primary bank for American households and small businesses, measured by profit per actively used primary relationship, not by products sold', which matches the key's genuine community-banking relationships, its denominator and its rejection of product count."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are product-count pay and daily sales goals, the 'eight products' headline target, and business lines policing their own sales conduct, which is the key's decision; the community-banking core is kept."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the $85M quota-driven subsidiary fine and the same mechanism in the largest business as Critical, followed by held-not-used cross-sell and risk/HR embedded in business lines, each with consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "It names a 'quota doom loop' and maps stages 1-3 to the actual mechanism (praise-driven hubris, the eight-products goal, the subsidiary fine framed as legacy, decentralization trapping bad news), with fitting warning signs such as unreported unfunded-account rates and hotline volume."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are mostly tagged and the missing usage, hotline, termination and turnover data are flagged up front, but it asserts unmarked that crisis outperformance came from 'deposits and credit discipline', which the dossier does not say, and gives an unexplained 40/100 score."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, and is actionable, but with the long brutal-fact paragraph and run notes it runs past one phone screen."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It never says plainly that the subject is already great ('Greatness potential: 40/100', six CONDITIONAL gates) and gives ten stop-doing items and many new seats, but it keeps the CEO, the stores and the community-banking core and names subject-specific warning signs."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|B03|s3|judge",
+    "stage": "judge",
+    "case_id": "B03",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14315,
+    "tokens_out": 2252,
+    "cost_usd": 0.2802676,
+    "duration_s": 27.0,
+    "finished_at": 1795495451.5320137,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2252,
+        "costUSD": 0.2802676
+      }
+    }
+  }
+}

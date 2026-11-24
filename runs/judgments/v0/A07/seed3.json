@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is \"best in the world at pricing mortgage risk, both interest-rate and credit, and moving it to whoever should hold it, earning profit per unit of mortgage risk managed, so more households can afford a home\", which matches the key's field, denominator and passion and explicitly rules out buy-and-hold carry."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1, also in the one-screen verdict, is \"Funding long fixed-rate mortgages with short-term debt\", and item 2 says to securitize, swap or sell loans that can't be match-funded; the key's executive-removal point is softened to \"move seat\"."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1, rated Critical and named most urgent in the verdict, is negative margins since Year −3 with the consequence that Keystone \"could be insolvent on a marked-to-market basis\"; the $1M/day loss and unhedgeable rate risk are also cited, though the register does not frame the model itself as a rate bet."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register names the actual mechanisms: subsidy-driven growth in guarantees and riskier loan types, accounting that smooths volatility (\"earnings that never miss\"), fights with the regulator over capital, and the government taking control, each with a fitting early warning sign."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are marked [ASSUMPTION] and all four missing dossier metrics are flagged, including that the current daily loss rate is unknown, but the 35/100 greatness score and the claim of \"the largest body of mortgage-performance data anywhere\" are unsupported and unmarked."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (credit-risk pricing), the top three stop-doing items, the most urgent brutal fact and the missing numbers in an actionable form, though the added 35/100 rationale makes it slightly long."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not have \"already_great\": true; the subject is at its transition point."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A07|s3|judge",
+    "stage": "judge",
+    "case_id": "A07",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13719,
+    "tokens_out": 2206,
+    "cost_usd": 0.2688916,
+    "duration_s": 25.7,
+    "finished_at": 1795491495.8709414,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2206,
+        "costUSD": 0.2688916
+      }
+    }
+  }
+}

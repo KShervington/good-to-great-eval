@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'strings that professional bowed-string players choose in blind tests', sold 'only through the specialists who serve those players', with 'profit per committed player' as the denominator and guitar and student strings explicitly ruled out, which matches the key on field, exclusion and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top stop-doing items in the one-screen verdict are no guitar through mass retail and no student brand, and items 3-4 protect the minimum price, the shop channel and the Listening Room veto; the 'as proposed' wording and the bounded-test fallback soften it slightly, but the test is framed as an expected kill."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The ~2% core market growth is ranked #1 and named most urgent, with the consequence stated ('all growth is share and price, and share has a ceiling'); shop consolidation (#4) and the converging CEO and winding-engineering transitions (#7) are also in the register."
+  },
+  "D5": {
+    "score": null,
+    "why": "The answer key lists no expected decline risks and its later history shows no decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently marked, derived figures (blended margin of about 54%, compound growth of about 11-12%) check out against the dossier, and missing data is flagged at length; but 'Greatness potential: 76/100' is an unexplained score, and there are small unmarked stretches such as shops 'shrinking about 3% a year' from a single year of data."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has every required part (hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact, missing numbers) and is actionable, but it runs longer than one phone screen."
+  },
+  "D9": {
+    "score": 4,
+    "why": "It opens with 'Halvard is already great', backs that with evidence, keeps the hedgehog the company already lives by and names subject-specific Stage 2 risks; but it adds initiatives the evidence does not clearly justify (an East Asia pilot, widening the Listening Room, a new BHAG, re-seating the commercial director) and has a longer list than 'few'."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|E06|s1|judge",
+    "stage": "judge",
+    "case_id": "E06",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14386,
+    "tokens_out": 1941,
+    "cost_usd": 0.2689636,
+    "duration_s": 22.1,
+    "finished_at": 1795527700.838805,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1941,
+        "costUSD": 0.2689636
+      }
+    }
+  }
+}

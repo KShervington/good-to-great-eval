@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'best in the world at branded, paper-based personal-care products, measured by profit per consumer brand', and it explicitly rules out printing papers, newsprint and specialty papers, matching the key's field, sacrifice and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1 in the one-screen verdict is 'Stop funding modernization of the printing-paper and newsprint mills. Sell those mills, including the namesake mill.'"
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent brutal fact, ranked Critical, is that the commodity mills take most of the capital and lag the market while Rival P beats the consumer products, with the stated consequence of 'losing on both'; both key facts also appear in the register."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks, and its later history describes no collapse."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently marked and the missing segment return on capital, share and growth data are flagged, but 'Greatness potential: 40/100' is unsupported and Rival S (a sanitary-paper rival) is used as evidence against commodity papermaking."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, but the gate tally, score and run notes push it past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not have already_great set to true."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A01|s2|judge",
+    "stage": "judge",
+    "case_id": "A01",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11271,
+    "tokens_out": 1472,
+    "cost_usd": 0.2003636,
+    "duration_s": 17.7,
+    "finished_at": 1795490053.8936975,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1472,
+        "costUSD": 0.2003636
+      }
+    }
+  }
+}

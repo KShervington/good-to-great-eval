@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "It narrows to 'the most convenient, fairly priced neighborhood drugstore in the Sunbelt markets we choose to dominate', says the diversified option 'fails the Hedgehog test' and that the company is spread across unrelated industries 'with no evident logic', matching the key's best-regional-drugstore core."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1 in the one-screen verdict is 'Stop buying businesses that aren't drugstores. Put the junior department stores, the security company and the food-service distributor up for sale', with out-of-cluster acquisitions also stopped."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All three key facts (Rival W in the home state, the founder's five years in politics, the spread across unrelated industries) are the top three High-severity rows and are combined in the verdict's most urgent brutal fact, with the capital-leak consequence stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names the actual mechanisms: stage 2 'undisciplined more' with the warning sign 'any new non-drug line', the founder's divided attention and ungoverned appetite for acquisitions, and stage 5 'selling to a larger company after years of share erosion'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are marked [ASSUMPTION] and the missing numbers (profit by line, per visit, store count, successor background) are flagged, but it miscounts 'five non-drug lines' when four are current and gives an unexplained 'Greatness potential: 22/100'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (reinvestment leak), three stop-doing items, the most urgent brutal fact and the missing numbers in a compact form someone could act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A20|s2|judge",
+    "stage": "judge",
+    "case_id": "A20",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12970,
+    "tokens_out": 1979,
+    "cost_usd": 0.24782759999999998,
+    "duration_s": 22.5,
+    "finished_at": 1795493011.6186266,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1979,
+        "costUSD": 0.24782759999999998
+      }
+    }
+  }
+}

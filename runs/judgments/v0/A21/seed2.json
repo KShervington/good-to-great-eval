@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the lowest-cost, most disciplined large bank in its home state... judge every activity by profit per employee', which matches the key's cost discipline, regional rather than global focus, and profit-per-employee denominator."
+  },
+  "D2": {
+    "score": 4,
+    "why": "International retreat, branch cuts and refusing new ventures are the top three, and executive perks are item 9, but the overseas item is softened to 'stop expanding' plus a 'structured exit review' rather than an outright exit, and staff cuts are muted."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1 (Critical) is the structural rise in cost of funds from deregulation, with the regulated-era cost base and the record of overseas losses ranked high, and the verdict states the consequence as 'the largest certainty'."
+  },
+  "D5": {
+    "score": 3,
+    "why": "The register flags 'undisciplined more' via an acquisition binge and hubris starving credit and audit controls, which is the right stage, but it never names the sales-pressure and incentive-driven misconduct mechanism that actually occurred."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION] and all missing baselines, including profit per employee, are flagged as unknown, but 'Greatness potential: 30/100' and Rival B's 'scale cost advantages' are unsupported and unmarked."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict compactly gives the hedgehog sentence, the weakest flywheel link (cost savings to share gains against Rival B), three stop-doing items, the most urgent brutal fact and the missing numbers, and is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not have already_great set to true; this is a transition-point case."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A21|s2|judge",
+    "stage": "judge",
+    "case_id": "A21",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14025,
+    "tokens_out": 1945,
+    "cost_usd": 0.2633476,
+    "duration_s": 22.7,
+    "finished_at": 1795493250.41579,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1945,
+        "costUSD": 0.2633476
+      }
+    }
+  }
+}

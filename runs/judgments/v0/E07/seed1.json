@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'deeply trained, closely coached daily tutors who get struggling six-year-olds reading', it explicitly rules out math, ReadAlong and funder-set pace, and its denominator is 'additional readers per dollar', all matching the key."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are declining the $40M grant on current terms (five states, three seats), stopping 18-hour training and 19:1 coaching, and ending the math pilot and ReadAlong; hiring the research director is in tonight's revised budget, and the core model is left intact."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the new-school decline (69% to 63% to 58%) first as Critical, with the training and coaching cuts and the dismantled research function also Critical, and states the consequence that a five-state launch would make almost every site a new school."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names Stage 1 hubris ('cracked the code') and Stage 2 undisciplined growth on a funder's timeline as already visible, with fitting warning signs such as new schools at or below 55% and a first district non-renewal in 12 years."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked, derived figures show their arithmetic, and real gaps are flagged (baseline-adjusted results, module completion, the $18.0M versus $14.6M discrepancy), but the 'Greatness potential: 58/100' score is unexplained and '100× reach' contradicts its own earlier 'about 40×'."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers and can be acted on, but with tonight's decisions and six missing-number bullets it runs past one phone screen."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It frames the subject as 'good, and in its mature schools close to great' (58/100) instead of plainly already great, and gives a long list (nine stop-doing items, new CPO, reorganisation, new committee, redefined BHAG), though the recommendations restore the core and the warning signs are specific."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|E07|s1|judge",
+    "stage": "judge",
+    "case_id": "E07",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17634,
+    "tokens_out": 2139,
+    "cost_usd": 0.3288516,
+    "duration_s": 24.4,
+    "finished_at": 1795528182.7424781,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2139,
+        "costUSD": 0.3288516
+      }
+    }
+  }
+}

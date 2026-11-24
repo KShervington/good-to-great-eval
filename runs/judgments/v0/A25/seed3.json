@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 3,
+    "why": "The hedgehog names applying government-proven technology to communications and a patient flywheel, but it defines the company as 'a focused communications-electronics company', treats electronic printing only as a 'test' and contemplates separating printing, where the key keeps printing and electronics joined; the profit-per-engineer denominator is an assumption."
+  },
+  "D2": {
+    "score": 3,
+    "why": "'Stop acquiring' is item 1, which matches stopping scattered acquisitions, but a succession that preserves the concept appears only as a 'formal succession bench', and the analysis itself entertains separating printing and moving the centre of gravity toward electronics, which are moves the key says to refuse."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks weak earnings despite acquisition-led sales growth as #1 Critical with the consequence stated ('buying revenue, not profit'), and also lists the still-mechanical printing machines (#3) and government budget dependence (#5)."
+  },
+  "D5": {
+    "score": 3,
+    "why": "Decline 4 flags 'a big merger or a dramatic pivot' with a bet-the-company-deal warning sign, but this is generic stage boilerplate that misses the successor-led reset, and the analysis itself floats the HQ move and printing separation that were part of the actual decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION], missing segment, return, share and backlog data are flagged and the verdict is hedged, but 'sales roughly doubled' over the five weak-earnings years and the unexplained '30/100' score are unmarked inferences."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact and the missing numbers compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A25|s3|judge",
+    "stage": "judge",
+    "case_id": "A25",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12355,
+    "tokens_out": 2568,
+    "cost_usd": 0.2615476,
+    "duration_s": 28.8,
+    "finished_at": 1795494296.7722976,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2568,
+        "costUSD": 0.2615476
+      }
+    }
+  }
+}

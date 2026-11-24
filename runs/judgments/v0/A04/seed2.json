@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to 'chronic hormone, metabolic and inflammatory disease' and rules out 'broad research against the largest firms' and seeds, matching the key's give-ups, but it only implies (doom-loop 'inconsistency', 'smaller copy of the giant research companies') that Kessling has no hedgehog today and never says so plainly."
+  },
+  "D2": {
+    "score": 4,
+    "why": "The top two stop-doing items are 'Stop expanding non-drug businesses' and 'Stop measuring yourself against the largest drug companies on total research spend', but the seed exit is softened to a 'strategic review' and single-bet dependence appears only indirectly as item 6, 'Stop royalty-only licensing'."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All three key facts are in the register at High severity (licensed profit driver ranked #1 and named most urgent, diabetes safety cloud and antibiotic withdrawal, research-budget gap), with the consequence stated: becoming 'a distributor of someone else's science'."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names the actual mechanisms: 'one licensed product exceeds roughly a third of profit with no owned successor', safety data 'treated as an attack', and being 'absorbed by a larger firm once the licence matures and the pipeline is empty', each with a fitting warning sign."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently marked, the missing financials are flagged and no metrics are invented, but it states that 'two flagship products have been hit by regulators' when the dossier attributes the diabetes drug's problem to studies, not regulatory action."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (safety evidence to trust), three stop-doing items, the most urgent brutal fact and the missing numbers, all concisely enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A04|s2|judge",
+    "stage": "judge",
+    "case_id": "A04",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12114,
+    "tokens_out": 2272,
+    "cost_usd": 0.2458516,
+    "duration_s": 26.0,
+    "finished_at": 1795490709.2330492,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2272,
+        "costUSD": 0.2458516
+      }
+    }
+  }
+}

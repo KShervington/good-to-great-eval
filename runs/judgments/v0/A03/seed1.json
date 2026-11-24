@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog is 'reliable, standardized products that help hospitals and clinicians diagnose, feed and treat patients at lower total cost', explicitly ruling out blockbuster discovery and consumer brands as the key does, but its denominator is profit per hospital customer, with the key's profit per employee only a backup."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top two stop-doing items in the one-screen verdict are 'Stop building consumer brands' and 'Stop competing with the big drug companies for blockbuster discoveries', which are the key's two decisions stated as exits."
+  },
+  "D3": {
+    "score": 4,
+    "why": "The register lists the recall as Critical, plus no breakthrough in sight, the off-patent antibiotic, the research-led rival and weakened management, but the research shortfall is not ranked most urgent and the hospital cost-control shift sits in the hedgehog section, not the register."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no decline_risks_expected and its later history says 'No collapse', so there is no decline mechanism to grade against, though the analysis's stage 3 quality-lapse risk does resemble the later FDA quality fine."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Dossier figures are used accurately, assumptions are tagged and the missing financials are flagged as making the economic circle unmeasured, but a few inferences are unmarked, such as diversification 'sped up after the sweetener ban', consumer brands being 'acquisitions', and Rival U 'outresearches it'."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest link (hospital trust), top three stop-doing items, most urgent brutal fact and missing numbers, but it runs past one phone screen with the 'Why 35' paragraph and the brutal-fact statement is somewhat diffuse."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key has no already_great flag; this is a subject at its transition point, so the dimension does not apply."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A03|s1|judge",
+    "stage": "judge",
+    "case_id": "A03",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14096,
+    "tokens_out": 2353,
+    "cost_usd": 0.28080360000000004,
+    "duration_s": 26.5,
+    "finished_at": 1795490413.3707082,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2353,
+        "costUSD": 0.28080360000000004
+      }
+    }
+  }
+}

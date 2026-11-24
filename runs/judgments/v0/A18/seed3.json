@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's suggested core ('best in the world at equipping the quick-print shop', profit per installed press) and rules out the electronic office and copiers, but it only implies the current portfolio lacks a hedgehog (sprawl, three open directions, 'working hypothesis') and never says so plainly."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1 in the one-screen verdict is 'Stop considering a heavy bet on leading the electronic office against much larger firms', followed by harvesting addressing and exiting lines outside the hedgehog, starting with engineering graphics."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent brutal fact is that both founding franchises are 'on the losing side of technology shifts Duplicon does not lead'; the register ranks copier displacement Critical and lists stalled growth and computers replacing plate addressing as High, with consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names the heavy electronic-office bet as 'the live instance' of grasping for salvation, with warning signs of 'an outside savior CEO, a move of HQ' and large program announcements, and Gate 2 flags a transformation-minded leader pushing that bet — the mechanism that actually occurred."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently marked and the missing line economics, leadership and replacement-rate data are flagged, but the six-year-old '27 subsidiaries' figure is treated as current and an unsupported 'Greatness potential: 15/100' sits beside several gate PASSes that lack evidence."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict gives the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers in actionable form, but with the gate tally it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A18|s3|judge",
+    "stage": "judge",
+    "case_id": "A18",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12322,
+    "tokens_out": 2010,
+    "cost_usd": 0.23869959999999998,
+    "duration_s": 23.1,
+    "finished_at": 1795492593.2845676,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2010,
+        "costUSD": 0.23869959999999998
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is getting a 'high-value machine... before the weather window closes, built one dense county at a time', with net revenue per county-season as denominator, and it keeps repeat pairs in-app through one-tap rebook and protection while leaving masking off."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are 'Don't launch input financing in January', 'Don't launch two new states next spring' and 'Stop measuring community by phone numbers swapped', which match the key's three decisions."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical, is 'Repeat business likely leaks off-platform', citing 71% number swaps against 11% same-owner rebooking, masking removed and the Ostrander/Kemp story, with the lost fee per booking stated; 68% concentration and runway are also listed."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names financing plus states plus Pro as undisciplined more, leakage 'explained away' as denial, and 'a classifieds board that farmers outgrow after one introduction', each with a specific warning sign such as board decks dropping same-pair repeat."
+  },
+  "D7": {
+    "score": 4,
+    "why": "The 82% fill rate is tagged [ASSUMPTION] and the missing request funnel is flagged, and derived figures are arithmetically sound and mostly tagged; however, 'Greatness potential: 16/100' is unexplained and 'Corn Belt' is an unmarked inference."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (post-first-match repeat at 11%), three stop-doing items, the most urgent brutal fact with runway, and five missing numbers, and can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D03|s2|judge",
+    "stage": "judge",
+    "case_id": "D03",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15203,
+    "tokens_out": 2291,
+    "cost_usd": 0.2960356,
+    "duration_s": 25.8,
+    "finished_at": 1795497745.6535997,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2291,
+        "costUSD": 0.2960356
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'pricing, managing and passing on the risks of residential mortgages through the capital markets', measured as 'profit per unit of mortgage risk, not per loan bought', with a passion for widening homeownership and the buy-and-hold carry trade ruled out, which matches every key point."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1, also in the one-screen verdict, is 'Stop funding long fixed-rate mortgages with shorter-term debt. Match-fund, securitize or sell them'; the bus section adds moving executives tied to the old buy-and-hold model 'seat or off'."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1, rated Critical and named most urgent in the verdict, is the borrow-short, hold-long carry model with negative margins since Year −3 and about $1M a day of losses, with the solvency consequence stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names the mechanisms that occurred (guarantee volume, riskier products and leverage outgrowing capital; models assuming benign house prices; earnings smoothing; government taking control), each with a fitting warning sign such as book growth outpacing equity."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are mostly tagged [ASSUMPTION] and all four missing data items are flagged with a conditional verdict, but the 'roughly $365M a year' extrapolation from $1M a day is presented unmarked and reused in the scorecard."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (credit-risk pricing), three stop-doing items, the most urgent brutal fact and four missing numbers, compactly enough to act on without reading further."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not set already_great to true, so this dimension does not apply."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A07|s1|judge",
+    "stage": "judge",
+    "case_id": "A07",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12715,
+    "tokens_out": 1886,
+    "cost_usd": 0.2400276,
+    "duration_s": 22.8,
+    "finished_at": 1795491293.7794843,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1886,
+        "costUSD": 0.2400276
+      }
+    }
+  }
+}

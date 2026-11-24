@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'runs the business mail room: the meters, mailing machines, service and financing', built on the field-service relationship, with 'profit per business customer' as denominator and copiers, POS and broad office equipment excluded, which matches the key's field, give-up and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing items 1 and 2 in the one-screen verdict are 'No more ventures in markets led by bigger, better-funded firms' (naming POS) and no growth capital for copiers; the analysis also rejects 'profit per meter' as too narrow, covering the key's meters-alone point."
+  },
+  "D3": {
+    "score": 4,
+    "why": "The register lists the $42M POS failure (#2), the free-license decree removing the patent moat (#3), and the regulated, share-capped core (#4, #8), but ranks missing profit data as most urgent and leaves the copier incumbent out of the register."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Decline stages 3 and 5 name 'long-run electronic substitution for mail' and 'mail volume decays structurally', with the warning sign 'metered share or mail volume flat while management cites one-off causes', which is the mechanism of the later fade."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are marked [ASSUMPTION], the derived figures (about 11% of revenue, about 16% CAGR, 47% non-meter) follow from the dossier, missing ROC by line, profit per customer and CEO background are flagged, and the hedgehog is labelled a working hypothesis with conditional gates."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact and the missing numbers in a compact, actionable form."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not have already_great set to true."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A17|s2|judge",
+    "stage": "judge",
+    "case_id": "A17",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11734,
+    "tokens_out": 2171,
+    "cost_usd": 0.23573159999999999,
+    "duration_s": 26.8,
+    "finished_at": 1795492291.7856472,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2171,
+        "costUSD": 0.23573159999999999
+      }
+    }
+  }
+}

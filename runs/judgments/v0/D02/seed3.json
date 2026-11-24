@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog is 'keeps independent restaurants' dish machines running faster than anyone else, one dense metro at a time', which matches the key's field and gives up hotels, conveyors and the third metro, but it picks contribution per technician-hour and explicitly demotes machine payback to 'a guardrail, not the denominator'."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are Larchmont (declined by mid-January), the spring third metro, and modeling on $1,140 machines with a labor-excluded 63% margin, which are the key's three decisions."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The supply cliff is the most urgent brutal fact and ranked Critical #1, with 288 of 403 (71%) via Delmar, 118 of 610 Harrow's locations left, and payback moving from about 12 to 21–27 to 46 months; it also notes the fact is missing from the offsite agenda."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 2 (third metro, hotels, conveyors) and Stage 3 (supply cliff, labor-excluded margins) with fitting warning signs such as 'new territory before the east passes the gate' and 'no weeks-of-cover metric; supply absent from the agenda'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Churn and redeployment rate are flagged as missing and not computed, and most inferences carry [ASSUMPTION] tags ($70k loaded technician cost, about 70 remaining units), but the 'roughly $400' price for a 12-month auction payback and 'a raise likely within 12–15 months' are unmarked."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact, offsite answers and missing numbers, and is actionable, but it runs longer than one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D02|s3|judge",
+    "stage": "judge",
+    "case_id": "D02",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16359,
+    "tokens_out": 1847,
+    "cost_usd": 0.2967716,
+    "duration_s": 21.2,
+    "finished_at": 1795497535.205649,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1847,
+        "costUSD": 0.2967716
+      }
+    }
+  }
+}

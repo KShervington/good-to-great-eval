@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The analysis fails the subject at Gate 0 ('Hedgehog Concept: none produced. A one-time event has no repeating engine'), tries the key's reframes (Bellmoor Days, library archive, town heritage program, the ED's career) and substitutes a delivery-risk method (pre-mortem, scenario budget, cash-gated critical path)."
+  },
+  "D2": {
+    "score": 5,
+    "why": "It ends the run at Gate 0 instead of building a Good to Great stop-doing list, puts 'Stop deferring the $96,000 app... default to no' in the verdict's top three, and makes 'Secure Calder before anything irreversible' the first 90-day action."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The verdict names as most urgent brutal fact the ~63% Calder concentration ($270k of $431k), the retired relationship-holder, operations 'under review' and the $160k April installment falling after the March tall-ship deposit and before loan cover ends in May, with the consequence stated."
+  },
+  "D5": {
+    "score": null,
+    "why": "The answer key lists no decline risks and no later decline for this one-off event."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are marked [ASSUMPTION], derived figures (63%, 12%, $512.5k, $76k gap) are correct arithmetic from the dossier, and the attendance target is flagged as baseless with a bottom-up re-baseline requested instead of a guessed forecast; the only slip is calling the neighboring city 'larger' without marking it."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict gives the Gate 0 result, the no-hedgehog statement, the flywheel weakness ('the loop never closes'), three stops, the most urgent brutal fact and the missing numbers, and is actionable, but it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D12|s3|judge",
+    "stage": "judge",
+    "case_id": "D12",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11827,
+    "tokens_out": 1751,
+    "cost_usd": 0.2204196,
+    "duration_s": 23.8,
+    "finished_at": 1795499892.037143,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1751,
+        "costUSD": 0.2204196
+      }
+    }
+  }
+}

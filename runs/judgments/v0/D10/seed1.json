@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog centers on safe, fast, reversible deploys for 'regulated, money-moving services' with the denominator 'Tier-1 services on Runway with drilled sub-5-minute rollback', explicitly rejects raw service count, and rules out Atlas, starters and legacy maintenance; this matches the key's risk-weighted critical-service hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Declining Atlas is stop-doing #1 in the opening verdict, dropping the '80% of services' goal is #3, and freezing new starters and template work until rollback ships is #4."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, also the verdict's most urgent fact, is '5 of 6 Sev-1/2 incidents on legacy, both Sev-1s, 4 of 6 in Payments' with the 47 and 22 minute rollbacks; facts #2 and #3 cover the three-quarter rollback slip and Payments' stated conditions, and the consequence is stated ('the company's biggest deploy risk sits outside Runway')."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names both expected mechanisms specifically: celebrating count metrics while the Tier-1 number stays flat, the 'not our services, not our budget' denial, and undisciplined more via Atlas, starters and templates, each with a fitting early warning such as 'scope is accepted while rollback is still open'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "It flags the missing Runway/legacy deploy split and the uninstrumented legacy pipelines instead of computing a failure rate, notes the small sample, and marks most assumptions; but 'about 30 were retired' and the 'Greatness potential: 40/100' score are unmarked inferences with no stated basis."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, and is actionable, but with six missing-number bullets it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D10|s1|judge",
+    "stage": "judge",
+    "case_id": "D10",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15622,
+    "tokens_out": 2416,
+    "cost_usd": 0.3077396,
+    "duration_s": 26.3,
+    "finished_at": 1795499115.7091112,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2416,
+        "costUSD": 0.3077396
+      }
+    }
+  }
+}

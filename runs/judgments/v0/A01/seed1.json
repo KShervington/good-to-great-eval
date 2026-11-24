@@ -1,27 +1,31 @@
 {
   "D1": {
     "score": 5,
-    "why": "The hedgehog is 'paper-based products people reach for every day at home' earned on brands, with the denominator 'profit per consumer brand' and commodity printing papers, newsprint and air charter explicitly ruled out, which matches all three key points."
+    "why": "The hedgehog is 'paper-based products people reach for every day at home' built on brands, with the denominator 'profit per consumer brand', and it explicitly rules out commodity printing papers, newsprint and the mills ('rules out about half the company')."
   },
   "D2": {
     "score": 5,
-    "why": "Stop-doing item 1, in both the verdict and the list, is to stop funding printing-paper and newsprint mill modernization and prepare the mills for sale, 'including the namesake mill', with only a reasonable data-confirmation caveat."
+    "why": "Stop-doing item 1, in both the verdict and the full list, is to stop funding printing-paper and newsprint mill modernization and prepare the mills for sale, 'including the namesake mill'; item 2 ends capital allocation by tradition. The 'if the segment numbers confirm' condition softens it only slightly."
   },
   "D3": {
     "score": 5,
-    "why": "The most urgent brutal fact in the verdict combines 20 years of trailing the market with 'cannot afford to fight Rival P in consumer products and modernize commodity mills. It has to choose', and the register lists both key facts as High severity."
+    "why": "The most urgent brutal fact pairs the 20-year lag behind the market with 'cannot afford to fight Rival P in consumer products and modernize commodity mills. It has to choose'; the register ranks the lagging returns, the capital-hungry mills and Rival P as High."
   },
   "D5": {
     "score": null,
-    "why": "The answer key lists no expected decline risks and its later history records no decline, so this dimension is not applicable."
+    "why": "The answer key lists no expected decline risks and its later history describes no decline."
   },
   "D7": {
     "score": 4,
-    "why": "Inferences are mostly tagged [ASSUMPTION] and the missing segment return on capital is flagged, not guessed, but it misplaces Rival S as the reason the company cannot be best in commodity printing papers and asserts unmarked that the specialty acquisitions 'never formed a coherent business'."
+    "why": "Inferences are consistently marked [ASSUMPTION], and the missing segment return on capital, brand shares and growth rates are flagged as able to change the answer. A few minor inferences are unmarked, such as placing Rival S's advantage in commodity printing papers and saying the specialty acquisitions 'never formed a coherent business'."
   },
   "D8": {
     "score": 4,
-    "why": "The opening verdict contains the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, but with the 35/100 rationale and evidence note it runs somewhat past one phone screen."
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, and is actionable. With the 35/100 rationale and evidence note it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not have already_great set to true."
   },
   "hindsight_leak": false,
   "recognized_subject_by_name": false,
@@ -32,16 +36,16 @@
     "seed": 1,
     "model": "claude-fable-5-2",
     "effort": "high",
-    "tokens_in": 11395,
-    "tokens_out": 1585,
-    "cost_usd": 0.245704,
-    "duration_s": 18.5,
-    "finished_at": 1795486208.2506685,
+    "tokens_in": 12000,
+    "tokens_out": 2027,
+    "cost_usd": 0.27306400000000003,
+    "duration_s": 23.7,
+    "finished_at": 1795489948.390133,
     "models_used": {
       "claude-fable-5-2": {
         "inputTokens": 2,
-        "outputTokens": 1585,
-        "costUSD": 0.245704
+        "outputTokens": 2027,
+        "costUSD": 0.27306400000000003
       }
     }
   }

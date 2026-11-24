@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The analysis fails Gate 0 ('Hedgehog Concept: none, because Gate 0 failed'), declines to write a hedgehog or flywheel for the festival, and offers the key's reframes (council-chartered Bellmoor Days, library archive, civic capacity) plus a pre-mortem and project risk review as the better-suited method."
+  },
+  "D2": {
+    "score": 5,
+    "why": "It ends the run at Gate 0 and labels its list a 'project version'; declining the $96k app as proposed is the first stop-doing item in the verdict, and resolving or replacing the Calder installment (the 'Calder-out' budget) is the top action."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Calder is named the most urgent brutal fact and rated Critical, with $270k total (63% of sponsorship), $160k unpaid and due April, parent consolidation with Bellmoor operations 'under review', Farrow retired with no successor, and the March deposit / April installment / May loan-cutoff chain all connected."
+  },
+  "D5": {
+    "score": null,
+    "why": "The answer key lists no decline risks and says later history is not applicable for a one-off event."
+  },
+  "D7": {
+    "score": 4,
+    "why": "The ungrounded attendance target is flagged rather than computed, assumptions are marked and all derived figures check out against the dossier, but it calls the neighboring city 'larger' and asserts that an unmaintained AR app 'will stop working within a few platform updates' without marking either as an assumption."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict gives the Gate 0 fail, no hedgehog, the cash chain as weakest link, three stop-doing items, the Calder brutal fact and the missing facts, and is actionable alone, but with the greatness-score explanation and evidence note it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The subject is not marked already-great in the answer key."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D12|s2|judge",
+    "stage": "judge",
+    "case_id": "D12",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 10933,
+    "tokens_out": 2463,
+    "cost_usd": 0.2345956,
+    "duration_s": 28.5,
+    "finished_at": 1795499813.1717582,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2463,
+        "costUSD": 0.2345956
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('most dependable, most serviceable American home-entertainment sets... using whatever technology delivers that dependability cheapest') matches the key's customer-defined quality, cost parity with imports and rejection of the color crown, but it picks profit per dealer and explicitly rejects the key's profit per set."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are the color crown with no borrowing, hand-wiring as the definition of quality, and capping pay TV with a kill date; dismissing imports and ICs is item 6 and in the verdict's brutal fact, and nothing dismantles the quality and dealer core."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks method-bound quality while the industry automates and dismissed Japanese imports as Critical, and also lists IC/transistor denial, the debt-funded color race, pay TV and succession, each with evidence and consequence."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names the actual mechanisms: hubris toward imports ('Imports are junk'), a debt-funded color capacity race plus pay TV, explaining away the cost gap, and Stage 4 grasping including 'protection lobbying as strategy', with fitting warning signs such as 'debt appearing on a previously debt-free balance sheet'."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Computed margins and growth rates derive correctly from dossier figures, inferences such as the dealer channel and seat moves are tagged [ASSUMPTION], the missing cost, import, color-share and financial data are flagged as able to overturn the hedgehog, and the cautious 18/100 verdict fits the evidence."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers and is actionable, but with the score rationale and evidence note it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": 4,
+    "why": "It states 'Meridian is arguably already great by its returns', keeps the quality, dealer and inventory core and gives specific early-warning signs, but it adds a long change list that includes reseating the president and chairman on assumption, and it leaves six gates CONDITIONAL."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|B08|s1|judge",
+    "stage": "judge",
+    "case_id": "B08",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15370,
+    "tokens_out": 2644,
+    "cost_usd": 0.3128276,
+    "duration_s": 30.6,
+    "finished_at": 1795495820.086188,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2644,
+        "costUSD": 0.3128276
+      }
+    }
+  }
+}

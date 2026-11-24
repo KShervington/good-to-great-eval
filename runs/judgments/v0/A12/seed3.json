@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to '#1 or #2 modern supermarket in every market we choose to keep' judged by profit per market, and explicitly rejects small stores, national ubiquity and lowest-price-everywhere with the doom loop marked 'active', but it never plainly says the company currently has no hedgehog and still leans on store brands as the core."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are chain-wide deep-discount pricing, paying out most profit as dividends while stores age, and operating small badly located stores, with exiting weak markets also on the list."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the unwinnable price war and $51M loss, the obsolete store base (half under 8,000 sq ft) and capital starvation as Critical, and also lists broken service, high labor costs and Rival L 'already running the modern playbook', with consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "It names stage-4 grasping as 'present now' (program after program, savior CEO, takeover pressure) and stage-5 capitulation (closures without reinvestment, distressed sale), each with a specific warning sign, and calls national rank a vanity metric."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferred figures (~20% gross margin, ~$6B sales, foundation dividend dependence) are marked as assumptions and all the dossier's missing data is flagged, but 'no debt' is stated as fact when the dossier only says the company 'long avoided debt'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (reinvestment), the top three stop-doing items, the most urgent brutal fact and the missing numbers in a compact form someone could act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark this subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A12|s3|judge",
+    "stage": "judge",
+    "case_id": "A12",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12772,
+    "tokens_out": 1989,
+    "cost_usd": 0.2450596,
+    "duration_s": 21.9,
+    "finished_at": 1795492132.8348653,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1989,
+        "costUSD": 0.2450596
+      }
+    }
+  }
+}

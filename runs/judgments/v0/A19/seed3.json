@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the best and most convenient drugstore in every community it serves, built around the pharmacy' measured by 'profit per customer visit', with dense clusters and 'a drugstore company and nothing else', which matches all four key points including the denominator."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Food service and discount stores are stop-doing items 1 and 2 and in the verdict, with the discount exit explicit, but food service is softened to 'stop expanding', divesting only the 27 free-standing units, and a gradual 'review' of the 288 lunch counters at item 10 instead of a full exit."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1, rated Critical and repeated in the verdict, is sales up 130% with EPS going from $1.30 to $1.15 and margin eroding ('buying volume, not building profit'); capital spread across about ten businesses and the weak discount stores are also listed."
+  },
+  "D5": {
+    "score": 3,
+    "why": "The risk register names stage 4 grasping ('a large acquisition or a new format to jump-start growth', warning sign 'a deal pitched as transformational'), which loosely fits the later transformational merger and failed partnership, but it is generic stage boilerplate and nothing touches pharmacy-integrity or legal risk."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Computed figures (2.2%, about 1.4% LIFO-adjusted, 0.76%, 8% closures) trace to the dossier and are labelled as estimates, targets are marked as assumptions, and missing division and per-visit data are flagged; but electronic point-of-sale is asserted as available without an assumption mark, and the $6.7M tax saving is treated as the earnings add-back."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (reinvestment into drugstore density), three stop-doing items, the most urgent brutal fact with numbers, and the missing numbers, compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not set already_great to true, so this dimension does not apply."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A19|s3|judge",
+    "stage": "judge",
+    "case_id": "A19",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12678,
+    "tokens_out": 2582,
+    "cost_usd": 0.2672756,
+    "duration_s": 29.0,
+    "finished_at": 1795492851.8880541,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2582,
+        "costUSD": 0.2672756
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog sentence is 'the best, most convenient drugstore in every market where it can build density... one number: profit per customer visit', which matches the key's field, density logic, denominator and exclusion of restaurants and discount stores."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Restaurants and discount stores are stop-doing items 1 and 2 in the verdict, but softened to 'stop opening restaurants / freeze 22 units' and 'prepare an exit', with in-store counters conditionally kept rather than a full food-service exit."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1 (Critical) is 'growth in size, not in earning power', with sales doubling while EPS stalled; thin margins, weak discount stores and attention spread across about 10 businesses are also listed, with consequences stated."
+  },
+  "D5": {
+    "score": 3,
+    "why": "The register names Stage 2 as already present and Stage 4 'large acquisition... without density logic', which loosely anticipates the later mega-merger, but the mechanism is generic and tied to matching Rival E rather than the actual later failures."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Derived figures (LIFO-comparable margin and EPS, share counts, growth rates) are arithmetic from the dossier and marked as assumption or derived; division profit, return on capital, per-visit profit and regional share are flagged as missing, and gates are left CONDITIONAL accordingly."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, but the gate tally, score and evidence note push it somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not have already_great set to true."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A19|s2|judge",
+    "stage": "judge",
+    "case_id": "A19",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12869,
+    "tokens_out": 2657,
+    "cost_usd": 0.2733316,
+    "duration_s": 29.8,
+    "finished_at": 1795492772.690389,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2657,
+        "costUSD": 0.2733316
+      }
+    }
+  }
+}

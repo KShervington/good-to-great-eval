@@ -181,9 +181,22 @@ def check_assumptions(md: str, dossier: str) -> tuple[bool, list[str]]:
 
 
 def check_no_long_quote(md: str, dossier: str) -> tuple[bool, list[str]]:
-    quotes = re.findall(r"[\"“]([^\"”\n]{20,})[\"”]", md)
-    long_q = [q for q in quotes if len(q.split()) >= 15 and q.strip()[:40] not in dossier]
-    return not long_q, long_q
+    """Flag quotations of 15+ words attributed to Collins or his books (on the same line).
+    Quote marks must be real delimiters: an opening quote after
+    start/space/bracket, a closing quote before space/punctuation/end."""
+    pat = re.compile(r'(?:(?<=^)|(?<=[\s(\[:>*]))(?:"([^"\n]{20,}?)"|“([^”\n]{20,}?)”)(?=[\s.,;:!?)\]*]|$)', re.M)
+    flagged = []
+    for line in md.splitlines():
+        attributed = re.search(r"collins|good to great|built to last|how the mighty fall|great by choice", line, re.I)
+        for m in pat.finditer(line):
+            q = (m.group(1) or m.group(2)).strip()
+            n = len(q.split())
+            if q[:40] in dossier:
+                continue
+            # Limitation: without the books' text, unattributed Collins quotes can't be detected.
+            if attributed and n >= 15:
+                flagged.append(q[:160])
+    return not flagged, flagged
 
 
 def greatness_potential(md: str) -> int | None:
@@ -248,6 +261,8 @@ def case_record(root: Path, version: str, case: dict, seed: int) -> dict | None:
         j = json.loads(jpath.read_text(encoding="utf-8"))
         for d in JUDGE_DIMS:
             rec[d] = (j.get(d) or {}).get("score")
+        if key.get("track") != "E":
+            rec["D9"] = None  # restraint applies to Track E only (Track B needs urgent warnings, not restraint)
         rec["hindsight_leak"] = j.get("hindsight_leak")
     return rec
 

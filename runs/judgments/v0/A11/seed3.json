@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog sentence, '#1 or #2 in every market we serve, through combination food-and-drug stores that win the whole weekly shop, measured by profit per local household', matches the key's combination superstores, local #1/#2 position and profit-per-local-population denominator, and explicitly rules out small stores and manufacturing."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing items 1 and 2 in the one-screen verdict are 'Stop building, expanding or remodeling small conventional supermarkets' (run only until replaced or sold) and exit markets where #1 or #2 isn't reachable, with a BHAG of nearly every store a combination store."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical and named most urgent, is that most of the fleet is small conventional stores on which 'Lindqvist loses', and fact #2 covers weak regional markets as exits that 'look like retreats, not choices'."
+  },
+  "D5": {
+    "score": null,
+    "why": "The answer key lists no expected decline risks and its later history records no collapse."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked, missing data is prominently flagged and the verdict is conditional on it, but a few inferences go unmarked, such as the consumer-research tradition being 'unique', scanner data as a 'proprietary edge', and the unexplained 60/100 score."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (unproven combination-store economics), the top three stop-doing items, the most urgent brutal fact and the missing numbers, in a compact form someone could act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A11|s3|judge",
+    "stage": "judge",
+    "case_id": "A11",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11984,
+    "tokens_out": 1713,
+    "cost_usd": 0.2214116,
+    "duration_s": 20.4,
+    "finished_at": 1795491892.9959178,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1713,
+        "costUSD": 0.2214116
+      }
+    }
+  }
+}

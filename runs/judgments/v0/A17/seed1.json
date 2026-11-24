@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog 'runs America's business mail... deepens a leased, serviced relationship with each business customer... judges itself by profit per customer' matches the key's field, its installed-base leverage and its denominator, and it explicitly excludes copiers, point-of-sale and general office equipment."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1, repeated in the one-screen verdict, is 'No new markets where a larger, better-funded firm leads. Point-of-sale stays closed', with copier expansion frozen and the hedgehog widened beyond the meter alone."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register lists the $42M point-of-sale loss (#2), copiers against the inventor of plain-paper copying (#3) and the free-license decree removing patent protection (#4) near the top with consequences, and the $42M is in the verdict's most urgent fact; 'mature, regulated' is only partly covered through the Postal Service and revenue-mix items."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Decline stage 5 names 'The meter becomes irrelevant to electronic communication' with the warning sign 'falling mail volume per customer with no strategy response', which is the mechanism of the later long fade."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures (11% of revenue, 16% a year, 80% to 53% meter share) check out against the dossier and the key gaps are flagged, but 'management attention followed the revenue away from the core', the specific adjacent products and the 62/100 score are unmarked inferences."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the denominator, the weakest flywheel link (service visit to adjacent sales), three stop-doing items, the most urgent brutal fact and the missing numbers in a compact, actionable form."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not set already_great to true."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A17|s1|judge",
+    "stage": "judge",
+    "case_id": "A17",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12176,
+    "tokens_out": 2173,
+    "cost_usd": 0.2428836,
+    "duration_s": 25.0,
+    "finished_at": 1795492242.8410292,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2173,
+        "costUSD": 0.2428836
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to 'the most convenient, lowest-priced drugstore in the Southeast and Texas', rejects the diversified group ('unrelated businesses bought for growth') and logs doom-loop signs, but it never says outright that Brightwater currently has no hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing items 1 and 2 in the one-screen verdict are 'Stop owning businesses that aren't drugstores. Divest the junior department stores, security services and food-service supply' and 'Stop acquiring to grow', matching the key's decision explicitly."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All three key facts (Rival W in the home state, capital spread across unrelated lines, founder's attention on politics) are the top three High-severity entries, and the 'most urgent brutal fact' combines them with the consequence stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register names Stage 2 as 'Already showing: unrelated acquisitions' with the warning sign 'Any new deal outside drugstores', and Stage 5 as 'Selling out', which matches the later video-store purchase, buyout and sale."
+  },
+  "D7": {
+    "score": 4,
+    "why": "No financials are invented, inferences are tagged [ASSUMPTION] and missing data is flagged thoroughly, but the gate count is wrong ('6 PASS, 5 CONDITIONAL' when the table shows 7 and 4) and the 24/100 score has no basis in the evidence."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact and the missing numbers in a compact form someone could act on, though the 'Why 24' paragraph pushes its length."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great (comparison company)."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A20|s1|judge",
+    "stage": "judge",
+    "case_id": "A20",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13121,
+    "tokens_out": 2484,
+    "cost_usd": 0.2704436,
+    "duration_s": 26.5,
+    "finished_at": 1795492929.8463228,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2484,
+        "costUSD": 0.2704436
+      }
+    }
+  }
+}

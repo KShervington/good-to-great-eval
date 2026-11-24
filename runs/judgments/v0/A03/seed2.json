@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'makes health care more cost-effective' through hospital products, clinical nutrition and diagnostics, explicitly rules out the blockbuster drug race and consumer brands, and picks profit per employee as the denominator, matching the key on all points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the one-screen verdict are exiting the non-health consumer goods and stopping the competition for blockbuster drug discoveries, which is the key's decision; rebuilding management is covered in the bus section rather than as a nepotism item."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the IV recall as Critical and the off-patent antibiotic with no breakthrough as High, adds the sweetener ban and weakened leadership, and the verdict states the consequence ('losing both its trust base and its profit base'); the hospital cost-control shift appears in the hedgehog section, not the register."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and its later history says 'No collapse', so there is no decline mechanism to grade; the analysis's quality-hubris and regulatory-denial warnings do loosely anticipate the later FDA quality fine."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Figures come from the dossier, inferences are mostly tagged [ASSUMPTION] and the missing divisional numbers are flagged with conditional gates, but a few inferences are unmarked, such as the sweetener ban being 'followed by more consumer diversification', the sweetener having 'earned ~$50M' (the dossier gives revenue), and the bare 30/100 score."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (trust in reliability), three stop-doing items, the most urgent brutal fact and the missing numbers, compactly enough to act on without reading further."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not have already_great set to true, so this dimension does not apply."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A03|s2|judge",
+    "stage": "judge",
+    "case_id": "A03",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13258,
+    "tokens_out": 2041,
+    "cost_usd": 0.2549156,
+    "duration_s": 23.4,
+    "finished_at": 1795490406.250766,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2041,
+        "costUSD": 0.2549156
+      }
+    }
+  }
+}

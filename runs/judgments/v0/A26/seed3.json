@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'a small number of low-price character and classic toy brands selling to children for decades', judged by 'profit per brand-year', toys only with pencils separated and electronic games, child care and cookware ruled out, which matches all three key points."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Top three are stop diversifying outside toys, stop chasing electronic games and stop one-season launches, but the pencil separation sits at item 5 and is conditional on tests, and the succession bench appears only in the bus and mechanisms sections, not on the stop-doing list."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks banker control, heavy debt and the suspended dividend as fact 1 (Critical), the family schism as fact 3, the unreplaced action-figure hit as fact 4 and failed diversification as fact 7, with the consequence stated in the verdict (whether the remaining toy company is financeable)."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The risk register flags 'no succession is documented' behind the son, the leadership read doubts the company 'would survive his absence', and Gate 10 names a debt-funded acquisition 'for scale', but the key-person mechanism is not in the Gate 10 table and has no specific early warning sign."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences and thresholds are marked [ASSUMPTION], the scorecard states unknowns as 'Unknown', all four dossier gaps (segment profit, debt terms, Year -1 results, brand-level profit) are flagged, and the hedgehog is held CONDITIONAL with an explicit flip to pencils if the tests fail."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (cash to reinvestment), the top three stop-doing items, the most urgent brutal fact and the missing numbers in a compact form someone could act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A26|s3|judge",
+    "stage": "judge",
+    "case_id": "A26",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15804,
+    "tokens_out": 2073,
+    "cost_usd": 0.2969316,
+    "duration_s": 24.2,
+    "finished_at": 1795494600.8769116,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2073,
+        "costUSD": 0.2969316
+      }
+    }
+  }
+}

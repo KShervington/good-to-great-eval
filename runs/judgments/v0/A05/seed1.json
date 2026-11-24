@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'running consumer-electronics superstores... one region at a time, measured by profit per region', with a national BHAG and a rollout playbook, which matches the key's field, sacrifice and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items are buying chains for tax credits, opening scattered single stores and running the West Coast leased departments, and the fuller list adds no new mid-sized stores, so capital concentrates on superstores."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register rates as High the struggling big-city chain, the superstore bet at about half of net worth, and the unproven four-format split, and the verdict leads with capital split four ways against a funded rival; the loss year appears only in the faith statement."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The decline register names 'assumes superstores are permanent', 'new categories', a 'new format to rescue growth' and 'ceding regions to Rival S or newer formats', which fits the later loss to a newer format and the failed ventures, but the warning signs are generic and the erosion of service staff is not flagged."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently marked as assumptions and the missing profit, per-format, debt and share data are flagged with conditional gates, but the faith statement calls the superstore 'a format that worked' as fact and the 50/100 score is unexplained."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, and is actionable, but it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not set already_great to true, so this dimension does not apply."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A05|s1|judge",
+    "stage": "judge",
+    "case_id": "A05",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 10654,
+    "tokens_out": 2268,
+    "cost_usd": 0.2223316,
+    "duration_s": 26.0,
+    "finished_at": 1795490838.2929478,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2268,
+        "costUSD": 0.2223316
+      }
+    }
+  }
+}

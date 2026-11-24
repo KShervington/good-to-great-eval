@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog 'invent and lead branded, everyday absorbent personal-care categories, measured by profit per consumer brand' matches the key's field, its exclusions (commodity paper, aviation) and its denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top two stop-doing items in the verdict are 'Stop the $120M airline expansion and separate aviation' and 'Stop reinvesting in the paper class... sold or spun off', and nothing dismantles the consumer core."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks Rival P's size and diaper lead, capital split across three unrelated businesses, succession, the airline and unreported European returns as high or medium, with the consequence stated as capital leaking from the brands."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and describes the later history as integration pain, not a decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are marked [ASSUMPTION] and the missing segment, brand, airline and Europe data are flagged, but the 'Greatness potential: 60/100' figure is unexplained and sits oddly with the evidence of a strong record."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The verdict has the hedgehog sentence, weakest link (reinvestment), top three stop-doing items, brutal fact and missing numbers, but the 'most urgent brutal fact' bundles three facts and the section runs slightly long."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It keeps the lived hedgehog and names specific risks such as a size-driven merger, but never says plainly that the company is already great ('Greatness potential: 60/100', three CONDITIONAL gates) and adds a long list of eight stop-doing items, missing seats and a seat move."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|E04|s1|judge",
+    "stage": "judge",
+    "case_id": "E04",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12567,
+    "tokens_out": 2000,
+    "cost_usd": 0.281056,
+    "duration_s": 62.3,
+    "finished_at": 1795527521.5249586,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2000,
+        "costUSD": 0.281056
+      }
+    }
+  }
+}

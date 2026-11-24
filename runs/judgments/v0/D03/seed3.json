@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog ('fastest, safest way for a farmer to get a big machine... when the weather window won't wait, built one dense county at a time') matches the key's time-critical, high-value field, excludes financing and broad expansion, uses net revenue per county as denominator, and keeps repeats on-platform by adding value rather than re-masking phone numbers."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are exactly the key's: decline input financing (#1), defer the two-state launch (#2), and stop treating 'a neighbor I can call' as the success metric (#3); Ranvik Pro is also deferred."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical and repeated in the verdict, is that the celebrated community is 'probably revenue leaking off the platform', citing 71% vs 11%, masking off since May and the Ostrander–Kemp story; the 68% concentration and ~18.7 months of runway are also listed."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 1 hubris ('Truly a great season' on a thin base), Stage 2 ('Financing + two states + Pro at once, already present') and Stage 3 ('Leakage framed as community'), each with a specific warning sign such as 'no leakage metric by March'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures and assumptions are mostly labelled and the leakage is honestly called inferred, but the key's missing metric was computed, not requested: the ≈82% fill rate is tagged [ASSUMPTION] in section 6 yet appears as the scorecard's 'Current' baseline marked only 'derived', and it is absent from the missing-numbers list; the '$300k machine' is also unmarked."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the January decision, the weakest flywheel link ('the second rental'), the top three stop-doing items, the most urgent brutal fact and a missing-numbers list, so it can be acted on without reading further, though it runs slightly long."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D03|s3|judge",
+    "stage": "judge",
+    "case_id": "D03",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15040,
+    "tokens_out": 2685,
+    "cost_usd": 0.3091876,
+    "duration_s": 29.8,
+    "finished_at": 1795497793.387566,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2685,
+        "costUSD": 0.3091876
+      }
+    }
+  }
+}

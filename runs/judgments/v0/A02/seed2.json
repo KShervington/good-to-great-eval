@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's core ('branded household paper made by its own low-cost mills', towels and tissue), rules out the diversified portfolio, and offers a fallback if the softness gap can't be closed, but it never says plainly that Corwin currently has no hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing items 1 and 2 in the opening verdict are 'Stop buying growth outside household paper' with the four units put up for sale, and 'Stop treating diversification as the strategy'; list-price doctrine and past-dominance comfort are also covered."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks Rival P's national softness-led entry as #1 Critical, followed by the ~$200M of unprofitable acquisitions and falling ROE and earnings, and states the consequence that the flywheel doesn't turn if the gap isn't closed."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names continued share loss to Rival P, a Stage 4 'savior' chairman with 'a charismatic outside hire' as a warning sign, and Stage 5 'sale or breakup of the company', which matches the actual path; the later capacity blunder is only loosely touched by 'stop broad modernization'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are marked [ASSUMPTION] and the missing share, consumer-test, cost and unit-profit data are flagged, but the '30/100' score is unsupported and the PASS on Built to Last rests on values the analysis itself assumed."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening gives the hedgehog sentence, the weakest link (quality the consumer can feel), three stop-doing items, the most urgent brutal fact and the missing numbers, but with the gate summary and run notes it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A02|s2|judge",
+    "stage": "judge",
+    "case_id": "A02",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12268,
+    "tokens_out": 2221,
+    "cost_usd": 0.2462756,
+    "duration_s": 25.9,
+    "finished_at": 1795490239.7287548,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2221,
+        "costUSD": 0.2462756
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is the 'supplier-neutral ordering and inventory brain for independent vet clinics' growing by 'gross profit per independent clinic', which matches the key's field, its exclusions (dental, chains, reminders) and its per-clinic denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "'Stop the dental build' is item 1 and 'Stop pursuing corporate chains' is item 2, both in the one-screen verdict and the full stop-doing list, stated as outright exits."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1, rated Critical and named most urgent in the verdict, gives the 38% of ARR (~$912k), the five-month renewal, the competing native product and the two unanswered emails, with the runway consequence spelled out."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names Stage 2 as 'Dental, chains, venture-scale pressure' and Stage 3 as 'VetSource silence filed as housekeeping', each with a specific early warning sign such as more than 10% of engineering on non-hedgehog work."
+  },
+  "D7": {
+    "score": 4,
+    "why": "CAC by channel is flagged as missing and the blended ~$10k CAC, ~118 clinics and churn figures are marked derived or [ASSUMPTION], but a few inferences such as 'chains are the competitors of Tallypaw's customers' and several scorecard targets are unmarked."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers and is actionable, but with the gate summary and run notes it runs past a single phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D01|s2|judge",
+    "stage": "judge",
+    "case_id": "D01",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14226,
+    "tokens_out": 2303,
+    "cost_usd": 0.2808836,
+    "duration_s": 26.0,
+    "finished_at": 1795496931.8984628,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2303,
+        "costUSD": 0.2808836
+      }
+    }
+  }
+}

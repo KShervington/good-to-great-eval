@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's core ('lowest-cost, most trusted everyday bank' for the home state, judged 'by profit per employee, not by size') and rejects growth-for-size as a doom loop, but frames this as a working hypothesis and never says plainly that the current portfolio has no hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are to stop using growth in assets, branches, countries or business lines, stop energy, shipping and developing-country lending, and stop new ventures including the brokerage; overhead and branch cuts follow in the full list and 90-day plan, though executive perks are not mentioned."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All four key facts (bad loans in four sectors, loss of the cheap-deposit advantage, industry-high overhead, the low-rate mortgage drag) are in the register ranked Critical or High, and the verdict's most urgent fact states the consequence: 'may be under-reserved and short of capital'."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The register names the actual mechanisms: under-reserving of bad loans treated as cyclical (stage 3), a dramatic acquisition as salvation (stage 4), and capital erosion forcing a 'fire sale of assets or loss of independence' (stage 5), each with a specific warning sign such as reserves rising more slowly than non-performing loans."
+  },
+  "D7": {
+    "score": 5,
+    "why": "No figures are invented, inferences are tagged [ASSUMPTION], all missing metrics (non-performing loans, line profit, cost ratio, return on assets, CEO priorities) are flagged with scorecard baselines left as 'Not in dossier', and the 15/100 verdict with five conditional gates fits the evidence; the only blemish is a trivial unmarked aside about New York money-center banks."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, the weakest flywheel link (disciplined credit), the top three stop-doing items, the most urgent brutal fact and the missing numbers, and is actionable, but with the 'Why 15' paragraph it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark this subject as already great; it is a comparison company."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A22|s2|judge",
+    "stage": "judge",
+    "case_id": "A22",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13739,
+    "tokens_out": 2030,
+    "cost_usd": 0.2621716,
+    "duration_s": 22.5,
+    "finished_at": 1795493480.6827364,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2030,
+        "costUSD": 0.2621716
+      }
+    }
+  }
+}

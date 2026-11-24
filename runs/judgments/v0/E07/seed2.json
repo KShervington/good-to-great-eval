@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'turning struggling six-year-olds into readers through daily tutoring by fully trained, closely coached tutors, inside districts', explicitly excludes math, the parent app and calendar-driven multi-state launches, and uses 'cost per additional child at spring benchmark' as the denominator, which matches the key's benchmark-per-dollar."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are funder- or calendar-paced growth, the 18-hour training and coach-load drift, and the math pilot and ReadAlong; it also recommends not accepting the grant as conditioned, no funder voting seats and hiring the research director now, all while preserving the core model."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1 is the new-school decline of 69% to 63% to 58% against 74% in mature schools, ranked Critical with the consequence that five new states would put every new school in the failing cohort; #2 covers the training, coaching and retention cuts and #4 the vacant research seat and cancelled outcome study."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 1 hubris ('cracked the code', dissent deflected) and Stage 2 undisciplined pursuit (five states, 1M readers, math, app) as already visible, with specific warning signs such as the new-school gap widening, targets set by funder rather than readiness, and any break in the 12-year renewal streak."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Derived figures such as cost per additional reader are computed from dossier data and caveated as directional, assumptions are tagged throughout, and material gaps are named (cohort results by training hours, restoration cost, revenue mix, the $18.0M vs $14.6M discrepancy); the only unmarked figure is the 55/100 rating, which is a judgment rather than a claimed fact."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict contains the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers and is actionable, but with sub-bullets and five missing-number items it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": 4,
+    "why": "It says 'Calloway is great at small scale, and it has started to fall', cites the RCTs, renewals and cost evidence, keeps the existing hedgehog and frames the work as restoring the model with subject-specific warning signs; but the recommendation set is long (ten stop-doing items, a new CPO, a new committee, a succession plan) and the 55/100 rating reads closer to 'good with gaps'."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|E07|s2|judge",
+    "stage": "judge",
+    "case_id": "E07",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17046,
+    "tokens_out": 2661,
+    "cost_usd": 0.3403236,
+    "duration_s": 30.6,
+    "finished_at": 1795528278.6004188,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2661,
+        "costUSD": 0.3403236
+      }
+    }
+  }
+}

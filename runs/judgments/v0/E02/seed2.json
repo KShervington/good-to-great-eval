@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the most convenient pharmacy-anchored drugstore in every market it chooses to saturate: the best corner, the fastest prescription, the easiest refill', measured by profit per customer visit, which matches all three key points and explicitly rules out scale acquisitions, standalone PBM growth and mail order."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1, also in the one-screen verdict, is 'Buying chains to match a rival's store count', followed by no second-best sites, not treating 3,000 stores as the goal, and not building the PBM as a business in its own right; nothing dismantles the drugstore core."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1 (High, and the verdict's most urgent) is payers pushing prescription margins down as the prescription share of sales rises and gross margin slips, with the consequence stated; fact 2 is the consolidating rival and fact 6 is mail order and PBMs diverting visits."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key's decline_risks_expected is empty and later_history records only a growth slowdown beyond the 10-year window, with no decline mechanism to grade against."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived arithmetic is shown and correct, assumptions are tagged, and the missing metrics (profit per visit, same-store sales, cohort returns, shareholder returns) are flagged; but a few inferences are unmarked, such as closings continuing at about 88 a year to reach '~2,720 stores' and the rival merger being 'partly to gain payer leverage'."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The verdict leads with the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, and is actionable, but with the score, overall paragraph and run notes it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It keeps the hedgehog the company already lives by and gives subject-specific warning signs, but labels the subject 'good, with a credible path to great' (70/100, three conditional gates) and adds an eight-item stop-doing list, three new seats and metro deferrals instead of plainly saying it is already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|E02|s2|judge",
+    "stage": "judge",
+    "case_id": "E02",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13266,
+    "tokens_out": 2057,
+    "cost_usd": 0.2556836,
+    "duration_s": 23.7,
+    "finished_at": 1795500054.1907182,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2057,
+        "costUSD": 0.2556836
+      }
+    }
+  }
+}

@@ -4,3 +4,10 @@
 2026-11-23 22:07:27	start	harness run started; 55 jobs remaining
 2026-11-23 22:09:15	round_done	round probes: every job is done; ready for the accept/reject decision
 2026-11-23 22:09:15	finish	harness idle; counts={'done': 64}
+2026-11-23 22:12:04	start	harness run started; 249 jobs remaining
+2026-11-24 01:07:09	pause	fable limit hit on v0|E04|s1|judge: reset time given; resuming at 01:52:00
+2026-11-24 01:07:12	pause	opus limit hit on v0|E04|s3|run: reset time given; resuming at 01:52:00
+2026-11-24 08:37:36	resume	opus limit lifted; resuming 16 remaining jobs
+2026-11-24 08:37:37	resume	fable limit lifted; resuming 16 remaining jobs
+2026-11-24 08:55:08	round_done	round r0-baseline: every job is done; ready for the accept/reject decision
+2026-11-24 08:55:08	finish	harness idle; counts={'done': 310}

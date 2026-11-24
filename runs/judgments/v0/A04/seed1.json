@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to 'hormone and inflammatory disease' with 'profit per research dollar', and rejects broad research pharma, antibiotics and seeds, but only implies and never plainly states that the current portfolio lacks a hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three in the verdict include 'Stop trying to match the largest drug companies' research budgets' and 'Stop expanding non-drug businesses' with a seed review, and item 7 adds 'Stop treating the arthritis compound as the plan'; the seed exit is slightly softened to a review."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks licensed-compound dependence, the diabetes-drug heart-safety signal, the lost antibiotic litigation (about 12% of domestic gross income) and the inability to outspend the largest research companies all as High, and the verdict states the consequence."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names the actual mechanisms: 'betting the company on the arthritis launch, or a transformational merger', denial of safety studies, and being 'absorbed into a larger firm', with fitting warnings such as 'guidance built on one product' and a falling share of sales from owned products."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked and missing financials, research intensity, license terms and family stake are flagged, but the 'Greatness potential: 15/100' figure is unexplained, and calling the antibiotic order a 'safety and efficacy ruling' and both products 'of the past decade' are unmarked inferences beyond the dossier."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict concisely gives the hedgehog sentence, the weakest flywheel link (proprietary discovery), the top three stop-doing items, the most urgent brutal fact and the missing numbers, and is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A04|s1|judge",
+    "stage": "judge",
+    "case_id": "A04",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11572,
+    "tokens_out": 2085,
+    "cost_usd": 0.2296996,
+    "duration_s": 23.2,
+    "finished_at": 1795490555.8332515,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2085,
+        "costUSD": 0.2296996
+      }
+    }
+  }
+}

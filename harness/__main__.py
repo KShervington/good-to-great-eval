@@ -38,7 +38,7 @@ def cmd_run(a) -> int:
                     return 2
                 backend = ClaudeBackend(p.cwd_sandbox)
             opts = RunOptions(concurrency=a.concurrency, resume_buffer_s=a.resume_buffer,
-                              probe_interval_s=a.probe_interval, max_jobs=a.max_jobs)
+                              probe_interval_s=a.probe_interval, max_jobs=a.max_jobs, keep_awake=not a.allow_sleep)
             return Scheduler(p, backend, notifier, opts).run()
     except AlreadyRunning:
         print("harness is already running (lock held); nothing to do")
@@ -132,8 +132,18 @@ def cmd_status(a) -> int:
             how = "expected resume" if l["resume_at"] else "next probe"
             print(f"  {l['family']}: PAUSED since {_fmt_t(l['paused_since'])}; {how} {_fmt_t(when)}"
                   f"  ({l['reason'][:80] if l['reason'] else ''})")
-    pz = led.one("SELECT COUNT(*) n, SUM(COALESCE(end, ?) - start) s FROM pauses", (now,))
-    print(f"  pauses so far: {pz['n']}, total paused time {((pz['s'] or 0) / 3600):.1f} h")
+    iv = sorted((r["start"], r["end"] or now) for r in led.q("SELECT start, end FROM pauses"))
+    wall, cur = 0.0, None
+    for a_, b_ in iv:  # union of intervals: overlapping Opus/Fable pauses count once
+        if cur and a_ <= cur[1]:
+            cur[1] = max(cur[1], b_)
+        else:
+            if cur:
+                wall += cur[1] - cur[0]
+            cur = [a_, b_]
+    if cur:
+        wall += cur[1] - cur[0]
+    print(f"  pause events so far: {len(iv)}, wall-clock time paused {wall / 3600:.1f} h")
     print("\n== Tokens")
     tot = led.one("SELECT SUM(tokens_in) i, SUM(tokens_out) o, SUM(cost_usd) c FROM jobs WHERE status='done'")
     print(f"  all done jobs: in {tot['i'] or 0:,}  out {tot['o'] or 0:,}  (API-equivalent ${tot['c'] or 0:,.2f})")
@@ -194,6 +204,7 @@ def main(argv=None) -> int:
     r.add_argument("--probe-interval", type=float, default=1200, help="seconds between probes when no reset time")
     r.add_argument("--max-jobs", type=int, default=None)
     r.add_argument("--no-toast", action="store_true")
+    r.add_argument("--allow-sleep", action="store_true", help="don't ask Windows to stay awake while work remains")
     r.set_defaults(fn=cmd_run)
 
     e = sub.add_parser("enqueue")

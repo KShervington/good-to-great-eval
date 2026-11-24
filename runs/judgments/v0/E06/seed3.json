@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog sentence matches the key's field and give-up ('strings that professional violin-family players choose in blind tests... sells them only through the specialist shops... at a premium it never discounts', ruling out guitar and student), but the chosen denominator is gross profit per winding-machine hour, with profit per professional player demoted to a backup."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are 'Do not launch Halvard Six', 'Decline the private-equity student brand' and keeping the Listening Room to the violin family, and the rest of the list preserves the shop channel, MAP pricing and the panel gate."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the ~2% core market and finite share gains as #2 at High severity with its consequence stated, and also lists shop consolidation (#4) and the leadership transition (#7); the winding-engineer retirement is covered in the bus table."
+  },
+  "D5": {
+    "score": null,
+    "why": "The answer key lists no expected decline risks and its later history shows no decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION], the derived figures (about $5.9M gross profit, about 52% blended margin, about 1.6 points of share a year) follow from the dossier, and the missing numbers are flagged; but the 'Greatness potential: 72/100' score is unexplained, and 'Halvard has never won a guitarist' is an unmarked claim that sits awkwardly with its past guitar-string sales."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict contains the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact and the missing numbers, and is actionable, but it runs somewhat longer than one phone screen."
+  },
+  "D9": {
+    "score": 4,
+    "why": "It states plainly that 'Halvard is already great' with evidence, keeps the hedgehog the company already lives by and names subject-specific risks (the mass-retail-minded commercial director, the Stage 2 temptation on this agenda, succession, shop consolidation), but it adds several changes the evidence does not clearly justify: three new roles, an East Asia scoping study, a capital-return policy and a new headline metric."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|E06|s3|judge",
+    "stage": "judge",
+    "case_id": "E06",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12874,
+    "tokens_out": 2101,
+    "cost_usd": 0.2511716,
+    "duration_s": 24.2,
+    "finished_at": 1795527879.7715666,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2101,
+        "costUSD": 0.2511716
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the region's go-to sonographer for adults with congenital heart disease, scanning the hard cases and teaching others to', with income per transducer-hour as denominator, and it explicitly rules out the travel contract and routine overtime, matching the key on all three points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen top three are exactly the key's decisions: stop considering the 13-week high-volume travel contract (#1), stop going without disability cover (#2), and stop voluntary routine overtime (#3)."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent brutal fact links the injured scanning arm, the 9 to 13–14 studies-a-day rise, the dropped LTD cover, two months of savings and a variable-income partner, and states the consequence ('one bad flare-up would be a financial crisis as well as a medical one')."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 3 denial specifically (shoulder treated as a private nuisance, with 'LTD still lapsed at the 90-day check' as the warning sign) and flags being pushed into the travel contract by a bad money month, though it files that under Stage 4, not Stage 2."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Derived figures (about $73 per transducer-hour, about 270 routine studies, about $24,100 base, the LTD annual cost) carry [ASSUMPTION] tags, the university pay is called a 'black box' with no invented figure, and the hedgehog is held CONDITIONAL on getting that pay band; the unexplained 52/100 score is the only loose number."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (no recognized, priced congenital role), the top three stop-doing items, the most urgent brutal fact and a specific missing-numbers list; it is dense but can be acted on without reading further."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D06|s3|judge",
+    "stage": "judge",
+    "case_id": "D06",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15840,
+    "tokens_out": 1948,
+    "cost_usd": 0.2925076,
+    "duration_s": 22.2,
+    "finished_at": 1795498624.0426843,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1948,
+        "costUSD": 0.2925076
+      }
+    }
+  }
+}

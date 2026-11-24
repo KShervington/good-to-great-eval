@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's suggested core ('lowest-cost, lowest-loss adjustable-rate home lender in the West', profit per dollar of assets) and rules out diversification, but only implies the company lacks a hedgehog today ('already drifting toward size and diversification') without saying so plainly."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top two stop-doing items in the verdict are 'Stop diversifying... make no new non-lending purchases' and 'Stop buying thrifts for size', which match the key's decision; the only softening is a keep-or-exit test for the existing brokerage."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical, is the remaining fixed-rate book funded by short deposits with the consequence stated ('could decide whether it survives'), and #2 covers deregulated rivals' risky expansion."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names 'undisciplined more' through acquisitions and diversification as already under way, flags one-state housing concentration and rising delinquencies, and ends in 'sold to an acquirer' after 'repeated restructurings', each with specific early-warning signs."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are marked [ASSUMPTION], scorecard values are left 'Unknown' instead of invented, the missing net worth, ROA, fixed-rate book size, market share and brokerage P&L are all flagged, and Gate 1 is conditional on them; the 28/100 score is offered as judgment, not data."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers and is actionable, but it runs somewhat past one phone screen with the added greatness-potential paragraph."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A08|s1|judge",
+    "stage": "judge",
+    "case_id": "A08",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13570,
+    "tokens_out": 2097,
+    "cost_usd": 0.2621476,
+    "duration_s": 23.7,
+    "finished_at": 1795491492.9633439,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2097,
+        "costUSD": 0.2621476
+      }
+    }
+  }
+}

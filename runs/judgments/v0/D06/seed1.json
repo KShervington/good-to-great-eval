@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is to be the region's trusted adult congenital sonographer and teacher, 'earning more per study instead of doing more studies', with income per study as the denominator and routine volume, travel and lab lead ruled out, which matches the key on all three points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are 'Don't sign the high-volume travel contract', 'Stop absorbing extra routine volume and overtime' and 'Stop going without long-term disability cover', which are exactly the key's three decisions."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical, links the impinged shoulder, the rise from 9 to 13-14 studies a day, the dropped LTD, two months of savings and Marcus's variable income, and states that her whole income runs through that shoulder unprotected."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 3 denial as 'normalizing the pain' with warning signs of new symptoms, stalled physio and more cushion reliance, and covers the travel-for-money jump under Stage 2 and Stage 4 with concrete triggers."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Every derived figure (8-hour shift, pay per study, about 260 studies a month, commute hours, the $12,900 travel delta) is tagged [ASSUMPTION], no specialist pay figure is invented, and university pay, safe shoulder load, LTD re-enrollment terms and travel volume are flagged as missing with the hedgehog held as a hypothesis."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (turning reputation into pay), the top three stop-doing items, the most urgent brutal fact and four missing numbers in a compact form that can be acted on directly."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D06|s1|judge",
+    "stage": "judge",
+    "case_id": "D06",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13381,
+    "tokens_out": 2059,
+    "cost_usd": 0.2576036,
+    "duration_s": 23.2,
+    "finished_at": 1795498297.9697797,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2059,
+        "costUSD": 0.2576036
+      }
+    }
+  }
+}

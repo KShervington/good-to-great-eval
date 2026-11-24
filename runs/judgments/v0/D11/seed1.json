@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is heart-failure transitions ('stays with them until they are stable rather than until day 30'), it explicitly rules out Hospital at Home as 'a different discipline', and its denominator is 'verified 90-day readmissions avoided per FTE', which matches the key's field, exclusion and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1 in the one-screen verdict is 'Don't take on leadership of Hospital at Home now', followed by ending the fixed day-30 graduation and the enrolled vs not-enrolled comparison; the list also holds the weekend enrollment push and stops stories carrying the value case."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The 90-day parity (32.7% vs 33.9%) is named as the most urgent brutal fact and ranked Critical, with the delay-not-prevent reading, the day-30 penalty-window design, the confounded comparator (nursing-facility, decliners, unreachable) and the note that it sat only in an accreditation checklist."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names both actual mechanisms with specific warning signs: undisciplined pursuit of more (Hospital at Home, +6 FTE, vendor contracts signed before results) and denial of risk ('the 90-day number is missing from leadership reports'), and it even anticipates the program being cut or absorbed into Hospital at Home after a budget challenge."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Most inferences are tagged and the missing cost per readmission, mortality and fair comparator are flagged, but it computes about 68 readmissions avoided and about $21.6K/$106K per avoided readmission without an [ASSUMPTION] tag (though labelled 'naive, unadjusted' and 'almost certainly wrong'), and the 'Greatness potential: 32/100' score is unsupported."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact and the missing numbers, and is actionable, but with the run notes and the long brutal-fact paragraph it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D11|s1|judge",
+    "stage": "judge",
+    "case_id": "D11",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15620,
+    "tokens_out": 2371,
+    "cost_usd": 0.3059076,
+    "duration_s": 25.6,
+    "finished_at": 1795499470.0021753,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2371,
+        "costUSD": 0.3059076
+      }
+    }
+  }
+}

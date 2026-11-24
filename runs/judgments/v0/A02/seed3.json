@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "It narrows to the key's suggested core ('household paper... and does nothing else', profit per ton of branded household paper), calls diversification 'disproven', says management is 'split on what business it is in' with the doom loop active, and concedes that if the softness gap is unclosable 'the Hedgehog Concept fails'."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing #1 in the verdict is 'Stop buying growth outside household paper. Freeze acquisitions and divest' the non-core units, #2 is stopping across-the-board list-price cuts, and reliance on past dominance is covered in brutal fact 10 and the hubris risk."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Rival P's national launch of a softer premium tissue is ranked #1 and Critical with 'Corwin has no answer', and the ROE erosion (12% to 9.5%) and the unprofitable ~$200M of acquisitions are listed as #3 and #4 with consequences."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names denial of Rival P's national launch, a 'celebrity outsider chairman, a blockbuster merger or a bet-the-company launch' as a live stage-4 risk, and 'selling the core brands or the company' as capitulation, each with a specific warning sign, and it flags Rival K as a possible branded attacker."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Most inferences carry [ASSUMPTION] tags and the missing share, unit-profit and consumer-research data are flagged, but it turns dossier gaps into unmarked claims that Corwin itself 'doesn't know its current share', miscounts six acquired units as 'five', and upgrades 'very heavy advertising' to 'the heaviest advertising in the category'."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers and is actionable, but with the gate summary and score it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great; it is a comparison company."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A02|s3|judge",
+    "stage": "judge",
+    "case_id": "A02",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12962,
+    "tokens_out": 2390,
+    "cost_usd": 0.2641396,
+    "duration_s": 25.8,
+    "finished_at": 1795490262.4082122,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2390,
+        "costUSD": 0.2641396
+      }
+    }
+  }
+}

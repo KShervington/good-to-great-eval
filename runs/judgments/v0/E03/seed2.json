@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'most trusted maker of high-volume products that lower the total cost of care, led by diagnostics and medical nutrition' with profit per employee as the denominator, and it explicitly rules out broad branded-drug scale and PBMs, matching the key on all three points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items are no merger or PBM purchase, no benchmarking R&D against the largest drugmakers, and no protecting the streak at quality's expense, with the diagnostics quality fix as the first current push; lower items only propose assumption-marked reviews of hospital lines and do not dismantle the core."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Unresolved diagnostics quality findings are ranked #1 and 'Critical' with the consequence tied to the earlier contamination recall, and pricing pressure, consolidation and subscale branded Rx are also listed."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key has an empty decline_risks_expected and states there was no How-the-Mighty-Fall-style decline."
+  },
+  "D7": {
+    "score": 5,
+    "why": "All computed figures (earnings per employee, segment margins, growth rates, share count) derive correctly from dossier numbers, inferences are tagged [ASSUMPTION], and the missing product-line profit, regulator findings, TSR, market share and joint-venture economics are flagged with the hedgehog held as CONDITIONAL."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict contains the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers and is actionable, but it runs somewhat longer than a single phone screen."
+  },
+  "D9": {
+    "score": 4,
+    "why": "It says Marbury is 'already good, and on its record it is arguably great', states the hedgehog the company already lives by and names subject-specific warning signs, but hedges with 68/100 and four CONDITIONAL gates and adds a seven-item stop-doing list, four missing seats and possible hospital-line exits beyond what the evidence justifies."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|E03|s2|judge",
+    "stage": "judge",
+    "case_id": "E03",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15343,
+    "tokens_out": 2214,
+    "cost_usd": 0.2951956,
+    "duration_s": 25.6,
+    "finished_at": 1795500307.2102144,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2214,
+        "costUSD": 0.2951956
+      }
+    }
+  }
+}

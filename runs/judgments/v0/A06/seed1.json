@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It says plainly that 'the dossier gives no evidence of a defensible best at', rejects national low price and blitz entry as a hedgehog, and flags direction changing with each leader and owner, but then offers its own regional-density hypothesis with a profit-per-region denominator that the key does not name."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing #1, in the one-screen verdict, is 'Stop entering new regions with multi-store advertising blitzes', backed by #4 on price-matching without a cost advantage; the owner-driven strategy reset is covered only in the doom-loop check and clock-building mechanisms, not on the list."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent brutal fact in the verdict combines a non-retail parent funding ad-led growth with Rival T building a larger format, and the register adds the owner not being a retailer (High) and the founder's death and ownership change (Medium), with the consequence stated as margin burn and a doom loop."
+  },
+  "D5": {
+    "score": 3,
+    "why": "It names the ownership mechanism specifically ('the parent sells or closes the chain', with capital withdrawal as the warning sign) and Stage 2 overreach, but it inverts the format mechanism by listing copying superstores as a 'salvation' risk and a stop-doing item, when the actual failure was keeping small formats."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are consistently tagged [ASSUMPTION], no figures are invented, the missing unit economics and parent holding intentions are flagged as able to overturn the hedgehog, and the 10/100 rating with a 'hypotheses to test' caveat fits the thin evidence."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, and is actionable, but with the greatness rationale it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A06|s1|judge",
+    "stage": "judge",
+    "case_id": "A06",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11477,
+    "tokens_out": 2447,
+    "cost_usd": 0.2426596,
+    "duration_s": 27.7,
+    "finished_at": 1795491030.2435224,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2447,
+        "costUSD": 0.2426596
+      }
+    }
+  }
+}

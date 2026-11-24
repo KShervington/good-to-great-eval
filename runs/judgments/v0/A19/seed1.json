@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog sentence is 'the most convenient, pharmacy-led drugstore in every market where Marlowe can be the densest, and judge every decision by profit per customer visit', which matches the key's field, density, drugstore-only focus and denominator, and it explicitly rules out restaurants and discount stores."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Restaurants and discount stores are stop-doing items 2 and 3 in the verdict, but food service is softened to 'cancel the 22 planned restaurant openings and stop expanding', with in-store counters only to be tested, rather than the key's full exit; discount stores get 'prepare an exit'."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1, rated Critical and repeated in the verdict, is that sales rose 2.3x in nine years while EPS went from $1.30 to $1.15; margin erosion, the failing discount division and capital flowing to non-core growth are also listed with consequences."
+  },
+  "D5": {
+    "score": 3,
+    "why": "The register walks all five decline stages and names 'a large acquisition to beat Rival E, or a new format pivot' with a sales-not-profit warning sign, which loosely anticipates the later mega-merger and salvation partnership, but the entries are templated and miss the pharmacy-liability and over-storing mechanisms."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked consistently (LIFO adjustment, tax rate, derived division sales) and the missing division, per-visit and market-share data are flagged, but 'about 80% of sales' and 'still only 25 stores after 12 years' are unmarked inferences and the '35/100' greatness score is unexplained."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact and the missing numbers in a compact form someone could act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not set already_great to true."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A19|s1|judge",
+    "stage": "judge",
+    "case_id": "A19",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13864,
+    "tokens_out": 2436,
+    "cost_usd": 0.2804116,
+    "duration_s": 27.9,
+    "finished_at": 1795492694.2461126,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2436,
+        "costUSD": 0.2804116
+      }
+    }
+  }
+}

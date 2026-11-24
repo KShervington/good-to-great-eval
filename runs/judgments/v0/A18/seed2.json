@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's suggested core ('best partner in the world for the small commercial and in-plant printer', profit per installed press) and excludes the electronic office, copiers and addressing growth, but it only implies the current portfolio lacks a hedgehog ('27 subsidiaries across five unrelated lines') without saying so plainly."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1 in the verdict is 'No heavy bet to lead the electronic office against much larger firms', followed by harvesting addressing and divesting engineering graphics and non-core subsidiaries, which matches both key points."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks core technology replacement (plain-paper copying and computers against plate addressing) as Critical at #1, the stall in growth since the late 1960s at #3, and states the consequence that Duplicon leads neither replacement technology."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Stage 4 names 'the electronic-office leap, or a savior CEO' as an imminent temptation, with the warning sign of a large acquisition or transformation program, and the bus section flags 'a charismatic outside savior promising an electronic transformation', which is the mechanism that actually occurred."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently marked, missing financials are named as the shared root of the CONDITIONAL gates, and the verdict is a modest 15/100, but a few inferences go unmarked, such as offset beating copiers on long runs and colour, and the implied existence of a Duplicon copier programme."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (unproven profit per installed press), three stop-doing items, the most urgent brutal fact and the missing numbers, compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the subject is a comparison company, not already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A18|s2|judge",
+    "stage": "judge",
+    "case_id": "A18",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11408,
+    "tokens_out": 1669,
+    "cost_usd": 0.2104356,
+    "duration_s": 19.8,
+    "finished_at": 1795492510.6684554,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1669,
+        "costUSD": 0.2104356
+      }
+    }
+  }
+}

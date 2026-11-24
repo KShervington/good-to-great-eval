@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog sentence, 'Be the most convenient pharmacy in every market we serve, and run it for profit per customer visit', built on dense corner drive-through sites with pharmacy at the core, matches all three key points including the denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1, in the one-screen verdict, is 'Stop treating chain acquisitions as the answer to the rival merger. Buy sites, not chains', and the list also keeps the PBM and mail business as a feeder and drops the store-count chase without dismantling the core."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks payer-driven prescription margin dilution and the rival merger as the top two High-severity facts, lists mail-order and PBM competition as fact 4, and states the consequence (pressure to 'get bigger' against the Hedgehog)."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key's decline_risks_expected is empty and later_history describes only a slowdown beyond the 10-year window, so there is no decline mechanism to grade against."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Profit per visit, same-store sales and market-relative returns are flagged as missing and Gate 1 is honestly left CONDITIONAL, but a few inferences are unmarked, such as extrapolating ~88 closings a year and claiming Ravenhill 'already runs the most productive network in its industry'."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, and is actionable, but it runs somewhat longer than one phone screen."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It keeps the existing hedgehog and names subject-specific warning signs, but rates the company 'clearly good; great unproven' at 68/100 with four conditional gates, eight stop-doing items, four seats to add and a call to drop the 3,000-store target, which is a 'good, with gaps' reading that does not attack the core."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|E02|s1|judge",
+    "stage": "judge",
+    "case_id": "E02",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14610,
+    "tokens_out": 2369,
+    "cost_usd": 0.28966759999999997,
+    "duration_s": 26.0,
+    "finished_at": 1795499986.0763464,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2369,
+        "costUSD": 0.28966759999999997
+      }
+    }
+  }
+}

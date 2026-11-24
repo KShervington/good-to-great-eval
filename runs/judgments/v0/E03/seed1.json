@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is \"#1 or #2 in health-care products that measurably lower the total cost of care\" with profit per employee as denominator, and it explicitly gives up blockbuster discovery against the largest drugmakers, PBMs and scale for its own sake, matching all three key points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are exactly the key's restraint decisions (no transformational merger or PBM purchase, no broad branded-drug discovery race, fix diagnostics quality before expanding), and nothing dismantles the proven core."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Unresolved diagnostics quality findings are ranked #1 and Critical with the IV-recall precedent as consequence, and the register also lists lost pricing power, subscale branded drugs amid rival mergers and PBM deals, and buyer consolidation."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and later history records no Mighty-Fall-style decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures (about $30.7k profit per employee, margins, implied share counts) check out against the dossier, assumptions are tagged and the missing data is flagged, but the \"Greatness potential: 70/100\" score is unexplained and unmarked."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict contains the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers and is actionable, but it runs somewhat longer than one phone screen."
+  },
+  "D9": {
+    "score": 4,
+    "why": "It states \"already great by most of the evidence\", keeps the lived hedgehog and names subject-specific warning signs, but adds a fairly long change list (seven stop-doing items, several new seats, a #1/#2 pruning review, contract floors) alongside five CONDITIONAL gates and a 70/100 score."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|E03|s1|judge",
+    "stage": "judge",
+    "case_id": "E03",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14692,
+    "tokens_out": 2351,
+    "cost_usd": 0.29025959999999995,
+    "duration_s": 25.4,
+    "finished_at": 1795500239.0496888,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2351,
+        "costUSD": 0.29025959999999995
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'best in the world at measuring, pricing and spreading residential mortgage risk through the capital markets', with the denominator 'risk-adjusted profit per unit of mortgage risk kept' and a homeownership-access passion, and it explicitly rejects buy-and-hold; this matches every key point."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1 in the verdict is 'Stop funding long fixed-rate mortgages with shorter debt', with matched funding or a hedge required; the bus section adds 'Legacy executives built for buy-and-hold: move seat or off' and the 90-day plan a hold/hedge/sell decision on the legacy book."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1, rated Critical and named most urgent in the verdict, is 'The core model was an unhedged rate bet, and it lost', citing the roughly $1M/day loss and negative margins, with the underwater book captured as probably negative market-value net worth."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names the actual mechanisms: growing the retained portfolio on cheap backstopped funding, EPS-tied pay, thin capital, credit risk on guarantees, opaque reporting and 'smoothed earnings', ending in needing the Treasury backstop, each with a specific early warning sign."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are marked [ASSUMPTION], the missing numbers are named and no figures are invented, but 'Only Keystone combines a national loan flow, agency funding and a securities guarantee' is unmarked and sits uneasily with the dossier's note that other federal agencies are more active."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The verdict gives the hedgehog, the weakest link (risk measurement), three stop-doing items, the most urgent brutal fact and the missing numbers, and is actionable, but the 38/100 rationale and evidence note push it past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A07|s2|judge",
+    "stage": "judge",
+    "case_id": "A07",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12672,
+    "tokens_out": 1993,
+    "cost_usd": 0.2436196,
+    "duration_s": 23.7,
+    "finished_at": 1795491323.973382,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1993,
+        "costUSD": 0.2436196
+      }
+    }
+  }
+}

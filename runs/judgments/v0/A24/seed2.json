@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It issues no hedgehog but seeds 'the most efficient, best-made front-wheel-drive family cars' with 'profit per platform' and rules out a full line against Rival G, which matches the key's core, give-up and denominator; however it is an untested seed and never ties the lack of a hedgehog to dependence on the leader."
+  },
+  "D2": {
+    "score": 4,
+    "why": "The top three include 'stop building to forecast into dealer lots' and 'stop letting sales, publicity, and aid lobbying stand in for a published break-even plan', which cover inventory and a softened form of the celebrity distraction; succession appears only as a flag in the bus section and non-core diversification only loosely as item 4."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent fact is 'cannot raise private money and says it may close by year-end', ranked Critical with the consequence stated, and the register also lists mounting losses, highest inventory, wrong product mix, poor quality and the fix being a year away."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The risk register names 'Charisma replaces discipline' with the warning sign 'more launch events and press than cash and inventory reviews' and the definition of great requires results that 'survive the current CEO', but Gate 10 was not run and overstaying, succession delay and diversification are not registered as decline risks."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION] and the missing cash, debt, break-even and line-profit data are named, but the 'discounting' link in the doom loop is an unmarked inference and the 'Greatness potential: 8/100' figure has no stated basis."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict gives the hedgehog status and seed, the weakest link (cash, inside a doom loop), three stop-doing items, the most urgent brutal fact and the missing numbers, and is actionable; it runs slightly long and the hedgehog is only an untested seed."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A24|s2|judge",
+    "stage": "judge",
+    "case_id": "A24",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 10240,
+    "tokens_out": 2356,
+    "cost_usd": 0.2192276,
+    "duration_s": 27.1,
+    "finished_at": 1795493939.485222,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2356,
+        "costUSD": 0.2192276
+      }
+    }
+  }
+}

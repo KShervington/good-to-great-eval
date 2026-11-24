@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The analysis fails Gate 0 ('Hedgehog Concept: none was produced, deliberately'), tests four reframes to the ongoing endeavor (council heritage body, library archive, Bellmoor Days, ED's career) and switches to project-delivery methods, which is exactly what the key asks for."
+  },
+  "D2": {
+    "score": 5,
+    "why": "It ends the run at Gate 0 and gives only event-scope advice: the app is #2 in the verdict's top three ('default answer should be no as proposed'), and the Calder installment is to be confirmed or brought forward before the March deposit, with new commitments frozen until resolved."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Calder is named the most urgent brutal fact and rated Critical: champion retired with no successor, parent consolidating with operations 'under review', $160k due April, and the March-deposit/May-loan sequencing spelled out with its consequence. It gives the outstanding installment as 37% of sponsorship, not Calder's 63% total share, but the concentration is clear."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no decline risks and its later history is not applicable."
+  },
+  "D7": {
+    "score": 4,
+    "why": "The 180,000 target is flagged as baseless and not used to derive attendance or revenue, the percentages are correct arithmetic from the dossier, and key inferences carry [ASSUMPTION] tags. Minor unmarked items remain: 'Programme locked', the March deposit as 'last cheap exit point', and a 7/100 greatness score with no method."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict gives the Gate 0 FAIL, no hedgehog and why, the weakest link (cash timing), three stop-doing items, the most urgent brutal fact and what would change the answer, so it is actionable. Missing numbers appear only inside stop-doing item 1, and the greatness-score paragraph makes it run slightly long."
+  },
+  "D9": {
+    "score": null,
+    "why": "The subject is not an already-great case."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D12|s1|judge",
+    "stage": "judge",
+    "case_id": "D12",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11393,
+    "tokens_out": 2069,
+    "cost_usd": 0.2261956,
+    "duration_s": 24.1,
+    "finished_at": 1795499691.5197523,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2069,
+        "costUSD": 0.2261956
+      }
+    }
+  }
+}

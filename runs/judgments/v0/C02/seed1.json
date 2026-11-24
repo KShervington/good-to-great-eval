@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 3,
+    "why": "It narrows to the key's stapling core ('turns surgeons into stapling surgeons... earns its living on every cartridge') and excludes unrelated instruments, but never says plainly that the company lacks a hedgehog and proposes no bounded growth march; its scorecard still targets +25% growth."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Stop-doing items 1 and 3 and the bus call 'Commission-only, fire-fast policy: Off' target the high-pressure commission-only sales culture, but as a pay realignment to retention, not as curbing growth-at-all-costs; item 2 also narrows further into stapling, against the key's point about single-franchise dependence."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All four key facts are in the register (one technology, sold-but-unused instruments and the $1M loss year, the pressure and commission-only culture), and suture-maker entry is ranked Critical and named the most urgent fact in the verdict, with its consequence stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "It names the mechanisms that actually occurred: entry by a large suture maker, 'quarter-end loading of the distributor channel', 'aggressive revenue recognition' needing an independent CFO, and sale to a larger incumbent, each with a specific warning sign such as bad numbers reaching the board late."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked throughout and the missing patents, financials, cash and competitor intent are flagged, but the '±20 points' swing and the 'shift toward smaller-incision surgery' forecast are unmarked, and the Gate 6 and Gate 10 PASS verdicts sit uneasily with the risks it flags."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact and the missing numbers, and is actionable, but with the score rationale and evidence note it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|C02|s1|judge",
+    "stage": "judge",
+    "case_id": "C02",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12226,
+    "tokens_out": 3097,
+    "cost_usd": 0.2806436,
+    "duration_s": 34.2,
+    "finished_at": 1795496568.3253586,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 3097,
+        "costUSD": 0.2806436
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 3,
+    "why": "The hedgehog ('clinician-originated devices... in narrow hospital niches', starting with powered orthopedic instruments, with specialist selling, budgets and de-emphasised beds) overlaps the key's direction, but it uses 'profit per focused niche' rather than annual net-income growth as the denominator and explicitly rules out implants 'including licensing and acquisitions', which the key includes in the growth path."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Ending centralized, unbudgeted decision-making is stop-doing item 1 and in the verdict, but ending the salaried sales model is buried at item 5 and softened to 'pay that rewards results [ASSUMPTION: substantial variable component; test in pilot territories first]' rather than a clear return to commission."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'Virtually no effective sales force' first as Critical, and also lists the 70% bed/stretcher concentration, the lack of budgets, the sudden loss of the operating leader and the absence of any implant position, with the verdict stating the consequence ('Revenue depends on reorders and reputation alone')."
+  },
+  "D5": {
+    "score": null,
+    "why": "The answer key lists no expected decline risks and its later history describes no decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION] and the missing margins, earnings, market share and capital-spending data are flagged, but the 'Greatness potential: 25/100' score is given with no basis and a few inferences are unmarked (e.g. surgeons needing more power tools as joint replacement grows, 'none was prepared' as successor)."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link ('Focused selling'), three stop-doing items, the most urgent brutal fact and four missing numbers in a compact form someone could act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not have \"already_great\": true, so this dimension does not apply."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|C01|s1|judge",
+    "stage": "judge",
+    "case_id": "C01",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13382,
+    "tokens_out": 2208,
+    "cost_usd": 0.26357959999999997,
+    "duration_s": 27.1,
+    "finished_at": 1795496369.0716624,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2208,
+        "costUSD": 0.26357959999999997
+      }
+    }
+  }
+}

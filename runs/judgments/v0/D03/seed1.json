@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('fastest trusted way for a farmer to get a big machine from a nearby stranger in the week it matters') matches the key's time-critical, high-value core and gives up financing and community-as-goal, with repeat capture through value rather than masking; but its denominator (net revenue per listed high-value machine) differs from the key's per-pair/county/owner measure and does not make leakage visible."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's top three stop-doing items are input financing (decline in January), the two-state launch, and counting off-platform relationships as success, which are exactly the key's decisions; Ranvik Pro is also deferred."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1 in the register, rated High, is 'the platform creates relationships that then leave it', citing 71% number swaps, 11% same-owner rebooking, masking turned off and the families who now share a baler directly; concentration (68% in 12 counties) and runway are also listed, though the verdict calls the financing math 'most urgent'."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 1 ('Truly a great season', updates with no bad news), Stage 2 as live (financing + new states + Pro at once) and Stage 3 ('leakage reframed as community'), each with a specific warning sign such as 'no leakage metric by February'."
+  },
+  "D7": {
+    "score": 3,
+    "why": "The key's missing fill-rate metric was computed rather than flagged as missing: '~82% (5,310 ÷ 6,450)' carries an [ASSUMPTION] tag in the scorecard, but 'about 18% of requests' appears untagged in the flywheel and brutal-facts sections, and fill rate is absent from the missing-numbers list; a '$300k machine' and the '23 points' different-owner repeat figure are also unmarked."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict contains the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, a most urgent brutal fact and five missing numbers, and is actionable, but it runs somewhat longer than one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D03|s1|judge",
+    "stage": "judge",
+    "case_id": "D03",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15544,
+    "tokens_out": 2939,
+    "cost_usd": 0.3274116,
+    "duration_s": 31.7,
+    "finished_at": 1795497517.8238251,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2939,
+        "costUSD": 0.3274116
+      }
+    }
+  }
+}

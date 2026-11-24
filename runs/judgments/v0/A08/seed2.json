@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's suggested core ('turning household savings into safe home loans' in its home state) and rules out brokerage, real estate, out-of-state expansion and growth-for-rank, but it only implies the current lack of a hedgehog ('working hypothesis', 'reaching for momentum through deals') and never says so plainly."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are 'Stop building out the brokerage and real-estate services business' and 'Stop acquiring for size and expanding out of state', which match both key points, with only mild softening through a sunset review."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The fixed-rate book is ranked #1 and Critical with its consequence stated ('eroding net worth faster than the reported numbers show'), and the register also lists competitors growing into risky assets (#6) and the deposit-funded rate exposure."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names 'Undisciplined more: brokerage, out-of-state expansion, risky assets' with the early warning sign 'share of assets outside residential mortgages rising', and it also flags single-state real-estate concentration and a forced sale, which matches the diversification, California problem-loan and acquisition path."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are tagged [ASSUMPTION], scorecard values are marked Unknown, all the missing financials are flagged and not guessed, no figures are invented, and the 20/100 verdict is explained as a base-rate judgment."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the denominator, the weakest flywheel link (safety to cheaper deposits), three stop-doing items, the most urgent brutal fact and the missing numbers, and it is actionable though the run notes add some length."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A08|s2|judge",
+    "stage": "judge",
+    "case_id": "A08",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11888,
+    "tokens_out": 2084,
+    "cost_usd": 0.2347156,
+    "duration_s": 23.1,
+    "finished_at": 1795491638.6028523,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2084,
+        "costUSD": 0.2347156
+      }
+    }
+  }
+}

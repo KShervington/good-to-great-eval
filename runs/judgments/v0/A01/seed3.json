@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'best in the world at turning fiber know-how into everyday branded paper products', with 'profit per consumer brand' as the engine and 'sell its commodity mills to pay for the fight', which matches all three key points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing #1, in both the one-screen verdict and Section 5, is to stop funding the commodity mills (coated papers, newsprint, Canadian JV, pulp) and put them up for sale, with #2 ending capital allocation by tradition."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The verdict's most urgent brutal fact is the under-funded fight with Rival P ('It has to choose'), and the register ranks the 20-year return shortfall, the mills as a commodity 'capital trap' and the inability to fund both (Critical) at the top, with consequences stated."
+  },
+  "D5": {
+    "score": null,
+    "why": "The answer key lists no decline_risks_expected, and later_history describes sustained success without a collapse."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked and the missing segment ROC, share and growth data are flagged as able to kill the hypothesis, but 'half its capital', 'two of three newer consumer products' (the dossier says both of two) and 'the category the world names after our product' are small unmarked claims not in the dossier."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (absorbent-materials innovation), three stop-doings, the most urgent brutal fact and the missing numbers, and is actionable on its own, though the score rationale and run note make it slightly long."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not have already_great set to true."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A01|s3|judge",
+    "stage": "judge",
+    "case_id": "A01",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11849,
+    "tokens_out": 1536,
+    "cost_usd": 0.21217160000000002,
+    "duration_s": 17.9,
+    "finished_at": 1795490073.9182708,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1536,
+        "costUSD": 0.21217160000000002
+      }
+    }
+  }
+}

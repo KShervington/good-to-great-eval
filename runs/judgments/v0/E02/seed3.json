@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the most convenient drugstore in America, the pharmacy on the nearest good corner' with profit per customer visit as the denominator, and it rules out size-for-size M&A, standalone benefit management and non-drugstore businesses, matching the key on all three points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict include 'stop considering chain acquisitions as a way to keep up in size' and stop treating the 3,000-store count as the goal, and item 4 keeps PBM and mail as feeders of store visits; nothing dismantles the proven core."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks payer-driven prescription margin compression first (Rx share 38.2% to 43.4%, gross margin 28.4% to 28.0%), rival consolidation second, and payers and mail order standing between the company and its customers third, each with consequence and owner."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks, and the only later slowdown it mentions falls outside the window with no mechanism given to grade against."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently marked [ASSUMPTION] and every missing metric, including profit per visit, is flagged rather than computed, but the 'Greatness potential: 72/100' score is unexplained and unmarked, and 'no stated succession plan' treats the dossier's silence as evidence."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (visits to profit per visit), three stop-doing items, the most urgent brutal fact and the missing numbers in a compact form someone could act on."
+  },
+  "D9": {
+    "score": 4,
+    "why": "It passes Gate 1 on 21 record years, keeps the hedgehog the company already lives by and names subject-specific warning signs, but it never plainly calls the company already great (72/100, three CONDITIONAL gates) and adds a fairly long list of changes such as new seats, a severance review and a mini-store decision."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|E02|s3|judge",
+    "stage": "judge",
+    "case_id": "E02",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13321,
+    "tokens_out": 1784,
+    "cost_usd": 0.24564360000000002,
+    "duration_s": 20.4,
+    "finished_at": 1795500123.1598582,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1784,
+        "costUSD": 0.24564360000000002
+      }
+    }
+  }
+}

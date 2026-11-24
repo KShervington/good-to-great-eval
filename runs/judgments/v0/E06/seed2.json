@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog sentence ('violin-family strings that professional players choose blind, sells them only through the shops and luthiers those players trust, and earns its return from a premium price and players who stay') matches the key's field, its exclusions (guitar, student, mass retail, marketplaces) and a compatible denominator ('operating profit per loyal player')."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Top-three stop-doing items are 'Don't launch Halvard Six as proposed. Decline the 900-store end-cap offer' and 'Don't buy the private-equity group's student brand', with the shop channel, MAP and Listening Room gate explicitly preserved; the only softening is a hedged, capped, player-tested guitar 'bullet' if the board insists."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'Core market grows ~2%; Halvard's growth has stepped down' first at High severity, lists shop consolidation (#3) and overlapping CEO and winding-head transitions (#6), and the verdict ties the growth fact to the consequence that both agenda items reverse the Year −14 decision."
+  },
+  "D5": {
+    "score": null,
+    "why": "The answer key lists no expected decline risks and its later history contains no decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures (24% of Year-3 revenue, ~54% blended gross margin, 10.8% CAGR) check out and are mostly marked, and missing data is flagged well, but the verdict says operating margin 'stayed between 24% and 29% for eleven years' despite the 21.6% year, the 'market grew about 1.3×' extrapolation is unmarked, and the '72/100' score is unexplained."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening gives the hedgehog sentence, weakest flywheel link ('Availability at the shop'), top three stop-doing items, most urgent brutal fact and missing numbers, and is actionable, but with six missing-number bullets and a method note it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": 4,
+    "why": "It states 'Halvard is already performing at a great level' with evidence, keeps the lived hedgehog and names subject-specific warning signs, but the recommendations are not few: seven stop-doing items, three new seats, a reassignment of the commercial director, new-region entry and an optional guitar bullet."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|E06|s2|judge",
+    "stage": "judge",
+    "case_id": "E06",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14133,
+    "tokens_out": 2684,
+    "cost_usd": 0.2946356,
+    "duration_s": 30.2,
+    "finished_at": 1795527937.7687435,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2684,
+        "costUSD": 0.2946356
+      }
+    }
+  }
+}

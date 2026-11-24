@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's core ('convenient, discount, self-service drugstores' in the Sunbelt, by profit per customer visit) and rules out the non-drug lines, saying 'Great Brightwater is not a conglomerate', but it only implies, never states plainly, that the current portfolio has no hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's top stop-doing item is 'divest junior department stores, security services and food-service supply', followed by 'Stop acquiring chains until the five bought in the last four years are integrated'."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All three key facts (Rival W in the home state, the founder's five years in politics, capital spread across unrelated businesses) are the top three register rows, rated High, and combined as the most urgent brutal fact in the verdict."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names the actual mechanism: continued diversification plus multi-state acquisition (stage 2), entering new fields 'because we're good operators', a 'transformational' deal, and 'sale or breakup on weak terms after years of drift', each with a specific warning sign."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Missing financials, per-store data, founder plans and successor background are flagged and most inferences are marked [ASSUMPTION], but the 'fast-growing Sunbelt' framing and the derived '$1.67M per store' figure are unmarked."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (reinvestment), the top three stop-doing items, the most urgent brutal fact and the missing numbers, compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A20|s3|judge",
+    "stage": "judge",
+    "case_id": "A20",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11926,
+    "tokens_out": 1880,
+    "cost_usd": 0.22716360000000002,
+    "duration_s": 21.6,
+    "finished_at": 1795493084.4808903,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1880,
+        "costUSD": 0.22716360000000002
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "Narrows to the key's suggested core ('best partner in the world for the independent quick-print shop', profit per active installed press) and rules out electronic office, copiers and addressing growth, but only implies the current portfolio lacks a hedgehog ('27 subsidiaries across five unrelated-looking lines', 'hedgehog unconfirmed') rather than saying so plainly."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1 in the verdict is 'Stop any plan to become a leader in electronic office systems or plain-paper copying against much larger firms', followed by harvesting addressing, leaving general-office duplicating and selling non-hedgehog subsidiaries."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent brutal fact is 'both founding franchises are being displaced at once' (copiers replacing duplicating, computers replacing plate addressing), and the register also lists the growth stall since the late 1960s, with severity and consequence stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Decline Stage 4 is flagged as 'Most acute risk now. A big electronic-office bet or a charismatic outside rescuer', with the early warning 'a large program announced before line economics are known; a new visionary direction', which is the mechanism that actually occurred."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are consistently tagged [ASSUMPTION], the scorecard leaves current values as 'Unknown' with 'none have been invented', the dossier's missing data (line economics, addressing decline rate, CEO background) is flagged, and the 15/100 verdict is explained and fits the evidence."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict contains the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers and is actionable, but with the 15/100 rationale it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A18|s1|judge",
+    "stage": "judge",
+    "case_id": "A18",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12400,
+    "tokens_out": 1606,
+    "cost_usd": 0.22378759999999998,
+    "duration_s": 18.5,
+    "finished_at": 1795492438.300658,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1606,
+        "costUSD": 0.22378759999999998
+      }
+    }
+  }
+}

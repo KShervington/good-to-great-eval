@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'best in the world at automating how banks and other financial institutions process checks and keep accounts', it rules out head-on general computing against Rival I, uses profit per financial-institution customer (fallback: per installed bank system), and says plainly that the current strategy 'is a sequence of entries, not a concept'."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Stopping the broad fight with Rival I is item 1 and in the verdict, but 'stop deciding by force of personality' is buried at item 7 and absent from the verdict, and cost cuts that starve R&D and quality appear only as a decline risk, not on the stop-doing list."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The margin collapse from 13% to 2% is ranked first and Critical with its consequence stated, and the register also lists Rival I's unbeatable scale (#3) and the fading accounting-machine dependence (#4, #5)."
+  },
+  "D5": {
+    "score": 4,
+    "why": "It names one-man dependence ('everything depends on one brilliant operator. The great version must outlast the EVP'), filtered bad news with 'no dissent in minutes' as a warning, and R&D cut below need, but it does not specifically tie cost-cutting to engineering, reliability and service decay."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently tagged, missing data is flagged up front, and more than half the gates are honestly marked CONDITIONAL; however, it asserts that the controller seat is empty without marking that as an inference, and the 27/100 score has no stated basis."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (turning installations into profit), three stop-doing items, the most urgent brutal fact, the missing numbers and what would overturn the answer, compactly and in a form someone could act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A23|s1|judge",
+    "stage": "judge",
+    "case_id": "A23",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13146,
+    "tokens_out": 2010,
+    "cost_usd": 0.2518836,
+    "duration_s": 23.1,
+    "finished_at": 1795493661.3272495,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2010,
+        "costUSD": 0.2518836
+      }
+    }
+  }
+}

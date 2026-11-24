@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's core ('lowest-cost... bank for the households and middle-market businesses of our home state'), rejects asset growth as 'the old denominator' and excludes international lending, brokerage and size, but never says outright that the bank currently has no hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are stop measuring success by asset size, stop international and large-corporate lending and run it down, and stop 'growing out of problems' with the brokerage put under review for sale; branch consolidation and overhead cuts are also listed, with only executive perks absent."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All four key brutal facts are in the register (bad energy, shipping, farm and developing-country loans ranked Critical and most urgent; deposit advantage legislated away; highest overhead; low-rate mortgage drag), with the consequence stated as 'capital and credibility are at risk'."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names the actual mechanism: undisciplined expansion and acquisitions, unreserved loan losses ('NPLs rising faster than reserves'), a rescue deal 'proposed under earnings pressure', and capital erosion, each with a specific early-warning sign."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked and all the missing metrics are flagged rather than guessed, but 'Greatness potential: 15/100' is unexplained and the Gate 6 Culture of Discipline PASS contradicts its own finding that the bank 'has never been run for cost'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (cutting cost to serve), the top three stop-doing items, the most urgent brutal fact and the missing numbers in a compact, actionable form."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A22|s1|judge",
+    "stage": "judge",
+    "case_id": "A22",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11975,
+    "tokens_out": 1773,
+    "cost_usd": 0.22366759999999997,
+    "duration_s": 20.8,
+    "finished_at": 1795493405.335653,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1773,
+        "costUSD": 0.22366759999999997
+      }
+    }
+  }
+}

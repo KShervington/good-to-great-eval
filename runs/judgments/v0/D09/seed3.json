@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'Corbridge's same-day cold chain' for perishable surplus, with denominator 'usable perishable pounds delivered per route-hour' (net of agency waste) and donor diversification (Freshway share to 35% or less, no single donor above 25%), matching all three key points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are the café ('Don't submit the city application under Larder Line'), deferring the third van, and ending the compost, backpack and gleaning programs; the 'separate entity' option for the café still keeps it out of Larder Line."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical, combines the Eastside drop (412 to 263, -36%) against flat other stores (398 to 391), the app pilot timing, the chainwide rollout and Freshway at 44% of pounds, with the consequence quantified at about 129,000 lbs a year and construction treated as a confound."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names denial of risk (Eastside dip explained by construction, warning sign 'Board still says should recover in spring') and undisciplined pursuit of more (café, programs, van), and also anticipates grasping for salvation via the café or a merger if Freshway volume collapses."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures are correct and the main inferences are tagged [ASSUMPTION], and the missing consumed-pounds and households metric is flagged with no meals conversion; but 'funders increasingly pay for outcomes', 'van #2 is down' and the unexplained 'Greatness potential: 32/100' are minor unmarked inferences."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, most urgent brutal fact, weakest flywheel link, top three stop-doing items, answers to the retreat questions and missing numbers, and is actionable, but it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D09|s3|judge",
+    "stage": "judge",
+    "case_id": "D09",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16256,
+    "tokens_out": 2103,
+    "cost_usd": 0.30536359999999996,
+    "duration_s": 23.9,
+    "finished_at": 1795499010.908429,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2103,
+        "costUSD": 0.30536359999999996
+      }
+    }
+  }
+}

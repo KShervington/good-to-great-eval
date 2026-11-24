@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The verdict says Tessel \"isn't fully good either\" and offers only a \"working hypothesis\" hedgehog (post-discharge medication-and-refill backstop, denominator profit per retained care circle), which matches the key's hypothesis, exclusions and denominator; Gate 1 is softened to CONDITIONAL, not an outright fail."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing #1 is \"Stop building toward the employer pilot spec\", #2 defers native Android, #5 stops hiring until retention is proven, and #6 stops reporting accounts, star ratings and competition wins as traction."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks as Critical that only 7 of 41 circles are weekly active with one being the founder's own, then lists 3 subscribers, refill sync covering one pharmacy via a manual weekly email with the aggregator pending since August, and friendly-channel early users; the verdict states the consequence that the use of funds doesn't target this."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Decline 4 names \"taking the employer pilot or a big integration to rescue flat numbers\" with the warning sign \"If we just land X\" language, and Declines 1 and 3 name treating the prize, 4.9 stars and \"asked for by name\" as proof while retention goes unreviewed."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Cohort retention by source is flagged as the first missing number and external figures are tagged [ASSUMPTION], but \"13% ever form a circle\" (treating accounts as one-to-one with circles) and \"~6 outside circles\" are unmarked inferences, and the 8 PASS / 0 FAIL gate log is generous for the evidence."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict gives the hedgehog sentence, denominator, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers and is actionable, but with six missing-number bullets and an evidence-basis note it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D05|s2|judge",
+    "stage": "judge",
+    "case_id": "D05",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15431,
+    "tokens_out": 3308,
+    "cost_usd": 0.3403636,
+    "duration_s": 36.9,
+    "finished_at": 1795498078.1562696,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 3308,
+        "costUSD": 0.3403636
+      }
+    }
+  }
+}

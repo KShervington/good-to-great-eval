@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'Be the #1 or #2 combination-store operator in every market we serve' (food, drug and specialty under one roof) with 'profit per local population' as denominator, matching all three key points and ruling out national price leadership, general merchandise and plant-led growth."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top two stop-doing items in the one-screen verdict are 'Stop competing in metro markets where Lindqvist can't reach #1 or #2' and 'Stop building, remodeling or defending small conventional supermarkets' (replace or close), which is the key's decision stated explicitly."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'footprint is shrinking by reaction' (regional weakness) first and 'most stores are small and outdated' second, both High severity, with consequences stated (exit by rule, replace or close); it notes the consumer-research results are missing rather than asserting them."
+  },
+  "D5": {
+    "score": null,
+    "why": "The answer key lists no expected decline risks and its later history reports no collapse."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are tagged [ASSUMPTION], scorecard values are left as 'Unknown, to be measured', the missing test-store economics, metro share, margins and ROE are flagged as able to overturn the hedgehog, and Gates 1, 2, 3 and 5 are marked CONDITIONAL; the unsupported '55/100' score is a judgment, not a fabricated fact."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (combination-store economics unproven), the top three stop-doing items, the most urgent brutal fact and the missing numbers in a compact, actionable form."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not set already_great to true."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A11|s1|judge",
+    "stage": "judge",
+    "case_id": "A11",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13044,
+    "tokens_out": 1592,
+    "cost_usd": 0.2335316,
+    "duration_s": 18.7,
+    "finished_at": 1795491765.3610132,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1592,
+        "costUSD": 0.2335316
+      }
+    }
+  }
+}

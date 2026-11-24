@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "Narrows to 'best-value, fuel-efficient front-wheel-drive family cars' on few platforms, explicitly gives up 'matching Rival G's full line', and uses cash profit per platform/vehicle with a break-even guardrail; it flags the savior-leader and doom-loop pattern but never plainly says the company currently has no hedgehog."
+  },
+  "D2": {
+    "score": 3,
+    "why": "Top stop-doing item is building to inventory (in the key's prose), but the key points are only implied or placed elsewhere: celebrity distraction appears as 'spend less time on publicity' in the bus table, succession as a clock-building mechanism, and non-core diversification only as item 9 on the defense unit and an acquisitions boundary."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'may close by year-end without aid; no private financing' as #1 Critical, and also lists accelerating losses, highest inventory, failed product planning, poor quality, and the rescue product arriving a year after the cash crisis, each with severity and owner."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names the actual mechanisms: a recovery 'credited to the CEO's marketing rather than the system' (warning sign: CEO-centered press), a recovery spent on 'full-line ambitions, new platforms or acquisitions', plus the savior-CEO pattern with no succession plan."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION] and the missing cash, debt, break-even, line-profit and Q3 data are flagged, but the 'Greatness potential: 12/100' score is unsupported and the baseline sheet states the FWD program is 'on schedule' without marking it as an inference."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict contains the hedgehog sentence, weakest flywheel link (quality), top three stop-doing items, most urgent brutal fact and missing numbers, and is actionable, but runs somewhat past one phone screen with a long bottom-line paragraph."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A24|s1|judge",
+    "stage": "judge",
+    "case_id": "A24",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13953,
+    "tokens_out": 2449,
+    "cost_usd": 0.2823556,
+    "duration_s": 27.5,
+    "finished_at": 1795493985.9636655,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2449,
+        "costUSD": 0.2823556
+      }
+    }
+  }
+}

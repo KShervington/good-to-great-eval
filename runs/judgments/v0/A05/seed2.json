@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the dominant electronics-and-appliance superstore in each metro market it chooses' with 'pre-tax profit per metro market' as denominator, explicitly excluding leased departments, tax-driven acquisitions and other formats, which matches the key's superstore model and profit-per-region denominator."
+  },
+  "D2": {
+    "score": 4,
+    "why": "'Stop running four formats', 'stop letting tax credits drive strategy' and 'exit the West Coast leased department' are the top three items, but commitment to superstores is softened to a freeze pending a format comparison ('convert or close the losing format')."
+  },
+  "D3": {
+    "score": 4,
+    "why": "The register lists the superstore bet at about half of net worth (#3, High), the struggling tax-motivated big-city acquisition (#4, High) and the repeat of the pre-loss diversification pattern (#6), but ranks missing profit-by-format visibility as the most urgent fact instead."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The decline register names hubris ('we can sell anything, anywhere', with talk of new categories as the warning sign) and denial of a rival or a shift in consumer-electronics buying, which fit the later non-core ventures and loss of ground to a competitor, but only generically and without the gutting of service staff."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked, derived figures (+74%, ~11.7%/yr, ~$4M net worth) check out against the dossier and gaps are flagged, but a few inferences are unmarked ('the most competitive market in the country', the 11% share 'came from concentration') and the 35/100 score is unexplained."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (market profits fund the next market), three stop-doing items, the most urgent brutal fact and a list of missing numbers in a compact, actionable form."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not set already_great to true, so this dimension does not apply."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A05|s2|judge",
+    "stage": "judge",
+    "case_id": "A05",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11727,
+    "tokens_out": 2716,
+    "cost_usd": 0.25741959999999997,
+    "duration_s": 28.7,
+    "finished_at": 1795490907.833192,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2716,
+        "costUSD": 0.25741959999999997
+      }
+    }
+  }
+}

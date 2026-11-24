@@ -1,0 +1,20 @@
+{
+  "job_id": "v0|D02|s2|judge",
+  "stage": "judge",
+  "case_id": "D02",
+  "seed": 2,
+  "model": "claude-fable-5-2",
+  "effort": "high",
+  "tokens_in": 15292,
+  "tokens_out": 1740,
+  "cost_usd": 0.2754196,
+  "duration_s": 22.3,
+  "finished_at": 1795497230.4146333,
+  "models_used": {
+    "claude-fable-5-2": {
+      "inputTokens": 2,
+      "outputTokens": 1740,
+      "costUSD": 0.2754196
+    }
+  }
+}

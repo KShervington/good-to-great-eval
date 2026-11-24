@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'world's best at automating how banks and accounting departments record and move money', measured by profit per financial-institution customer, and it explicitly gives up the general-purpose contest with Rival I; it notes this contradicts the current broad-diversification plan and flags the 'genius with a thousand helpers' dependence."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Stop-doing #1 is 'Stop competing head-on with Rival I', which matches the key; one-leader dependence is handled only outside the list (missing #2 seat, EVP speaks last, succession plan), and there is no warning against cost cuts that starve engineering, quality and service."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the 13% to 2% margin collapse as Critical and most urgent, with the consequence stated ('growth has bought size, not profit'), and also lists Rival I's dominance with Calder among the smallest challengers and the narrow, accounting-machine-dependent line."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The risk register names the EVP as a 'brilliant Level 4 driver whose dominance silences others; succession depends on one man', with specific clearing signs, and flags absorption of a subscale computer maker by a rival; it misses the cost-cutting that starved engineering and reliability."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked, the missing data (profit by line, Years −3 to −1, R&D dollars) is flagged, and the hedgehog is framed as a hypothesis that could be wrong; minor unmarked inferences remain, such as Calder's own bank automation growing fast and an unexplained 25/100 score."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (profit to reinvestment), the top three stop-doing items, the most urgent brutal fact and the missing numbers in a compact form someone could act on, though the run notes add some length."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A23|s2|judge",
+    "stage": "judge",
+    "case_id": "A23",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12781,
+    "tokens_out": 3132,
+    "cost_usd": 0.2909236,
+    "duration_s": 34.3,
+    "finished_at": 1795493763.123527,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 3132,
+        "costUSD": 0.2909236
+      }
+    }
+  }
+}

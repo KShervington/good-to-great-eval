@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It rejects the 'smaller copy of the giants' identity and rules out seeds, narrowing to a hormone/inflammation franchise as a 'working hypothesis' and noting management 'has no fixed direction', but it never says outright that the current portfolio lacks a hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing items 1 and 2 in the one-screen verdict are 'stop measuring Kessling against the largest drug companies on total research spend' and 'stop diversifying into non-drug businesses' with a seed divestiture review, and item 6 plus the weakest-link note cover single-product licence dependence."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register's top four facts, all rated High, are the research-scale gap, the withdrawn product worth about 12% of domestic gross income, the diabetes drug's heart-disease link, and the next growth product belonging to another company; the verdict leads with the regulatory fact and its consequence."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names dependence on one licensed product, safety signals going 'to PR or legal first' with the warning sign 'safety questions answered by lawyers before physicians', a 'transformational' merger after the licence is lost, and absorption into a larger company, which tracks what actually happened."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are marked [ASSUMPTION], the missing financials, research-spend ratio, seed share and family stake are flagged, and seven gates are held CONDITIONAL, but the 'Greatness potential: 22/100' score is unexplained and Gates 9 and 10 pass merely for being drafted."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact and the missing numbers, and is actionable, but it runs somewhat past one phone screen with the evidence-basis paragraph."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark this subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A04|s3|judge",
+    "stage": "judge",
+    "case_id": "A04",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13000,
+    "tokens_out": 2084,
+    "cost_usd": 0.2525076,
+    "duration_s": 24.7,
+    "finished_at": 1795490735.8351476,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2084,
+        "costUSD": 0.2525076
+      }
+    }
+  }
+}

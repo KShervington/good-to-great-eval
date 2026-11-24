@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'best in the world at creating and leading everyday tissue and absorbent-care categories', judged by 'profit per category-leading brand', and it explicitly rules out the airline, aviation services, newsprint, printing and tobacco papers, which matches the key's field, exclusions and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top stop-doing items are 'Stop the airline's $120M expansion... prepare to separate aviation entirely' and 'Stop reinvesting in newsprint and printing-paper mills, and exit them', with tobacco papers at #3 in the full list and Europe stage-gated inside consumer categories; nothing dismantles the consumer core."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All five key facts are in the register with consequences (Rival P's size and diaper lead, the airline 'growing and profitable, which makes it harder to stop', succession, Europe, commodity mills), four of them rated High, and the verdict's most urgent fact combines the Rival P war with spending on three unrelated businesses."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and describes the later history as integration pain, not a decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Computed figures (ROE, net margin) come from the dossier, assumptions are tagged and missing segment, brand, airline and Europe numbers are flagged, but 'cannot see which businesses earn their capital' and the 'missing' CFO seat are stated as fact in places, and the 55/100 score is unsupported."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (reinvestment), three stop-doing items, the most urgent brutal fact and the missing numbers in a compact, actionable form."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It keeps the existing hedgehog and does not attack the core, with subject-specific warning signs, but it never says the company is already great ('Clearly good', 'Greatness potential: 55/100') and prescribes a long improvement list (seven stop-doing items, three missing seats, a new BHAG and mechanisms)."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|E04|s2|judge",
+    "stage": "judge",
+    "case_id": "E04",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12505,
+    "tokens_out": 2479,
+    "cost_usd": 0.299224,
+    "duration_s": 64.5,
+    "finished_at": 1795527524.8151855,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2479,
+        "costUSD": 0.299224
+      }
+    }
+  }
+}

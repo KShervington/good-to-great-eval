@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 3,
+    "why": "The hedgehog ('communications and information-handling systems... built on government-proven technology') overlaps the key on applying technology to communications and keeps electronic composition for publishers, but it reclassifies printing as a 'non-core cash source' to be separated, where the key says to keep printing and electronics joined."
+  },
+  "D2": {
+    "score": 3,
+    "why": "'Stop acquiring' is item 1 and broad commercial electronics is ruled out, which matches staying inside the concept, but succession appears only as a generic mechanism and the analysis itself recommends preparing printing for separation and relocating headquarters, moves the key says to refuse."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks stalled earnings from bought growth first with integration costs as evidence and states the consequence, and also lists government budget dependence (#3) and largely mechanical printing machines (#4) as high severity."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The decline register names 'resuming acquisitions in adjacent electronics such as computers or office equipment' and 'a large transformational merger, or a sudden full exit from printing' with warning signs, but it does not flag a successor resetting direction and itself proposes the headquarters move."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked and missing segment profit, return on capital, market share and backlog are flagged, but 'roughly fifteen-fold' revenue growth and 'five deals in roughly six years' are loose, unmarked readings of the dossier, and the 35/100 score is unsupported."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict gives the hedgehog sentence, denominator, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, and is actionable, but it runs somewhat longer than one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A25|s2|judge",
+    "stage": "judge",
+    "case_id": "A25",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12631,
+    "tokens_out": 2359,
+    "cost_usd": 0.2576036,
+    "duration_s": 27.4,
+    "finished_at": 1795494249.8733838,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2359,
+        "costUSD": 0.2576036
+      }
+    }
+  }
+}

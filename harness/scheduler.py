@@ -8,6 +8,7 @@ Rules this loop enforces:
 """
 from __future__ import annotations
 
+import os
 import time
 from concurrent.futures import FIRST_COMPLETED, Future, ThreadPoolExecutor, wait
 from dataclasses import dataclass
@@ -17,6 +18,18 @@ from .claude_cli import CallResult, kill_stale
 from .config import MAX_REAL_FAILURES, MAX_TRANSIENT, MODEL_FAMILY, Paths, STAGE_MODEL
 from .ledger import Ledger
 from .notify import Notifier
+
+
+def _keep_awake(on: bool):
+    """Ask Windows not to idle-sleep while the harness has work (released on exit). No settings are changed."""
+    if os.name != "nt":
+        return
+    try:
+        import ctypes
+        ES_CONTINUOUS, ES_SYSTEM_REQUIRED = 0x80000000, 0x00000001
+        ctypes.windll.kernel32.SetThreadExecutionState(ES_CONTINUOUS | (ES_SYSTEM_REQUIRED if on else 0))
+    except Exception:
+        pass
 
 
 def family_of(model: str) -> str:
@@ -29,6 +42,7 @@ class RunOptions:
     resume_buffer_s: float = 120.0
     probe_interval_s: float = 20 * 60
     exit_when_idle: bool = True
+    keep_awake: bool = True
     max_jobs: int | None = None      # stop after starting this many (debugging)
 
 
@@ -138,6 +152,15 @@ class Scheduler:
         self.inflight: dict[Future, object] = {}
         inflight = self.inflight
         self.n.event("start", f"harness run started; {self.ledger.remaining()} jobs remaining")
+        if self.opts.keep_awake:
+            _keep_awake(True)
+        try:
+            return self._loop(rounds_before)
+        finally:
+            _keep_awake(False)
+
+    def _loop(self, rounds_before) -> int:
+        inflight = self.inflight
         with ThreadPoolExecutor(max_workers=self.opts.concurrency) as pool:
             while True:
                 self._check_resume()

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog sentence ('turns its paper-fiber know-how into consumer brands that create or lead their absorbent personal-care categories... profit per consumer brand') matches the key's field, its exclusion of airline and commodity paper, and its denominator, and is framed as finishing the narrowing the CEO began."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top two stop-doing items are 'Stop funding the airline's $120M expansion... separate the business' and exit newsprint, printing and tobacco papers, with items 4 and 9 and the acquisition flag keeping the company inside consumer products, and the core is left intact."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register covers all five key facts with consequences: succession ranked first, Rival P's size and spending, capital split across commodity mills and the airline, the airline as non-core, and Europe as an unjudgeable capital bet."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and describes the later Scott merger trouble as integration pain, not a decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are marked [ASSUMPTION], calculated figures come from dossier numbers, and missing segment, brand, share and Europe data are flagged, but 'Greatness potential: 62/100' is unanchored and the claim that the company matches Rival P 'dollar for dollar everywhere' is an unmarked inference."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (reinvestment leaking to airline and mills), three stop-doing items, the most urgent brutal fact and the missing numbers in a compact, actionable form."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It keeps the existing hedgehog and names specific risks such as a size-driven acquisition, but it never calls the subject already great ('Good is proven. Endurance is not yet proven', 62/100, 'mid-transformation') and adds a long list: nine stop-doing items, several 'missing seats', a finance reseat and a 12-month test for the president."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|E04|s3|judge",
+    "stage": "judge",
+    "case_id": "E04",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13925,
+    "tokens_out": 2464,
+    "cost_usd": 0.28250759999999997,
+    "duration_s": 27.5,
+    "finished_at": 1795527719.7807875,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2464,
+        "costUSD": 0.28250759999999997
+      }
+    }
+  }
+}

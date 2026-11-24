@@ -39,6 +39,8 @@ def judged(version="v0"):
             continue
         j = json.loads(f.read_text(encoding="utf-8"))
         scores = {d: (j.get(d) or {}).get("score") for d in DIMS}
+        if cases[cid]["track"] != "E":
+            scores["D9"] = None  # restraint is scored on Track E only
         out.append({"case": cid, "seed": seed, "track": cases[cid]["track"], "group": cases[cid]["group"],
                     "scores": scores, "why": {d: (j.get(d) or {}).get("why") for d in DIMS}})
     return out

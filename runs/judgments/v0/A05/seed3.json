@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog sentence is 'the best full-service consumer-electronics superstore operator, region by region, and grow profit per region', which matches the key's field, its choice to drop the other formats, and its profit-per-region denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are to stop buying chains for tax credits or distress, stop running four formats in parallel with a planned exit from the West Coast leased departments, and open no new mid-sized stores, which is the key's decision stated explicitly."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the stretched capital and half-of-net-worth superstore bet at #2 and the struggling tax-play acquisition at #3, both High, and lists format-hopping at #7; the verdict's most urgent fact ties unproven formats to the capital commitments and their consequence."
+  },
+  "D5": {
+    "score": 3,
+    "why": "The Gate 10 register walks all five decline stages and mentions 'a new format, or diversification out of electronics' and blaming a rival, but these are generic stage boilerplate and it does not name being out-formatted by a competitor or eroding the full-service sales staff."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are marked [ASSUMPTION] and missing profit, debt and format-profitability data are flagged as the root cause of four conditional gates, but a few inferences are unmarked, such as 'two largest capital commitments in one year' and the unsupported 40/100 score."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers and is actionable, but it runs somewhat long for one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key has no already_great flag, so this dimension does not apply."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A05|s3|judge",
+    "stage": "judge",
+    "case_id": "A05",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12298,
+    "tokens_out": 1953,
+    "cost_usd": 0.2360356,
+    "duration_s": 22.9,
+    "finished_at": 1795490984.5433762,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1953,
+        "costUSD": 0.2360356
+      }
+    }
+  }
+}

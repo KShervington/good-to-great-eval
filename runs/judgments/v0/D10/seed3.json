@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'Runway is how Brightwater safely changes the systems that move money', it explicitly rejects service-count adoption, and its denominator is per critical service with change-induced Sev-1/2 minutes, matching the key on all three points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict's top three stop-doing items are the key's three: stop using the rollback epic as the buffer for template work, stop Atlas as a team-owned portal (decline for now, with a counter-offer), and drop the '80% of services' OKR."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal facts #1 and #2, both rated Critical, state that both Sev-1s and 5 of 6 incidents were on legacy (mostly Payments, 47 and 22 min rollbacks) and that Payments' precondition slipped three quarters; #3 adds that coverage growth may hide zero migrations and #9 the Bartek single point of failure."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names both expected mechanisms specifically: undisciplined more ('Atlas, more starters, scorecards') and denial ('legacy treated as not ours'), with fitting warning signs such as 'critical coverage flat while total coverage grows' and new product lines appearing in the OKRs."
+  },
+  "D7": {
+    "score": 4,
+    "why": "It flags change-failure rate by pipeline as missing, never computes a per-deploy rate, and caveats its per-service 9× ratio as confounded, but 'Greatness potential: 45/100' and the claim that Runway cut pages 'because it was the easiest safe path' are unmarked inferences."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, the weakest flywheel link (step 1, never turned), the top three stop-doing items, the most urgent brutal fact and the missing numbers, and is actionable, but with the decision paragraph, six missing-number bullets and run notes it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D10|s3|judge",
+    "stage": "judge",
+    "case_id": "D10",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15891,
+    "tokens_out": 2809,
+    "cost_usd": 0.3277636,
+    "duration_s": 29.8,
+    "finished_at": 1795499353.9952862,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2809,
+        "costUSD": 0.3277636
+      }
+    }
+  }
+}

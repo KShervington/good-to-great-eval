@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It rejects the current price-and-blitz approach as a hedgehog ('a tactic, not a capability', 'rules out most of the current strategy') and offers only a 'working hypothesis' of metro density, but never plainly states the company lacks a hedgehog and does not centre on a repeatable store model and systems."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items are stop entering new metros, stop counting store openings and revenue as success, and stop ad blitzes as the entry engine, with price-without-cost-advantage at #4 and a written parent horizon at #6."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent brutal fact is the non-retail parent funding unproven expansion ('may be buying revenue at a loss'), and the register also lists Rival T's superstore shift, the steel parent's capital risk, and the founder's death and ownership change."
+  },
+  "D5": {
+    "score": 5,
+    "why": "It names both actual mechanisms with fitting warning signs: no format response to Rival T's superstores within 12 months, and the parent selling or starving the subsidiary for reasons unrelated to retail."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are marked [ASSUMPTION], missing data is flagged and nothing is fabricated, but the 'Greatness potential: 10/100' score is unexplained and several gates are self-awarded PASS on thin evidence."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, but the root-problems and run-notes blocks push it past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A06|s3|judge",
+    "stage": "judge",
+    "case_id": "A06",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11513,
+    "tokens_out": 1918,
+    "cost_usd": 0.22207559999999998,
+    "duration_s": 22.0,
+    "finished_at": 1795491178.7880304,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1918,
+        "costUSD": 0.22207559999999998
+      }
+    }
+  }
+}

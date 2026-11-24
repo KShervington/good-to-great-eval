@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog ('find and fix the medication and home failures that bring highest-risk heart-failure patients back, and stay until they stop coming back') keeps the field at post-discharge HF transitions, rules out Hospital at Home, and uses 'hospital days avoided through day 90, per program dollar', which is compatible with the key's hospital-free-days denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1, repeated in the one-screen verdict, is 'Don't lead the Hospital at Home launch now'; items 2-4 and 8 cover the 30-day comparison, the day-30 graduation, the 75% enrollment push and designing to the penalty window."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1 is rated Critical (90-day 32.7% vs 33.9%, 'delaying readmissions, not preventing them'), with the non-comparable comparison group as fact 2 and the protocol ending at the penalty window as fact 4; it also notes the figure sat only in the accreditation checklist."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names denial of risk ('90-day data kept in accreditation files'), undisciplined pursuit of more (Hospital at Home, 75% enrollment, combined department) and a budget cut if the 'value question [is] unanswered at budget cycle', each with a specific early warning."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Cost per readmission and the risk-adjusted comparison are flagged as missing and targets are marked [ASSUMPTION], but the back-of-envelope '$21,500 / $105,000 per avoided readmission' computes budget over readmissions avoided with only an 'if fully caused' hedge and no explicit assumption tag."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict contains the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers and is actionable, but it runs somewhat long for a single phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D11|s2|judge",
+    "stage": "judge",
+    "case_id": "D11",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14324,
+    "tokens_out": 2488,
+    "cost_usd": 0.2898516,
+    "duration_s": 26.1,
+    "finished_at": 1795499569.1758983,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2488,
+        "costUSD": 0.2898516
+      }
+    }
+  }
+}

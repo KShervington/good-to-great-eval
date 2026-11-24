@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'how Brightwater safely changes the systems that move customers' money', it explicitly rejects count-weighted adoption, the portal and starter breadth, and its denominator (money-moving services on a sub-five-minute rollback path, with change-caused Sev-1/2s and rollback time on the scorecard) is compatible with the key's."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are exactly the key's: decline Atlas for now, freeze new starters and template extras until rollback ships, and drop the '80% of services' OKR; item 7 also stops treating legacy risk as 'not our services'."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent brutal fact is '5 of the 6 Sev-1/2 incidents, including both Sev-1s, happened on legacy pipelines', mostly Payments, with the 47- and 22-minute rollbacks; the register also ranks the three-quarter rollback slip as critical and shows adoption growth came from new services."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names both expected mechanisms specifically: celebrating count milestones and 'not our services' denial while Sev-1s sit on legacy, and undisciplined more via Atlas and starters, each with a concrete warning sign such as the retro leading with service counts."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are marked [ASSUMPTION], the arithmetic checks out and no failure rate is computed from total deploys, but change failure rate and deploys by pipeline are never explicitly flagged as missing (only Runway rollback time is), and it miscounts 'the other three Payments incident services' when the table shows two."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (rollback and approval unbuilt), the top three stop-doing items, the most urgent brutal fact and a list of missing numbers, compactly enough to act on without reading further."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not set already_great to true, so this dimension does not apply."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D10|s2|judge",
+    "stage": "judge",
+    "case_id": "D10",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15520,
+    "tokens_out": 2286,
+    "cost_usd": 0.3009076,
+    "duration_s": 24.3,
+    "finished_at": 1795499254.9580667,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2286,
+        "costUSD": 0.3009076
+      }
+    }
+  }
+}

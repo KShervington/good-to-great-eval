@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('hospital's most trusted maker of everyday clinical essentials (fluids, clinical nutrition and diagnostic tests) that lower the total cost of care') matches the key's cost-effective hospital field and gives up blockbuster discovery and consumer brands, but its denominator is profit per hospital account, with the key's profit per employee only a 'backup candidate'."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing items 1 and 2, repeated in the one-screen verdict, are 'Divest the unrelated consumer group' and 'Stop competing in the blockbuster drug-discovery race', and the bus section rebuilds management with new quality and CFO seats."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the IV recall and weakened, unaccountable management as critical (#1, #6) and the empty pipeline with an off-patent antibiotic as #2, with consequences stated, and lists Rival U out-researching it (#8); only the hospital cost-control shift sits outside the register, as a hedgehog confirmation test."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no decline_risks_expected and its later_history ends 'No collapse', so there is no decline mechanism to grade, though the analysis's 'management declares quality solved' risk does loosely anticipate the 1999 diagnostic-kit quality fine."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently tagged, the missing division profits, shares and research spend are flagged, and Gate 1 is honestly left conditional, but 'Greatness potential: 27/100' is an unsupported number and a few inferences ('no executive has visibly owned the failure', the antibiotic as 'a hospital-used drug') are unmarked."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (trust and reliability), three stop-doing items, the most urgent brutal fact and the missing numbers in compact, actionable form, with only brief run notes appended."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not carry \"already_great\": true, so this dimension does not apply."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A03|s3|judge",
+    "stage": "judge",
+    "case_id": "A03",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13930,
+    "tokens_out": 2269,
+    "cost_usd": 0.2747876,
+    "duration_s": 26.1,
+    "finished_at": 1795490569.8743854,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2269,
+        "costUSD": 0.2747876
+      }
+    }
+  }
+}

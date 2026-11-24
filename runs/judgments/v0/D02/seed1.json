@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog matches the key's field and sacrifices (all-in service on rebuilt machines for independent restaurants in dense zones, ruling out Larchmont, the third metro and out-of-zone accounts), but it picks 'gross profit per field technician' and explicitly rejects the per-machine denominator the key uses."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are 'No third metro this spring' and 'Decline the Larchmont service-only conveyor contract as structured', with further items setting a payback ceiling on auction units and gating expansion on a non-Delmar supply channel."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical and named most urgent in the verdict, is the supply cliff: 288 of 403 units from Delmar, Harrow's remodels in the 'final third' with 118 of 610 left, and all-in cost doubling from about $2,130 to $4,140 with payback going from about 12 to 24 months."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 2 as 'third metro plus hotels plus conveyors' and Stage 3 as 'supply cliff and labor-free margin', each with a specific warning sign (revenue rising while response % falls; Harrow's completion date on no dashboard)."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Churn and subscription life are flagged as missing rather than computed, and key inferences ($80k loaded tech cost, 40% parts margin, ~70 units) carry [ASSUMPTION] tags, but a few minor inferences are unmarked, such as the '12–18 months' supply end and 'has never met even 4 hours at 95%'."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict gives the hedgehog sentence, weakest flywheel link (density), top three stop-doing items, the most urgent brutal fact and the missing numbers, and is actionable, but with the denominator math and the four offsite answers it runs past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D02|s1|judge",
+    "stage": "judge",
+    "case_id": "D02",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15775,
+    "tokens_out": 2009,
+    "cost_usd": 0.2939076,
+    "duration_s": 24.1,
+    "finished_at": 1795497217.3801792,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2009,
+        "costUSD": 0.2939076
+      }
+    }
+  }
+}

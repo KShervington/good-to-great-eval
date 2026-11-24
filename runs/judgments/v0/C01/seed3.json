@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('practical orthopedic devices, led by powered instruments... sold by specialized reps') matches the key's shift from beds to higher-value surgical/orthopedic products through a rebuilt, incentive-paid specialist sales force with budgets, but its denominator is profit per rep, not annual net-income growth, and it rules out implants."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items are founder/family centralized decision-making, flat-salary selling, and treating an IPO or implants as 'jumps, not pushes', which covers the key's sales, management and restraint decisions, with commission only slightly softened to 'a meaningful variable component'."
+  },
+  "D3": {
+    "score": 5,
+    "why": "'No effective sales force' is ranked #1 Critical and named the weakest flywheel link, and the register also lists no budget or goals, the leadership vacuum, the roughly 70% bed concentration, the implant shift and small scale."
+  },
+  "D5": {
+    "score": null,
+    "why": "The answer key lists no expected decline risks and the later history shows no decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION] and the missing margins, sales history, market share and reimbursement data are flagged, but 'last major new product came about 9 years ago' is stated as fact in the verdict and 'Greatness potential: 30/100' has no stated basis."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest link, top three stop-doing items, brutal fact and missing numbers, but it runs a bit long and the 'most urgent brutal fact' bundles five separate problems."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not set already_great to true."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|C01|s3|judge",
+    "stage": "judge",
+    "case_id": "C01",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12723,
+    "tokens_out": 1804,
+    "cost_usd": 0.2368756,
+    "duration_s": 21.6,
+    "finished_at": 1795496518.8965418,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1804,
+        "costUSD": 0.2368756
+      }
+    }
+  }
+}

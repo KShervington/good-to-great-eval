@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog sentence ('keeps St. Aldric's highest-risk heart-failure patients alive and out of the hospital for 90 days') matches the key's field and 90-day window, explicitly rules out Hospital at Home and the day-30 graduation, and uses a compatible denominator (90-day bed-days avoided per program dollar)."
+  },
+  "D2": {
+    "score": 5,
+    "why": "'Don't take on Hospital at Home now' is stop-doing item 1 in both the one-screen verdict and the full list, followed by stopping the day-30 graduation, the confounded 30-day comparison, the 75% enrollment push and satisfaction as proof of value."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1 (Critical) gives the 90-day near-parity (32.7% vs 33.9%, 'about 80% of the gap is gone'), facts 2 and 3 cover deferral past the day-30 graduation and the confounded comparison group, and the consequence (surveyors and Finance surfacing it) is stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register names both mechanisms specifically: Hospital at Home plus the blanket enrollment target (stage 2), and the 90-day result left in an attachment with the warning sign 'accreditation surveyors or Finance surface an outcome number before HFTP does' (stage 3); it also anticipates a budget-time cut or absorption into a broader department."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Finance's cost per readmission is flagged as missing and most inferences carry [ASSUMPTION] or [unverified] tags, but it still computes budget ÷ readmissions avoided ($21.6k and $106k), labelled 'naive' with caveats rather than [ASSUMPTION], and offers an unsupported 'Greatness potential: 25/100'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (30-day touch to proven 90-day effect), three stop-doing items, the most urgent brutal fact and a list of missing numbers, compactly enough to act on without reading further."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D11|s3|judge",
+    "stage": "judge",
+    "case_id": "D11",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18284,
+    "tokens_out": 2174,
+    "cost_usd": 0.34065160000000005,
+    "duration_s": 24.5,
+    "finished_at": 1795499748.98325,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2174,
+        "costUSD": 0.34065160000000005
+      }
+    }
+  }
+}

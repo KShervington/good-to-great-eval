@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'best in the world at mechanizing the money-paperwork of banks and bookkeepers', measured by 'profit per financial-customer account', it explicitly excludes head-on general-purpose computing against Rival I, and it calls the 'diversified business-equipment company' label 'a description, not a strategy' with doom-loop signs present."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Stop-doing #1 is 'Stop competing across the whole general-purpose computer market', which matches the key, but one-leader dependence appears only in the bus, brutal-facts and mechanisms sections (counterweights, EVP-speaks-last, successors), and there is no warning against cost cuts that starve engineering, quality and service."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register holds all three key facts: the margin fall from about 13% to about 2% is ranked #1 Critical and named most urgent in the verdict, Rival I's dominance with Calder among the smallest challengers is #3, and the narrow line dependent on accounting machines is #5, each with consequences."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The risk register names the leader-dependence mechanism ('The single strong leader departs and the company drifts', with the warning sign 'No named successor is ready') and flags the EVP's dominating style, but it misses the cost-cutting that starved engineering and reliability."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently tagged, the missing data (Year −3 to −1 results, profit by line, R&D dollars, bench depth) is flagged, and the 25/100 verdict is hedged; minor unmarked inferences remain, such as 'thousands of banks and businesses', 'electronic calculators' and growth 'partly from buying businesses'."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict contains the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact and the missing numbers, and is actionable, but with the score rationale and evidence note it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A23|s3|judge",
+    "stage": "judge",
+    "case_id": "A23",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13601,
+    "tokens_out": 2201,
+    "cost_usd": 0.2668036,
+    "duration_s": 25.1,
+    "finished_at": 1795493816.1067693,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2201,
+        "costUSD": 0.2668036
+      }
+    }
+  }
+}

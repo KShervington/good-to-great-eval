@@ -1,27 +1,31 @@
 {
   "D1": {
     "score": 5,
-    "why": "The hedgehog is 'the independent vet clinic's own inventory brain' with denominator 'gross profit per clinic-year', and it explicitly rules out dental, chains and reminder growth, matching the key on all three points."
+    "why": "The hedgehog is \"the independent vet clinic's own inventory brain\" with denominator \"gross profit per clinic-year\", and it explicitly rules out dental, chains and reminder growth, matching the key on all three points."
   },
   "D2": {
     "score": 5,
-    "why": "'The dental build. Decline the letter of intent and return the two engineers' is stop-doing item 1 in both the one-screen verdict and the full list, with corporate-chain pilots as item 2."
+    "why": "Stop-doing item 1 is \"Dental software. Decline the LOI and cancel the two-engineer, six-month build\" and item 2 is corporate-chain pilots; both also appear in the one-screen verdict."
   },
   "D3": {
     "score": 5,
-    "why": "Brutal fact #1, rated Critical and named most urgent in the verdict, cites 38% of ARR, the renewal 5 months out, two unanswered emails and VetSource's announced native inventory product, and says it should be board item one."
+    "why": "Brutal fact #1, rated Critical and named most urgent in the verdict, has all three key points (38% of ARR, renewal in 5 months, VetSource building native inventory and ignoring two emails) and states the consequence (about $0.9M at risk, fundraising story changes)."
   },
   "D5": {
     "score": 5,
-    "why": "The risk register names stage 2 undisciplined pursuit of more (dental and chains, 'already active') and stage 3 denial of risk (VetSource silence read as noise), each with a specific early warning such as 'Notice date approaches with no plan B'."
+    "why": "The risk register names stage 2 undisciplined pursuit of more (\"Dental and chains (already active)\") and stage 3 denial of risk (\"Partner silence read as noise\"), each with a specific early warning such as the notice date approaching with no plan B."
   },
   "D7": {
     "score": 4,
-    "why": "The channel split and new clinics per channel are flagged as missing and thresholds are marked [ASSUMPTION], but it still computes a blended CAC of roughly $9–10K and an 18–20 month payback, labelled 'derived' rather than left as a gap, and the implied churn ranges rest on partly unstated assumptions."
+    "why": "It flags the missing channel split and new clinics per channel, and marks assumptions throughout, but it still computes a blended CAC of about $9–10K and an 18–20 month payback, labelled \"derived\" with stated assumptions, not [ASSUMPTION], and reuses them in the scorecard."
   },
   "D8": {
     "score": 4,
-    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stops, most urgent brutal fact and missing numbers and is actionable, but with the gate result, score and evidence note it runs somewhat past one phone screen."
+    "why": "The opening verdict contains the hedgehog sentence, weakest flywheel link, top three stops, most urgent brutal fact and missing numbers and is actionable, but with the gate result, score and evidence note it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
   },
   "hindsight_leak": false,
   "recognized_subject_by_name": false,
@@ -32,16 +36,16 @@
     "seed": 1,
     "model": "claude-fable-5-2",
     "effort": "high",
-    "tokens_in": 13867,
-    "tokens_out": 1601,
-    "cost_usd": 0.256587,
-    "duration_s": 20.0,
-    "finished_at": 1795486442.4049737,
+    "tokens_in": 14469,
+    "tokens_out": 1821,
+    "cost_usd": 0.2654916,
+    "duration_s": 20.9,
+    "finished_at": 1795496682.890611,
     "models_used": {
       "claude-fable-5-2": {
         "inputTokens": 2,
-        "outputTokens": 1601,
-        "costUSD": 0.256587
+        "outputTokens": 1821,
+        "costUSD": 0.2654916
       }
     }
   }

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's suggested core ('lowest-loss, rate-matched home lender and household savings bank in our home state') and rules out brokerage, real estate and out-of-state expansion, but it presents this as a 'working hypothesis' the firm has only 'taken a step outside' and never says plainly that the current portfolio lacks a hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top stop-doing item in the one-screen verdict is 'Stop expanding brokerage and real-estate services' with a prove-or-divest clock, and item 3 is 'Don't expand out of state or buy thrifts to manufacture growth', which together cover both key points."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the fixed-rate book funded by repricing deposits at #2 and deregulated rivals taking risky bets at #3, both High, and the verdict states the consequence ('the flywheel can't turn no matter how good the underwriting is'); the #1 slot goes to the missing financials, which include that exposure."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names Stage 2 as the most acute risk ('Deregulation invites new lines and states', with warning signs of new-business proposals and asset growth outpacing capital), and the register also flags single-state real-estate concentration with rising delinquencies and acquisitions made to fix earnings, which matches what actually happened."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are marked [ASSUMPTION], all the dossier's missing numbers are flagged and the 25/100 verdict is suitably conditional, but the claim that the company 'survived the rate squeeze better than most' is an unmarked inference given that earnings are unknown."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict contains the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers and is actionable, but with five missing numbers, a score rationale and an evidence note it runs longer than one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A08|s3|judge",
+    "stage": "judge",
+    "case_id": "A08",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11899,
+    "tokens_out": 2701,
+    "cost_usd": 0.2595716,
+    "duration_s": 29.0,
+    "finished_at": 1795491625.2609117,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2701,
+        "costUSD": 0.2595716
+      }
+    }
+  }
+}

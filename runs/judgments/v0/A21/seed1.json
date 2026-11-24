@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the lowest-cost, highest-return bank in the American West: run it like a business, keep it on home ground, and measure everything by profit per employee', which matches the key's field, its choice to give up global banking, and its denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doings in the verdict are winding down the overseas offices and the West German stake, stopping foreign lending, and consolidating weak branches; executive perks (#7) and deregulation-era ventures (#5) are also on the list, though job cuts are not quantified."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical and repeated in the verdict, is that the cost structure was built for capped deposit rates and that world is ending, with funding costs rising now; the repeated international losses (#4) are also listed."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The decline register names 'acquisitions outrun integration' with the warning sign of a deal announced before the prior one is integrated, and cost-cutting eroding controls with rising audit findings, but it never names the sales-pressure and incentive mechanism behind the later fake-accounts scandal."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are marked [ASSUMPTION], no financial figures are invented, the missing numbers (Latin American exposure, cost ratio, profit by line, recent earnings, profit-per-employee baseline) are flagged, and the gates are left CONDITIONAL with a hedged 35/100; the only unmarked inference is the vacant President/COO seat."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (whether lower cost wins profitable customers), three stop-doings, the most urgent brutal fact and four missing numbers in a compact, actionable form."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not set already_great to true; the subject is at its transition point."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A21|s1|judge",
+    "stage": "judge",
+    "case_id": "A21",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13048,
+    "tokens_out": 2510,
+    "cost_usd": 0.2703156,
+    "duration_s": 28.2,
+    "finished_at": 1795493172.8675945,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2510,
+        "costUSD": 0.2703156
+      }
+    }
+  }
+}

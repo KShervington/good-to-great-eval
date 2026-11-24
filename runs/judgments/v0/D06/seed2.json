@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'image the region's hardest adult hearts and teach others to do it, and get paid for depth per scan instead of number of scans', with income per study-hour as a shoulder-load denominator, which matches the key's field, volume-to-expertise shift and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen top three are: don't sign the 13-week high-volume travel contract, stop absorbing routine overtime, and stop leaving the shoulder and dropped disability cover unaddressed, which are all three of the key's stop-doing points."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent brutal fact is 'the whole career runs on one shoulder, and it is already injured', tied to the 9 to 13–14 volume rise, the dropped LTD plan, two months of cushion and a variable-income partner, and ranked Critical in the register."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names denial of risk as normalising pain ('just the cushion') with a worsening function score as the warning sign, lists LTD terms as an open risk, and flags a money crunch triggering a travel contract, though it files that under Stage 4, not Stage 2."
+  },
+  "D7": {
+    "score": 4,
+    "why": "University pay is flagged as unknown and never guessed, and derived figures are tagged [ASSUMPTION], but 'No TEE' contradicts the dossier's 'a little', the shoulder 'getting worse' is an unmarked inference, and the 42/100 score has no stated basis."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (reputation to a paid specialist seat), three stop-doing items, the most urgent brutal fact and a list of missing numbers, compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D06|s2|judge",
+    "stage": "judge",
+    "case_id": "D06",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13606,
+    "tokens_out": 2053,
+    "cost_usd": 0.26096359999999996,
+    "duration_s": 25.3,
+    "finished_at": 1795498483.585584,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2053,
+        "costUSD": 0.26096359999999996
+      }
+    }
+  }
+}

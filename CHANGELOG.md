@@ -25,3 +25,31 @@ Every phase and every improvement round is logged here: what ran, scores, the ed
 ## 2026-11-24: Baseline round r0 in progress
 - First real limit at 01:07: a shared session limit hit both Opus and Fable at once (the message: "You've hit your session limit · resets 1:50am (America/New_York)"). Usage up to that point: Opus 176 calls / $38.81 and Fable 120 calls / $32.42, about $71 API-equivalent in one window. Auto-resume at 01:52. 17 jobs remaining (3 paused_limit, 14 pending).
 - Next step after the round finishes: `python scripts/calibration.py make`, then the user scores 6 sheets.
+
+## 2026-11-24: Baseline round r0 complete
+- 252/252 jobs done (126 skill runs + 126 judge calls on 42 dev cases × 3 seeds), 0 failures, $76.63 API-equivalent.
+- One limit pause: a shared Opus+Fable session limit at 01:07, with the reset parsed as 01:50. The PC slept from 01:20 to 08:37, so the run resumed at 08:37. That's 7.5 h of wall-clock pause, 6.75 h of it caused by sleep. Fix: the harness now asks Windows to stay awake while work remains (SetThreadExecutionState, released on exit; `--allow-sleep` turns it off). `status` now reports wall-clock pause time (overlapping Opus/Fable pauses count once).
+- **v0 baseline (dev):**
+  - Composite: mean 87.7, SD 5.4.
+  - Noise: mean within-case SD across seeds 2.8.
+  - AUROC (greatness potential, Tracks A/C/D): 0.86.
+  - Greatness potential by group: great 40.6, comparison 18.8, unsustained 22.3, fallen 25.8, already-great 67.2, drifting 56.0.
+  - Track E restraint (D9): 3.5 for already-great, 3.7 for drifting.
+- **Deterministic checks:**
+
+  | Check | Pass rate |
+  |---|---|
+  | Sections | 123/126 |
+  | Gate counts | 119/125 |
+  | Stop-doing ≥5 | 110/111 |
+  | Hedgehog one sentence | 108/126 |
+  | `[ASSUMPTION]` tagging | 36/126 |
+  | No long quote | 126/126 |
+  | Greatness potential present | 126/126 |
+
+- **Gate failures:** D12 (one-off artifact) fails Gate 0 in 3/3 seeds. D05 (not yet good) never fails Gate 1: it gets CONDITIONAL in 3/3 seeds.
+- **Contamination:** no hindsight leaks; 1 output (B01 s2) named the real company.
+- **Scorer fixes:**
+  - The long-quote check paired quotes from different quotations, giving 23 false positives. It now flags only 15+-word quotations attributed to Collins or his books. Limitation: unattributed Collins quotes can't be detected without the books' text.
+  - D9 (restraint) is now scored on Track E only, in the scorer and the prompts. The Track B keys carry `already_great`, so the judge had been scoring D9 there.
+- **Calibration:** 6 sheets built in `calibration/` (A03, A25, B05, C01, D03, E06) for the user to score blind.

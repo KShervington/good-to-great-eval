@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the lowest-cost, best-run commercial bank in its home region... measured by profit per employee', and it explicitly rules out international banking and the consumer scale race, matching the key's cost discipline, western focus and denominator."
+  },
+  "D2": {
+    "score": 4,
+    "why": "International is item 1 on the stop-doing list, but phrased as 'stop all international expansion' and 'review every office for exit' rather than a flat exit; the wind-down, branch closures, overhead cuts and executive perks all appear, though perks are item 7 and job cuts are only implied by a hiring freeze and overhead target."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent brutal fact is 'cheap, rate-capped deposits are going away', with the consequence of a margin squeeze on a high-overhead branch network; repeated international losses (#3) and branch cost drag (#8) are also in the register."
+  },
+  "D5": {
+    "score": 3,
+    "why": "The risk register names 'undisciplined more' via acquisitions justified by size and 'capitulation' by sale to a larger bank, which partly fit the First Interstate and Norwest history, but the sales-pressure and misconduct mechanism behind the later scandal is absent and the warning signs are fairly generic."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently marked, no financials are invented, and the missing metrics (line profit, Latin American exposure, profit per employee) are flagged; but the 'Greatness potential: 35/100' score is unexplained and several gates are marked PASS (such as 6 and 9) on evidence the dossier does not contain."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link (savings to retained capital), three stop-doing items, the most urgent brutal fact and three missing numbers, compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not set already_great to true, so this dimension does not apply."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A21|s3|judge",
+    "stage": "judge",
+    "case_id": "A21",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12860,
+    "tokens_out": 2268,
+    "cost_usd": 0.25762759999999996,
+    "duration_s": 25.9,
+    "finished_at": 1795493319.837035,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2268,
+        "costUSD": 0.25762759999999996
+      }
+    }
+  }
+}

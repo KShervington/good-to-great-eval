@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "It says plainly the hedgehog is 'Not set' and narrows to the key's suggested core: a few efficient front-wheel-drive platforms, ruling out 'full-line competition with the two larger makers', with a compatible profit-per-platform denominator and break-even emphasis."
+  },
+  "D2": {
+    "score": 3,
+    "why": "'Stop building cars dealers haven't ordered' is item 1, but the celebrity distraction appears only as softened item 6 ('publicity as a substitute for operating numbers'), succession sits in the bus and risk tables rather than the stop-doing list, and non-core diversification is absent."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks possible closure with no private capital as Critical fact 1 and also lists widening losses, the highest inventory (80k units, 95 days), repeated product-mix misreads, damaged quality, and the new car a year away, each with consequences."
+  },
+  "D5": {
+    "score": 4,
+    "why": "It flags leadership concentration with no documented successor, a 'charisma check' on the CEO's publicity strength, and endurance defined as results that 'survive the current CEO and the current hit product', but it does not name celebrity distraction, overstaying or diversification specifically."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences such as the $0.8B annualised burn are marked as assumptions and the missing cash, debt, break-even and line-profitability data are flagged, but 'lost money in four of the last five years' is slightly off the dossier and 'discounting' is an unmarked inference."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog status and hypothesis, the weakest link, the top three stop-doing items, the most urgent brutal fact and the missing numbers, and is actionable, but it runs longer than one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A24|s3|judge",
+    "stage": "judge",
+    "case_id": "A24",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11109,
+    "tokens_out": 2433,
+    "cost_usd": 0.2362116,
+    "duration_s": 28.7,
+    "finished_at": 1795494116.1243029,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2433,
+        "costUSD": 0.2362116
+      }
+    }
+  }
+}

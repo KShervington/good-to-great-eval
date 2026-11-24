@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The 'working hypothesis' hedgehog (never-lapse medication and appointment logistics for the one primary caregiver from discharge, employer benefits and concierge excluded, revenue per circle active at day 90) matches the key's hypothesis and denominator, but the analysis rates Gate 1 CONDITIONAL and opens with 'Tessel has a working core' instead of plainly saying it is not yet good."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing #1 in the verdict is 'Stop building toward the employer checklist', #2 defers Android and the Android hire, the part-time developer is 'Off (for now)', and items 5 and 7 stop counting accounts and friendly-cohort enthusiasm as traction."
+  },
+  "D3": {
+    "score": 4,
+    "why": "All three key points are in the register (7 of 41 weekly active including the founder's family as #1 Critical, 3 subscribers as #2 Critical, one-pharmacy manual refill sync with the aggregator outside her control as #4, friendly sources as #7), but it never draws the conclusion that the headline feature works only for her own family and instead asserts a 'working core'."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names both mechanisms with specific warning signs: 'a jump into a concierge-heavy enterprise pilot' under Grasping for salvation with an explicit revisit trigger, and the prize and 'asked for by name' being 'mistaken for traction' (filed under Hubris, not Stage 3)."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Outside figures are tagged [ASSUMPTION], the arithmetic checks, and week-4/week-8 retention by source is flagged as missing with week-8 retention marked 'Unknown'; however, 'families stop using it' is inferred from the 7/41 snapshot without a tag, and Gate 1 CONDITIONAL with a 'working core' is more generous than the evidence supports."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict contains the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers and is actionable on its own, but it runs somewhat past one phone screen and its 'working core' call is loose."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D05|s1|judge",
+    "stage": "judge",
+    "case_id": "D05",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16324,
+    "tokens_out": 3239,
+    "cost_usd": 0.35189159999999997,
+    "duration_s": 35.8,
+    "finished_at": 1795498030.5121512,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 3239,
+        "costUSD": 0.35189159999999997
+      }
+    }
+  }
+}

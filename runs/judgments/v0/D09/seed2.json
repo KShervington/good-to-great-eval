@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog is 'Corbridge's same-day cold chain' with the denominator 'perishable pounds that agencies actually distribute, per refrigerated route-hour' and it rules out the café and add-ons, matching the key; but it narrows to protein and dairy (excluding produce) and proposes formalizing Freshway rather than diversifying the donor base."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict's top three stop-doing items are: don't apply for the Larder Kitchen grant, hand off composting/backpacks/gleaning, and don't buy the third van this year, which are exactly the key's decisions."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The 'most urgent brutal fact' gives Freshway at 44% of pounds, the Eastside drop of 36% (412 to 263) against flat other stores (398 to 391), the chainwide rollout next year and the untested Route 9 explanation, rated Critical with a quantified consequence."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names stage 3 denial ('The Eastside dip explained away', warning sign 'Explanations offered without tests') and stage 2 undisciplined pursuit ('Café, third van, new programs'), both the key's mechanisms with fitting early-warning signs."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Households, agency use rate and cold-chain share are flagged as unknown rather than estimated, with no pounds-to-meals conversion and assumptions marked; but the '2.3–2.6 pickups per store per week' inference and the 'Greatness potential: 40/100' score are unmarked and unexplained, and 'the board has blamed Route 9' overstates the treasurer's lone comment."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict contains the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers and is actionable, but with the board-question answers and mode note it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not mark the subject as already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D09|s2|judge",
+    "stage": "judge",
+    "case_id": "D09",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16897,
+    "tokens_out": 2927,
+    "cost_usd": 0.3485796,
+    "duration_s": 32.3,
+    "finished_at": 1795498895.2973125,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2927,
+        "costUSD": 0.3485796
+      }
+    }
+  }
+}

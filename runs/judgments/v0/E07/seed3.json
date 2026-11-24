@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is daily one-to-one early-reading tutoring by 'a well-prepared, closely coached tutor', with 'additional readers at benchmark per $1M' as the denominator, and it explicitly rules out math, ReadAlong and reach targets, matching the key on all three points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doings in the verdict are to stop the five-states-in-30-months launch, stop cutting training and coaching, and stop the math pilot and ReadAlong; the verdict also funds the research director and rejects the three funder seats, and nothing dismantles the core."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The new-school decline (69%, 63%, 58% against a flat 74%) is ranked the most urgent brutal fact with its consequence under the grant stated; the training and coaching cuts and the lapsed evaluation function are register items 2 and 3, all marked Critical."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register marks Stage 1 hubris ('cracked the code', rising speaking load) and Stage 2 undisciplined pursuit (five states, math, app, funder-set pace) as present, names growth outrunning the training and coaching engine, the COO seat loss and the funder board seats, and lists 'first district non-renewal' as an early warning sign."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are mostly marked [ASSUMPTION], derived figures check out against the dossier and carry a caveat, and gaps such as the cost-per-student reconciliation, board size and module completion are flagged; minor unmarked items include the 'Greatness potential: 55/100' score, 'roughly 30% more coaches' (nearer 36%) and the assumed gender of the VP of Growth."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, the top three stop-doings, the most urgent brutal fact, calls on the three board decisions and the missing numbers, and is actionable, but it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": 4,
+    "why": "It affirms the core as best-in-world with evidence, says the hedgehog 'is not a new idea' but 'the founding idea with the discipline put back in', and gives subject-specific warning signs; however it never plainly calls the subject already great ('Greatness potential: 55/100', endurance 'not yet') and adds a ten-item stop list, new seats, a new committee and technology pilots."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|E07|s3|judge",
+    "stage": "judge",
+    "case_id": "E07",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16788,
+    "tokens_out": 3160,
+    "cost_usd": 0.3561556,
+    "duration_s": 34.8,
+    "finished_at": 1795528508.5956395,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 3160,
+        "costUSD": 0.3561556
+      }
+    }
+  }
+}

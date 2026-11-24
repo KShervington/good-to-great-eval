@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog ('makes business mail effortless better than anyone... earning more profit from each business customer its field force already serves') matches the key's mailing equipment and services built on the installed customer relationship, chooses profit per business customer over profit per meter, and excludes point-of-sale, head-on copiers and broad office equipment."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the opening verdict are exiting all retail point-of-sale work, not fighting the copier giant head-on, and not entering markets led by larger firms under the 'broad office equipment' thesis; it also rejects a meter-only definition."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the mature, regulated core and the failed $42M diversification (with copiers outgunned) as its top high-severity facts with the consequence stated, and lists the free-license consent decree exposure separately, though only at medium severity."
+  },
+  "D5": {
+    "score": 4,
+    "why": "Decline stage 3 names ignoring mail-volume shifts, with the fitting early warning 'revenue rising through price while metered share or mail per customer is flat or falling', but it never identifies electronic substitution as the driver."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently marked [ASSUMPTION], derived figures (11% of revenue, about 16% a year) are correct, and missing line-level profit, profit per customer and CEO background are flagged; however the 'Greatness potential: 58/100' score is unexplained and unmarked, and the field-force metrics item implies a current practice the dossier does not document."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (field visits to adjacent sales), three stop-doing items, the most urgent brutal fact and the missing numbers, concisely enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key does not set already_great to true."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A17|s3|judge",
+    "stage": "judge",
+    "case_id": "A17",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11852,
+    "tokens_out": 1882,
+    "cost_usd": 0.22605959999999997,
+    "duration_s": 20.8,
+    "finished_at": 1795492392.7024815,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1882,
+        "costUSD": 0.22605959999999997
+      }
+    }
+  }
+}

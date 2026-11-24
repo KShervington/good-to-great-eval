@@ -20,7 +20,7 @@ For comparison companies whose key says "no coherent hedgehog": score 5 if the a
 - 2: Missing, but nothing on the list contradicts it.
 - 1: Missing, and the analysis recommends doing the opposite (for example, investing more in it).
 
-For **already-great subjects** (answer key has `"already_great": true`), the real decision is restraint: keep the current course, and refuse the specific temptations to pursue more without discipline that the key names. Score 5 if the stop-doing list targets those temptations and doesn't dismantle what already works. Score 1 if it recommends exiting or overhauling the subject's proven core.
+For **already-great subjects** (answer key has `"track": "E"`), the real decision is restraint: keep the current course, and refuse the specific temptations to pursue more without discipline that the key names. Score 5 if the stop-doing list targets those temptations and doesn't dismantle what already works. Score 1 if it recommends exiting or overhauling the subject's proven core.
 
 ## D3. Brutal facts found
 Did the brutal-facts register contain the key's brutal fact (its key points)?
@@ -55,7 +55,7 @@ Judge the opening verdict only (roughly the first screen).
 - 1: There is no verdict up front.
 
 ## D9. Restraint with an already-great subject (N/A allowed)
-Use this only when the answer key has `"already_great": true`. Otherwise return null.
+Use this only when the answer key has `"track": "E"`. Otherwise return null. (Track B subjects were also great at the time, but there the right answer includes urgent warnings, so restraint isn't scored.)
 Collins's point is that great companies fall when they believe they've arrived. So the ideal answer is neither "change everything" nor "all good." The ideal says: this is already great, here is the evidence, here is what not to change, and here are the specific early-warning signs to watch.
 - 5: It says plainly that the subject is already great, with evidence. The Hedgehog Concept it states is the one the subject already lives by. The recommendations preserve what works (keep pushing the flywheel, build mechanisms that don't depend on one person, watch for decline) and are few. It names the specific risks for this subject.
 - 4: It recognizes greatness and is mostly restrained, but adds one or two changes the evidence doesn't justify, or its warnings are generic.

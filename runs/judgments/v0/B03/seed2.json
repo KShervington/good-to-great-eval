@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the bank households and small businesses choose as their primary financial home, earning the most per actively used relationship', which matches the key's genuine community-banking relationships and profit-per-active-relationship denominator, and it explicitly rules out product count."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the one-screen verdict are daily/monthly product quotas, per-product and cross-sell incentive pay, and the eight-products headline goal; item 4 moves risk and HR out of the business lines, and the retail core is preserved."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks as Critical that the quota-and-incentive mechanism the regulator tied to subsidiary misconduct also runs the flagship retail bank, and that cross-sell may count unused products; decentralized risk/HR is rated High, with consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names the actual mechanism by stage: crisis-success hubris, the push for eight products, and findings treated as isolated with hotline data kept in business lines, with fitting warning signs such as goals raised while funded rates are unmeasured and terminations not reported to the board."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked, ROA is derived from dossier figures and labelled approximate, and all the missing data sets are flagged; however the 'Greatness potential: 35/100' figure is unexplained, and the 'asset cap' warning sign is suspiciously specific though framed as hypothetical."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, and is actionable, but with the score line and method note it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It never says plainly that the subject is already great (Gate 1 passes as 'good', potential 35/100, five CONDITIONAL gates) and gives a long list of eight stop-doing items plus several new seats, though it keeps the community-banking core and names subject-specific warning signs."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|B03|s2|judge",
+    "stage": "judge",
+    "case_id": "B03",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14121,
+    "tokens_out": 2577,
+    "cost_usd": 0.29016359999999997,
+    "duration_s": 29.3,
+    "finished_at": 1795495393.8507388,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2577,
+        "costUSD": 0.29016359999999997
+      }
+    }
+  }
+}

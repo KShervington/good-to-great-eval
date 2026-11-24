@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the primary financial home of American households and small businesses', measured by 'profit per primary relationship, never by products sold', which matches the key's genuine-relationship community banking and its active-relationship denominator while ruling out quota selling."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are ending pay on product count and daily store quotas, dropping the 'eight products' target and cross-sell headline, and ending risk/compliance/HR reporting only into the business lines; item 4 adds not counting unfunded or inactive accounts."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Facts 1 and 2 are both ranked Critical (the retail bank uses the same quota-plus-incentive mechanism the regulator cited at the subsidiary, and the metric 'measures accounts held, not used'), fact 3 covers decentralized controls, and the consequence is stated as an inflated cross-sell record and serious reputational risk."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register names the actual mechanisms with fitting warning signs: the halo leading leaders to dismiss the subsidiary findings as legacy, the 'eight' goal driving sales stretching, decentralized controls keeping hotline and termination trends from the board, and regulator-imposed growth limits."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, the ROA is labelled as computed from the dossier, and all four missing data sets are flagged without being guessed, but a few inferences are unmarked, such as crisis survival 'through conservative lending' and cross-sell rising 'in a weak economy'."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict contains the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact and the missing numbers, and is actionable, but with the conditional paragraph, score and evidence note it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It never plainly calls the subject already great ('Greatness potential: 42/100', 'close to great' only if the data is clean) and gives a long list of nine stop-doing items, new seats and five actions, though it preserves the community-banking core, keeps the leaders and decentralized customer decisions, and names subject-specific warning signs."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|B03|s1|judge",
+    "stage": "judge",
+    "case_id": "B03",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14918,
+    "tokens_out": 2205,
+    "cost_usd": 0.2880356,
+    "duration_s": 24.7,
+    "finished_at": 1795495287.9056654,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2205,
+        "costUSD": 0.2880356
+      }
+    }
+  }
+}
