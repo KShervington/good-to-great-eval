@@ -17,7 +17,7 @@
 9. **Splits.** Track A cases go to dev or held-out as matched pairs (a great company and its comparison stay together). Companies that appear in both Track A and Track B (Circuit City, Fannie Mae, Wells Fargo) go to the same split in both tracks. `harness enqueue` refuses held-out cases unless given `--final-eval`.
 
 ## Open questions
-See the bottom of this file once the dry-run numbers are in.
+See "Decisions I need from you" at the bottom.
 
 ## Dry-run results (1 seed, v0)
 | Case | Group | Composite | Det. checks | Greatness potential | D1 | D2 | D3 | D5 | D7 | D8 | Probe guess |
