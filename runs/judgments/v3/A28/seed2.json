@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 3,
+    "why": "The hedgehog ('owns only businesses where digital and solid-state electronics give a decisive edge, and runs each one for return on capital') names the right technical area, but frames it as an acquisition federation held together by capital allocation, which the key says is not a hedgehog, and it never plainly says the current portfolio lacks one."
+  },
+  "D2": {
+    "score": 4,
+    "why": "'Stop acquiring outside fields where digital or solid-state electronics gives a decisive edge' is item 2 and in the verdict, but item 1 still endorses stock deals when shares are 'richly valued', and the genius-dependence and successor points are buried at item 7 and in the bus table."
+  },
+  "D3": {
+    "score": 4,
+    "why": "The register lists defense dependence (#4), very small entrant (#5), no operating history of its own with stock-funded growth (#2, #3), and one admired person making all capital decisions (#7), but ranks unmeasured unit returns as most urgent instead of these."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names 'a high share price makes stock-funded deals in unrelated industries look cheap' and 'founders leave with no successor', with fitting warning signs (deal count outpacing unit reporting, no named successor), and cites concentration in one brilliant founder as a root cause."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Invented targets are tagged [ASSUMPTION], missing return on capital, organic growth and customer concentration are flagged, and confidence is stated as low; but it turns the dossier's 'sources differ' note into a 'disputed' profit figure the company must reconcile, a minor unmarked inference."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, weakest flywheel link (unit earnings feeding capital allocation), top three stop-doing items, most urgent brutal fact, missing numbers and confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|A28|s2|judge",
+    "stage": "judge",
+    "case_id": "A28",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12722,
+    "tokens_out": 2341,
+    "cost_usd": 0.25769179999999997,
+    "duration_s": 24.7,
+    "finished_at": 1795636053.2576008,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2341,
+        "costUSD": 0.25769179999999997
+      }
+    }
+  }
+}

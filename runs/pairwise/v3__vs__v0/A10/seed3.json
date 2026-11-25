@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses propose the same self-care hedgehog rather than the key's 'none', and both name the consumer/pharma lurching, the unrelated acquisitions and all four of the key's brutal facts, so they are hard to separate on D1-D3. Analysis 1 edges ahead by marking the grasping-for-salvation stage as already showing, warning that divestiture cash could go to a new unrelated acquisition, and being more conservative (12/100, Built to Last gate left conditional) where Analysis 2 passes that gate despite the ethics and safety record.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v3|A10|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A10",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16910,
+    "tokens_out": 1920,
+    "cost_usd": 0.347344,
+    "duration_s": 23.6,
+    "finished_at": 1795633200.9264019,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1920,
+        "costUSD": 0.347344
+      }
+    }
+  }
+}

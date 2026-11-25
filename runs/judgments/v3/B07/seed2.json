@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the everyday-low-price discount store that small towns in the Northeast can't do without', measured by operating profit per store, with self-funded growth only into the next town inside or next to an existing cluster, which matches all three key points and the denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "'Stop new acquisitions' is item 1 and 'stop running variety-store formats' is item 3 in both the verdict and the list, with 'stop funding growth with debt' at item 6; the insider-successor point is only partly covered (a successor bench in the bus section and an outside 'rescue CEO' flagged as a decline risk)."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The top-ranked High-severity facts are debt at about 80% of net worth, the unproven acquired half of the company in 14 new states, and Rival W running the same model with more discipline, and the verdict leads with the debt and unproven-conversion fact and its consequence for reinvestment."
+  },
+  "D5": {
+    "score": 5,
+    "why": "It marks Stage 2 as 'active now' (14 new states, variety formats, the 12% target, leverage) and names Stage 4 as 'an even bigger transformational acquisition... or a rescue CEO from outside', with the warning sign of a new deal before conversions finish, plus shrinkage and denial at Stage 3 and debt-driven insolvency at Stage 5."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently tagged, the missing numbers (Year −1 earnings, comps, converted-store profit, shrinkage, succession) are flagged, and the per-store proxy is labelled; but '28-year record' is an unmarked specific where the dossier says 'nearly 30 years', and there are a few small untagged inferences such as 'no small-town track record' in the new states."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link (reinvestment), the top three stop-doing items, the most urgent brutal fact, the numbers that would change the answer and a confidence statement, compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|B07|s2|judge",
+    "stage": "judge",
+    "case_id": "B07",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13531,
+    "tokens_out": 1936,
+    "cost_usd": 0.2544358,
+    "duration_s": 22.8,
+    "finished_at": 1795637742.9983277,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1936,
+        "costUSD": 0.2544358
+      }
+    }
+  }
+}

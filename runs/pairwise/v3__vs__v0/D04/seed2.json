@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "2",
+  "D5": "tie",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on the spec-compliance, per-seat hedgehog, reject Linewright Lite and the Linux port, flag the missing studio-versus-individual renewal split without inventing a studio rate, and name the denial and undisciplined-more decline signals. Analysis 2 is stronger because it alone states that about 70% of revenue sits in the individual segment exposed to free auto-align, and its top three stop-doing items match the key exactly (Lite, stop leading with auto-align, Linux).",
+  "_order_flipped": false,
+  "_analysis_1_is": "v3",
+  "_meta": {
+    "job_id": "v3|D04|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D04",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 20280,
+    "tokens_out": 1788,
+    "cost_usd": 0.395984,
+    "duration_s": 22.2,
+    "finished_at": 1795638766.490272,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1788,
+        "costUSD": 0.395984
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "2",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Analysis 1's hedgehog (one iconic brand image carried into every market, profit per brand) sits closer to the key's brand-building and profit-per-global-brand-category concept, and its verdict is tighter and more decisive; both cover the concentrate-and-stop-diversifying decision and the size and health-report facts equally. Analysis 2 is slightly more careful with facts (it correctly counts three recent acquisitions where Analysis 1 says four) and flags more uncertainty, but its profit-per-thousand denominator and 30/100 rating fit the key less well.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v3",
+  "_meta": {
+    "job_id": "v3|A15|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A15",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18644,
+    "tokens_out": 1378,
+    "cost_usd": 0.353408,
+    "duration_s": 19.6,
+    "finished_at": 1795634759.5525622,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1378,
+        "costUSD": 0.353408
+      }
+    }
+  }
+}

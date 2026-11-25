@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the everyday-low-price discount store that small Northeast towns depend on', with four-wall profit per store as denominator, self-funded store-by-store growth, and acquisitions, variety formats and urban formats ruled out, which matches every key point."
+  },
+  "D2": {
+    "score": 5,
+    "why": "'Stop acquiring chains' is item 1 in the verdict, with exiting variety formats at 3 and debt-financed growth at 4; it also bans promotional pricing and calls for a successor 'developed from the store-manager ranks'."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks debt at about 80% of net worth and the unproven acquired half as Critical, then Rival W's same-model expansion and simultaneous integrations as High, covering all four key facts with consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 marks Stage 2 as 'already visible' and names the actual mechanism: 'a larger acquisition to fix the last one, or a turn to promotional pricing', with warning signs of abandoning everyday low prices or a new deal announced mid-integration; succession risk is flagged, though not the outside-visionary form."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Thresholds and inferences are mostly tagged [ASSUMPTION] and the missing data is flagged thoroughly, but a few claims are unmarked and unsupported by the dossier: Rival W 'is larger', 'nobody tracks it', and an unexplained 'Greatness potential: 20/100'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, three concrete stop-doing items, the most urgent brutal fact and a list of missing numbers, compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|B07|s2|judge",
+    "stage": "judge",
+    "case_id": "B07",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14521,
+    "tokens_out": 1643,
+    "cost_usd": 0.2585558,
+    "duration_s": 20.6,
+    "finished_at": 1795638051.729217,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1643,
+        "costUSD": 0.2585558
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog narrows to durable rubber and plastic kitchen/home products on the retail shelf, with commercial as adjacent and party plan and automotive ruled out, and uses 'operating profit per pound of resin converted' as the denominator, all matching the key; but it only implies ('a narrower company than today's') rather than plainly stating that the current portfolio lacks a hedgehog."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Party-plan exit is #2 in the top three but softened to 'prepare to sell or exit, pending division profit data', automotive is only 'stop funding new capacity' and 'hold pending review', and bench/successor building appears as missing seats and mechanisms, not as a stop-doing item."
+  },
+  "D3": {
+    "score": 4,
+    "why": "The most urgent brutal fact is that management 'cannot yet show which of its five businesses earn their keep', and resin exposure is ranked High with consequences stated, but the complacent-culture fact is not registered; the analysis instead treats the 'stodgy' framing as a hubris risk."
+  },
+  "D5": {
+    "score": 5,
+    "why": "It names the actual mechanisms specifically: leader dependence ('staying great past one leader is the harder half', undocumented bench, two successor candidates), resin spikes treated as one-offs with the warning sign 'margin surprises blamed on unusual resin moves; no pass-through progress', retailer pass-through, and 'SKU count rising faster than profit per pound'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, all four dossier gaps are flagged, the growth-rate figures are labelled as arithmetic from the dossier and the 35/100 verdict fits the evidence; but it treats the dossier's missing division profit as management lacking it ('no division P&L exists yet') and gives an unmarked 'roughly 10–20% of the business' figure."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact and the missing numbers, and is actionable, but with the score rationale it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A27|s2|judge",
+    "stage": "judge",
+    "case_id": "A27",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14166,
+    "tokens_out": 2708,
+    "cost_usd": 0.2954758,
+    "duration_s": 29.6,
+    "finished_at": 1795635830.8155892,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2708,
+        "costUSD": 0.2954758
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog is Marlow County eviction defense 'triaged to need' and 'whatever the odds', ruling out Homeownership, statewide policy and win-rate screening, but it widens full representation to 'the level of help that changes the outcome' (including a desk path) and uses tenancies preserved per filing, not per attorney-year or per dollar."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict's top three stop-doing items are 'screening by winnability', 'Homeownership Pathways' (explicitly 'Decline it') and 'doubling the policy unit for a statewide campaign', matching all three key decisions."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register's top facts, rated Critical or High, are fewer tenants housed despite higher rates, coverage falling from 27.4% to 17.0% as filings rose 21.7%, 'the 93% is mostly selection', and the advice desk as an untracked 'black box' where diverted tenants land, with the renewal and credibility consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register names both mechanisms specifically: Homeownership plus a statewide campaign 'justified by indirect revenue' (warning sign: a program approved without the hedgehog test), and the 93% making people believe the year went well while coverage falls (warning sign: decks lead with the win rate)."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged throughout and cost per program is flagged 'Not computable' rather than derived, but a few small inferences go unmarked, such as 'the fastest path to a hearing it has ever had' and the survey sample being 'mostly represented tenants'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits on one screen and gives the hedgehog sentence, the most urgent brutal fact with numbers, the weakest flywheel link (measurement), the top three stop-doing items, the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track D, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|D08|s2|judge",
+    "stage": "judge",
+    "case_id": "D08",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15450,
+    "tokens_out": 1993,
+    "cost_usd": 0.2874198,
+    "duration_s": 22.8,
+    "finished_at": 1795639736.3255134,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1993,
+        "costUSD": 0.2874198
+      }
+    }
+  }
+}

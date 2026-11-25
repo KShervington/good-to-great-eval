@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It rejects both announced identities, calls the two opposite futures in one year a doom loop and the company a conglomerate with 'a portfolio that is not yet good', then narrows to a self-care remedies core; it never says outright that there is no hedgehog today, and its denominator is its own assumption."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top stop-doing item is 'Stop acquiring, and stop announcing new strategic directions', followed by selling the bakery and optical businesses, all in the one-screen verdict."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks ROE of about 9% after a 40% margin fall and the strategic whiplash as Critical, and also lists the misfit bakery and optical units, the regulatory and legal drain, and the distant No. 2 razor position, with consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register places the company in Stage 4, names 'pharma revival by big program or acquisition; repeated strategic flips' with the warning sign of a transformational deal or reorganization, and names Stage 5 as 'break-up or takeover after years of sub-par returns', which matches what happened."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences and targets are consistently marked [ASSUMPTION] and the missing segment, pipeline and share data are flagged, but 'sugarless gum' and a razor 'price war' are small unmarked details beyond the dossier."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers and is actionable, but it runs somewhat past one phone screen once the bottom line and run notes are included."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A10|s1|judge",
+    "stage": "judge",
+    "case_id": "A10",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12540,
+    "tokens_out": 1849,
+    "cost_usd": 0.23509979999999997,
+    "duration_s": 21.9,
+    "finished_at": 1795633009.6815183,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1849,
+        "costUSD": 0.23509979999999997
+      }
+    }
+  }
+}

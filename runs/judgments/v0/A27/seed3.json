@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is everyday rubber and plastic products for homes and commercial kitchens sold through existing mass-retail channels, measured by profit per pound of resin, and it rules out party plan, recreational goods and out-of-channel deals while calling past extensions 'scattered'."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Party plan is stop-doing item 1 and in the verdict, but only as a 'sell-or-wind-down review'; automotive is a capital freeze pending data at item 5, and building a bench and successor appears in the 90-day actions, not on the stop-doing list."
+  },
+  "D3": {
+    "score": 4,
+    "why": "The register lists resin exposure (#3) and failed or underperforming diversification (#4), with missing segment profit ranked critical, but it omits the complacent culture and instead questions the chairman's 'stodgy and complacent' verdict."
+  },
+  "D5": {
+    "score": 5,
+    "why": "It names single-leader dependence specifically ('better at producing a great decade than lasting greatness', warning sign of an unplanned exit with no named number two), plus margin squeeze on a resin spike and retailer power."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are marked and missing segment profit, ROE, share and bench depth are flagged, but it states as fact that management cannot say which divisions make money and that key seats are missing, when the dossier is only silent on both."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening gives the hedgehog sentence, the weakest flywheel link (pricing leg), three stop-doing items, the most urgent brutal fact, the missing numbers and a score, compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A27|s3|judge",
+    "stage": "judge",
+    "case_id": "A27",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12678,
+    "tokens_out": 1936,
+    "cost_usd": 0.2407878,
+    "duration_s": 23.5,
+    "finished_at": 1795635823.715195,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1936,
+        "costUSD": 0.2407878
+      }
+    }
+  }
+}

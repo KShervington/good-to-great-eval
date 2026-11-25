@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'best in the world at inventing and making the shaving system people will gladly pay more for, sold everywhere, measured by profit per shaver per year', which matches the key on technology-led premium shaving systems, global reach, rejection of low-margin disposables and diversification, and a profit-per-customer denominator; it is slightly narrower than the key's 'daily necessities' framing."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are exit lighters, 'stop treating the disposable as a growth engine', and 'stop diversifying', and the first 90-day actions fund the next-generation premium system, covering all three key points explicitly."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks disposable cannibalization as Critical and #1 with its consequence stated, and also lists Rival B's cross-category price attack, the 71% blade profit concentration and the failed diversification that shrank margins."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no decline_risks_expected and its later history describes sustained success, not a decline, so this dimension does not apply."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are consistently tagged [ASSUMPTION], unknown scorecard values are stated as 'Unknown' instead of invented, missing sales, ROE, line profit and disposable share are flagged as able to overturn the hedgehog, and the gates are marked CONDITIONAL accordingly."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (trade-up), three stop-doing items, the most urgent brutal fact and the missing numbers in a compact form someone could act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A09|s1|judge",
+    "stage": "judge",
+    "case_id": "A09",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12416,
+    "tokens_out": 2163,
+    "cost_usd": 0.2456758,
+    "duration_s": 24.7,
+    "finished_at": 1795632487.5605712,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2163,
+        "costUSD": 0.2456758
+      }
+    }
+  }
+}

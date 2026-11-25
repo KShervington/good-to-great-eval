@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('keep the most Marlow County tenants in their homes per eviction filed') matches the key's one-county eviction-defense field, rejects 'win the winnable' and excludes homeownership and statewide policy, but it blends advice-desk triage into the core rather than full representation, and its denominator is housed per 100 filings, with cost per household housed only secondary."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's top three are to stop leading with the 93% win rate, not launch Homeownership Pathways and not double the policy unit, and item 4 of the full list stops screening on 'can we win' alone."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks as Critical or High the selection effect behind the 93%, the coverage fall from 27.4% to 17.0% as filings rose 22%, untracked outcomes for screened-out tenants and the vacancies failing to explain the drop, with the consequence tied to the county renewal."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names undisciplined pursuit of more (Homeownership, statewide campaign) and reading the win rate as excellence, each with a specific warning sign such as a board vote for a non-defense program or the win rate reported without coverage."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are consistently marked [ASSUMPTION], derived figures show their arithmetic, and program-level cost is flagged as missing rather than computed; the only blemishes are an unexplained 32/100 score and an unmarked 'client pipeline' inference about the bank."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict contains the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers and is actionable, but with the score line and run notes it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D08|s2|judge",
+    "stage": "judge",
+    "case_id": "D08",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16672,
+    "tokens_out": 2074,
+    "cost_usd": 0.3102118,
+    "duration_s": 24.2,
+    "finished_at": 1795640170.5054631,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2074,
+        "costUSD": 0.3102118
+      }
+    }
+  }
+}

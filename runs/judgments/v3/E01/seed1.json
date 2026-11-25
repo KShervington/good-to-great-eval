@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog sentence ('make steel at a lower cost per ton than anyone' via newest proven minimill technology and lean, team-bonused, no-layoff crews) matches the key's culture-plus-technology concept, uses profit per ton as denominator, and rules out diversification, acquisitions and overseas moves."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's top three temptations to refuse are scaling iron-making before the plant proves itself, building tons for growth, and buying old mills or diversifying; the full list adds no new layers or HQ staff and no touching bonuses or the no-layoff policy, without dismantling the core."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'the model is being copied at scale (~10 minimills, +40% capacity)' as #1 Critical and the verdict's most urgent fact, and also lists sheet price cuts, scrap costs, the unreliable iron-carbide plant, the share price fall and the untested succession, with consequences."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key's decline_risks_expected is empty and later_history describes no decline, only risks that were faced and handled."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Derived figures (~$41/ton, capex ~1.8x earnings, debt ~8% of equity) follow from dossier numbers and the per-ton figure is labelled crude and an assumption; targets and inferred values are tagged, missing per-ton and iron-carbide data are flagged, and confidence is stated as moderate."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (the next technology lead), three temptations to refuse, the most urgent brutal fact, the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": 4,
+    "why": "It says 'already great, so this is stewardship mode' with evidence, confirms the existing hedgehog and gives subject-specific warning signs, but adds several changes beyond pure restraint: independent directors, metallics and safety owners, a safety gate on the weekly bonus, and a fabrication-line review."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|E01|s1|judge",
+    "stage": "judge",
+    "case_id": "E01",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14470,
+    "tokens_out": 1935,
+    "cost_usd": 0.2694198,
+    "duration_s": 23.1,
+    "finished_at": 1795640397.6131606,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1935,
+        "costUSD": 0.2694198
+      }
+    }
+  }
+}

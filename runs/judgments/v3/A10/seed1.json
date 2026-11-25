@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "It says plainly that the company 'has no settled strategy' and 'still can't say what it is', names the consumer-versus-pharma swing and leadership turnover as an active doom loop, and narrows to a mouth-and-throat consumer-health core offered only as a conditional working hypothesis."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict's top three lead with 'announcing a new strategic direction every year' and 'owning businesses outside the core (bakery, optical)', and the full list adds 'stop acquiring outside the Hedgehog' plus a moratorium on announcements and a CEO succession plan."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks unsettled strategy and the roughly 40% margin fall with about 9% ROE as Critical, names the latter as the most urgent fact in the verdict, and also lists diversification drag, the distant second place in shaving, and the regulatory and legal problems."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names asset-sale cash funding new unrelated deals (warning sign: 'sale proceeds earmarked for acquisitions'), another strategic reversal under a new team, and eventual sale to a bidder while ROE stays stuck, which matches the later unrelated device purchase, repeated restructurings and hostile takeover."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged throughout, missing segment, share and pipeline data are flagged, and confidence is stated as low to moderate; but 'can't win in Rx research on scale' is asserted as a brutal fact on thin evidence, and the 'Greatness potential: 15/100' score is unsupported and unmarked."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (trust), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, so a reader could act on it alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|A10|s1|judge",
+    "stage": "judge",
+    "case_id": "A10",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13715,
+    "tokens_out": 2141,
+    "cost_usd": 0.26557980000000003,
+    "duration_s": 24.2,
+    "finished_at": 1795632843.170241,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2141,
+        "costUSD": 0.26557980000000003
+      }
+    }
+  }
+}

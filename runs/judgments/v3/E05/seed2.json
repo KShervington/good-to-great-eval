@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is image-led brand building ('makes it the category leader with one durable image, and scales it worldwide, measured by profit per leading brand'), with passion cited and soft drinks explicitly ruled out, which matches the key's field, exclusion and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing #1 is 'Stop pursuing the soft-drink acquisition', backed by #4 (stop framing diversification as escaping tobacco) and #5 (face health and liability directly); the core is left intact, though beer capacity is gated rather than freely funded."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The government anti-smoking campaign is ranked #1 and Critical with the consequence stated ('contained so far is not a plan'), liability is #2, and the beer spending fight is #6; cola and bottler dominance appears in the hedgehog and stop-doing sections rather than the register."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and the later history shows no decline within the window, so this dimension does not apply."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged throughout and the missing financials are flagged as the reason for moderate confidence, but 'It supplies the core' about packaging is an unmarked inference and the 'Good, not yet great' call slightly under-reads the dossier's evidence."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact, missing numbers and a clear 'Do not buy the soft-drink company' call."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It rates the subject 'Good, close to great' (60/100, Gate 1 'Good, not yet great') rather than plainly already great, and gives a fairly long list of fixes (six stop-doing items, three missing seats, five 90-day actions), though it keeps the lived hedgehog, protects the core and names subject-specific warning signs."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|E05|s2|judge",
+    "stage": "judge",
+    "case_id": "E05",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12314,
+    "tokens_out": 1995,
+    "cost_usd": 0.2373238,
+    "duration_s": 25.2,
+    "finished_at": 1795640945.184582,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1995,
+        "costUSD": 0.2373238
+      }
+    }
+  }
+}

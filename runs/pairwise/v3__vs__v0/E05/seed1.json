@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "2",
+  "D8": "2",
+  "D9": "2",
+  "overall": "2",
+  "why": "Analysis 2's hedgehog (a few iconic image-driven brands taken to leadership and carried worldwide, flagship first, with beer as proof the skill transfers) matches the key more closely than Analysis 1's tobacco-only framing, and it preserves the working core by phasing rather than freezing beer investment. Analysis 1 is firmer in refusing the soft-drink deal outright, but both name the same brutal facts, and Analysis 2 has the tighter verdict and states its confidence level more explicitly.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v3|E05|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "E05",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18195,
+    "tokens_out": 1752,
+    "cost_usd": 0.361184,
+    "duration_s": 24.1,
+    "finished_at": 1795641280.582019,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1752,
+        "costUSD": 0.361184
+      }
+    }
+  }
+}

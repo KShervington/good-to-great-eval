@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is branded, durable, well-designed molded home products for U.S. mass retail, 'always in stock', rejecting launch volume, toys and category cadence; its profit-per-pound-of-resin denominator (profit per SKU as second choice) is compatible with the key's."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are the 15% growth promise, the new-category cadence and counting launches as innovation, with net SKU pruning at #4 and fill rate made a non-negotiable."
+  },
+  "D3": {
+    "score": 5,
+    "why": "'Growth promise outruns the engine' is ranked #1 and most urgent with its consequence stated, and the register also lists the 11→13→14% retailer dependence, resin-driven earnings, unmeasured complexity and fill rate, and leadership churn."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 says Stage 2 signs are present now (15% target, category cadence, SKU count outgrowing sales), then names blaming resin and retailers, a big acquisition or restructuring after a broken streak, and eventual sale, with retailer price realization as the weakest link."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures trace to the dossier, assumptions are marked and missing data (fill rate, SKU profit, resin hedging, share) is flagged, but 'earnings are resin-driven' in Year −2 and Year −1 is stated as fact when the dossier does not establish that cause."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict contains the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, and is actionable, but it runs somewhat past one phone screen with the sub-bullets and evidence note."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|B04|s2|judge",
+    "stage": "judge",
+    "case_id": "B04",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14458,
+    "tokens_out": 2017,
+    "cost_usd": 0.2725078,
+    "duration_s": 25.8,
+    "finished_at": 1795636933.7025907,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2017,
+        "costUSD": 0.2725078
+      }
+    }
+  }
+}

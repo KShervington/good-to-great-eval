@@ -1,0 +1,22 @@
+{
+  "job_id": "v0|A16|s1|run",
+  "stage": "run",
+  "case_id": "A16",
+  "seed": 1,
+  "model": "claude-opus-5-5",
+  "effort": "high",
+  "tokens_in": 7771,
+  "tokens_out": 16498,
+  "cost_usd": 0.3481046,
+  "duration_s": 172.5,
+  "finished_at": 1795635100.8083184,
+  "models_used": {
+    "claude-opus-5-5": {
+      "inputTokens": 2,
+      "outputTokens": 16498,
+      "costUSD": 0.3481046
+    }
+  },
+  "skill_version": "v0",
+  "skill_sha": "92e11cfd29a5"
+}

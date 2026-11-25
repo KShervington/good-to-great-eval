@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "2",
+  "D5": "tie",
+  "D7": "tie",
+  "D8": "1",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both land on the small-town everyday-low-price hedgehog with profit per store and flag Stage 2 acquisition and debt risk, but Analysis 2 comes closer to the key by warning against promotional pricing, calling for a successor from the store-manager ranks, and listing simultaneous integrations as a brutal fact. Analysis 1 has the tighter one-screen verdict and names the outside-CEO and shrinkage risks, but its succession advice is less aligned with the key's insider point.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v3",
+  "_meta": {
+    "job_id": "v3|B07|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "B07",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 19532,
+    "tokens_out": 1648,
+    "cost_usd": 0.378416,
+    "duration_s": 20.0,
+    "finished_at": 1795638090.0538864,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1648,
+        "costUSD": 0.378416
+      }
+    }
+  }
+}

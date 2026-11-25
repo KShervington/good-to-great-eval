@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "tie",
+  "D8": "2",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses propose a similar consumer-health hedgehog while recognising the consumer-versus-pharma lurching and covering all the key's brutal facts, so they are hard to separate on D1, D3 and D7. Analysis 1 puts the acquisition moratorium and 'no third pivot' in its top-three stop-doing list and names leadership churn in its doom-loop check, which matches the key more closely, while Analysis 2 has the tighter one-screen verdict.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v3|A10|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A10",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16494,
+    "tokens_out": 1743,
+    "cost_usd": 0.333608,
+    "duration_s": 23.1,
+    "finished_at": 1795633178.7526135,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1743,
+        "costUSD": 0.333608
+      }
+    }
+  }
+}

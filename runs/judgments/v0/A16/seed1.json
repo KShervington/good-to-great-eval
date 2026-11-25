@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 2,
+    "why": "The hedgehog ('turn a few low-priced, bought-every-day products into America's leading brands') shares the brand-building skill and excludes unrelated conglomerate deals, but it demotes cigarettes to a 'cash engine', makes the fruit punch the proof case and sets a BHAG of most profit from non-tobacco, which is the opposite of the key's doubling down on cigarette brand building; it also never says the current state lacks a hedgehog."
+  },
+  "D2": {
+    "score": 3,
+    "why": "'Stop open-ended diversification' is item 2 of the top three, but it is softened into a screen that permits food and beverage deals and pushes the fruit punch hard, and the list also says to stop new cigarette brands and stop racing Rival H, so the key's decision to end diversification and concentrate on cigarette brands has to be inferred."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the Surgeon General's report and the ten-year-old internal memo as Critical (the memo gap is the most urgent fact, with credibility, legal and moral consequences stated), and also lists Rival H's growing filter brand and the $30M brand failure."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The decline register names 'diversification spree' with the warning sign 'deal count rises without screen sign-off', a 'bet-the-company acquisition', and hubris over 'our brands are the best' while the plain brand has already lost #1; however, loss of leadership to Rival H's brand is not developed as a decline mechanism, and the analysis's own plan leans toward diversification."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION], missing financials are flagged and no figures are invented, but the claim that the cigarette salesforce's retail reach transfers to the fruit punch and the implication that Carrow funds denial efforts are unmarked inferences, and 'clearly good' sits uneasily with a CONDITIONAL Gate 1."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact, missing numbers and a bottom line, but it runs somewhat longer than one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A16|s1|judge",
+    "stage": "judge",
+    "case_id": "A16",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12121,
+    "tokens_out": 2365,
+    "cost_usd": 0.24903579999999997,
+    "duration_s": 29.9,
+    "finished_at": 1795635130.7758813,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2365,
+        "costUSD": 0.24903579999999997
+      }
+    }
+  }
+}

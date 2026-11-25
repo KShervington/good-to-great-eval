@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'fundamental science into first-in-class medicines... backed by evidence doctors trust', with profit per breakthrough medicine as denominator, patients-first passion, and the PBM, the growth target and a megamerger explicitly ruled out, which matches the key's reconstruction."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are the key's decisions: drop 'top-tier growth company' as objective number one, stop presenting COX-2 as the growth engine before outcome data, and open a PBM separation review."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent brutal fact is the unsupported growth promise (about $7–8B of new-product sales needed against a 22% patent cliff), ranked Critical with its consequence stated, and the register also covers the PBM share of growth and COX-2 being second to market."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 2 signs as present now and Stage 3 as the most dangerous next step: 'ambiguous COX-2 safety data explained away because the growth story depends on the drug', with the warning sign of outcome-trial results 'framed rather than reported'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures are correctly computed from the dossier and inferences are tagged [ASSUMPTION], with COX-2 cardiovascular data, PBM profit and pipeline depth flagged as missing; the one lapse is an unmarked era inference ('Y2K remediation') that the dossier does not support."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, and is actionable, but the gate-shape summary and evidence note push it past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|B06|s2|judge",
+    "stage": "judge",
+    "case_id": "B06",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15784,
+    "tokens_out": 1964,
+    "cost_usd": 0.29160379999999997,
+    "duration_s": 23.5,
+    "finished_at": 1795637534.9210267,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1964,
+        "costUSD": 0.29160379999999997
+      }
+    }
+  }
+}

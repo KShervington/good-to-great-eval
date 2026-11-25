@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the go-to scientist on how road salt reshapes stream ecosystems' built on her own 37-stream record and the agency link, with a denominator of 'PI-led output per winter of the salt record', and it explicitly rules out running the national network."
+  },
+  "D2": {
+    "score": 5,
+    "why": "'Leading WP3' is stop-doing item 1 in both the one-screen verdict and the full list, followed by the textbook chapter and new middle-author Network work, with reviewing and the seminar chair also cut."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The verdict's most urgent brutal fact is the 'coherent, independent program' requirement against the third-year hint and the 16-month clock, and the register's top rows cover the 2 minor senior-author papers, no independent federal funding with the declined proposal, and 7 of 9 papers as middle author."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names both expected mechanisms specifically: Stage 2 as 'WP3 now' with a non-salt effort cap as the warning sign, and Stage 3 as 'Treats Network prestige as independence' with 'research statement leads with Network papers' as the warning sign."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION] and PI funding is counted as only $46,750 with no invented split of the $612,400, but her share of that award is never flagged as missing and a few inferences (resubmission decision timing, 'about 3.5 years') go untagged."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the decision, the hedgehog sentence, the weakest flywheel link (data to senior-author papers), three stop-doing items, the most urgent brutal fact and the missing numbers in a compact, actionable block."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D07|s1|judge",
+    "stage": "judge",
+    "case_id": "D07",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14988,
+    "tokens_out": 1976,
+    "cost_usd": 0.2793478,
+    "duration_s": 23.8,
+    "finished_at": 1795639210.8003676,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1976,
+        "costUSD": 0.2793478
+      }
+    }
+  }
+}

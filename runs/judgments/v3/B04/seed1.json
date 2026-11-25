@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'most trusted, best-engineered everyday molded-plastic and rubber products for the American home', explicitly ruling out innovation volume, toys/leisure, international and new categories, with profit per shelf-foot measured through SKU-level profitability as a compatible denominator and supply reliability built into the flywheel."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are the public 15% growth target, the new category every 12-18 months, and the product-a-day pace and one-third-new quota, backed by a launch gate, an SKU-tail cut and a fill-rate baseline as first actions."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register covers all four key facts at High or Medium severity (targets outrunning performance and unmeasured operational strain, the 11→13→14% customer, resin exposure, unproven endurance after the turnaround CEO), and the verdict leads with the target gap and its dependence on margin, resin and the largest customer."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 says Stage 2 is under way with specific signs (SKU count outgrowing sales, fill rate declining, categories launched on schedule anyway), then names Stage 3 denial over resin and retailers, a Stage 4 'transformative' acquisition or restructuring, and Stage 5 sale of the company."
+  },
+  "D7": {
+    "score": 5,
+    "why": "All derived figures (8.3-8.4% growth, margins, $184M→$274M top-customer sales, 6.5% growth in the rest of the business) check out against the dossier, targets and inferences are tagged [ASSUMPTION], and fill rate, SKU profitability, resin hedging and category share are flagged as missing rather than guessed."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (supply reliability), three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, so it is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|B04|s1|judge",
+    "stage": "judge",
+    "case_id": "B04",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14432,
+    "tokens_out": 2233,
+    "cost_usd": 0.28073180000000003,
+    "duration_s": 24.8,
+    "finished_at": 1795636599.1389494,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2233,
+        "costUSD": 0.28073180000000003
+      }
+    }
+  }
+}

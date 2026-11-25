@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is first- or best-in-class medicines from fundamental research, with 'science that measurably changes patients' lives' as the passion, 'top-tier growth' explicitly ruled out, and 'profit per patent-protected year of a clearly differentiated medicine' as a compatible denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are exactly the key's: stop naming top-tier growth as the #1 objective, freeze and decide on the PBM, and stop letting the COX-2 commercial case run ahead of the evidence."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks as Critical the one-drug-class dependence with the rival first to market, the ~$5B / 22% patent cliff and the growth arithmetic on the large base, and adds that PBM growth flatters the headline, with the consequence stated ('the setup in which good science gets oversold')."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 2 (growth as #1 objective, PBM) and Stage 3 as 'explaining away an early safety signal in a blockbuster', with the early warning 'adverse data framed as chance finding without further study', which is the mechanism that occurred."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences such as the ~8% ex-PBM growth, 70% erosion and $2.7B a year are marked [ASSUMPTION] and all four dossier gaps are flagged, but the 'Greatness potential: 35/100' score is an unexplained, unmarked figure."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link ('evidence before scale'), the top three stop-doing items, the most urgent brutal fact and the missing numbers in a compact, actionable form."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|B06|s1|judge",
+    "stage": "judge",
+    "case_id": "B06",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12771,
+    "tokens_out": 1700,
+    "cost_usd": 0.23283579999999998,
+    "duration_s": 19.7,
+    "finished_at": 1795637333.6461055,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1700,
+        "costUSD": 0.23283579999999998
+      }
+    }
+  }
+}

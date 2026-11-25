@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2 commits to the narrow digital control and solid-state systems hedgehog and explicitly rejects capital allocation as the hedgehog because it depends on one person, which matches the key, while Analysis 1 builds its hedgehog around a capital-allocation federation of acquired units, close to the conglomerate model the key says is no hedgehog. Both cover the three brutal facts and the founder-without-successor decline path about equally well, but Analysis 2's stop-doing list targets the one-person capital decision model more directly.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v3",
+  "_meta": {
+    "job_id": "v3|A28|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A28",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18728,
+    "tokens_out": 1216,
+    "cost_usd": 0.348272,
+    "duration_s": 20.2,
+    "finished_at": 1795636391.2098782,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1216,
+        "costUSD": 0.348272
+      }
+    }
+  }
+}

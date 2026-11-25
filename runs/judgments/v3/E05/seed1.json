@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('takes a few iconic brands to category leadership and then carries them around the world, flagship first') matches the key's premium brand-building, flagship-first, international core and rules out soft drinks, but its denominator is profit per thousand premium units, not profit per global brand."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1 in both the verdict and the full list is the roughly $0.5B soft-drink purchase and item 2 is 'diversification as a goal in itself', while capital stays on the flagship, international and (phased) beer, and the health risk is confronted directly."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register has all four key facts (F1 federal anti-smoking campaign, F2 open-ended liability, F5 cola duopoly with bottler networks, F6 beer fight with Rival A), and F1 is ranked 'Critical, permanent' and named most urgent with the consequence that 'no acquisition removes that'."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key's decline_risks_expected is empty and later_history records no decline of the company inside the window, with the Seven-Up failure listed as a risk faced and handled, so this is N/A."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged throughout, missing financials are flagged and confidence is stated as 'moderate to low', but it assumes without marking that the razor and gum businesses are still held and can be divested, and it gives an unsupported '60/100' score."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict compactly gives the hedgehog sentence, the weakest flywheel link (cash reinvestment), three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, and can be acted on alone."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It says 'The core is not the problem here. It works' and preserves the flagship, but labels the subject 'good, not yet great' (60/100, Gate 1 CONDITIONAL) and adds a seven-item stop-doing list, four missing seats and divestitures instead of plainly recognizing greatness."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|E05|s1|judge",
+    "stage": "judge",
+    "case_id": "E05",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13305,
+    "tokens_out": 2464,
+    "cost_usd": 0.2719398,
+    "duration_s": 28.4,
+    "finished_at": 1795640951.5989287,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2464,
+        "costUSD": 0.2719398
+      }
+    }
+  }
+}

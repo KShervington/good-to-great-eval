@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog is 'turning a very few cigarette brands, Ridgeway first, into the strongest... brand identities' and carrying them across borders, with razors, gum and the long tail ruled out, which matches the key; the denominator is 'profit per thousand cigarettes on focus brands' and 'profit per brand' was considered but not kept, so it differs from the key's profit per global brand category."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top two stop-doing items in the one-screen verdict are 'Stop buying small unrelated companies... Freeze all acquisitions now' and 'Stop spreading advertising money across the long tail of brands. Fund Ridgeway plus one or two premium filters', which is the key's decision."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The Surgeon General's report is ranked #1 as 'Existential' and named the most urgent brutal fact with consequences stated, and 'smallest of six' is fact #5; the weak-portfolio point appears only indirectly through the long-tail stop-doing item, not in the register."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register names Stage 2 'more scattered hedges' with the warning sign 'any new non-tobacco deal outside a board Hedgehog review' and Stage 3 'treating the health report as a PR problem', which match the later 7-Up stray and the deception liability."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are tagged [ASSUMPTION], missing share, profit and diversification figures are flagged and the verdict is hedged as 'built on thin evidence'; however, 'no consumer research' and 'no red-flag mechanism' are stated as facts about the company when the dossier only omits them, and the 30/100 score is unexplained."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (identity to switching, dependent on TV advertising), the top three stop-doing items, the most urgent brutal fact and the missing numbers in a compact, actionable form."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so this dimension does not apply."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A15|s3|judge",
+    "stage": "judge",
+    "case_id": "A15",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13794,
+    "tokens_out": 2359,
+    "cost_usd": 0.27556379999999997,
+    "duration_s": 30.2,
+    "finished_at": 1795634739.8266413,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2359,
+        "costUSD": 0.27556379999999997
+      }
+    }
+  }
+}

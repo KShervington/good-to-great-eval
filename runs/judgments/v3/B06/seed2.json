@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog ('turning fundamental biology into proven breakthrough medicines... and let the profits follow') matches the key's research-driven, purpose-first concept, uses the same denominator (profit per breakthrough medicine), and explicitly excludes 'top-tier growth as an end in itself' and the PBM."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top stop-doing items and the verdict are to drop 'top-tier growth company' as the number-one objective, stop double-digit growth promises, refuse to let one drug class carry the growth story ahead of safety evidence, and stop counting PBM revenue as growth, which covers all three key points."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the patent cliff and the implausible growth arithmetic as critical with consequences stated, and also lists PBM-driven headline growth, the rival COX-2 approved first, and the low odds per molecule."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register places Halden in Stage 2 (growth target, PBM revenue counted as growth) and names the Stage 3 mechanism specifically: COX-2 marketed ahead of safety evidence, with warning signs 'ambiguous signals explained away' and 'investor messaging moving faster than data'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions and derived figures are mostly labelled and the missing data (cardiovascular safety, PBM standalone profit, wider pipeline) is flagged, but the verdict's 'roughly one-third of the ~$15.3B drug business' is an unmarked derivation that sits uneasily with the dossier's 22% figure, and the 55/100 score is unexplained."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (evidence to trust), three temptations to refuse, the most urgent brutal fact, the missing numbers and a confidence level, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|B06|s2|judge",
+    "stage": "judge",
+    "case_id": "B06",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12981,
+    "tokens_out": 1779,
+    "cost_usd": 0.2393558,
+    "duration_s": 21.0,
+    "finished_at": 1795637182.12888,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1779,
+        "costUSD": 0.2393558
+      }
+    }
+  }
+}

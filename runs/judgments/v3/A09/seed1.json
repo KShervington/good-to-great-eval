@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'world's best at the technology of a better shave, sold as premium repeat-purchase refills, earning more profit per shaver', which matches the key's technology-intensive, high-margin repeat-purchase core, its premium-over-commodity choice and its per-customer denominator, though it is scoped to shaving only and keeps toiletries outside the concept."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict's top three are to exit the lighter price war, stop pushing the company's own disposable for volume, and stop entering new categories outside shaving, and the body commits resources to a funded next-generation premium system."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Disposable cannibalization is ranked #1 and Critical with its profit consequence stated, and the register also lists the 71% blade concentration with weak lighters and pens, Rival B's cross-category price attack, and the margin-shrinking diversification era."
+  },
+  "D5": {
+    "score": null,
+    "why": "The answer key lists no expected decline risks and its later history describes sustained success and a merger, not a decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are tagged as assumptions and missing totals, ROE, line profit, disposable share and international share are flagged, but a few are unmarked, such as 'already owns most of the world's shaving customers' and 'two successful cartridge-system launches'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (trade-up versus trade-down), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, all on one screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|A09|s1|judge",
+    "stage": "judge",
+    "case_id": "A09",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13193,
+    "tokens_out": 2068,
+    "cost_usd": 0.2543078,
+    "duration_s": 23.8,
+    "finished_at": 1795632337.8752663,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2068,
+        "costUSD": 0.2543078
+      }
+    }
+  }
+}

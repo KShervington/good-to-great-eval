@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog ('simple steel, and the joists built from it, at the lowest cost per ton... newest proven scrap-melting technology to rural teams paid for what they produce') matches the key's culture-plus-technology low-cost concept, with the same denominator (profit per ton of finished steel) and the same egalitarian pay-for-output passion."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen top three names 'buying businesses outside steel' and 'leaning on import protection instead of cost', and the full list adds 'Stop adding headquarters staff or management layers', so all three key points are explicit."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the recession hitting joist demand and incentive pay as most urgent, lists non-proprietary copyable technology as High (structural) and below-price imports as a separate fact, and the faith statement draws the consequence that advantage must come from culture."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and its later history records no decline ('No collapse comparable to How the Mighty Fall cases')."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, no figures are invented and the missing cost-per-ton, earnings and return-on-capital data are flagged, but brutal fact 4 treats a gap in the dossier as the company's own ignorance ('Kestrel doesn't appear to know its cost per ton') and builds a Gate 5 conditional on it."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (volume → pay), three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|A13|s3|judge",
+    "stage": "judge",
+    "case_id": "A13",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12891,
+    "tokens_out": 1845,
+    "cost_usd": 0.2405558,
+    "duration_s": 22.4,
+    "finished_at": 1795633503.1576734,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1845,
+        "costUSD": 0.2405558
+      }
+    }
+  }
+}

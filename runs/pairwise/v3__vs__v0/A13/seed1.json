@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "2",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both land on lowest-cost simple steel with profit per ton and cover all the key brutal facts, but Analysis 2 frames the hedgehog as buyable technology paired with an unbuyable egalitarian pay-for-output culture, and its top three stop-doing items include both no diversification outside steel and no reliance on import protection. Analysis 2 also has a tighter verdict, states its confidence explicitly, and flags the dossier's shaky historical claims, whereas Analysis 1 leads its stop-doing list with a mill pause and a flat-rolled ban and leaves protection and management layers lower down.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v3|A13|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A13",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18085,
+    "tokens_out": 1183,
+    "cost_usd": 0.33666399999999996,
+    "duration_s": 15.3,
+    "finished_at": 1795633661.3090785,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1183,
+        "costUSD": 0.33666399999999996
+      }
+    }
+  }
+}

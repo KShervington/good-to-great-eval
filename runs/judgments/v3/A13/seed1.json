@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'simple steel at the lowest cost per ton' by pairing buyable minimills with a 'lean, egalitarian, and paid for output' culture, with profit per ton of finished steel as denominator and technology explicitly called not the moat, which matches all three key points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three in the verdict include 'any diversification outside steel' and 'any plan that depends on import protection', and the full list adds 'no added management layers or HQ staff' and 'no layoffs as a cost lever', covering the key's decision without softening."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'the recession hits the pay system hardest' as Critical and most urgent with its consequence stated, and also lists 'the technology is not a moat' and imports offered below U.S. prices, so all three key facts are present."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and its later history records no decline ('no collapse comparable to How the Mighty Fall cases'), so there is no mechanism to grade against."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are tagged [ASSUMPTION], cost per ton, profit per ton, share and recent earnings are flagged as unknown rather than estimated, and the 'Good, not yet great' verdict with moderate confidence fits the evidence."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest link (output → pay), three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, all compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|A13|s1|judge",
+    "stage": "judge",
+    "case_id": "A13",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13533,
+    "tokens_out": 1400,
+    "cost_usd": 0.2330278,
+    "duration_s": 18.4,
+    "finished_at": 1795633347.0953007,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1400,
+        "costUSD": 0.2330278
+      }
+    }
+  }
+}

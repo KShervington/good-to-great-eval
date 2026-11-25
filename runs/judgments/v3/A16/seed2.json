@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog narrows to the key's core ('builds America's leading filter and menthol cigarette brands', 'not an escape from the core business') and rejects 'consumer brands in general', but it calls the current drift a doom-loop sign instead of saying plainly that Carrow lacks a hedgehog, and it leans on harvest and profit-per-unit more than on doubling down on brand building."
+  },
+  "D2": {
+    "score": 5,
+    "why": "'Stop buying unrelated businesses for size or as an escape' is item 2 on the stop-doing list and in the opening verdict, backed by an acquisition freeze, and the hubris row flags 'Our brands are the best' while the #1 position is already lost."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the Surgeon General finding as #1 (existential) and the internal memo as #2 (critical legal and credibility exposure), with Rival H's growing filter brand at #4; the $30M launch failure appears only in the doom-loop check."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names the actual mechanism, 'a large acquisition program to become a food company', with fitting warning signs ('a second unrelated deal before the fruit-punch test', 'deal size rising as cigarette volume falls'), plus hubris in 'dismissing Rival H's growth'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, missing financials and share data are flagged, and confidence is stated as low to moderate, but a few inferences are presented as fact: 'industry's lowest cost', 'there is no consumer research', and 'no red-flag mechanism exists'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (brand momentum), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level in one compact screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|A16|s2|judge",
+    "stage": "judge",
+    "case_id": "A16",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12149,
+    "tokens_out": 1946,
+    "cost_usd": 0.2327238,
+    "duration_s": 23.7,
+    "finished_at": 1795634919.2806966,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1946,
+        "costUSD": 0.2327238
+      }
+    }
+  }
+}

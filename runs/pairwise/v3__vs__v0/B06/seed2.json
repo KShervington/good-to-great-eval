@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses land on the same research-first, profits-follow hedgehog, drop the growth objective, and flag the patent cliff, the PBM-driven headline growth and the COX-2 single-bet risk. Analysis 1 is sharper on the key's decisions and decline mechanism (formal PBM separation review, pausing the second COX-2 compound, Stage 3 denial named as the most dangerous next step) and is better calibrated with a lower greatness score and more conditional gates, while Analysis 2 is tighter but calls the company already great.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v3|B06|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "B06",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 20006,
+    "tokens_out": 1496,
+    "cost_usd": 0.37992000000000004,
+    "duration_s": 21.4,
+    "finished_at": 1795637550.6897073,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1496,
+        "costUSD": 0.37992000000000004
+      }
+    }
+  }
+}

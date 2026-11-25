@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('builds the leading brand in each new category smokers move to… highest profit per thousand cigarettes') matches the key's core of cigarette brand building and rules out foods and beverages, but it never says plainly that Carrow currently lacks a coherent hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "'Stop further unrelated acquisitions in foods, beverages or other fields' is item 2 on the stop-doing list and in the opening verdict, alongside 'stop ceding overseas markets to Rival H' and a hubris warning about treating its brands as the best."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the Surgeon General's finding and the internal researcher's memo as the two Critical facts with consequences stated, and also lists Rival H's growing filter brand and the $30M failed launch."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names 'a string of acquisitions in foods, beverages and other fields to escape tobacco' with the warning sign 'a second unrelated acquisition', plus tobacco being starved as a cash source and hubris about its brands."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are tagged [ASSUMPTION], the missing financials, brand shares, consumer data and fruit-punch returns are flagged, confidence is stated as 'low to moderate', and no figures are invented beyond a judgment score of 30/100."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (mass advertising), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|A16|s3|judge",
+    "stage": "judge",
+    "case_id": "A16",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11685,
+    "tokens_out": 1887,
+    "cost_usd": 0.2229398,
+    "duration_s": 23.5,
+    "finished_at": 1795635072.714749,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1887,
+        "costUSD": 0.2229398
+      }
+    }
+  }
+}

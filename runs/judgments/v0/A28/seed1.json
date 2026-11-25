@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "It narrows to 'small, reliable digital computing-and-control systems' built on in-house solid-state devices, calls the wide-acquisition aim 'an ambition, not a Hedgehog Concept', and rejects the capital-allocation candidate because it 'rests on one person'; the return-on-capital denominator is compatible with the key's."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing items 1 and 2 in the verdict are to stop off-thesis acquisitions and stop stock as the default currency, and item 7 plus the GM and successor-bench actions address the one-person model."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register lists bought growth (#1), defense dependence (#4), one-person control (#5) and small size (#6), and the verdict ranks bought growth with stock as most urgent with the consequence that 'both the strategy and the currency fail at once'."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names 'Founder leaves with no clock built; company sold or broken up' with the warning sign 'no named successor bench by year 3–5', plus acquisitions spreading across industries, which matches what later happened."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferred figures (15% return hurdle, 50% production share, 25% deal size) are marked as assumptions and the missing return-on-capital and unit data are flagged, but the 'missing' CFO is asserted as fact when the dossier only says management depth is undocumented."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (research-to-production conversion), three stop-doing items, the most urgent brutal fact and the missing numbers, compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A28|s1|judge",
+    "stage": "judge",
+    "case_id": "A28",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12505,
+    "tokens_out": 1630,
+    "cost_usd": 0.2257798,
+    "duration_s": 19.5,
+    "finished_at": 1795636203.873155,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1630,
+        "costUSD": 0.2257798
+      }
+    }
+  }
+}

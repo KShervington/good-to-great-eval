@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on essentially the same shaving-technology, profit-per-shaver hedgehog, the same stop-doing calls (exit lighters, end diversification, cap the disposable, fund premium systems) and all four key brutal facts. Analysis 2 is slightly better calibrated, with an explicit confidence statement, a CONDITIONAL rather than PASS on unproven Level 5 leadership and a stated test that would break the concept, and it answers the central disposables-versus-premium question more directly, though Analysis 1 uniquely flags the outside-pressure risk.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v3|A09|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A09",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17962,
+    "tokens_out": 1633,
+    "cost_usd": 0.352696,
+    "duration_s": 20.7,
+    "finished_at": 1795632659.158339,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1633,
+        "costUSD": 0.352696
+      }
+    }
+  }
+}

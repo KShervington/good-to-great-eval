@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "2",
+  "D8": "2",
+  "D9": "2",
+  "overall": "2",
+  "why": "Both reach the key's hedgehog, refuse the soft-drink deal and name all four key brutal facts, with Analysis 1 slightly closer on the hedgehog wording (premium brands, profit per global brand). Analysis 2 has a tighter, more actionable verdict that says to concentrate on what works, states its confidence, and avoids Analysis 1's unsupported claims (\"nearly all of the company's value\" on one brand, the target as \"#3\") and its BHAG capping any one category at half of profit.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v3|E05|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "E05",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17344,
+    "tokens_out": 1368,
+    "cost_usd": 0.332208,
+    "duration_s": 19.8,
+    "finished_at": 1795641304.5319173,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1368,
+        "costUSD": 0.332208
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to flat-rolled sheet at the best plants, rules out bars, ships, full-line steel and old plants, and frames cost against imports as an unproven test ('Best-in-world circle not yet proven'), but it never says plainly that the current company has no hedgehog and still asserts a 'lowest delivered-cost' ambition."
+  },
+  "D2": {
+    "score": 4,
+    "why": "'Stop raising prices to protect profit' is #1 and 'stop funding capacity that can't earn its keep' is #3, but 'stop status spending' (#6) and 'stop treating import protection as the strategy' (#7) sit outside the top three and the verdict."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The verdict's most urgent brutal fact is that the record profit 'came from controls ending and customers building inventory, not from cost', and the register also lists the unknown cost gap against imports and minimills, minimills taking bar share, and the locked-in wage floor and likely pension burden."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register names the mechanisms that occurred: denial ('falling demand blamed only on the cycle or on imports'), reliance on import limits, and 'legacy costs crowd out reinvestment', each with a fitting warning sign, plus pension obligations flagged as 'potentially critical'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are tagged as assumptions, the missing cost, return-on-capital and pension data are flagged, and confidence is 'low to moderate'; minor slips are stating the analyst's 25% shipment forecast as fact and the untagged claim that the Midwest expansion 'was aimed at sheet buyers'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (cost per ton at kept plants), three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level in a compact, actionable form."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|A14|s1|judge",
+    "stage": "judge",
+    "case_id": "A14",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12312,
+    "tokens_out": 2487,
+    "cost_usd": 0.2569718,
+    "duration_s": 27.9,
+    "finished_at": 1795633839.4264452,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2487,
+        "costUSD": 0.2569718
+      }
+    }
+  }
+}

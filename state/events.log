@@ -20,3 +20,6 @@
 2026-11-25 10:02:30	start	harness run started; 378 jobs remaining
 2026-11-25 13:25:02	round_done	round r2: every job is done; ready for the accept/reject decision
 2026-11-25 13:25:02	finish	harness idle; counts={'done': 1097}
+2026-11-25 13:42:31	start	harness run started; 240 jobs remaining
+2026-11-25 16:15:05	round_done	round final: every job is done; ready for the accept/reject decision
+2026-11-25 16:15:05	finish	harness idle; counts={'done': 1337}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('best-designed, longest-lasting plastic products for organizing and cleaning the home') matches the key's field and excludes toys, leisure and schedule-driven categories, but its denominator is profit per pound of resin, with the key's per-SKU measure only a runner-up."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict and the top three stop-doing items are the 15% compound growth target, the new-category-every-12–18-months rule and the one-launch-a-day pace, backed by SKU pruning and fill-rate fixes in the 90-day plan."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the growth-promise gap as most urgent and states its consequence ('drives undisciplined growth'), and also lists resin dependence, rising reliance on one retailer, unmeasured operational strain and the departed turnaround leader."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register marks Stage 2 as active with 'targets force category and SKU sprawl' and the warning signs 'SKU count grows faster than sales; fill rate slips', then names misses blamed on resin or the retailer, a big acquisition or restructuring, and a sale."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Every computed figure (the ~31% share of growth, ~8.3% CAGR, net margins) derives correctly from dossier numbers, inferences are tagged [ASSUMPTION], missing fill-rate, SKU and resin data are flagged as 'Not in dossier', and confidence is stated as moderate-low."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The compact opening gives the hedgehog sentence, the weakest flywheel link (pricing power with retailers), three stop items, the most urgent brutal fact, the missing numbers and a confidence level, and is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|B04|s2|judge",
+    "stage": "judge",
+    "case_id": "B04",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12750,
+    "tokens_out": 1852,
+    "cost_usd": 0.23857979999999998,
+    "duration_s": 21.1,
+    "finished_at": 1795636588.2898111,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1852,
+        "costUSD": 0.23857979999999998
+      }
+    }
+  }
+}

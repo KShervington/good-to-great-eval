@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'simple steel products at the lowest cost per ton' driven by team pay-for-output in lean egalitarian plants, with profit per ton of finished steel as the denominator and equipment treated as buyable parity rather than the edge, which matches the key's culture-plus-technology low-cost concept."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items include 'no stock-funded acquisitions or diversification outside steel and joists' and 'add no management layers or HQ staff', and item 5 on the full list is 'stop building any plan that depends on import protection', so all three key points are explicit."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register rates as High the recession and below-price imports hitting demand (#1), the incentive pay cut in a downturn (#2) and the non-proprietary, copied technology (#3), and states the consequence that the edge must come from the workforce, not the furnace."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no decline_risks_expected and its later history records no decline ('No collapse comparable to How the Mighty Fall cases'), so there is no decline mechanism to grade against."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION] and the missing cost-per-ton, recent financials, market share and employee count are flagged, but it treats 'two senior officers' as the current state when the dossier only gives that figure for the restructuring ten years ago, and the 45/100 score is an unanchored number."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (output pay to retention in a downturn), three stop-doing items, the most urgent brutal fact and the missing numbers in a compact, actionable form."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A13|s2|judge",
+    "stage": "judge",
+    "case_id": "A13",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13231,
+    "tokens_out": 1793,
+    "cost_usd": 0.24391580000000002,
+    "duration_s": 21.8,
+    "finished_at": 1795633645.8953207,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1793,
+        "costUSD": 0.24391580000000002
+      }
+    }
+  }
+}

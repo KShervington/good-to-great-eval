@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog is 'a few consistently built brands, Ridgeway first... in the U.S. and abroad', which matches the key's brand-building field, concentration and global extension, but its denominator is 'profit per brand-loyal adult smoker' rather than profit per global brand category."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top two stop-doing items, in both the verdict and the list, are 'Stop spreading advertising money across the whole portfolio' and 'Stop buying unrelated businesses (razors, shaving cream, gum) as a health hedge', which is the key's decision."
+  },
+  "D3": {
+    "score": 4,
+    "why": "The Surgeon General finding is ranked #1 Critical with consequences and 'smallest of six majors' is #4 High, but the weakness of most of the brand portfolio appears only in the stop-doing list ('long tail of brands'), not in the brutal-facts register."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Decline 2 names a health-fear 'hedge' acquisition spree (warning sign: any non-tobacco deal outside the capital rule) and Decline 3 names continued denial of the health evidence with growing liability exposure, matching the later 7-Up stray and the litigation and deception findings."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences and scorecard targets are marked [ASSUMPTION] and the missing share, profit and return-on-capital data are flagged with several gates left CONDITIONAL, but the 'Greatness potential: 58/100' figure is unexplained and Gates 6-10 are passed on the analysis's own proposals."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (image advertising to adult switching), three stop-doing items, the most urgent brutal fact and the missing numbers in a compact form that could be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A15|s1|judge",
+    "stage": "judge",
+    "case_id": "A15",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12276,
+    "tokens_out": 1957,
+    "cost_usd": 0.2351958,
+    "duration_s": 25.7,
+    "finished_at": 1795634540.5357318,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1957,
+        "costUSD": 0.2351958
+      }
+    }
+  }
+}

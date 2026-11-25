@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the everyday-low-price discount store that Northeast small towns choose over any national chain, measured by profit per store', with cash-funded store-by-store growth and variety formats, distant states and big deals ruled out, which matches all three key points and the key's denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are buying distressed chains outside the core region, running variety formats and borrowing to buy growth; item 6 adds a single EDLP pricing model, and a successor pipeline with 'named internal candidates' appears in the bus and mechanisms sections."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register lists all four key facts as High or Med-High (unproven converted-store economics and the footprint beyond the core, debt at about 80% of net worth, Rival W advancing with the same model, simultaneous conversions), and the verdict leads with the first and third and states the consequence that the founding premise 'erodes town by town'."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register marks Stage 2 as 'already showing' with the warning sign 'another acquisition before the current one is proven', names hubris that it 'can fix any chain anywhere', and names Stage 4 as 'a larger deal, a new format, or dropping everyday low prices for promotions', which is the mechanism that occurred; succession is flagged, though not the outsider-visionary risk specifically."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions and proposed targets are consistently tagged, the 3.5% margin is marked as the analyst's own calculation, and every missing metric is flagged rather than guessed; however the 'Greatness potential 25/100' figure is unsupported, and 'good, not yet great' somewhat undersells a record of more than nine times the market."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (expansion), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence statement, so a reader could act on it alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|B07|s1|judge",
+    "stage": "judge",
+    "case_id": "B07",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13220,
+    "tokens_out": 1854,
+    "cost_usd": 0.2461798,
+    "duration_s": 22.1,
+    "finished_at": 1795637708.7812688,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1854,
+        "costUSD": 0.2461798
+      }
+    }
+  }
+}

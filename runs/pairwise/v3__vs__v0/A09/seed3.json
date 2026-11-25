@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "2",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Analysis 1's hedgehog is closer to the key: technology-differentiated, precision-manufactured, premium repeat-purchase products sold globally, with room for adjacent grooming lines that pass a technology test, whereas Analysis 2 narrows to shaving only and treats the deodorant as outside the core. Both cover the key's stop-doing decision and all four brutal facts; Analysis 2 is slightly better calibrated (fuller missing-data list, Level 5 left conditional), but Analysis 1's verdict is tighter and more actionable.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v3",
+  "_meta": {
+    "job_id": "v3|A09|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A09",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17749,
+    "tokens_out": 1289,
+    "cost_usd": 0.335528,
+    "duration_s": 16.7,
+    "finished_at": 1795632680.2104309,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1289,
+        "costUSD": 0.335528
+      }
+    }
+  }
+}

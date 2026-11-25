@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses match the key closely: retire the growth objective, do not stake the story on COX-2, question the PBM, and watch for favorable readings of ambiguous safety data. Analysis 2 has the hedgehog wording closer to the key and slightly cleaner assumption tagging, but Analysis 1's verdict puts the proof-to-trust link and the unknown COX-2 safety at the center, which makes it the sharper document for the leader.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v3|B06|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "B06",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 19847,
+    "tokens_out": 1785,
+    "cost_usd": 0.388936,
+    "duration_s": 25.3,
+    "finished_at": 1795637560.412879,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1785,
+        "costUSD": 0.388936
+      }
+    }
+  }
+}

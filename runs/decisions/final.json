@@ -1,0 +1,806 @@
+{
+  "final_version": "v3",
+  "n_pairs": 48,
+  "n_clusters": 10,
+  "diff": {
+    "mean": 1.937,
+    "ci95": [
+      -0.859,
+      3.964
+    ],
+    "p_final_gt_v0": 0.9156,
+    "clusters_better": 5,
+    "clusters_worse": 4
+  },
+  "heldout": {
+    "v0": {
+      "n": 48,
+      "composite": 92.016,
+      "dims": {
+        "D1": 4.604,
+        "D2": 4.812,
+        "D3": 4.896,
+        "D5": 4.972,
+        "D7": 4.146,
+        "D8": 4.521,
+        "D9": 3
+      },
+      "by_track": {
+        "A": {
+          "n": 24,
+          "composite": 90.698,
+          "dims": {
+            "D1": 4.375,
+            "D2": 4.708,
+            "D3": 4.792,
+            "D5": 4.944,
+            "D7": 4.083,
+            "D8": 4.458,
+            "D9": null
+          }
+        },
+        "B": {
+          "n": 9,
+          "composite": 95.557,
+          "dims": {
+            "D1": 5,
+            "D2": 5,
+            "D3": 5,
+            "D5": 5,
+            "D7": 4.111,
+            "D8": 4.556,
+            "D9": null
+          }
+        },
+        "D": {
+          "n": 9,
+          "composite": 96.668,
+          "dims": {
+            "D1": 4.778,
+            "D2": 5,
+            "D3": 5,
+            "D5": 5,
+            "D7": 4.444,
+            "D8": 4.778,
+            "D9": null
+          }
+        },
+        "E already great": {
+          "n": 6,
+          "composite": 84.998,
+          "dims": {
+            "D1": 4.667,
+            "D2": 4.667,
+            "D3": 5,
+            "D5": null,
+            "D7": 4,
+            "D8": 4.333,
+            "D9": 3
+          }
+        }
+      },
+      "by_recognizable": {
+        "not recognizable": {
+          "n": 9,
+          "composite": 96.668,
+          "dims": {
+            "D1": 4.778,
+            "D2": 5,
+            "D3": 5,
+            "D5": 5,
+            "D7": 4.444,
+            "D8": 4.778,
+            "D9": null
+          }
+        },
+        "recognizable": {
+          "n": 39,
+          "composite": 90.942,
+          "dims": {
+            "D1": 4.564,
+            "D2": 4.769,
+            "D3": 4.872,
+            "D5": 4.963,
+            "D7": 4.077,
+            "D8": 4.462,
+            "D9": 3
+          }
+        }
+      },
+      "checks": {
+        "sections": "48/48",
+        "gate_counts": "47/48",
+        "stop_doing_5": "42/42",
+        "hedgehog_1s": "45/48",
+        "assumptions": "29/48",
+        "no_long_quote": "48/48",
+        "gp_present": "48/48"
+      },
+      "D6_correct": "48/48",
+      "D6_wrong": [],
+      "auroc_ACD": 0.9407407407407408,
+      "trackE_says_already_great": "1/6",
+      "trackE_mean_gp": 64.333,
+      "nonE_says_already_great": [
+        "B06s1",
+        "B07s1"
+      ],
+      "hindsight_leaks": 0
+    },
+    "v3": {
+      "n": 48,
+      "composite": 93.953,
+      "dims": {
+        "D1": 4.583,
+        "D2": 4.833,
+        "D3": 4.896,
+        "D5": 4.944,
+        "D7": 4.208,
+        "D8": 5,
+        "D9": 3.5
+      },
+      "by_track": {
+        "A": {
+          "n": 24,
+          "composite": 92.964,
+          "dims": {
+            "D1": 4.333,
+            "D2": 4.708,
+            "D3": 4.792,
+            "D5": 4.944,
+            "D7": 4.167,
+            "D8": 5,
+            "D9": null
+          }
+        },
+        "B": {
+          "n": 9,
+          "composite": 96.774,
+          "dims": {
+            "D1": 4.889,
+            "D2": 5,
+            "D3": 5,
+            "D5": 5,
+            "D7": 4.333,
+            "D8": 5,
+            "D9": null
+          }
+        },
+        "D": {
+          "n": 9,
+          "composite": 94.921,
+          "dims": {
+            "D1": 4.778,
+            "D2": 4.889,
+            "D3": 5,
+            "D5": 4.889,
+            "D7": 4.111,
+            "D8": 5,
+            "D9": null
+          }
+        },
+        "E already great": {
+          "n": 6,
+          "composite": 92.223,
+          "dims": {
+            "D1": 4.833,
+            "D2": 5,
+            "D3": 5,
+            "D5": null,
+            "D7": 4.333,
+            "D8": 5,
+            "D9": 3.5
+          }
+        }
+      },
+      "by_recognizable": {
+        "not recognizable": {
+          "n": 9,
+          "composite": 94.921,
+          "dims": {
+            "D1": 4.778,
+            "D2": 4.889,
+            "D3": 5,
+            "D5": 4.889,
+            "D7": 4.111,
+            "D8": 5,
+            "D9": null
+          }
+        },
+        "recognizable": {
+          "n": 39,
+          "composite": 93.729,
+          "dims": {
+            "D1": 4.538,
+            "D2": 4.821,
+            "D3": 4.872,
+            "D5": 4.963,
+            "D7": 4.231,
+            "D8": 5,
+            "D9": 3.5
+          }
+        }
+      },
+      "checks": {
+        "sections": "48/48",
+        "gate_counts": "48/48",
+        "stop_doing_5": "40/42",
+        "hedgehog_1s": "45/48",
+        "assumptions": "27/48",
+        "no_long_quote": "48/48",
+        "gp_present": "48/48"
+      },
+      "D6_correct": "48/48",
+      "D6_wrong": [],
+      "auroc_ACD": 0.95,
+      "trackE_says_already_great": "3/6",
+      "trackE_mean_gp": 65.667,
+      "nonE_says_already_great": [
+        "B06s1",
+        "B06s2",
+        "B06s3"
+      ],
+      "hindsight_leaks": 0
+    }
+  },
+  "dev": {
+    "v0": {
+      "n": 126,
+      "composite": 91.011,
+      "dims": {
+        "D1": 4.532,
+        "D2": 4.778,
+        "D3": 4.968,
+        "D5": 4.667,
+        "D7": 4.19,
+        "D8": 4.484,
+        "D9": 3.533
+      },
+      "by_track": {
+        "A": {
+          "n": 60,
+          "composite": 90.433,
+          "dims": {
+            "D1": 4.483,
+            "D2": 4.633,
+            "D3": 4.95,
+            "D5": 4.373,
+            "D7": 4.183,
+            "D8": 4.6,
+            "D9": null
+          }
+        },
+        "B": {
+          "n": 18,
+          "composite": 94.312,
+          "dims": {
+            "D1": 4.444,
+            "D2": 5,
+            "D3": 5,
+            "D5": 5,
+            "D7": 4.389,
+            "D8": 4.556,
+            "D9": null
+          }
+        },
+        "C": {
+          "n": 6,
+          "composite": 84.078,
+          "dims": {
+            "D1": 3.333,
+            "D2": 4,
+            "D3": 5,
+            "D5": 4.667,
+            "D7": 4.167,
+            "D8": 4.333,
+            "D9": null
+          }
+        },
+        "D": {
+          "n": 27,
+          "composite": 92.286,
+          "dims": {
+            "D1": 4.741,
+            "D2": 5,
+            "D3": 4.963,
+            "D5": 5,
+            "D7": 4.111,
+            "D8": 4.333,
+            "D9": null
+          }
+        },
+        "E already great": {
+          "n": 12,
+          "composite": 89.445,
+          "dims": {
+            "D1": 4.917,
+            "D2": 5,
+            "D3": 5,
+            "D5": null,
+            "D7": 4.083,
+            "D8": 4.333,
+            "D9": 3.5
+          }
+        },
+        "E already great drifting": {
+          "n": 3,
+          "composite": 91.43,
+          "dims": {
+            "D1": 5,
+            "D2": 5,
+            "D3": 5,
+            "D5": 5,
+            "D7": 4.333,
+            "D8": 4,
+            "D9": 3.667
+          }
+        }
+      },
+      "by_recognizable": {
+        "not recognizable": {
+          "n": 33,
+          "composite": 91.899,
+          "dims": {
+            "D1": 4.758,
+            "D2": 5,
+            "D3": 4.97,
+            "D5": 5,
+            "D7": 4.121,
+            "D8": 4.273,
+            "D9": 3.833
+          }
+        },
+        "recognizable": {
+          "n": 93,
+          "composite": 90.696,
+          "dims": {
+            "D1": 4.452,
+            "D2": 4.699,
+            "D3": 4.968,
+            "D5": 4.542,
+            "D7": 4.215,
+            "D8": 4.559,
+            "D9": 3.333
+          }
+        }
+      },
+      "checks": {
+        "sections": "126/126",
+        "gate_counts": "119/125",
+        "stop_doing_5": "106/106",
+        "hedgehog_1s": "107/121",
+        "assumptions": "59/126",
+        "no_long_quote": "126/126",
+        "gp_present": "126/126"
+      },
+      "D6_correct": "121/126",
+      "D6_wrong": [
+        "A24s2",
+        "A24s3",
+        "D05s1",
+        "D05s2",
+        "D05s3"
+      ],
+      "auroc_ACD": 0.8630952380952381,
+      "trackE_says_already_great": "3/15",
+      "trackE_mean_gp": 65,
+      "nonE_says_already_great": [],
+      "hindsight_leaks": 0
+    },
+    "v1": {
+      "n": 126,
+      "composite": 92.884,
+      "dims": {
+        "D1": 4.563,
+        "D2": 4.786,
+        "D3": 4.968,
+        "D5": 4.576,
+        "D7": 4.167,
+        "D8": 4.96,
+        "D9": 4.333
+      },
+      "by_track": {
+        "A": {
+          "n": 60,
+          "composite": 91.095,
+          "dims": {
+            "D1": 4.417,
+            "D2": 4.65,
+            "D3": 4.95,
+            "D5": 4.235,
+            "D7": 4.183,
+            "D8": 4.95,
+            "D9": null
+          }
+        },
+        "B": {
+          "n": 18,
+          "composite": 94.896,
+          "dims": {
+            "D1": 4.611,
+            "D2": 4.944,
+            "D3": 5,
+            "D5": 5,
+            "D7": 4.056,
+            "D8": 5,
+            "D9": null
+          }
+        },
+        "C": {
+          "n": 6,
+          "composite": 87.555,
+          "dims": {
+            "D1": 3.333,
+            "D2": 4.167,
+            "D3": 5,
+            "D5": 5,
+            "D7": 4,
+            "D8": 5,
+            "D9": null
+          }
+        },
+        "D": {
+          "n": 27,
+          "composite": 95.538,
+          "dims": {
+            "D1": 4.889,
+            "D2": 5,
+            "D3": 5,
+            "D5": 4.875,
+            "D7": 4.222,
+            "D8": 4.926,
+            "D9": null
+          }
+        },
+        "E already great": {
+          "n": 12,
+          "composite": 94.444,
+          "dims": {
+            "D1": 5,
+            "D2": 5,
+            "D3": 4.917,
+            "D5": null,
+            "D7": 4.083,
+            "D8": 5,
+            "D9": 4.333
+          }
+        },
+        "E already great drifting": {
+          "n": 3,
+          "composite": 97.143,
+          "dims": {
+            "D1": 5,
+            "D2": 5,
+            "D3": 5,
+            "D5": 5,
+            "D7": 4.667,
+            "D8": 5,
+            "D9": 4.333
+          }
+        }
+      },
+      "by_recognizable": {
+        "not recognizable": {
+          "n": 33,
+          "composite": 95.685,
+          "dims": {
+            "D1": 4.909,
+            "D2": 5,
+            "D3": 4.97,
+            "D5": 4.889,
+            "D7": 4.242,
+            "D8": 4.939,
+            "D9": 4.667
+          }
+        },
+        "recognizable": {
+          "n": 93,
+          "composite": 91.89,
+          "dims": {
+            "D1": 4.441,
+            "D2": 4.71,
+            "D3": 4.968,
+            "D5": 4.458,
+            "D7": 4.14,
+            "D8": 4.968,
+            "D9": 4.111
+          }
+        }
+      },
+      "checks": {
+        "sections": "126/126",
+        "gate_counts": "122/126",
+        "stop_doing_5": "102/102",
+        "hedgehog_1s": "106/117",
+        "assumptions": "50/126",
+        "no_long_quote": "126/126",
+        "gp_present": "126/126"
+      },
+      "D6_correct": "123/126",
+      "D6_wrong": [
+        "A24s1",
+        "A24s2",
+        "A24s3"
+      ],
+      "auroc_ACD": 0.8509424603174603,
+      "trackE_says_already_great": "13/15",
+      "trackE_mean_gp": 69.933,
+      "nonE_says_already_great": [
+        "B05s1",
+        "B05s2",
+        "B05s3",
+        "B08s1",
+        "B08s2",
+        "B08s3"
+      ],
+      "hindsight_leaks": 0
+    },
+    "v2": {
+      "n": 126,
+      "composite": 93.627,
+      "dims": {
+        "D1": 4.643,
+        "D2": 4.746,
+        "D3": 4.921,
+        "D5": 4.626,
+        "D7": 4.27,
+        "D8": 4.984,
+        "D9": 4.333
+      },
+      "by_track": {
+        "A": {
+          "n": 60,
+          "composite": 92.387,
+          "dims": {
+            "D1": 4.567,
+            "D2": 4.6,
+            "D3": 4.9,
+            "D5": 4.333,
+            "D7": 4.317,
+            "D8": 5,
+            "D9": null
+          }
+        },
+        "B": {
+          "n": 18,
+          "composite": 95.054,
+          "dims": {
+            "D1": 4.611,
+            "D2": 4.889,
+            "D3": 5,
+            "D5": 5,
+            "D7": 4.111,
+            "D8": 5,
+            "D9": null
+          }
+        },
+        "C": {
+          "n": 6,
+          "composite": 88.888,
+          "dims": {
+            "D1": 3.5,
+            "D2": 4.167,
+            "D3": 4.833,
+            "D5": 5,
+            "D7": 4.333,
+            "D8": 5,
+            "D9": null
+          }
+        },
+        "D": {
+          "n": 27,
+          "composite": 95.715,
+          "dims": {
+            "D1": 4.889,
+            "D2": 4.963,
+            "D3": 5,
+            "D5": 4.875,
+            "D7": 4.222,
+            "D8": 4.926,
+            "D9": null
+          }
+        },
+        "E already great": {
+          "n": 12,
+          "composite": 94.722,
+          "dims": {
+            "D1": 5,
+            "D2": 5,
+            "D3": 4.75,
+            "D5": null,
+            "D7": 4.417,
+            "D8": 5,
+            "D9": 4.25
+          }
+        },
+        "E already great drifting": {
+          "n": 3,
+          "composite": 96.19,
+          "dims": {
+            "D1": 5,
+            "D2": 5,
+            "D3": 5,
+            "D5": 5,
+            "D7": 4,
+            "D8": 5,
+            "D9": 4.667
+          }
+        }
+      },
+      "by_recognizable": {
+        "not recognizable": {
+          "n": 33,
+          "composite": 95.642,
+          "dims": {
+            "D1": 4.909,
+            "D2": 4.97,
+            "D3": 4.909,
+            "D5": 4.889,
+            "D7": 4.212,
+            "D8": 4.939,
+            "D9": 4.833
+          }
+        },
+        "recognizable": {
+          "n": 93,
+          "composite": 92.912,
+          "dims": {
+            "D1": 4.548,
+            "D2": 4.667,
+            "D3": 4.925,
+            "D5": 4.528,
+            "D7": 4.29,
+            "D8": 5,
+            "D9": 4
+          }
+        }
+      },
+      "checks": {
+        "sections": "126/126",
+        "gate_counts": "120/123",
+        "stop_doing_5": "104/105",
+        "hedgehog_1s": "114/120",
+        "assumptions": "57/126",
+        "no_long_quote": "126/126",
+        "gp_present": "126/126"
+      },
+      "D6_correct": "126/126",
+      "D6_wrong": [],
+      "auroc_ACD": 0.8546626984126984,
+      "trackE_says_already_great": "12/15",
+      "trackE_mean_gp": 70.667,
+      "nonE_says_already_great": [
+        "B01s1",
+        "B05s1",
+        "B05s2",
+        "B05s3",
+        "B08s1",
+        "B08s2",
+        "B08s3"
+      ],
+      "hindsight_leaks": 0
+    }
+  },
+  "pairwise_heldout": {
+    "D1": {
+      "tie": 19,
+      "baseline": 14,
+      "candidate": 15
+    },
+    "D2": {
+      "tie": 18,
+      "baseline": 17,
+      "candidate": 13
+    },
+    "D3": {
+      "tie": 36,
+      "baseline": 7,
+      "candidate": 5
+    },
+    "D5": {
+      "na": 14,
+      "candidate": 6,
+      "baseline": 11,
+      "tie": 17
+    },
+    "D7": {
+      "candidate": 12,
+      "baseline": 11,
+      "tie": 25
+    },
+    "D8": {
+      "tie": 19,
+      "baseline": 5,
+      "candidate": 24
+    },
+    "D9": {
+      "na": 42,
+      "candidate": 6
+    },
+    "overall": {
+      "candidate": 23,
+      "baseline": 25
+    }
+  },
+  "skill_words": {
+    "v0": 2478,
+    "v1": 2687,
+    "v2": 2813,
+    "v3": 2766
+  },
+  "pauses": {
+    "events": [
+      {
+        "family": "fable",
+        "start": 1795500429.840662,
+        "end": 1795527456.9229355,
+        "hours": 7.51,
+        "reason": "You've hit your session limit \u00b7 resets 1:50am (America/New_York)"
+      },
+      {
+        "family": "opus",
+        "start": 1795500432.516087,
+        "end": 1795527449.7746172,
+        "hours": 7.5,
+        "reason": "You've hit your session limit \u00b7 resets 1:50am (America/New_York)"
+      },
+      {
+        "family": "fable",
+        "start": 1795585690.6382523,
+        "end": 1795588320.001464,
+        "hours": 0.73,
+        "reason": "You've hit your session limit \u00b7 resets 1:30am (America/New_York)"
+      }
+    ],
+    "wall_clock_paused_h": 8.24
+  },
+  "heldout_case_diffs": {
+    "A09": 0.0,
+    "A10": 2.22,
+    "A13": 4.0,
+    "A14": 5.4,
+    "A15": 0.0,
+    "A16": 10.0,
+    "A27": 1.11,
+    "A28": -4.6,
+    "B04": 2.22,
+    "B06": -0.79,
+    "B07": 2.22,
+    "D04": 0.0,
+    "D07": -2.06,
+    "D08": -3.18,
+    "E01": 11.11,
+    "E05": 3.34
+  },
+  "ci_of_means": {
+    "dev": {
+      "v0": [
+        91.01134920634921,
+        89.36219047619048,
+        92.38758865248226
+      ],
+      "v1": [
+        92.88428571428571,
+        91.13619047619046,
+        94.26611111111112
+      ],
+      "v2": [
+        93.62746031746032,
+        92.5719512195122,
+        94.5984375
+      ]
+    },
+    "heldout": {
+      "v0": [
+        92.015625,
+        89.98484848484848,
+        94.78611111111111
+      ],
+      "v3": [
+        93.95270833333333,
+        92.35444444444445,
+        95.47058823529412
+      ]
+    }
+  }
+}

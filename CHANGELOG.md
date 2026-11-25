@@ -136,3 +136,15 @@ Every phase and every improvement round is logged here: what ran, scores, the ed
 - This departs from the pre-set accept rule (v2's CI included 0). It is recorded here so the report states it plainly.
 - `skill_versions/v3/SKILL.md`: 2,766 words, +11.6% over v0 (v1 +8.4%, v2 +13.5%). Overfitting scan clean.
 - Phase 4 queued: v3 vs v0 on 16 held-out cases × 3 seeds (96 runs, 96 judge calls, 48 pairwise; about $70). Approved by the user.
+
+## 2026-11-25: Phase 4: held-out evaluation and report
+- 240 jobs (96 runs, 96 judge calls, 48 pairwise), 0 failures, no limit pauses, $72.63. The project total is $384.09 API-equivalent across 1,337 jobs.
+- **v3 vs v0 on held-out (16 cases × 3 seeds, 10 clusters):** 93.95 vs 92.02. Diff +1.94, 95% CI [-0.86, 3.96]. P(v3 > v0) = 0.92. 5 clusters better, 4 worse.
+- Dimensions: D8 4.52 -> 5.00 (A/B 24 vs 5). D9 3.0 -> 3.5. D7 +0.06. D1, D2, D3 and D5 flat (within ±0.03).
+  - A/B overall: v0 25, v3 23.
+  - D6 48/48 for both. AUROC 0.94 -> 0.95.
+- Tracks: A +2.3, B +1.2, D -1.7 (3 synthetic cases: D07, D08), E +7.2.
+  - E01 is run in stewardship mode in 3/3 (v0 0/3).
+  - E05 is still "good, close to great" in 3/3.
+- `scripts/final_eval.py` writes `runs/decisions/final.json` and the charts in `report/`. It was tested on dev data before any held-out file was read.
+- Wrote `REPORT.md`. The deliverable is `deliverable/SKILL.md` (= v3) plus `deliverable/SKILL.diff` against the installed skill, which was not modified.

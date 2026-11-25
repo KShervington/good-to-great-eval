@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's suggested core (high-spec flat-rolled and plate from a few plants, giving up bars, commodity steel and integration-by-habit) and warns 'there may be no real best-in-world position', but frames this as a 'working hypothesis' and never says plainly that the company has no hedgehog today."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing #1 is 'stop using price increases as the main profit lever' and #2 is to stop funding old high-cost plants, both in the one-screen verdict; import protection as strategy (#5) and executive perks (#6) are also explicit, though lower."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks as Critical both the price-and-inventory source of last year's record profit and the cost disadvantage against foreign mills and minimills, states the consequence (shipments may fall about 25%), and also lists the locked-in 3% wage floor and minimill bar-share loss."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register and risk register name the mechanisms that occurred: denial through price increases and blaming imports, protection as salvation, an unfunded pension burden a shrunken company cannot carry, and minimills entering sheet, each with a specific early warning."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged throughout, all four missing metrics are flagged and not guessed, and confidence is stated as low to moderate; one small unmarked slip calls the 165,000 workforce the 'peak' when the dossier gives a 300,000 wartime figure."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (cost per ton), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|A14|s3|judge",
+    "stage": "judge",
+    "case_id": "A14",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12694,
+    "tokens_out": 2108,
+    "cost_usd": 0.24792380000000003,
+    "duration_s": 26.0,
+    "finished_at": 1795634005.7250643,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2108,
+        "costUSD": 0.24792380000000003
+      }
+    }
+  }
+}

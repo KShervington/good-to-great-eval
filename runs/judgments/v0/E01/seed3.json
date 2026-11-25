@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'newest minimill technology and a pay-for-output team culture into the most profitable ton of steel', with profit per ton of finished steel as denominator and old-mill acquisitions, overseas operations and scaled iron-making ruled out, which matches the key on all three points."
+  },
+  "D2": {
+    "score": 4,
+    "why": "The top three stop-doing items include 'stop any expansion of iron-making until the one existing plant proves its cost and output' and refusing growth for its own sake, and the culture is protected; but no diversification or blast furnaces is never an explicit stop-doing item (only partly in the Stage 4 risk row), and it adds a board overhaul and fabrication exits the key does not call for."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The copied model ('about 10 new minimills, +40% capacity') is ranked Critical and named the most urgent brutal fact with its consequence ($500M+ committed into a softening sheet market), and scrap, sheet prices, iron carbide, the share price and the succession are all in the register."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key's decline_risks_expected is empty and later_history describes sustained success with handled risks, not a decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures ($41/ton, about $50M planned budget, under 5% of tonnage, 1.8x earnings) follow from dossier numbers, thresholds are marked as assumptions and the missing per-ton data is flagged; but the 'Greatness potential: 62/100' score is unsupported and 'clearly good, arguably near-great' understates what the evidence shows."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link (input cost), top three stop-doing items, most urgent brutal fact and missing numbers, all specific and actionable, but it runs somewhat longer than one phone screen."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It states the hedgehog the company already lives by, protects the bonus, no-layoff and lean-HQ core and gives specific warning signs, but it never plainly calls the subject great ('clearly good, arguably near-great', 62/100, four CONDITIONAL gates) and prescribes seven stop-doing items, four new seats (some adding headquarters roles) and a board restructuring."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|E01|s3|judge",
+    "stage": "judge",
+    "case_id": "E01",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14213,
+    "tokens_out": 2461,
+    "cost_usd": 0.2863478,
+    "duration_s": 29.2,
+    "finished_at": 1795640776.5153413,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2461,
+        "costUSD": 0.2863478
+      }
+    }
+  }
+}

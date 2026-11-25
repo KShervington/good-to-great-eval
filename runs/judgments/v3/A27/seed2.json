@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('best-designed, longest-lasting everyday rubber and plastic products for home and commercial kitchens... profit per pound of resin') matches the key's core field, exclusions and denominator, but the analysis only implies ('a narrower company than today's Tillery', 'working hypothesis') that the current portfolio lacks a hedgehog and never says so plainly."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Party-plan exit is stop-doing item 1 and 'stop adding SKUs by default' and 'stop steering by sales volume' are listed, but automotive is softened to 'under review' and the leader-dependence and bench issue sits in the bus and risk sections, not on the stop-doing list."
+  },
+  "D3": {
+    "score": 4,
+    "why": "The register ranks unknown divisional profitability as Critical and resin exposure as High, and lists the party-plan and recreational failures, but it omits complacent culture as a brutal fact and frames the portfolio spread as a measurement gap, not as weak returns."
+  },
+  "D5": {
+    "score": 5,
+    "why": "It names the actual mechanisms: leader-centric ambition with no successor ('genius with a thousand helpers'), the quadrupling goal driving SKU sprawl, resin and retailer pressure being explained away, and eventual sale or absorption, each with a specific watch-for sign such as 'sales growing faster than profit per pound'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently tagged, missing segment profit, ROE, share and bench are flagged, and confidence is stated as moderate-low, but a few inferences go unmarked, such as 'part of past pricing power came from illegal minimum-price agreements' and 'sits on every supermarket shelf'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (pricing power), three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|A27|s2|judge",
+    "stage": "judge",
+    "case_id": "A27",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11643,
+    "tokens_out": 2437,
+    "cost_usd": 0.2442678,
+    "duration_s": 26.7,
+    "finished_at": 1795635468.333503,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2437,
+        "costUSD": 0.2442678
+      }
+    }
+  }
+}

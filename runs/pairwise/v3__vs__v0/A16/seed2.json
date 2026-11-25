@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "1",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2 stays closer to the key by centring the hedgehog on cigarette brand building against Rival H, naming brand momentum as the weakest link, and declining to lean on an unproven lower-harm product, with a tighter verdict and an explicit confidence statement. Analysis 1 is the only one to list all four key brutal facts in its table (including the failed brand launch), but its hedgehog rests on a speculative harm-reduction bet; both equally flag unrelated diversification as the stop-doing item and the decline path.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v3|A16|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A16",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17273,
+    "tokens_out": 1943,
+    "cost_usd": 0.35407200000000005,
+    "duration_s": 24.7,
+    "finished_at": 1795635297.247401,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1943,
+        "costUSD": 0.35407200000000005
+      }
+    }
+  }
+}

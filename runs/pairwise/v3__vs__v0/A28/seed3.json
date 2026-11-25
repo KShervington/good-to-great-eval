@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "1",
+  "D3": "1",
+  "D5": "1",
+  "D7": "1",
+  "D8": "2",
+  "D9": "na",
+  "overall": "1",
+  "why": "Analysis 2's hedgehog is closer to the key's narrow digital-electronics focus and explicitly keeps capital allocation out of the hedgehog, and its verdict is tighter. Analysis 1 puts the key's central mechanism up front (one-genius dependence, the stock-for-acquisitions loop, and no successor when the founder exits) across its verdict, stop-doing list, brutal facts and decline risks, which makes it the more useful warning for the leader.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v3|A28|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A28",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18683,
+    "tokens_out": 1634,
+    "cost_usd": 0.364272,
+    "duration_s": 24.6,
+    "finished_at": 1795636425.417902,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1634,
+        "costUSD": 0.364272
+      }
+    }
+  }
+}

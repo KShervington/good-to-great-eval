@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the world's best shave' through technologically superior premium cartridge systems sold worldwide, with profit per shaver per year as the denominator; it admits technology-differentiated grooming only as an adjunct and rules out low-cost disposables, lighters and commodity pens, matching the key's field, give-ups and profit-per-customer economics."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict include 'promoting the disposable as a growth product' and 'judging shaving by total razor share', item 5 is 'stop acquiring outside the Hedgehog Concept', and the 90-day plan ring-fences the next premium cartridge system, so all three key decisions are explicit and near the top."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'the disposable eats the profit engine' and the 71% single profit pool as Critical, and also lists Rival B's three-category price attack, never-profitable lighters and the failed diversification that shrank margins, with consequences stated."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key has no decline_risks_expected and its later history describes sustained success rather than a decline, so there is no mechanism to grade."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION] and the missing financials, disposable share and line profits are flagged with a moderate-confidence verdict, but 'Greatness potential: 60/100' is unsupported and the verdict says Ashcombe 'is pushing' the disposable to defend share when the dossier presents that only as an option."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict compactly gives the hedgehog sentence, the weakest flywheel link (trade-up), three stop-doing items, the most urgent brutal fact, the numbers that would change the answer and a confidence level, and is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|A09|s3|judge",
+    "stage": "judge",
+    "case_id": "A09",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12805,
+    "tokens_out": 1832,
+    "cost_usd": 0.2386598,
+    "duration_s": 22.2,
+    "finished_at": 1795632486.6980357,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1832,
+        "costUSD": 0.2386598
+      }
+    }
+  }
+}

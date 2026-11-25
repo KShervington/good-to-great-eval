@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to flat-rolled steel at the Lake Michigan and tidewater plants on cash profit per ton of installed capacity, as a hypothesis that becomes 'managed contraction' if the cost test fails, but it only implies ('no choice announced', doom-loop signs) that the company currently lacks a hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's top three are stop protecting profit with price increases, stop capital to older plants, bars and shipbuilding, and stop treating import protection as the strategy; item 6 of the full list ends status spending and perks."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The top-ranked Critical fact is that record profits came from prices and stockpiling, not cost, with the consequence stated (shipments forecast down about 25%); foreign-mill cost, minimills taking bars, the ratcheting wage floor and pensions are also in the register."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names the actual mechanisms: import quotas as salvation, 'plant-by-plant closures with no defined core; pensions consuming cash', and minimills as more than a bar problem, each with a specific warning sign."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are marked [ASSUMPTION] and the missing cost, return-on-capital and pension data are flagged, but PASS verdicts on Gates 6 and 9 (Discipline, Built to Last) sit poorly with the evidence of a status-bound, price-reliant culture."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, and is actionable, but with the gate warning it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A14|s2|judge",
+    "stage": "judge",
+    "case_id": "A14",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14205,
+    "tokens_out": 1823,
+    "cost_usd": 0.26069980000000004,
+    "duration_s": 22.8,
+    "finished_at": 1795634220.4144063,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1823,
+        "costUSD": 0.26069980000000004
+      }
+    }
+  }
+}

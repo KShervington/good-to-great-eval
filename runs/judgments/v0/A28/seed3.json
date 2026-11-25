@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to 'solid-state digital technology' in control and computing niches, drops 'a wide range of industries', and rejects the pure capital-allocation holding company because it 'would rest entirely on one person's judgment'; but it uses cash return per dollar of capital, not profit per program, folds capital allocation into the 'best at' circle, and calls the hedgehog 'a potential, not a demonstrated fact' without saying plainly that none exists."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top two stop-doing items in the verdict are 'Stop acquiring outside solid-state digital and control niches' and 'Stop treating company stock as free currency'; item 7 and the clock-building section add ending chairman-centric decisions and building a successor bench."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent brutal fact names bought growth and one founder deciding all capital, and the register rates acquisition-driven growth (#1, #2), genius concentration (#3) and near-100% defense revenue (#5) all High, with consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names 'genius with a thousand helpers', size chased with stock while the multiple is high, and 'sale or break-up once the founder exits' with 'no successor at founder transition' as the warning sign, which matches what later happened."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently marked and the missing data (unit returns, organic versus acquired, deal prices, concentration, bench depth) is flagged, but 'its good is largely bought' is stated as fact while the organic/acquired split is listed as unknown, and the 20/100 score has no stated basis."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, and is actionable, but with the pattern and evidence-basis paragraphs it runs past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A28|s3|judge",
+    "stage": "judge",
+    "case_id": "A28",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13693,
+    "tokens_out": 2064,
+    "cost_usd": 0.2621478,
+    "duration_s": 24.8,
+    "finished_at": 1795636400.6719167,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2064,
+        "costUSD": 0.2621478
+      }
+    }
+  }
+}

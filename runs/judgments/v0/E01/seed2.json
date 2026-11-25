@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is lowest cost per ton via 'small, bonus-paid, lightly managed teams' in new mills built on the newest workable technology, judged by profit per ton, with steel-only kept as a discipline — matching the key on field, exclusions and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1 is no iron-carbide expansion and 'shut it if it fails'; item 2 drops growth for its own sake; the non-negotiables keep the bonus, no layoffs, four layers, HQ under 25, greenfield and steel-only, though blast furnaces are not named explicitly."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'the model is being copied at scale' (~10 mills, ~40% capacity) first, and also lists scrap, falling sheet prices, the stock decline, the iron-carbide plant and the CEO change, with the consequence stated in the verdict's most urgent fact."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and its later history shows no decline; the risks were faced and handled."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Proxies and thresholds (about $41/ton, 85% uptime, $30/ton, 15% ROE) are marked as assumptions and the missing per-ton data is flagged, but 'covers under 5% of metallic needs' is an unmarked inference and the 70/100 score is not grounded."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, and is actionable, but it runs somewhat longer than one phone screen."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It keeps the lived hedgehog, protects the core disciplines and names specific warning signs, but frames the subject as 'the company is good' at 70/100 with three conditional gates and a long change list (seven stop-doing items, board overhaul, moving the chairman, new HQ seats, a safety gate on the bonus) instead of plainly calling it already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|E01|s2|judge",
+    "stage": "judge",
+    "case_id": "E01",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13748,
+    "tokens_out": 2679,
+    "cost_usd": 0.2876278,
+    "duration_s": 30.8,
+    "finished_at": 1795640736.3017287,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2679,
+        "costUSD": 0.2876278
+      }
+    }
+  }
+}

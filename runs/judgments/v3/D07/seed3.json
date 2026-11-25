@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the definitive source on how road salt changes stream life', built on her own 37-stream record and the agency policy link, with a denominator of 'senior-authored output per winter of salt data' and Network field operations explicitly ruled out."
+  },
+  "D2": {
+    "score": 5,
+    "why": "'Don't lead Work Package 3. Offer a bounded role instead' is stop-doing item 1 in the opening verdict, followed by declining the textbook chapter and no longer letting middle-author Network papers define her identity."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The verdict names the thin independent papers and PI funding against the guideline wording as the most urgent fact, and the register adds the 2-of-9 senior papers, the Network-owned grant, the declined proposal, the third-year letter and the 16-month clock."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names both expected mechanisms specifically: undisciplined more (WP3, textbook, committees, with a writing-weeks warning sign) and denial (discounting the third-year letter, treating Network prestige as her own standing)."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged throughout and PI funding is correctly given as $46,750 with no invented split of the $612,400, but her share of the collaborative award is never flagged as a missing number."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The compact opening verdict gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, and is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|D07|s3|judge",
+    "stage": "judge",
+    "case_id": "D07",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14089,
+    "tokens_out": 1388,
+    "cost_usd": 0.2414438,
+    "duration_s": 18.7,
+    "finished_at": 1795639189.196122,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1388,
+        "costUSD": 0.2414438
+      }
+    }
+  }
+}

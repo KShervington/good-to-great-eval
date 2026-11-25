@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the world's best shaving systems' built on shaving-system technology and precision blade manufacturing, growing only by 'profit per shaver per year', and it explicitly gives up low-cost commodities and diversification; this matches the key's field, sacrifice and profit-per-customer denominator, though it is slightly narrower on the global-brands element."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are exiting lighters, 'stop defending total razor unit share with cheap disposables' and a moratorium on new categories, and the verdict commits the money to premium cartridge systems, which is the key's decision."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks disposables cannibalizing the profit engine as Critical with its consequence stated, and also lists Rival B's three-front price attack, the 71% blade profit concentration, the unprofitable lighters and the margin-shrinking diversification era."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key has no decline_risks_expected and its later_history describes no decline, so this is N/A; the analysis did nonetheless flag outside pressure on management where the parts exceed the whole."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently marked [ASSUMPTION], missing sales, ROE, profit-by-line and disposable-share data are flagged, and profit per shaver is left 'Unknown. Do not invent it'; the minor lapses are the unmarked claim of a roughly decade-long lighter price war and an unsupported '62/100' score."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict contains the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers and is actionable, but with the central-question answer and evidence note it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The key's track is A, not E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A09|s2|judge",
+    "stage": "judge",
+    "case_id": "A09",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14398,
+    "tokens_out": 2026,
+    "cost_usd": 0.2719078,
+    "duration_s": 23.4,
+    "finished_at": 1795632663.407584,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2026,
+        "costUSD": 0.2719078
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2's hedgehog (a few iconic image-led brands carried worldwide, judged by profit per brand) matches the key's brand-building, global-expansion and profit-per-brand denominator more closely than Analysis 1's profit-per-advertising-dollar framing, and it directly answers the dossier's three open decisions. Both cover the key's stop-doing items and brutal facts about equally, but Analysis 2 is slightly better calibrated (Analysis 1 invents a 'ten brands' figure) and leads with concentration rather than the public-denial point.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v3",
+  "_meta": {
+    "job_id": "v3|A15|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A15",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16684,
+    "tokens_out": 1311,
+    "cost_usd": 0.319368,
+    "duration_s": 19.3,
+    "finished_at": 1795634757.3439195,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1311,
+        "costUSD": 0.319368
+      }
+    }
+  }
+}

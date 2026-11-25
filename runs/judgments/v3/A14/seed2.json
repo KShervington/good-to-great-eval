@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's suggested core (flat-rolled and plate from the two modern plants, dropping bar, old plants and possibly shipbuilding) and admits 'there may be no real intersection', but never says plainly that the current portfolio lacks a hedgehog and still frames the goal as 'lowest-cost'."
+  },
+  "D2": {
+    "score": 5,
+    "why": "'Stop protecting profit by raising prices' is #1 in the verdict and capital for the high-cost older plants is #2; 'stop treating import restrictions as the strategy' (#5) and 'stop the status culture and the visible perks' (#7) are explicit but lower on the full list."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The top-ranked critical fact is that record profits 'came from the end of price controls and from customer stockpiling, not from productivity', with the 25% shipment drop as consequence; the register also lists structurally cheaper imports, minimills, the locked-in 3% wage floor and old-plant costs."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register places the company in stage 3 denial, names an import-protection campaign as stage 4 grasping, and names stage 5 as 'losses compound while legacy costs and pensions grow' with warning signs of cash burn, pension underfunding and no plans to close plants, which matches what happened."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are tagged [ASSUMPTION], scorecard values are marked 'Unknown' instead of invented, the missing cost, return and pension data are flagged as decisive, and confidence is stated as low to moderate with a 7/100 potential that fits the evidence."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (cost per ton), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, all compactly and in a form someone could act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|A14|s2|judge",
+    "stage": "judge",
+    "case_id": "A14",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12404,
+    "tokens_out": 2080,
+    "cost_usd": 0.24216379999999998,
+    "duration_s": 23.7,
+    "finished_at": 1795633834.4663336,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2080,
+        "costUSD": 0.24216379999999998
+      }
+    }
+  }
+}

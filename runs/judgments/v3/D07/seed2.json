@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is to be the scientist on winter road salt and stream life, built on the 37-stream record and the agency link, with a denominator of 'senior-authored papers and independent dollars per salt-winter'; Network field logistics is explicitly rejected as 'Martin's hedgehog, not hers'."
+  },
+  "D2": {
+    "score": 5,
+    "why": "'Leading Work Package 3 before tenure' is stop-doing item 1 in both the verdict and the full list, with the textbook chapter second, followed by new middle-author Network roles, journal reviewing and graduate admissions."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The verdict's most urgent brutal fact joins the 16-month clock, 7 of 9 papers being middle-author and the third-year 'distinct research identity' hint; the register adds the two minor senior-author papers, no independent federal award, the co-PI grant being Network-lineage, and that middle authorship 'won't read as independence'."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Decline 2 names saying yes to WP3 and every Network and admin role, with the sign 'field weeks rise while senior submissions fall'; Decline 3 names 'assuming middle-author papers count' and treating the third-year letter as boilerplate."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged throughout, and PI dollars are correctly given as $46,750 with no split of the $612,400 invented, but her share of the collaborative award is never named as a missing number to request (it asks only how subaward dollars are weighed and when the grant ends)."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (data to papers), three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|D07|s2|judge",
+    "stage": "judge",
+    "case_id": "D07",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13278,
+    "tokens_out": 1530,
+    "cost_usd": 0.23414780000000002,
+    "duration_s": 17.6,
+    "finished_at": 1795638975.8664353,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1530,
+        "costUSD": 0.23414780000000002
+      }
+    }
+  }
+}

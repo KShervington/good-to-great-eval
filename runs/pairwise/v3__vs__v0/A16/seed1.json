@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "1",
+  "D3": "2",
+  "D5": "1",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Analysis 1 keeps the hedgehog inside cigarette brand-building, freezes unrelated acquisitions and flags a large non-tobacco purchase as a decline risk, which matches the key's view that diversifying away from tobacco was the error. Analysis 2 lists the key's brutal facts more completely, including the costly failed launch, but its hedgehog and 25-year goal steer tobacco cash into non-tobacco brands, the very path the key condemns.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v3",
+  "_meta": {
+    "job_id": "v3|A16|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A16",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16384,
+    "tokens_out": 1066,
+    "cost_usd": 0.30476800000000004,
+    "duration_s": 16.5,
+    "finished_at": 1795635272.4986637,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1066,
+        "costUSD": 0.30476800000000004
+      }
+    }
+  }
+}

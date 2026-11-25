@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog, 'puts a lawyer beside the Marlow County tenants whose outcome a lawyer changes most, and measures itself by households kept housed per attorney-year', matches the key on county eviction defense, hard cases over winnable ones, and the denominator, and it explicitly rules out Homeownership and statewide policy."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are declining Homeownership Pathways, not doubling the policy unit or starting a statewide campaign, and ending winnability screening and leading with the 93% win rate, which are all three of the key's decisions."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent brutal fact is that filings rose 22% while households housed per 100 filings fell from 21.7 to 15.0, with the 93% attributed to the screening protocol; the register ranks coverage, selection effect and untracked advice-desk outcomes as Critical and doubts the vacancy explanation."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names undisciplined pursuit of more (Homeownership, statewide policy) and hubris or denial around the screened 93%, each with a specific warning sign such as 'win rate is cited without coverage figures' and 'screened-out count still unknown at renewal'."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Derived figures trace to dossier numbers and inferences are marked [ASSUMPTION]; costs by program are flagged as missing ('EHDC can't price its own programs') with no cost per case computed, and the selection-effect claim is hedged as 'most likely'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (evidence), the top three stop-doing items, the most urgent brutal fact with numbers, and a short list of missing numbers, and it can be acted on without reading further."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D08|s1|judge",
+    "stage": "judge",
+    "case_id": "D08",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15525,
+    "tokens_out": 2188,
+    "cost_usd": 0.2964198,
+    "duration_s": 23.9,
+    "finished_at": 1795639974.4925942,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2188,
+        "costUSD": 0.2964198
+      }
+    }
+  }
+}

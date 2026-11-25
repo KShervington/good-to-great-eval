@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'lowest cost per ton... by putting the newest proven technology in greenfield mills run by small, lean, output-paid teams', with profit per ton of finished steel as denominator and overseas/non-steel moves ruled out, which matches the key on all three points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The stop-doing list is framed as 'temptations to refuse' and its top items are scaling iron-making before proof, capacity for growth's sake, going overseas or beyond steel, and 'professionalizing' the culture (layers, HQ, bonus, no-layoff); the core is left intact, with only a mild decision-rule review of fabrication units."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'the model is being copied at scale' (~10 mills, +40% capacity) first and High, and the verdict names it most urgent; it also lists sheet price weakness, scrap cost, the unreliable iron-carbide plant and untested succession, with consequences."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key has an empty decline_risks_expected and its later history describes risks handled rather than a decline."
+  },
+  "D7": {
+    "score": 5,
+    "why": "The ~$41/ton figure is marked as derived and rough with its distortions stated, assumptions are tagged throughout, the missing per-ton, iron-carbide and fabrication data are flagged, and confidence is stated as moderate; the only blemish is an unexplained 72/100 score."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, weakest flywheel link (metal inputs), three temptations to refuse, the most urgent brutal fact, the missing numbers and a confidence level, so it can be acted on alone."
+  },
+  "D9": {
+    "score": 4,
+    "why": "It says 'Already great. Run in stewardship mode' with evidence, confirms the existing hedgehog and gives subject-specific warning signs, but adds several changes beyond preservation (independent directors, a new metallics owner, moving the chairman's seat, reclassifying steel-only as a non-core practice, reviewing fasteners and bearings)."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|E01|s3|judge",
+    "stage": "judge",
+    "case_id": "E01",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13194,
+    "tokens_out": 1938,
+    "cost_usd": 0.2491238,
+    "duration_s": 22.9,
+    "finished_at": 1795640578.2039332,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1938,
+        "costUSD": 0.2491238
+      }
+    }
+  }
+}

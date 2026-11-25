@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('the tenant's defense in Marlow County housing court... help that actually changes the outcome', invoking the defend-whoever ethos and ruling out Homeownership, statewide policy and winnability screening) matches the key's field and sacrifices, but it folds the advice desk into the core and uses 'households housed per 100 filings' rather than a per-attorney-year or per-dollar denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's top three and stop-doing items 1-4 are: stop leading with the 93%, stop screening on winnability, decline Homeownership Pathways, and no policy-unit doubling or statewide campaign this cycle."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical and repeated in the verdict, is coverage falling from about 27% to 17% as filings rose 22%; #3 names the selection effect, #4 shows vacancies explain only half the case drop, and #5 the hard cases diverted to an untracked desk."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names both mechanisms specifically: 'Homeownership and statewide policy pursued together' (undisciplined more) and 'pride in the 93% win rate masks falling reach', each with a fitting warning sign such as the win rate cited without filings context."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked throughout and cost by program is flagged as missing and 'not computable', but it still prints a blended ≈$3,070 per housed outcome without an [ASSUMPTION] tag (caveated as overstating, not used as a finding) and an unexplained 'Greatness potential: 34/100'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (measurement), the top three stops, the most urgent brutal fact with figures, the missing numbers and a confidence level, all within one screen and actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|D08|s1|judge",
+    "stage": "judge",
+    "case_id": "D08",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15165,
+    "tokens_out": 1798,
+    "cost_usd": 0.27505979999999997,
+    "duration_s": 20.4,
+    "finished_at": 1795639676.1312678,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1798,
+        "costUSD": 0.27505979999999997
+      }
+    }
+  }
+}

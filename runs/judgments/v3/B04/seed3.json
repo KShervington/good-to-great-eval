@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'durable, well-designed molded-resin products' for the home through mass retail, with profit per shelf-foot (profit per active SKU as proxy) as the denominator; it rules out toys and leisure, category quotas and the launch-count culture, and puts retailer service in the flywheel."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are the 15% compounded growth promise, the new-category-every-12–18-months quota and product-a-day as a success measure; SKU pruning (one-in, one-out) and fixing order fill first follow in the list and the 90-day plan."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks as High the resin-driven margins, the 14% and rising customer concentration, the 15% target at roughly twice actual growth, and unmeasured complexity and order fill; it also lists the departed turnaround CEO, and the verdict states the consequence: the 15% promise 'rests on resin prices and one retailer.'"
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 marks Stages 1–2 as active, citing the 15% goal, category quota and product-a-day, then anticipates resin and retailer blame, order-fill complaints, a large acquisition or sweeping restructuring after the first miss, and sale of the company with the largest customer dictating terms, each with a specific warning sign."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures (margins, 8.3% CAGR, 6.5% growth excluding the largest customer) are correctly computed from the dossier, assumptions are tagged and the missing operating data is flagged; but the ~8% growth is called 'organic' despite an acquisition two years ago, and the resin-to-margin link is stated firmly in the verdict though tagged as an assumption later."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (retailer service), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|B04|s3|judge",
+    "stage": "judge",
+    "case_id": "B04",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12615,
+    "tokens_out": 2127,
+    "cost_usd": 0.2474198,
+    "duration_s": 24.9,
+    "finished_at": 1795636736.400693,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2127,
+        "costUSD": 0.2474198
+      }
+    }
+  }
+}

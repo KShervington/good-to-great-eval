@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog 'Discover and prove breakthrough medicines for major chronic diseases, earning per breakthrough' matches the key's research-driven breakthrough field, puts patient purpose first, treats growth as an outcome, rules out the PBM and growth-for-its-own-sake, and uses profit per breakthrough medicine as the denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three temptations in the opening verdict are ranking 'top-tier growth' above purpose, letting COX-2 investor promises outrun safety evidence, and covering the gap with a mega-merger or PBM revenue; a 12-month keep/restructure/separate PBM review backs the third."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The patent cliff (nearly $5B, about 22% of human-health sales) is ranked #1 and Critical and named most urgent in the verdict; the register also lists the growth-on-$25B-base odds, the rival COX-2 approved first, and PBM-flattered growth (derived ex-PBM growth of about 8%)."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names Stage 2 (growth as #1 objective, PBM revenue, COX-2 pushed to widest use) and Stage 3 ('COX-2 safety signals explained away') with fitting early warnings: 'unfavorable data reframed; outside critics dismissed; trials designed to show benefit but not built to detect harm'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures (19.5% net margin, about 8% ex-PBM growth) are correct and labeled, assumptions are marked, and the missing COX-2 cardiovascular data, PBM profitability and wider pipeline are flagged; however the core purpose 'to preserve and improve human life' is not in the dossier and is unmarked, and the 58/100 score is unexplained."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link (breakthrough replenishment), the top three temptations to refuse, the most urgent brutal fact, the missing numbers and a confidence level, concisely enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|B06|s1|judge",
+    "stage": "judge",
+    "case_id": "B06",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13016,
+    "tokens_out": 2312,
+    "cost_usd": 0.2612358,
+    "duration_s": 26.5,
+    "finished_at": 1795637140.7055886,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2312,
+        "costUSD": 0.2612358
+      }
+    }
+  }
+}

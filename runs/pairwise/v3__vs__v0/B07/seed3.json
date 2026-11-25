@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "tie",
+  "D8": "1",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2 matches the key more closely: its hedgehog explicitly includes store-by-store growth in adjacent towns, and its stop-doing list adds a named internal successor and a ban on promotional sales events alongside the acquisition moratorium, debt cap and format exit. Analysis 1 has the tighter one-screen verdict and avoids Analysis 2's miscount of five deals, but both cover the brutal facts and Stage 2 to Stage 4 decline risks about equally well.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v3",
+  "_meta": {
+    "job_id": "v3|B07|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "B07",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 19728,
+    "tokens_out": 1560,
+    "cost_usd": 0.37803200000000003,
+    "duration_s": 20.7,
+    "finished_at": 1795638101.580157,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1560,
+        "costUSD": 0.37803200000000003
+      }
+    }
+  }
+}

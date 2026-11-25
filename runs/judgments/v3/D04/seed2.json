@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'makes a professional subtitle file pass the client's delivery spec the first time, for subtitlers and the studios that employ them, and earns its money per renewing seat', and it explicitly rejects auto-align and creator captioning as the core, matching the key's field, give-up and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Linewright Lite is stop-doing item 1 and the Linux port is item 2, both in the one-screen verdict, with 'Leading with auto-align' as item 4; nothing contradicts the key."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register's top three facts are the renewal slide past the modeled 58% floor, the 69% auto-align purchase reason going free in Lantern 'this winter', and Q3 licenses falling from 209 to 161; the verdict leads with the consequence and the causal link is tagged as an assumption."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names Stage 2 as 'Lite, Linux, sales, SSO and console all at once' and Stage 3 as 'Present now: modeled floor missed; YoY drop blamed on summer', each with a specific warning sign such as Q4 renewals at or below 52% attributed externally."
+  },
+  "D7": {
+    "score": 5,
+    "why": "The studio-versus-individual renewal split is flagged as unknown and requested rather than estimated, the 90% studio figures appear only as tagged targets or confirmation thresholds, derived figures check against the dossier, and confidence is stated as moderate; the only slip is calling three declines 'four straight quarters'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (revenue to product progress), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track D, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|D04|s2|judge",
+    "stage": "judge",
+    "case_id": "D04",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14040,
+    "tokens_out": 1952,
+    "cost_usd": 0.2632198,
+    "duration_s": 22.4,
+    "finished_at": 1795638328.3163934,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1952,
+        "costUSD": 0.2632198
+      }
+    }
+  }
+}

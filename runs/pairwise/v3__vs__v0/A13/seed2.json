@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "tie",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses match the key's hedgehog (culture-driven lowest cost, profit per ton), its stop-doing items (no diversification, no added layers, no reliance on import protection) and its brutal facts, and both flag missing data and assumptions honestly. Analysis 1 has the tighter one-screen verdict and leads with the key's central fact that the technology is copyable so the edge must come from culture, so it is slightly the better one to hand to the leader.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v3",
+  "_meta": {
+    "job_id": "v3|A13|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A13",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17927,
+    "tokens_out": 1180,
+    "cost_usd": 0.334016,
+    "duration_s": 17.2,
+    "finished_at": 1795633678.6438267,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1180,
+        "costUSD": 0.334016
+      }
+    }
+  }
+}

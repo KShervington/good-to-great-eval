@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "1",
+  "D5": "1",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Analysis 2 matches the key's hedgehog slightly better, naming shared style profiles and a per-studio-seat denominator, and both decline Linewright Lite, the Linux port and leading with auto-align while requesting the segment renewal split. Analysis 1 more directly ties the renewal slide to the free competitor by testing before and after the April Lantern nightlies, and it marks the denial stage as already present, so it is marginally the one I would hand to the founder.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v3",
+  "_meta": {
+    "job_id": "v3|D04|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D04",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18969,
+    "tokens_out": 1885,
+    "cost_usd": 0.378888,
+    "duration_s": 23.2,
+    "finished_at": 1795638751.3412142,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1885,
+        "costUSD": 0.378888
+      }
+    }
+  }
+}

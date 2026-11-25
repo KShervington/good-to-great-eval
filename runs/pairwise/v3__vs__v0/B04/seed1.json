@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "2",
+  "D9": "na",
+  "overall": "1",
+  "why": "Analysis 1 matches the key's hedgehog more exactly (profit per active SKU, durable hero products, innovation serving usefulness) and names resin pass-through to powerful retailers as the weakest link, while both cover the stop-doing items, brutal facts and decline stages about equally. Analysis 2 has the tighter verdict, an explicit confidence statement and makes order fill the weakest link, but its shelf-foot denominator is a step further from the key.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v3|B04|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "B04",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 21214,
+    "tokens_out": 1583,
+    "cost_usd": 0.40272800000000003,
+    "duration_s": 20.1,
+    "finished_at": 1795636953.967021,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1583,
+        "costUSD": 0.40272800000000003
+      }
+    }
+  }
+}

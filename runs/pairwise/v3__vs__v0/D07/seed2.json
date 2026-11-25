@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "tie",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land the road-salt hedgehog, the independence brutal fact, and the decline-WP3 decision, and neither invents a split of the $612,400 nor asks for her share of it. Analysis 2 edges ahead because its verdict opens with a directly usable WP3 answer, its top stop-doing items cover the chapter, middle-author roles and a service cut (seminar chair), and it handles the May/July timing collision under both readings.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v3",
+  "_meta": {
+    "job_id": "v3|D07|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D07",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18715,
+    "tokens_out": 1535,
+    "cost_usd": 0.36082400000000003,
+    "duration_s": 20.0,
+    "finished_at": 1795639442.9428868,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1535,
+        "costUSD": 0.36082400000000003
+      }
+    }
+  }
+}

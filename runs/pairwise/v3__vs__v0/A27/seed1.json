@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "1",
+  "D3": "1",
+  "D5": "1",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses land on nearly the same hedgehog (durable household and commercial rubber/plastic products, profit per pound of resin) and both flag the missing segment data honestly. Analysis 1 matches the key more closely: it puts automotive harvest-and-sell alongside the party-plan exit in its top stop-doing items, names the complacent culture as a brutal fact, and calls out one-leader dependence explicitly.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v3",
+  "_meta": {
+    "job_id": "v3|A27|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A27",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18458,
+    "tokens_out": 1377,
+    "cost_usd": 0.350392,
+    "duration_s": 19.0,
+    "finished_at": 1795635842.8044562,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1377,
+        "costUSD": 0.350392
+      }
+    }
+  }
+}

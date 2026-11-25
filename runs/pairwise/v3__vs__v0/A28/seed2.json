@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Analysis 1 picks the narrow digital/solid-state control-systems hedgehog and explicitly rejects capital allocation as the hedgehog because it would not outlast the founder, which closely matches the key; its stop-doing list targets unrelated stock-funded deals and one-head capital decisions. Analysis 2 in effect endorses the conglomerate model (a federation of businesses, with stock used when richly valued), which the key treats as no hedgehog, though both analyses surface the same brutal facts and are similarly calibrated.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v3|A28|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A28",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18120,
+    "tokens_out": 1376,
+    "cost_usd": 0.344944,
+    "duration_s": 17.9,
+    "finished_at": 1795636409.1689122,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1376,
+        "costUSD": 0.344944
+      }
+    }
+  }
+}

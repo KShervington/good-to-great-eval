@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "2",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both land on the road-salt hedgehog and the thin-independence brutal fact, but Analysis 2 gives a clean \"don't lead WP3\" with a bounded collaborator role, while Analysis 1's scoped commitment still leaves her as site PI with a coordinator running WP3 under her. Analysis 2 also names the key's decline mechanism (treating Network prestige as independence), flags more of its own uncertainty (unverified dataset claim, unconfirmed passion, whether subaward dollars count as independent), and opens with a more actionable verdict.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v3",
+  "_meta": {
+    "job_id": "v3|D07|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D07",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 19837,
+    "tokens_out": 1437,
+    "cost_usd": 0.37485599999999997,
+    "duration_s": 16.8,
+    "finished_at": 1795639422.8334477,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1437,
+        "costUSD": 0.37485599999999997
+      }
+    }
+  }
+}

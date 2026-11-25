@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "1",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2 matches the key's hedgehog more closely (full representation on the hard cases, households housed per attorney-year), declines Homeownership without hedging, and flags program cost as unknowable rather than computing it, whereas Analysis 1 divides total expenses by housed outcomes to produce a blended ≈$3,070 figure. Analysis 1 states the 27%→17% coverage drop most explicitly, but Analysis 2 covers the same selection-effect and untracked-desk facts and turns them into a more actionable plan for the county renewal.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v3",
+  "_meta": {
+    "job_id": "v3|D08|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D08",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 21873,
+    "tokens_out": 1527,
+    "cost_usd": 0.411032,
+    "duration_s": 21.8,
+    "finished_at": 1795640192.4061787,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1527,
+        "costUSD": 0.411032
+      }
+    }
+  }
+}

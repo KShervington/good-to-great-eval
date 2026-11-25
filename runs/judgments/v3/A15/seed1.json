@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('a few iconic brands, led by Ridgeway... carried into every market') matches the key's brand-building-plus-global field and its exclusion of scattered brands and unrelated diversification, but the denominator is profit per advertising dollar rather than profit per global brand category."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing items 1 and 2 in the opening verdict are 'Spreading advertising money across many brands' and 'Buying small, unrelated businesses', which is the key's decision stated explicitly at the top."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the Surgeon General's finding as Critical at #1 with its consequence ('Demand may fall') and lists 'smallest of six, is outspent' as High; the weak-portfolio fact appears only implicitly through the harvest recommendation."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names the mechanisms that occurred: stage 2 acquisitions 'with no stated fit to the Hedgehog' (the later failed soft-drink purchase) and stage 3/5 continued denial of the science making the brand 'a legal liability' with climbing legal costs, each with a specific warning sign."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, missing financials and consumer data are flagged, and confidence is stated as low to moderate, but the 'Greatness potential: 35/100' score and Ridgeway share 'Above 1%' are unsupported or unmarked inferences."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (advertising reach), three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|A15|s1|judge",
+    "stage": "judge",
+    "case_id": "A15",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12768,
+    "tokens_out": 1821,
+    "cost_usd": 0.2376278,
+    "duration_s": 27.6,
+    "finished_at": 1795634386.6365404,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1821,
+        "costUSD": 0.2376278
+      }
+    }
+  }
+}

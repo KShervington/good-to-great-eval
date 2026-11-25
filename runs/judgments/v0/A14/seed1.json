@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to 'quality flat-rolled sheet... from fewer and newer mills, judged by cash profit per ton', rules out bars, lowest-cost commodity steel, size and 'integrated we-do-everything', and calls the unresolved modernize/protect/cut choice 'drift', but never says plainly that the current company has no hedgehog."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Stop 'raising prices as the main profit lever' is #1 and stop spreading capital across every plant is #2, but stopping import protection as the strategy is buried at #8 and softened ('can be a tactic that buys time'), and status spending and perks sit at #9."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent brutal fact is that record profits are 'a one-time windfall from decontrolled prices and inventory building' now reversing, with the consequence stated; the register also lists the locked-in wage floor, structurally cheaper foreign mills and minimills taking bars."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names 'piecemeal closures while pension costs crowd out reinvestment', with retiree costs rising as a share of cost per ton as the warning sign, plus blaming imports and dismissing minimills as 'just bars', which matches the later closures, losses and pension takeover."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently tagged, all the dossier's missing metrics are flagged as unknown, and the 10/100 verdict fits the evidence, but a few inferences go unmarked, such as executive pay 'tied to volume and size' and the $3B program being 'spread across all plants'."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict gives the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, and is actionable, but it runs somewhat past one phone screen with the added score rationale and evidence note."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A14|s1|judge",
+    "stage": "judge",
+    "case_id": "A14",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13892,
+    "tokens_out": 2011,
+    "cost_usd": 0.2632118,
+    "duration_s": 23.5,
+    "finished_at": 1795634013.647261,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2011,
+        "costUSD": 0.2632118
+      }
+    }
+  }
+}

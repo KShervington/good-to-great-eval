@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "tie",
+  "D8": "2",
+  "D9": "2",
+  "overall": "2",
+  "why": "Both analyses land on the key's hedgehog (culture plus technology for lowest-cost steel, profit per ton) and cover all five brutal facts, with assumptions flagged in each. Analysis 2 explicitly recognises the company as already great and frames a stewardship plan whose refusals match the key (contain iron carbide, no old-mill or foreign purchases, no added headquarters layers, protect bonuses and no-layoff), whereas Analysis 1 treats the hedgehog as unproven and leans more toward change.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v3|E01|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "E01",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18035,
+    "tokens_out": 1301,
+    "cost_usd": 0.340584,
+    "duration_s": 17.3,
+    "finished_at": 1795640769.0938647,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1301,
+        "costUSD": 0.340584
+      }
+    }
+  }
+}

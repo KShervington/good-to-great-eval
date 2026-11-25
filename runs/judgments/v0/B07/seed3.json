@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog sentence ('everyday-low-price discount store that small towns... can't do without, growing one adjacent town at a time and judged by profit per store') matches all three key points and the key's denominator, and it explicitly rules out variety formats, Florida and deal-led growth."
+  },
+  "D2": {
+    "score": 5,
+    "why": "'Stop acquiring chains' is item 1 and 'stop running variety stores and non-core formats' is item 2, both in the verdict; 'stop funding expansion with debt' is item 4, and a named internal successor appears in the bus table and the 90-day actions."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent brutal fact combines debt at about 80% of net worth, unproven converted-store economics and Rival W expanding with the same model; the register ranks leverage and Rival W as Critical and lists simultaneous integrations and mismatched formats, with consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register marks Stage 2 as 'present now', names Stage 1 hubris ('we can fix any chain'), Stage 3 denial via 'integration noise' and shrinkage, and Stage 4 as 'a bigger acquisition to get scale against Rival W... or abandoning EDLP for sales events', each with a fitting warning sign; only the outside-successor risk is left generic."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Thresholds are marked [ASSUMPTION], derived figures are labelled as derived, and all the missing data is flagged, but 'five deals in about eight years' miscounts the dossier's four deals and the acquired chain's 'promotional' model is an unmarked inference."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact and the missing numbers compactly enough to act on without reading further."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|B07|s3|judge",
+    "stage": "judge",
+    "case_id": "B07",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14213,
+    "tokens_out": 1811,
+    "cost_usd": 0.2603478,
+    "duration_s": 21.2,
+    "finished_at": 1795638080.719536,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1811,
+        "costUSD": 0.2603478
+      }
+    }
+  }
+}

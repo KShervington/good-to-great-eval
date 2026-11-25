@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It proposes a narrow 'mouth, throat and stomach self-care brands' hedgehog as a working hypothesis and calls out the consumer-versus-pharma flip as an active doom loop, but never states outright that the company currently has no hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are buying growth through acquisitions, owning the bakery and optical businesses, and announcing new directions before the facts are in, which covers the key's flip-flopping and unrelated-acquisition decisions."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the strategy flip and the roughly 40% margin fall with ROE near 9% as Critical, and also lists the businesses with no strategic logic, the regulatory and legal problems, and the distant No. 2 position in shaving."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names the active doom loop and leadership churn, deals standing in for brand growth, and a 'transformational deal proposed within 24 months' as a warning sign, plus being sold off in pieces, which matches the later unrelated acquisition, repeated restructurings and eventual takeover."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION], missing segment, share and pipeline data are flagged and confidence is stated as low to moderate, but the 'Greatness potential: 18/100' score is unexplained and 'price war' slightly embellishes the dossier."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link (trust), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|A10|s3|judge",
+    "stage": "judge",
+    "case_id": "A10",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12247,
+    "tokens_out": 2017,
+    "cost_usd": 0.2371318,
+    "duration_s": 22.6,
+    "finished_at": 1795632985.4693537,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2017,
+        "costUSD": 0.2371318
+      }
+    }
+  }
+}

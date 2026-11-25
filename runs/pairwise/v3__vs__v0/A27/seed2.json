@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both land on durable rubber and plastic housewares with profit per pound of resin, a party-plan exit and the same resin and division-sprawl facts, but Analysis 2's hedgehog explicitly covers home and commercial use and it names single-leader dependence ('genius with a thousand helpers') as a root risk, which is the key's decline mechanism. Analysis 2 also has the tighter, more actionable one-screen verdict, while the two are about equally careful in flagging assumptions and missing data.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v3|A27|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A27",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18163,
+    "tokens_out": 1445,
+    "cost_usd": 0.34839200000000003,
+    "duration_s": 19.6,
+    "finished_at": 1795635850.5012727,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1445,
+        "costUSD": 0.34839200000000003
+      }
+    }
+  }
+}

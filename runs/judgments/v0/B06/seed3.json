@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is first-in-class discovery plus rigorous proof, with passion 'science that measurably helps patients' and denominator 'profit per proven breakthrough medicine'; it explicitly excludes the PBM and the growth-first objective, matching the key's reconstruction."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are: drop 'top-tier growth company' as the #1 objective, stop counting PBM revenue as growth, and stop selling the COX-2 drug as the growth story before outcome data; the full list adds stopping double-digit guidance and launch timelines shaping safety studies."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register covers the patent cliff (~$5B, 22%), the roughly $8.6B growth gap with low per-molecule odds, PBM-inflated growth (43% of sales, about 67% of the increase) and the rival already approved; the single-class bet with unknown safety is ranked Critical and its consequence stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 marks Stage 2 (growth objective, PBM) as already showing and names Stage 3 as 'explaining away an adverse COX-2 safety signal', with the warning sign 'ambiguous results framed as positive; comparator effects blamed', which is the mechanism that occurred."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures (ex-PBM sales, 7.7% growth, $8.6B gap) are correctly computed from the dossier, assumptions are marked and all key missing data are flagged; however, 'first-in-class or best-in-class' past franchises and the Gate 7 technology items are unmarked inferences beyond the dossier."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict concisely gives the hedgehog sentence, the weakest flywheel link (rigorous proof to physician trust), three stop-doing items, the most urgent brutal fact and the missing numbers, and could be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|B06|s3|judge",
+    "stage": "judge",
+    "case_id": "B06",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12776,
+    "tokens_out": 2007,
+    "cost_usd": 0.2451958,
+    "duration_s": 23.9,
+    "finished_at": 1795637507.4930956,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2007,
+        "costUSD": 0.2451958
+      }
+    }
+  }
+}

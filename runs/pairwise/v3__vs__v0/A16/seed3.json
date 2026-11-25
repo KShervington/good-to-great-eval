@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses commit Carrow to cigarette brand building over diversification and list all four key brutal facts, with similar calibration and no invented figures. Analysis 2 is firmer on stopping unrelated diversification (two stop-doing items, the committee taken off, the chairman redirected) and its decline risks more closely track the key: a food and beverage buying spree funded by tobacco cash, a big merger, and share loss to Rival H explained away.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v3",
+  "_meta": {
+    "job_id": "v3|A16|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A16",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17110,
+    "tokens_out": 1706,
+    "cost_usd": 0.341984,
+    "duration_s": 24.1,
+    "finished_at": 1795635321.391168,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1706,
+        "costUSD": 0.341984
+      }
+    }
+  }
+}

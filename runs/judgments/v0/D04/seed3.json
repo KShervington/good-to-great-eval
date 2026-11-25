@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is spec compliance for professional subtitling ('every professional subtitle file pass the client's delivery spec the first time... studios first'), explicitly rejects auto-align, creator captioning and Linux, and picks 'recurring revenue per renewing seat' as the denominator, which matches the key."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Linewright Lite is stop-doing item 1 and 'stop selling Linewright on auto-align' is item 2, both in the one-screen verdict; the Linux port is item 4 on the full list and the verdict also says 'No to Linux'."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent brutal fact joins the 69% auto-align share to Lantern's nightly and 'this winter' stable release, and the register ranks renewals falling past the 58% model (Critical) and Q3 units down 23% with seasonality rejected (High); it never sizes the individual side at about 70% of revenue, but the consequence is clear."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 2 as 'Lite, Linux, or sales + console + SSO all at once' and Stage 3 as renewals sliding 'while they're blamed on price or summer', each with a specific warning sign (over 20% of founder time off-hedgehog, no segment data by day 30)."
+  },
+  "D7": {
+    "score": 4,
+    "why": "The segment renewal split is flagged as the top missing number, the thresholds are tagged [ASSUMPTION], and the verdict concedes the hedgehog is wrong if studios renew no better; but a few inferences are unmarked ('renews without you chasing it', 'studios renewing', the 30/100 greatness score) despite the claim that every inference is tagged."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact, the missing numbers and a decision on all four options; it is slightly long for one phone screen but can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D04|s3|judge",
+    "stage": "judge",
+    "case_id": "D04",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14524,
+    "tokens_out": 2382,
+    "cost_usd": 0.2881638,
+    "duration_s": 26.8,
+    "finished_at": 1795638744.2052476,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2382,
+        "costUSD": 0.2881638
+      }
+    }
+  }
+}

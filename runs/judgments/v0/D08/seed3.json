@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('Marlow County's eviction-court defense system... more households kept housed per filing') matches the key's field, its coverage-over-win-rate stance and its exclusions (Homeownership, statewide policy), but it broadens full representation into tiered help and uses a per-filing coverage denominator instead of per attorney-year or per dollar."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing #1 is 'Decline or defer Homeownership Pathways', #2 and #3 stop leading with the win rate and stop 'where we can win' intake, and #5 says not to double the policy unit; the first three are in the opening verdict."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The top brutal fact is 'need grew while its reach shrank', with the 93% called 'largely a selection effect', the hardest cases routed to an untracked desk, and coverage falling from 27.4% to 17.0%; consequences are tied to the county renewal and funder credibility."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register names Stage 2 as 'Homeownership; statewide policy' with the warning sign of a program approved because its indirect costs plug the deficit, and names 'Believing the 93%' with the warning sign of the win rate reported without per-filing context."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Derived figures are arithmetic from dossier numbers and caveated as directional, inferences are marked [ASSUMPTION], and cost per program is flagged as missing with no per-case cost computed; the only small lapse is an unexplained '42/100' greatness score."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the most urgent brutal fact with numbers, the weakest flywheel link (proof), three stop-doing items and the missing numbers in a compact, actionable form."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D08|s3|judge",
+    "stage": "judge",
+    "case_id": "D08",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15835,
+    "tokens_out": 2054,
+    "cost_usd": 0.2960198,
+    "duration_s": 23.6,
+    "finished_at": 1795640210.3883753,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2054,
+        "costUSD": 0.2960198
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "tie",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses cover the key's stop-doing items (price increases, import protection as strategy, executive perks, high-cost capacity) and its brutal facts about equally well, and both flag assumptions and missing cost data. Analysis 1 edges ahead because it states that if the cost test fails there is no real hedgehog and the honest plan is managed contraction, which is closest to the key's \"no coherent hedgehog\", and its verdict leads with a blunter, more concise judgment.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v3",
+  "_meta": {
+    "job_id": "v3|A14|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A14",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18468,
+    "tokens_out": 1539,
+    "cost_usd": 0.357032,
+    "duration_s": 23.6,
+    "finished_at": 1795634243.6352162,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1539,
+        "costUSD": 0.357032
+      }
+    }
+  }
+}

@@ -1,0 +1,43 @@
+diff --git a/SKILL.md (original) b/SKILL.md (final)
+index 8976aa7..dc186ed 100644
+--- a/SKILL.md (original)
++++ b/SKILL.md (final)
+@@ -9,7 +9,7 @@ This skill turns a subject that is already *good* into a concrete plan for makin
+ 
+ The subject passes through a fixed series of gates. Each gate produces a written artifact and a verdict. The final output is the great version of the subject: its Hedgehog Concept, its flywheel, who it needs, what it stops doing, and a scorecard to measure progress.
+ 
+-Principle: good is the enemy of great. Most subjects stay good because good is comfortable. Every gate should leave the subject sharper and narrower, not just add more to it.
++Principle: good is the enemy of great. Most subjects stay good because good is comfortable. Every gate should leave the subject sharper and narrower, not just add more to it. The exception is a subject that is already great: there the job is to protect what works, not to invent change.
+ 
+ ---
+ 
+@@ -63,7 +63,10 @@ The framework assumes a working foundation. Establish:
+   3. **Lasting endurance:** it would stay great beyond one person, one product or one lucky break.
+ - **Two or three measurable outputs** that will make up the scorecard.
+ 
+-If the subject isn't yet good (no traction, no working core), `FAIL` gently. It needs survival and fit work before greatness work. Say what "good" would look like first.
++Then place the subject in one of three states, and say which:
++- **Not yet good:** the core doesn't work yet without the steward's personal effort, network or manual workarounds (for example: most users are friends, retention is unproven outside that circle, the key feature is hand-operated). `FAIL` gently. Don't soften this to `CONDITIONAL`: Gates 2–10 would be built on sand. Say what "good" would look like and the two or three milestones that would prove it. This state is for a core that has never worked on its own.
++- **Good, not yet great:** the normal case. Run the gates as written. A subject that was once good and is now in crisis (mounting losses, lost share, a funding squeeze) belongs here, not in "not yet good": run the gates as a turnaround, with the brutal facts and survival actions first.
++- **Already great:** the evidence shows all three tests of great have held for years. Say so plainly, then switch to **stewardship mode**. Gate 5 confirms the Hedgehog Concept the subject already lives by instead of inventing a new one. Gate 6's stop-doing list names only the real temptations to refuse, with no minimum count. Recommendations are few and protect the flywheel. Gate 10 becomes the center of the analysis. Don't manufacture weaknesses to justify a long plan.
+ 
+ **Artifact:** a baseline sheet and a draft definition of great.
+ 
+@@ -118,7 +121,7 @@ Process:
+ 
+ ### Gate 6: Culture of Discipline
+ Disciplined people + disciplined thought + disciplined action = freedom within a framework.
+-- **Stop-doing list:** everything outside the Hedgehog Concept, including attractive opportunities. This list matters more than the to-do list. Be specific, and aim for at least five items.
++- **Stop-doing list:** everything outside the Hedgehog Concept, including attractive opportunities. This list matters more than the to-do list. Be specific, and aim for at least five items (in stewardship mode, list only the real temptations).
+ - **Freedom and responsibility:** what's the framework, and where do people have autonomy inside it?
+ - **Bureaucracy check:** which rules exist only to compensate for having the wrong people on the bus?
+ - **Fanatical consistency:** what does the subject do relentlessly, every time?
+@@ -169,7 +172,7 @@ For each stage, name the specific way this subject could slide into it, and the
+ 
+ ## Output: the great version
+ 
+-Lead with the result, not the process. **Open the reply with a one-screen verdict** that reads well on a phone. It should give the Hedgehog Concept sentence, the weakest link in the flywheel, the top three stop-doing items, the single most urgent brutal fact, and which missing numbers would change the answer. The full deliverable has these sections:
++Lead with the result, not the process. **Open the reply with a one-screen verdict** that reads well on a phone. It should give the Hedgehog Concept sentence, the weakest link in the flywheel, the top three stop-doing items, the single most urgent brutal fact, and which missing numbers would change the answer, plus one line on how confident the verdict is and what it rests on. Keep `[ASSUMPTION]` tags on any figure in the verdict that isn't in the evidence. In stewardship mode, open with the already-great verdict and replace the stop-doing items with the temptations to refuse. Keep the verdict under about 150 words. Leave out score rationales, gate tallies and method notes: they belong in the gate log. The full deliverable has these sections:
+ 
+ 1. **The great version in one paragraph:** what the subject looks like when it's great.
+ 2. **The Hedgehog Concept:** the sentence, the three circles and the denominator.

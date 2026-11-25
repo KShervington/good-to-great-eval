@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "2",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "1",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses propose a hedged flat-rolled hedgehog where the key says none exists, but Analysis 2 comes closer: it concedes that lowest global cost belongs to foreign mills, puts 'stop treating import protection as the strategy' in its top three, and treats pension and closure liabilities as a potentially critical fact with managed contraction as the fallback. Analysis 1 has the tighter verdict screen, but its 'lowest-cost producer in the world' framing and BHAG contradict the key's central point that the integrated cost structure cannot win on cost.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v3",
+  "_meta": {
+    "job_id": "v3|A14|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A14",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18827,
+    "tokens_out": 1651,
+    "cost_usd": 0.367256,
+    "duration_s": 21.1,
+    "finished_at": 1795634219.957738,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1651,
+        "costUSD": 0.367256
+      }
+    }
+  }
+}

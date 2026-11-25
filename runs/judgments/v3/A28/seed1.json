@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 3,
+    "why": "It narrows to 'digital and solid-state technology' and rules out unrelated industries, but makes 'rigorous capital allocation across a portfolio' a best-in-world circle and the hedgehog a 'family' of acquired businesses with a return-on-capital-per-share denominator — the acquisition-federation model the key says is no hedgehog — while explicitly rejecting profit per program."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Items 1 and 2 ('Stop acquiring outside digital and solid-state technology'; 'Stop paying with stock without a per-share test') are explicit, top-ranked and in the verdict, but ending the one-genius model and building a successor appear only in the bus and risk sections, not on the stop-doing list."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Fact 1, rated Critical, is 'Growth is mostly bought, not built' with the consequence that no one knows whether units earn their cost, and the register also lists defense dependence (#3), one-person capital decisions with no bench (#4) and tiny size (#7)."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register names the actual mechanism — rich stock used to buy across 'a much wider range of industries', then 'the founder leaves without a successor and a collection of unrelated units is broken up or sold' — with fitting warning signs (first out-of-scope acquisition, no named successor for the capital seat)."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged (20% hurdle, ~800 staff, two-quarter pause), the disputed net income and missing unit returns are flagged, and confidence is stated as low to moderate, but 'No one measures it' and 'five deals made without a stated hurdle' treat gaps in the dossier as facts about the company without marking them as inference."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen is compact and gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|A28|s1|judge",
+    "stage": "judge",
+    "case_id": "A28",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13798,
+    "tokens_out": 2223,
+    "cost_usd": 0.2701878,
+    "duration_s": 25.4,
+    "finished_at": 1795636049.7526653,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2223,
+        "costUSD": 0.2701878
+      }
+    }
+  }
+}

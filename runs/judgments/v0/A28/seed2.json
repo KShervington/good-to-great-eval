@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "Selects 'solid-state digital control and processing systems for critical applications', explicitly rejects broad microelectronics and capital-allocation-by-one-genius as the hedgehog, and says this narrows the founders' breadth aim; but the denominator is return on capital per unit rather than profit per program, and it calls the scatter 'unproven' rather than plainly saying no hedgehog exists."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing #1 is 'stop acquiring outside the Hedgehog Concept, no unrelated industries' and #2 is 'stop issuing stock for deals', both in the opening verdict; #7 ('brilliance in one head is not a system') plus a named successor and GM bench cover the genius model."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent brutal fact combines acquisition-bought growth ('the good so far is mostly bought, not proven') with one founder deciding all capital, and the register separately lists near-total defense dependence and tiny size, with consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Decline 2 names a high stock price funding diversification into unrelated industries, and Decline 5 names sale or break-up when the founder exits, with fitting warnings (rising non-core acquired revenue, no named successor, value existing only as the founder's judgment)."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked, missing unit returns, deal prices, customer concentration and the disputed net income are flagged, and the verdict is suitably conditional; but the '22/100' greatness score and the 'computerized internal reporting pioneer bet' are unsupported and unmarked."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, and is actionable, but with the gate summary and root-problem list it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A28|s2|judge",
+    "stage": "judge",
+    "case_id": "A28",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12972,
+    "tokens_out": 2016,
+    "cost_usd": 0.2486918,
+    "duration_s": 22.7,
+    "finished_at": 1795636370.9162805,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2016,
+        "costUSD": 0.2486918
+      }
+    }
+  }
+}

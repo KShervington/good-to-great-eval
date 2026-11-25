@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "It diagnoses a doom loop with 'two strategies in about a year' and 'growth by acquisition in place of a Hedgehog Concept', says the company must 'choose once and hold the choice for a decade', and offers its mouth-and-throat consumer core only as a working hypothesis with a pharma alternative."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Bakery and optical exits are items 1 and 2 and the verdict headline demands committing to one concept, but the flip-flop appears only as the softened item 4 ('stop announcing strategy to the press') and the acquisition halt sits at item 5, with no mention of the per-CEO reset."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The margin fall of about 40% and ROE of about 9% is brutal fact 1 and the 'most urgent' in the verdict, with portfolio sprawl, the distant second place in shaving and the regulatory and legal distractions all registered with consequences."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The decline register names 'any new out-of-core purchase', a 'big-bang deal or program announced before the audit' and 'being broken up or acquired under duress', which fits the later failed acquisition and loss of independence, but it does not name the restructure-with-each-CEO cycle."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged throughout, missing segment, pipeline and share data are flagged, and confidence is stated as low to moderate, but the 'Greatness potential: 12/100' score is unexplained and the shaving 'price war' goes slightly beyond the dossier."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (direction), three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|A10|s2|judge",
+    "stage": "judge",
+    "case_id": "A10",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11257,
+    "tokens_out": 2251,
+    "cost_usd": 0.2306518,
+    "duration_s": 25.1,
+    "finished_at": 1795632825.350331,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2251,
+        "costUSD": 0.2306518
+      }
+    }
+  }
+}

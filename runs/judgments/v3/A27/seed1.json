@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is durable everyday rubber and plastic products for home and commercial kitchens through mass retail, with gross profit per pound of resin as denominator, and it rules out party plan, automotive and recreational while saying the firm 'becomes great by narrowing' away from its current portfolio."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Selling party plan is item 1 and automotive is item 2 (softened to harvest, then sell or convert), with a one-in, one-out SKU rule at item 6; but ending one-leader dependence appears only in the charisma check and clock-building mechanisms, not on the stop-doing list."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'spread across five businesses with different customers, channels and economics' and resin-driven margin collapse as High in rows 2 and 3 with evidence, and also lists failed extensions and the complacency remark."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names one-leader dependence with 'no internal successor by Year 3', resin spikes and retailer power explained away as external, a restructuring after the CEO's departure, and sale of the company, which together match the actual mechanism."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are tagged as assumptions, derived figures (about 15% and 12% a year, $1.2B) follow from dossier arithmetic, and missing segment profit, ROE, share and bench data are flagged; but the 'missing' head of resin purchasing is asserted without an assumption tag."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact, missing numbers and a confidence level in one compact, actionable screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|A27|s1|judge",
+    "stage": "judge",
+    "case_id": "A27",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13723,
+    "tokens_out": 2558,
+    "cost_usd": 0.28238779999999997,
+    "duration_s": 28.3,
+    "finished_at": 1795635492.7649994,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2558,
+        "costUSD": 0.28238779999999997
+      }
+    }
+  }
+}

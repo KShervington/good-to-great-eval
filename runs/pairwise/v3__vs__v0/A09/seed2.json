@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "2",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on premium shaving systems measured by profit per shaver, exit lighters, stop diversification and cap the disposable, and both list all four of the key's brutal facts. Analysis 2 is preferred because its verdict answers the dossier's central question directly, it leaves room for the hedgehog to widen to repeat-purchase grooming (closer to the key's everyday-necessities framing), and it is more careful about what it cannot verify, while Analysis 1 miscounts the failed ventures as eight and offers a scheduling capability it likely lacks.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v3",
+  "_meta": {
+    "job_id": "v3|A09|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A09",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18451,
+    "tokens_out": 1340,
+    "cost_usd": 0.3488,
+    "duration_s": 17.9,
+    "finished_at": 1795632677.120918,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1340,
+        "costUSD": 0.3488
+      }
+    }
+  }
+}

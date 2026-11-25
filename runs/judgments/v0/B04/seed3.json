@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog ('everyday household plastic products that American homes trust to last... only where that trust earns a premium per pound of resin') matches the key's durable-household-products core, rules out launch counts and quota categories, builds order-fill into the flywheel, and its profit-per-pound denominator is applied per SKU and line with 'profit per active SKU' as the named alternate."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top of the list is 'Stop promising 15% compounded growth' and 'Stop the launch and category quotas', with SKU pruning below a hurdle, a pause on acquisitions and new categories, and order-fill instrumentation in the 90-day plan."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the unchanged 15% target against roughly 8% actual growth as Critical with its consequence (gap-filling acquisitions, rushed categories, price concessions), and also lists resin-driven earnings, largest-customer dependence, complexity outrunning operations, and the turnaround CEO's departure."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register marks Stages 1 and 2 as 'visible now' with fitting warning signs (SKU count growing faster than sales, falling fill rate, largest-customer growth outpacing the rest), and names blaming resin or retailers, a large acquisition or restructuring, and eventual sale, alongside resin exposure and unproven pricing power."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently tagged, derived figures follow from dossier numbers, missing data is flagged, and it catches the dossier's 9% versus 8.3% discrepancy; but it states as fact that Year −2 earnings fell 'during the resin spike' and that earnings follow resin, which the dossier does not date or establish."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (trust to price), three stop-doing items, the most urgent brutal fact with the roughly $1B gap, and the missing numbers, and can be acted on alone, though the added notes make it slightly long."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|B04|s3|judge",
+    "stage": "judge",
+    "case_id": "B04",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14502,
+    "tokens_out": 2372,
+    "cost_usd": 0.2874118,
+    "duration_s": 27.0,
+    "finished_at": 1795636998.25456,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2372,
+        "costUSD": 0.2874118
+      }
+    }
+  }
+}

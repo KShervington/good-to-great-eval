@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses land on the road-salt hedgehog, decline leading WP3 and the textbook chapter, and surface the independence gap, but Analysis 1's stop-doing list more fully matches the key by explicitly halting new middle-author Network work, trimming reviewing and handing off the seminar chair. Analysis 1 is also somewhat better calibrated (more missing data flagged, more conditional gate verdicts, no overclaim like Analysis 2's \"one round from funding\"), though neither requests her share of the $612,400 award.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v3|D07|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D07",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 21080,
+    "tokens_out": 1553,
+    "cost_usd": 0.39938399999999996,
+    "duration_s": 18.8,
+    "finished_at": 1795639491.4635913,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1553,
+        "costUSD": 0.39938399999999996
+      }
+    }
+  }
+}

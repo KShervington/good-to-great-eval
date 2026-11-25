@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the long-term, multi-stream record of what winter road salt does to stream life' built on the 37-stream record and agency link, explicitly ruling out Network field logistics, with a denominator of 'senior-authored papers + PI dollars + documented policy uses per winter of record', which matches the key."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's top three stop-doing items are leading WP3 (bounded collaborator role offered instead), the textbook chapter, and new middle-author Network writing, with reviewing trimmed and the seminar chair handed off later."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The brutal-facts register ranks as Critical the thin independent record (2 senior-authored papers, one regional and one methods note; 7 of 9 middle-author), the $46,750 PI funding against a co-PI Network grant and a declined proposal, and cites the third-year letter and the 16-month window, with the consequence stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 2 specifically ('says yes to WP3-scale roles, textbooks and syntheses') and Stage 3 denial with the early warning sign 'The Network papers will carry it', matching both expected mechanisms."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged throughout, no split of the $612,400 is invented and PI funding is correctly stated as $46,750, but her share of the collaborative award is never flagged as missing; the nearest item is 'how your committee weighs co-PI and subaward dollars'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the WP3 decision, the weakest flywheel link (data to senior-authored papers), the top three stop-doing items, the most urgent brutal fact and the missing numbers, compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track D, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D07|s3|judge",
+    "stage": "judge",
+    "case_id": "D07",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15447,
+    "tokens_out": 1491,
+    "cost_usd": 0.26729179999999997,
+    "duration_s": 18.0,
+    "finished_at": 1795639472.5282285,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1491,
+        "costUSD": 0.26729179999999997
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog pairs 'an egalitarian, pay-for-production culture with being first to apply proven new steel technology' to make the lowest-cost steel, keeps profit per ton of finished steel as the denominator, and rules out diversifying beyond steel, matching the key on all three points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three temptations to refuse are scaling iron-making before it proves out, chasing growth through old-mill or foreign purchases, and adding headquarters layers or weakening the bonus and no-layoff rules; these are the key's restraint decision and leave the proven core intact, though 'no diversification beyond steel' appears only in the hedgehog tests."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the 40% capacity wave and the copied model as High at the top, and also lists falling sheet prices, scrap cost, the unreliable iron-carbide plant, the first CEO change in 30 years and the share-price fall, with the top-line verdict stating the combined consequence."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key's decline_risks_expected is empty and later_history describes no decline, only risks faced and handled."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived per-ton figures, thresholds, values and the BHAG are marked as assumptions or estimates and the missing per-ton and iron-carbide data are flagged, but the chairman is called a 'founder' without dossier support and the 72/100 score is unexplained."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link (technology lead to cost advantage), three temptations to refuse, the most urgent brutal fact, the missing numbers and a confidence level, compactly enough to act on."
+  },
+  "D9": {
+    "score": 4,
+    "why": "It declares the subject 'already great, so this is a stewardship plan', confirms the existing hedgehog and names subject-specific warning signs, but adds changes the evidence only loosely supports: independent directors, a safety floor built into the bonus system and a new 'largest producer' BHAG."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|E01|s2|judge",
+    "stage": "judge",
+    "case_id": "E01",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12684,
+    "tokens_out": 2512,
+    "cost_usd": 0.2639238,
+    "duration_s": 29.1,
+    "finished_at": 1795640383.1349158,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2512,
+        "costUSD": 0.2639238
+      }
+    }
+  }
+}

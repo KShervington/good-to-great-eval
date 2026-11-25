@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is the trusted, durable standard product in core home categories with 'economic profit per active SKU' as the denominator, it explicitly excludes launch volume, scheduled new categories and toys/leisure, and it puts order fill in the flywheel."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are dropping the 15% compounded goal, ending the new-category cadence and capping one-a-day launches with SKU retirement, and the current push is 'cut the tail' and 'prove service before asking for price'."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register covers all four key facts: the growth target outrunning the business (#1, ranked most urgent, with the consequence of forced acquisitions, SKUs and concessions), invisible complexity and fill strain (#5), the 11→14% customer (#2), resin dependence (#4) and unproven post-turnaround leadership (#9)."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names the actual mechanisms: hubris from 'Most Admired', launches and categories pursued to hit 15%, a resin spike with no pass-through, fill problems, concentration, then a big acquisition and restructuring and absorption by a larger company. The warning signs fit, such as SKU count rising faster than sales and margins falling in a resin spike."
+  },
+  "D7": {
+    "score": 5,
+    "why": "The derived figures (8.3% CAGR, $2.9B vs $3.9B, ~31% of incremental sales, margins) follow correctly from dossier numbers, inferences such as resin causation and the 98% fill threshold are tagged [ASSUMPTION], and all the missing data is flagged; the only blemish is an unexplained 'Greatness potential: 30/100'."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest link, top three stop-doing items, most urgent brutal fact and missing numbers and is actionable, but the brutal-fact paragraph and the extras push it a bit past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|B04|s1|judge",
+    "stage": "judge",
+    "case_id": "B04",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15180,
+    "tokens_out": 2155,
+    "cost_usd": 0.2895798,
+    "duration_s": 25.7,
+    "finished_at": 1795636786.9698718,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2155,
+        "costUSD": 0.2895798
+      }
+    }
+  }
+}

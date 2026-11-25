@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to delivered flat-rolled from the two best plants and rules out bars, shipbuilding and full-line breadth, and it calls the hedgehog a 'working hypothesis' with a doom loop running today; but it never plainly says the current company has no hedgehog, and it still claims 'lowest-cost' for an integrated producer."
+  },
+  "D2": {
+    "score": 4,
+    "why": "'Stop raising prices as the profit strategy' is item 1 and stopping capital spread across high-cost plants is item 2, but 'stop treating import protection as the strategy' and 'stop status spending' on perks are buried at items 6 and 7 and absent from the verdict's top three."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'record profits were price- and inventory-driven' first and the verdict names it most urgent with the consequence that the cash window closes within months; minimills taking bar share, contractually locked-in labor cost and newer foreign mills are all listed as high severity."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names 'a slow shrink driven by creditors and pension burdens instead of by choice' with the warning sign of lenders setting restructuring terms, plus denial via import quotas and the minimill threat, which matches the actual path of losses, forced cutbacks, pension takeover and bankruptcy."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are marked [ASSUMPTION] and all four missing dossier metrics are flagged as unknown rather than guessed, but technology claims such as continuous casting, basic oxygen parity and open-hearth capacity come from outside the dossier unmarked, and '7/100' and a Gate 4 PASS beside a 'weak' truth climate are loosely supported."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link ('lower cost per ton'), three stop-doing items, the most urgent brutal fact and the missing numbers, compactly enough to act on without reading further."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A14|s3|judge",
+    "stage": "judge",
+    "case_id": "A14",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13565,
+    "tokens_out": 2004,
+    "cost_usd": 0.2576998,
+    "duration_s": 23.2,
+    "finished_at": 1795634177.0550375,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2004,
+        "costUSD": 0.2576998
+      }
+    }
+  }
+}

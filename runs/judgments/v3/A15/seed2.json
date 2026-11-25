@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog is 'building a few deep, consistent premium cigarette brands, led by Ridgeway, and carrying them across borders', which matches the key's field, global extension and give-ups, but its denominator is 'profit per advertising dollar' (profit per brand only as runner-up), not profit per global brand category."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Items 2 and 3 of the top-three stop-doing list in the verdict are 'Stop buying small, unrelated businesses (razors, shaving cream, gum)' and 'Stop spreading ad money across the whole portfolio', which is the key's decision stated explicitly."
+  },
+  "D3": {
+    "score": 4,
+    "why": "The register ranks the Surgeon General finding first as 'Existential' and lists 'smallest of six majors and is outspent by rivals' as fact 4, but it never states that most of the brand portfolio is weak with only Ridgeway gaining; that appears only by implication in the stop-doing list."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names the mechanisms that later occurred: Stage 1 hubris with the warning sign 'new ventures justified by \"we built Ridgeway\"' and unrelated acquisitions (the Seven-Up failure), plus Stage 3 denial 'already present' via 'public disputes of science' (the later deception liability)."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, the missing financial and consumer data are flagged and confidence is 'low to moderate', but there are small unmarked slips: 'ten brands' and 'four acquisitions in four years' (the dossier supports three), and an unexplained '35/100' score."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (advertising → share gains), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|A15|s2|judge",
+    "stage": "judge",
+    "case_id": "A15",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11501,
+    "tokens_out": 2119,
+    "cost_usd": 0.22927579999999997,
+    "duration_s": 25.7,
+    "finished_at": 1795634389.5755012,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2119,
+        "costUSD": 0.22927579999999997
+      }
+    }
+  }
+}

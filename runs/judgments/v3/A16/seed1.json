@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog narrows to the key's core ('leading cigarette format shifts at scale', few brands, lowest cost per thousand) and explicitly rules out unrelated diversification with a compatible denominator, but it never says plainly that the current course lacks a hedgehog and it adds a 'demonstrably lower harm' pivot the key does not contain."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop item #2, repeated in the one-screen verdict, is 'fear-driven purchases outside tobacco brand-building', backed by a 90-day freeze on unrelated acquisitions, while the hubris risk ('our brands are the best in the industry') covers not treating No. 1 as secure."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the internal memo and the Surgeon General's report as Critical with consequences stated, and lists Rival H's growing cowboy filter brand as medium-high; only the costly launch failure sits outside the register, in the doom-loop check."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Decline stages 2 and 4 name a 'diversification spree' and a 'large transformational non-tobacco purchase', with the warning sign of an acquisition approved without the written test; stage 1 flags hubris about brand leadership and explaining away the lost #1 spot, and Rival H's growth is flagged."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, missing financials are flagged repeatedly and confidence is stated as low to moderate, but claims such as 'every big win was a format first; the $30M failure wasn't one' and 'won every format shift in its history' are unmarked inferences that go beyond the dossier."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link, three stop items, the most urgent brutal fact, the missing numbers and a confidence level, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|A16|s1|judge",
+    "stage": "judge",
+    "case_id": "A16",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11773,
+    "tokens_out": 2070,
+    "cost_usd": 0.23166779999999998,
+    "duration_s": 25.5,
+    "finished_at": 1795634928.236487,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2070,
+        "costUSD": 0.23166779999999998
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses propose a similar narrowed consumer-health hedgehog while flagging the consumer-versus-pharma flip-flopping, the unrelated bakery and optical units, the 9% ROE, and the weak shaving position, so they are nearly indistinguishable on the key's hedgehog, stop-doing and brutal-fact points. Analysis 2 edges ahead because its decline register anticipates sale proceeds being recycled into new unrelated deals and eventual bidder interest, and it names CEO turnover as a driver of the strategy resets.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v3|A10|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A10",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18879,
+    "tokens_out": 1689,
+    "cost_usd": 0.36960800000000005,
+    "duration_s": 22.6,
+    "finished_at": 1795633177.2767203,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1689,
+        "costUSD": 0.36960800000000005
+      }
+    }
+  }
+}

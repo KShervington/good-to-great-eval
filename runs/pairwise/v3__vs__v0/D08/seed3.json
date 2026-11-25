@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses surface the selection-driven win rate, the 27% to 17% coverage collapse and the untracked advice desk, and both reject Homeownership Pathways and the policy expansion. Analysis 2 matches the key's hedgehog more closely (households housed per attorney FTE, full representation aimed at the hard cases), declines Homeownership outright rather than \"decline or defer\", names the missing cost-per-case metric as a brutal fact, and gives a tighter verdict.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v3|D08|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D08",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 22882,
+    "tokens_out": 1159,
+    "cost_usd": 0.41245600000000004,
+    "duration_s": 16.0,
+    "finished_at": 1795640226.5180843,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1159,
+        "costUSD": 0.41245600000000004
+      }
+    }
+  }
+}

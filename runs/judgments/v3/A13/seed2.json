@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'simple steel and joists at the lowest cost per ton... run by teams who share directly in what they produce', with the operating system/culture named as the edge, the technology as a mere accelerator ('the technology is not the edge'), and profit per ton as the denominator, which matches all three key points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing #1 is no acquisitions outside steel and joists and #3 is no new headquarters staff or management layers (both in the one-screen verdict), while #6 rejects import protection as strategy and #7 rejects layoffs."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1 (Critical) is that the equipment is for sale to anyone so the edge is the operating system, #2 (Critical) is the recession hitting incentive pay, and #7 covers imports priced below U.S. prices; the consequence is stated in the verdict ('that culture is about to take its first real pay cut')."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no decline_risks_expected and its later_history records no decline comparable to the How the Mighty Fall cases, so there is no decline mechanism to grade."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are consistently tagged [ASSUMPTION], the missing financials, cost per ton and current share are flagged rather than estimated, and the 'good, not yet great' verdict at moderate confidence fits the evidence; the only unanchored number is the subjective 'Greatness potential: 60/100'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link (output → pay), three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|A13|s2|judge",
+    "stage": "judge",
+    "case_id": "A13",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12574,
+    "tokens_out": 1743,
+    "cost_usd": 0.2314038,
+    "duration_s": 21.7,
+    "finished_at": 1795633364.8573434,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1743,
+        "costUSD": 0.2314038
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('world's strongest premium tobacco brands, market by market', with image-led brand building as the underlying skill) matches the key's flagship-first, international core and its exclusion of soft drinks, but its denominator is 'profit per loyal adult smoker', not profit per global brand, and it treats beer as unproven."
+  },
+  "D2": {
+    "score": 4,
+    "why": "'Do not buy the soft-drink company' is stop-doing item 1 and retiring 'diversify beyond tobacco' is item 2, but item 3 freezes beer capacity, which softens the key's instruction to keep capital flowing to the brewer turnaround."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The federal anti-smoking campaign is ranked first and Critical with the consequence that 'every other decision has to be priced against this', and liability, cola-giant dominance of soft drinks and the beer spending fight with Rival A are all in the register."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key's decline_risks_expected is empty and its later history describes no decline inside the window, only a handled risk."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Missing financials are flagged throughout and inferences are mostly marked as assumptions, but a few are unmarked (the 60/100 score, 'sponsorship is the likely next target', 'high-speed manufacturing', and razors and gum assumed still owned)."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact and the missing numbers in a compact form someone could act on."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It never says the company is already great (Gate 1 is CONDITIONAL, 'Greatness potential: 60/100') and it gives a long list of fixes including eight stop-doing items and three new seats, but it keeps the tobacco and international core and names subject-specific warning signs."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|E05|s1|judge",
+    "stage": "judge",
+    "case_id": "E05",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13112,
+    "tokens_out": 2044,
+    "cost_usd": 0.2520518,
+    "duration_s": 28.5,
+    "finished_at": 1795641110.2148845,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2044,
+        "costUSD": 0.2520518
+      }
+    }
+  }
+}

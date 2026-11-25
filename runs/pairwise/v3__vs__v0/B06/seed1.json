@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "2",
+  "D5": "2",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2's hedgehog (breakthrough medicines, profit per breakthrough, growth as an outcome of purpose) matches the key more closely, and its brutal facts cover all four key items, including the rival's first approval and the low odds per molecule. Both drop the growth objective, question the PBM and refuse to stake the story on COX-2, but Analysis 2 pinpoints Stage 3 denial (reframed data, dismissed critics) as the key risk and leans less on derived figures such as Analysis 1's $2.7B a year.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v3|B06|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "B06",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17023,
+    "tokens_out": 1430,
+    "cost_usd": 0.329552,
+    "duration_s": 21.5,
+    "finished_at": 1795637529.1181362,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1430,
+        "costUSD": 0.329552
+      }
+    }
+  }
+}

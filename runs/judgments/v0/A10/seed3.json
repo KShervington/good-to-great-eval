@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "It narrows to a consumer self-care core as a 'working hypothesis' while stating the company 'has not chosen between them', that 'trying to be both is how the company got here' and that it is 'currently in a doom loop', which matches the key's no-coherent-hedgehog, consumer-versus-pharma lurching."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top stop-doing items in the verdict are 'Stop changing the company's identity' and 'Sell the bakery and optical businesses', with 'Stop buying businesses to show growth' and a warning against the new team merely reversing its predecessor also on the list."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'ROE about 9%, margins down about 40%' first as Critical with its consequence, and also lists unsettled strategy, bakery and optical not fitting, the distant #2 position in shaving, and legal and regulatory problems across several lines."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names 'Divestiture cash spent on a new unrelated acquisition' (the bakery sale followed by the money-losing device purchase), flags Stage 4 as 'already showing' with the warning sign 'a third direction or a transformational merger', and names Stage 5 as 'sale or breakup of the company'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked, missing segment, share and pipeline data are flagged, and a competing pharma hypothesis is held open, but there are minor unmarked inferences such as 'a working brand engine in remedies', the Gate 7 'pioneer in proving over-the-counter claims' PASS, and an unsupported 12/100 score."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (proof), the top three stop-doing items, the most urgent brutal fact and the missing numbers, but it runs somewhat past one phone screen with the greatness-score and evidence-note additions."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A10|s3|judge",
+    "stage": "judge",
+    "case_id": "A10",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12038,
+    "tokens_out": 2365,
+    "cost_usd": 0.24770779999999998,
+    "duration_s": 27.3,
+    "finished_at": 1795633155.5352402,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2365,
+        "costUSD": 0.24770779999999998
+      }
+    }
+  }
+}

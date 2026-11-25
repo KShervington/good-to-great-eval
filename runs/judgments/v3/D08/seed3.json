@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'Marlow County's tenant defense bar… judge ourselves by households kept stably housed per attorney, not by cases won', with triage by marginal impact rather than win odds and homeownership, statewide policy and winnability screening ruled out; this matches the key's field, sacrifices and denominator, though 'right level of help' is slightly broader than full representation."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items, in both the verdict and the list, are declining Homeownership Pathways, ending screening by win odds, and no statewide campaign or doubling of the policy unit, which are exactly the key's three decisions."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal facts #1 and #2, both rated Critical, give coverage falling 27.4% to 17.0% as filings rose 21.7% and the 93% as non-comparable because of the screening protocol; #3 doubts the vacancy explanation and #5 flags hard cases diverted to an untracked advice desk."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names undisciplined more (Homeownership, statewide campaign, policy doubling) with the warning sign 'new restricted grants whose indirect allowance plugs deficits', and names 'we're winning more while fewer families are housed' with the warning signs of a win-rate headline and reports citing vacancies as coverage falls."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures are labelled as arithmetic on the dossier, assumptions are tagged, cost per case is flagged as not computable rather than guessed, and confidence is stated as moderate-low; however, the claim that EHDC is 'the only' courthouse-embedded tenant defense organization in the county is asserted without dossier support or an assumption tag."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the verdict, hedgehog sentence, weakest flywheel link (measurement), top three stop-doing items, most urgent brutal fact, missing numbers and confidence in compact bullets, and the lead paragraph states the coverage drop and screening effect, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track D, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|D08|s3|judge",
+    "stage": "judge",
+    "case_id": "D08",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15865,
+    "tokens_out": 2811,
+    "cost_usd": 0.3267798,
+    "duration_s": 30.3,
+    "finished_at": 1795639917.476086,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2811,
+        "costUSD": 0.3267798
+      }
+    }
+  }
+}

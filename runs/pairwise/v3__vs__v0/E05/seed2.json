@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "1",
+  "D5": "na",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "2",
+  "overall": "2",
+  "why": "Both refuse the soft-drink deal and name the anti-smoking campaign as the most urgent fact, but Analysis 2's denominator (profit per leading brand) and its stop-doing list (no fear-driven diversification, face the health risk directly) sit closer to the key, and it shows more restraint by leaving the proven core largely alone. Analysis 1 is the only one to list cola and bottler dominance among its brutal facts, but it adds more interventions, such as exiting side businesses and not chasing Rival A on volume, that cut against preserving what works.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v3|E05|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "E05",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17794,
+    "tokens_out": 1873,
+    "cost_usd": 0.359608,
+    "duration_s": 24.6,
+    "finished_at": 1795641305.2846649,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1873,
+        "costUSD": 0.359608
+      }
+    }
+  }
+}

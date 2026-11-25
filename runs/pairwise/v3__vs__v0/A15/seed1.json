@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on the key's hedgehog (concentrate on Ridgeway and a few brands, extend globally) and both stop the brand sprawl and unrelated acquisitions, but Analysis 2 is firmer on ending hedge diversification and more specific on liability and transformational-acquisition risk, with a loyalty-based denominator and a world's-best-selling-brand goal. Analysis 1 is somewhat better calibrated, with an explicit confidence statement and flagged unknowns, but it softens the diversification stop by leaving room for one large hedge and underrates the subject's potential.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v3",
+  "_meta": {
+    "job_id": "v3|A15|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A15",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17182,
+    "tokens_out": 1688,
+    "cost_usd": 0.342416,
+    "duration_s": 22.3,
+    "finished_at": 1795634737.8796718,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1688,
+        "costUSD": 0.342416
+      }
+    }
+  }
+}

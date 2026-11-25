@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It calls the current state 'no settled identity: doom loop' with 'two opposite futures within one year' and offers a narrowed consumer self-care hedgehog only as a 'working hypothesis', but it never says outright that the company has no hedgehog and leans toward one pole."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items are 'Stop buying companies', exit bakery and optical, and 'no third strategic pivot in two years', which match the key's unrelated-acquisition and flip-flopping decisions directly."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'Returns are poor and falling' (margins down about 40%, ROE about 9%) and 'No settled identity' as Critical, and also lists the bakery purchase outside any core, the legal and regulatory problems, and the distant #2 shaving position; the verdict states the consequence as a doom loop in progress."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names 'deal-making culture returns once cash comes in from divestitures' with the warning sign of 'adjacent' acquisitions, plus a salvation pharma bet or merger and 'broken up or taken over', which match the later failed acquisition, repeated restructurings and eventual takeover."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked and the missing segment profits, shares and pipeline are flagged as able to flip the answer, but 'a large share of mouthwash for about 25 years' and 'one of the most trusted everyday-health franchises in the world' are unmarked inferences, and the 15/100 score has no stated basis."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict gives the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers in actionable form, but with the bottom line and evidence note it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|A10|s2|judge",
+    "stage": "judge",
+    "case_id": "A10",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12606,
+    "tokens_out": 2027,
+    "cost_usd": 0.2432758,
+    "duration_s": 24.1,
+    "finished_at": 1795633154.5428512,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2027,
+        "costUSD": 0.2432758
+      }
+    }
+  }
+}

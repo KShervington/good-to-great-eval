@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is spec compliance at the point of editing for professional studios and their freelancers, it explicitly rules out auto-align, creator captioning and Linux, and its denominator is 'recurring profit per renewing seat', which matches the key."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict and the top three stop-doing items are 'Linewright Lite; the Linux port; competing on auto-align', which are exactly the key's decisions, stated as outright stops."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The verdict's most urgent brutal fact joins the renewal slide past the 58% model to Lantern's free auto-align (69% of buyers), and the register ranks renewals, the 161 vs. 209 license drop ('not seasonal') and the soon-free top purchase reason all High."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 2 (creator app, Linux) and Stage 3 (renewal slide explained as price, sales as season) specifically, and marks the Stage 3 early warning as 'already true'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "The segment renewal split is flagged as missing and all thresholds and conversion figures carry [ASSUMPTION] tags, but brutal fact 6 applies the blended renewal rate to the individual update price without a tag, and the 22/100 score is unexplained."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict compactly gives the hedgehog sentence, the most urgent brutal fact, the weakest flywheel link, three stop items, the missing numbers and a confidence level, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|D04|s1|judge",
+    "stage": "judge",
+    "case_id": "D04",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13812,
+    "tokens_out": 1618,
+    "cost_usd": 0.24621179999999998,
+    "duration_s": 21.0,
+    "finished_at": 1795638299.6105213,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1618,
+        "costUSD": 0.24621179999999998
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'make professional subtitle files pass the broadcaster's spec the first time, sold to studios as an annual per-seat standard', with auto-align demoted to parity and 'recurring revenue per professional seat' as denominator, which matches the key on field, sacrifice and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are 'Don't build Linewright Lite', 'Stop leading with auto-align' and 'Shelve the Linux port', which are exactly the key's three decisions, stated explicitly."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent brutal fact joins 69% auto-align, Lantern's stable release this winter, renewals at 52% against the modeled 58% floor, Q3 licenses down 23% and the 70% revenue exposure; it is ranked Critical and first in the register."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register names Stage 2 as 'Lite, Linux, workflow features, a second product' and Stage 3 as 'Summer, it'll settle at 58%', each with a specific warning sign, and the gate log says both stages are already showing."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Segment-split renewal is flagged as the key missing number and never estimated (studio 85–90% appears only as an [ASSUMPTION] threshold), derived figures check against the dossier, and the Lite conversion math is tagged; the only slip is the loose 'four quarters in a row' wording."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (unmeasured first-pass QC), the top three stop-doing items, the most urgent brutal fact with numbers, and the missing numbers; it is compact and actionable, if slightly long."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D04|s2|judge",
+    "stage": "judge",
+    "case_id": "D04",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14623,
+    "tokens_out": 2017,
+    "cost_usd": 0.2751478,
+    "duration_s": 23.6,
+    "finished_at": 1795638728.0023117,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2017,
+        "costUSD": 0.2751478
+      }
+    }
+  }
+}

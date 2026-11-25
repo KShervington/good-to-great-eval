@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "tie",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both land on the same spec-compliance, studio-seat hedgehog, flag the missing renewal split without inventing a studio rate, and join free auto-align to the falling renewals and licenses; Analysis 2's top three stop-doing items match the key exactly. Analysis 1 names the denial mechanism precisely (declines blamed on price and summer), gives an explicit decision on all four options, and sequences the studio push realistically for a solo founder, whereas Analysis 2 asks for SSO, an admin console and a QC report in 90 days.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v3|D04|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D04",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 20281,
+    "tokens_out": 2677,
+    "cost_usd": 0.43156,
+    "duration_s": 29.7,
+    "finished_at": 1795638781.1221075,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2677,
+        "costUSD": 0.43156
+      }
+    }
+  }
+}

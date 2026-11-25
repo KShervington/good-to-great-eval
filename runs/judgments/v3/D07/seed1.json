@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is road-salt/salt-pulse stream ecology built on the 37-stream winter record and the agency policy channel, explicitly excludes Network field leadership, and uses 'senior-authored salt papers per research week' with PI funding following, which matches the key's field, sacrifice and denominator."
+  },
+  "D2": {
+    "score": 4,
+    "why": "'Leading Work Package 3 as framed' is stop-doing item 1 in the verdict and the textbook chapter is item 2, but it is softened to 'commit at a scoped level' (site PI, a salt module she leads, a coordinator running WP3 day-to-day), which is more than the key's minimal collaborator role."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The top brutal facts, ranked Critical/High, are 2 minor senior-author papers against middle-author Network papers, only $46,750 in PI funding with the early-career proposal declined and the big grant led by Martin's former student, and the third-year 'distinct research identity' flag, all tied to the 16-month clock and the independence guideline."
+  },
+  "D5": {
+    "score": 4,
+    "why": "Stage 2 is named specifically ('Takes the WP lead, textbook and chair roles', warning sign 'research weeks fall'), though framed as post-tenure, while Stage 3 denial is given as dismissing 'descriptive' critiques, not as reading prestigious middle-author papers as tenure strength."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, and the $612,400 is neither split nor counted as her PI funding, but the analysis never flags her share of the collaborative award as a missing number to request, and 'longest and densest winter record' slightly overstates the dossier's 'most complete'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits on one screen and gives the hedgehog sentence, the weakest link (data → papers), the top three stop-doing items, the most urgent brutal fact, the numbers that would change the call and a confidence level, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|D07|s1|judge",
+    "stage": "judge",
+    "case_id": "D07",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13306,
+    "tokens_out": 2465,
+    "cost_usd": 0.2719958,
+    "duration_s": 27.1,
+    "finished_at": 1795638975.3097227,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2465,
+        "costUSD": 0.2719958
+      }
+    }
+  }
+}

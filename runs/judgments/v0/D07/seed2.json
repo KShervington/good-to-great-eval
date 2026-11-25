@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is winter road salt and stream life as her own program, built on the 37-stream, four-winter dataset and the agency relationship, with a denominator of 'senior-author or PI-led output per week of Elena's research time', and it explicitly rules out running Martin's network."
+  },
+  "D2": {
+    "score": 5,
+    "why": "'Don't lead WP3' is stop-doing item 1 in the one-screen verdict and the full list, followed by declining the textbook chapter and cutting new middle-author Network roles and the seminar-committee chair."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The verdict's most urgent brutal fact is the 16-month deadline against only two minor senior-author papers and $46,750 of PI-led funding, with 'everything bigger' belonging to Martin's Network; the register ranks the thin record, the third-year letter and the co-PI grant plus declined proposal as High."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 2 as saying yes to WP3, chapters and committees (warning: salt share of research weeks below 70%) and Stage 3 as assuming the Network papers will 'count' (warning: dossier narrative leads with Network papers)."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are tagged [ASSUMPTION], no split of the $612,400 is invented and uniqueness of the dataset is flagged as unverified, but her share of the collaborative award is never named as a missing number; it asks only how the department counts subawards."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers and is actionable, but with the bottom-line paragraph, five missing-number bullets and a process note it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|D07|s2|judge",
+    "stage": "judge",
+    "case_id": "D07",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13899,
+    "tokens_out": 1676,
+    "cost_usd": 0.2499238,
+    "duration_s": 19.5,
+    "finished_at": 1795639405.8196974,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1676,
+        "costUSD": 0.2499238
+      }
+    }
+  }
+}

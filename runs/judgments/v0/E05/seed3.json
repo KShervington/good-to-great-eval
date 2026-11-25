@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'turning an under-performing adult-indulgence brand into its category's #1 or #2 premium brand, through image-led marketing... scaling that brand worldwide, measured by profit per global brand', which matches the key's premium image-driven brand-building, international scaling, passion and denominator, and explicitly rules out soft drinks and fear-driven diversification."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1 is 'Don't buy the soft-drink company' (default no), item 2 is to stop diversifying because tobacco is scary, and item 6 is to face health and liability as fact; the core flagship, international and beer businesses are kept, with beer capacity only staged."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the federal anti-smoking campaign as #1 and Critical, and also lists unquantified liability risk, the soft-drink target as a structural #3 against two giants with locked-up bottler networks, and beer as a capital race against the entrenched leader, with the consequence stated in the verdict."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key's decline_risks_expected is empty and later_history records no company decline within the window; the Seven-Up failure is listed as a temptation faced, which the analysis did flag under 'Undisciplined more' and 'Hubris'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently marked, no financials are invented and the missing data is flagged, but 'Nearly all of the company's value rests on one cigarette brand' is an unmarked overstatement of the dossier's two-thirds-of-tobacco figure, and it assumes without marking that the razor and gum units are still held."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (brand reach), three concrete stop-doing items, the most urgent brutal fact and the missing numbers in a compact form someone could act on."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It preserves the core and names subject-specific warning signs, but never says plainly that the company is already great: it scores 'Greatness potential: 62/100', marks Gate 1 CONDITIONAL, says the company 'sits right at a doom-loop fork', and adds a long improvement list (new hires, packaging review, tail-brand pruning, a new BHAG)."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|E05|s3|judge",
+    "stage": "judge",
+    "case_id": "E05",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12720,
+    "tokens_out": 2178,
+    "cost_usd": 0.2511398,
+    "duration_s": 26.2,
+    "finished_at": 1795641256.4051392,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2178,
+        "costUSD": 0.2511398
+      }
+    }
+  }
+}

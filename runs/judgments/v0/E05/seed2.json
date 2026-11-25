@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('turns one under-valued brand at a time into the defining premium brand of an adult, image-led consumer category, worldwide') matches the key's premium brand-building, flagship-first, international core and excludes soft drinks, but its denominator is 'profit per premium unit' rather than profit per global brand."
+  },
+  "D2": {
+    "score": 5,
+    "why": "'Do not buy the soft-drink company' is in the verdict and is stop-doing item 1, followed by 'stop using diversify beyond tobacco as an acquisition rationale', with capital kept on international cigarettes and a gated beer build-out and the core left intact."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the federal anti-smoking campaign first and liability second, both Critical, also lists cola/bottler dominance and beer's unproven spending against Rival A, and states the consequence ('endurance depends on how candidly the company handles this')."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key's decline_risks_expected is empty and later_history describes no decline within the window."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are marked [ASSUMPTION], missing profit, share and return data are flagged and no financials are invented, but the 'Greatness potential: 62/100' score is unexplained and it assumes without marking that razors and gum are still held."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict contains the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact and the missing numbers, and is actionable, but it runs longer than one phone screen."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It never says plainly that the subject is already great (62/100, Gate 1 CONDITIONAL, five conditional gates) and gives a long list of fixes including three missing seats and seven stop-doing items, though it preserves the flagship and international core and names subject-specific warning signs."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|E05|s2|judge",
+    "stage": "judge",
+    "case_id": "E05",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13711,
+    "tokens_out": 1993,
+    "cost_usd": 0.2595958,
+    "duration_s": 24.2,
+    "finished_at": 1795641284.5789237,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1993,
+        "costUSD": 0.2595958
+      }
+    }
+  }
+}

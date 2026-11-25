@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog sentence ('turns fundamental science into breakthrough medicines, earns its profit one protected breakthrough at a time, and lets profits follow the medicine') matches the key's research-driven field, patients-first purpose, growth as outcome, and profit-per-breakthrough denominator, and it rules out the PBM as growth engine, growth-rate targets and mega-mergers."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three temptations in the verdict are retiring 'top-tier growth company' as the #1 objective, not staking the growth story on the COX-2 class, and not counting PBM revenue as growth; the body adds a PBM review with separation as an option and a rule that the data decides the claims."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register contains all four key facts (near-$5B / 22% patent cliff, the growth arithmetic needing 4–9 blockbusters, PBM share of headline growth, rival COX-2 approved first), ranked critical or high with consequences; the verdict leads with the PBM-masked core growth ahead of the cliff."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register names Stage 2 (growth goal on $27B, PBM revenue used as growth) as most advanced and Stage 3 as 'ambiguous COX-2 outcome or safety data gets read favorably because the growth story depends on it', with the warning sign 'safety signals explained away below board level' — the mechanism that actually occurred."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures and assumptions are consistently tagged and the key gaps (cardiovascular safety data, PBM standalone profit, pipeline beyond COX-2) are flagged, but the 'Greatness potential: 55/100' score and the core purpose 'to preserve and improve human life' appear unmarked and unsupported by the dossier."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link, three temptations to refuse, the most urgent brutal fact, the missing data and a confidence level, so a reader could act on it without going further."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v3|B06|s3|judge",
+    "stage": "judge",
+    "case_id": "B06",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15833,
+    "tokens_out": 1816,
+    "cost_usd": 0.2864678,
+    "duration_s": 21.9,
+    "finished_at": 1795637363.3806207,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1816,
+        "costUSD": 0.2864678
+      }
+    }
+  }
+}
