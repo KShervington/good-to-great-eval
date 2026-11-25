@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'Run the bank as a business: be the leanest, most credit-disciplined commercial bank in the western U.S., and judge everything by profit per employee', which matches the key's cost discipline, western focus over global banking, and denominator."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Overseas activity is the first stop-doing item, and branch closures, headcount review and executive perks all appear, but international is framed as stopping new offices, stakes and JVs plus shedding 'marginal' offices, not a clear exit, and perks sit at item 8."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the end of cheap deposits and a cost base 'sized for the old regime' as Critical items 1 and 2, lists repeated international losses as item 4, and states the consequences."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names 'cost discipline turning into control or sales pressure... aggressive sales quotas' with complaints and audit findings as early warnings, and separately flags acquisitions used to manufacture growth, which fits both the sales scandal and the troubled integration."
+  },
+  "D7": {
+    "score": 5,
+    "why": "No financials are invented, inferences are tagged [ASSUMPTION], scorecard baselines are left 'Unknown', the missing line P&L, efficiency ratio and Latin American exposure are flagged, and confidence is stated as moderate to low."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, weakest flywheel link, top three stops, most urgent brutal fact, the numbers that would change the view, and a confidence level, concisely enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is Track A, not Track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A21|s3|judge",
+    "stage": "judge",
+    "case_id": "A21",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12520,
+    "tokens_out": 1741,
+    "cost_usd": 0.2304598,
+    "duration_s": 25.5,
+    "finished_at": 1795622783.9302313,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1741,
+        "costUSD": 0.2304598
+      }
+    }
+  }
+}

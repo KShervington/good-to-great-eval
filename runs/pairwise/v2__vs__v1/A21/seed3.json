@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Analysis 1's hedgehog matches the key almost word for word (run the bank as a business, western U.S., profit per employee), and it alone flags sales-quota pressure and sales abuse as a decline risk, which is the mechanism that later materialised. Analysis 2 is slightly firmer on actually exiting international, but it puts unsupported numeric targets in its scorecard and scores a subject that proved great at only 30/100.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|A21|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A21",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18200,
+    "tokens_out": 1572,
+    "cost_usd": 0.354064,
+    "duration_s": 19.0,
+    "finished_at": 1795622777.6627033,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1572,
+        "costUSD": 0.354064
+      }
+    }
+  }
+}

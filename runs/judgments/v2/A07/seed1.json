@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'best capital-markets operator in residential mortgages, earning a disciplined profit on every unit of risk Keystone keeps, so that more families can get a home loan', which matches the key's field, its 'profit per unit of mortgage risk' denominator and its passion, and it explicitly rules out portfolio holding and rate speculation."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1, also in the verdict, is 'Stop funding long fixed-rate mortgages with short-term debt', with match-funding of new purchases and keep/sell/hedge rules for the old book; removing executives who resist appears only in the bus table and is softer than the key."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1, rated Critical, is 'The core spread model is structurally broken whenever rates rise', citing negative margins since Year −3 and the loss of about $1M a day, with possible market-value insolvency and the unplanned old fixed-rate book as facts 2 and 3."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names 'The backstop lets Keystone grow faster than its capital and creep into more risk', politically driven loosening of credit standards, opacity becoming denial and 'accounting fixes', each with a concrete warning sign, which is the mechanism that later played out."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, missing financials are flagged prominently and confidence is stated as low to moderate, but the 'Greatness potential: 35/100' score is unexplained and claims such as a 'constructive' regulator relationship and 'cheapest, most trusted funding' are unmarked inferences."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (match-funding), three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, all on one screen and actionable."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A07|s1|judge",
+    "stage": "judge",
+    "case_id": "A07",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11364,
+    "tokens_out": 1681,
+    "cost_usd": 0.20956379999999997,
+    "duration_s": 19.5,
+    "finished_at": 1795620561.8163016,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1681,
+        "costUSD": 0.20956379999999997
+      }
+    }
+  }
+}

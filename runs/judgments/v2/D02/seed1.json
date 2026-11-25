@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog 'Never-down dish rooms for independent restaurants, on routes dense enough to answer any call within hours', with refurb as supporting skill, hotels/conveyor/new machines/multi-metro explicitly excluded, and 'fully loaded contribution per machine-month' as denominator, matches the key's field, give-ups and per-machine denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's top three and the stop-doing list lead with 'Don't sign Larchmont as offered' and 'Don't open a third metro this spring', backed by a categorical 'no service-only contracts' item and a landed-cost ceiling that ends planning on Delmar-priced units; 'as offered' is a slight softening offset by item 7."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical and repeated in the verdict, links 288/403 Delmar units to the Harrow's program ending (118 of 610 left), states the consequence (all-in cost $2,130 to about $4,140, payback about 12 to 24 months, roughly 5 months of supply left) and notes the memo never connects the two sections."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names Stage 2 (third metro plus Larchmont) and Stage 3 (supply cliff explained away) specifically, with concrete early warnings such as east response below 90% for 3 months and blended all-in cost per placement above $3,277."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Churn is flagged as unknown and requested rather than computed, inferred figures (auction midpoint, about 69 remaining units, payback target, loaded tech cost) carry [ASSUMPTION] tags, derived numbers check against the dossier, and confidence is stated as medium-low; the generous gate PASS verdicts are a minor blemish."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence with denominator, the most urgent brutal fact, the weakest flywheel link (machine supply), the top three stops, the missing numbers and a confidence level, so it is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|D02|s1|judge",
+    "stage": "judge",
+    "case_id": "D02",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15230,
+    "tokens_out": 2086,
+    "cost_usd": 0.28761980000000004,
+    "duration_s": 23.5,
+    "finished_at": 1795627063.5195723,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2086,
+        "costUSD": 0.28761980000000004
+      }
+    }
+  }
+}

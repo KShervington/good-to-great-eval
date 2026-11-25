@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "It narrows to 'dense, supermarket-adjacent self-service discount drugstores in the Southeast and Texas' with profit per customer visit, rules out the non-drug units, and says the company is 'drifting' on acquisitions with 'no common thread'."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing items 1 and 2, repeated in the verdict, are 'stop acquiring businesses outside drug retail' and 'stop owning the department stores, security services and food-service supply units'; item 4 also curbs drug-chain deals without density."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All three key facts are in the register at High severity (Rival W in the home state, the founder's attention divided for five years, diversification with no common thread), with Rival W named most urgent in the verdict and consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names continued diversification ('any non-drug deal reaches the board') and the founder taking 'a campaign or public post' without a role change as top risks, plus Stage 5 sale to a rival, which matches what later happened."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are mostly tagged, missing financials are flagged and confidence is stated as low to moderate, but a few inferences are unmarked: the 'Greatness potential: 15/100' score, the candy unit having 'failed', and 'the company currently runs on two people'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, weakest flywheel link, three stop-doing items, the most urgent brutal fact, missing numbers and confidence in one compact screen that can be acted on."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A20|s3|judge",
+    "stage": "judge",
+    "case_id": "A20",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11565,
+    "tokens_out": 1821,
+    "cost_usd": 0.21837979999999999,
+    "duration_s": 22.5,
+    "finished_at": 1795622568.428855,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1821,
+        "costUSD": 0.21837979999999999
+      }
+    }
+  }
+}

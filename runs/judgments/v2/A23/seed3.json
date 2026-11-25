@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('best in the world at automating the money records of financial institutions and the bookkeepers', measured by profit per FI customer, ruling out head-on general-purpose computing against Rival I) matches the key's field, give-up and denominator, but it only calls the hedgehog 'unproven' and cites doom-loop signs, never saying plainly that the company has none or that results hinge on one leader."
+  },
+  "D2": {
+    "score": 3,
+    "why": "Item 1 ('Stop competing across the whole general-purpose computer market against Rival I') matches one key point, but one-man dependence appears only outside the list (EVP speaks last, missing #2, successor bench) and there is no warning against cost cuts that starve engineering, quality and service."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All three key facts are in the register: the margin collapse from about 13% to about 2% is ranked Critical and named most urgent in the verdict, Rival I's dominance with Calder among the smallest challengers is rated High, and the narrow accounting-machine-dependent line is listed."
+  },
+  "D5": {
+    "score": 3,
+    "why": "The risk register flags 'EVP dominance suppresses bad news' and an unknown bench with a fitting warning sign, but the named lead decline risks are pursuit of more and denial, and the actual mechanism of cost-cutting that starved engineering and reliability is never raised."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Targets, values, the BHAG and the defense-profitability claim are all tagged [ASSUMPTION], the missing line P&L, Year −3 to −1 results, R&D dollars and share data are flagged, and confidence is stated as 'low to moderate', consistent with the evidence."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link (profit not feeding focused R&D), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, concisely enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A23|s3|judge",
+    "stage": "judge",
+    "case_id": "A23",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12701,
+    "tokens_out": 2408,
+    "cost_usd": 0.26003580000000004,
+    "duration_s": 28.4,
+    "finished_at": 1795623288.572694,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2408,
+        "costUSD": 0.26003580000000004
+      }
+    }
+  }
+}

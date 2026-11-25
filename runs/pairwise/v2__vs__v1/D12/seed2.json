@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both correctly fail Gate 0, reframe to the ongoing endeavor or project-risk methods, and connect the Calder concentration, the retired contact, the parent's review and the March/April/May cash timing. Analysis 1 is firmer on declining the unbudgeted app (a 'no' unless externally owned and fully funded) and flags the unknown status of the pledge, while Analysis 2 leaves the app as 'stop deferring' with a cut-down option and adds an unsupported 'larger city' detail.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|D12|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "D12",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12245,
+    "tokens_out": 1266,
+    "cost_usd": 0.246544,
+    "duration_s": 17.2,
+    "finished_at": 1795629549.4107049,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1266,
+        "costUSD": 0.246544
+      }
+    }
+  }
+}

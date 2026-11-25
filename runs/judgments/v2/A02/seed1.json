@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "It narrows to the key's core (\"toilet tissue, towels and facial tissue, better and cheaper per roll\"), says Corwin should \"stop acting as a conglomerate\" and that the diversification strategy is wrong, and gives a compatible profit-per-ton denominator plus a falsifier if it cannot match Rival P."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing items 1-4 and the one-screen verdict are to freeze acquisitions outside household paper and sell films, furniture and AV aids; item 9 stops reliance on list-price cuts, and comfort with past dominance is flagged as hubris."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Rival P's national launch with a softness advantage is ranked #1 Critical and named most urgent in the verdict; the ~$200M of unprofitable acquisitions and the ROE and earnings decline are rows 3 and 4."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names denial on softness against Rival P, grasping for salvation through a bold new chairman, and capitulation by sale of the company, each with a specific warning sign; it misses the later capacity-expansion blunder."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged and the missing share, softness and acquisition-profit data are flagged, but it treats dossier gaps as company ignorance without marking it (\"flying blind\", \"cannot measure its weakest link\") and adds napkins unmarked."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact, missing numbers and confidence, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A02|s1|judge",
+    "stage": "judge",
+    "case_id": "A02",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11491,
+    "tokens_out": 1724,
+    "cost_usd": 0.2133158,
+    "duration_s": 20.7,
+    "finished_at": 1795619305.9920132,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1724,
+        "costUSD": 0.2133158
+      }
+    }
+  }
+}

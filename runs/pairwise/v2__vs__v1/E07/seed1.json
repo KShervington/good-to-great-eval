@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "tie",
+  "overall": "2",
+  "why": "Both analyses recognise Calloway as already great, name the same brutal facts and refuse the grant terms, the math pilot and ReadAlong, but Analysis 2 matches the key more closely with an explicit one-to-one hedgehog, a 30-hour and roughly 12:1 floor, the board seats inside the stop-doing list, and a decline read of Stages 1-2 active with Stage 3 emerging. Analysis 1 is slightly looser on calibration (it cites 'sixteen years of renewals' against the dossier's twelve, adds 'community tutors', and blurs the decline staging as Stage 2-4), though its expansion-freeze thresholds are a real strength.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|E07|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "E07",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 20612,
+    "tokens_out": 1704,
+    "cost_usd": 0.397936,
+    "duration_s": 20.9,
+    "finished_at": 1795631027.1286845,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1704,
+        "costUSD": 0.397936
+      }
+    }
+  }
+}

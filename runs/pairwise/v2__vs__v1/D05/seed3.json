@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both correctly stop at Gate 1, decline the employer build for now and ask for non-network cohort retention, but Analysis 1 also cleanly defers hiring and Android, and explicitly says the prize, rating and newsletter are not product traction, while Analysis 2 lists those as evidence of good and leaves hiring open. Analysis 1 also flags more of the missing data with tagged assumptions and gives a concrete 90-day plan, including a no-build employer test, which makes it more useful to hand to the founder.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|D05|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "D05",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14564,
+    "tokens_out": 1768,
+    "cost_usd": 0.303728,
+    "duration_s": 21.2,
+    "finished_at": 1795627955.0095024,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1768,
+        "costUSD": 0.303728
+      }
+    }
+  }
+}

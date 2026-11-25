@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both land on the key's hedgehog (convenient, dense, pharmacy-centred drugstores run on profit per customer visit) and its brutal facts, with Analysis 1 slightly closer on clustered corner sites. Analysis 2 commits to a phased exit from all food service and the discount stores, where Analysis 1 only freezes restaurant growth and keeps the lunch counters under test, and Analysis 2 is also more explicit about its confidence and what missing division data could change.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|A19|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A19",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18534,
+    "tokens_out": 2108,
+    "cost_usd": 0.380848,
+    "duration_s": 25.1,
+    "finished_at": 1795622263.718096,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2108,
+        "costUSD": 0.380848
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is primary banking relationships for households and small businesses through local stores, with 'economic profit per active primary household' as denominator, and it explicitly rejects product-count selling and products-per-household, matching the key."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items, repeated in the opening verdict, are daily product-count quotas, incentive pay tied to products sold, and risk and HR run inside the business lines; the 'eight' goal is demoted as item 4 and cross-sell is 'never paid on'."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks as Critical the regulator's quota-driven misconduct finding using the same tools as the core bank and cross-sell counting products held, not used; gaming hidden in the rising metric and decentralization containing misconduct follow as High, each with a consequence."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The lead risk is Stage 2/3, the 'eight' goal pursued as a quota with gaming hidden inside rising cross-sell, with early warning signs of unfunded accounts and terminations and hotline reports clustering in high-goal regions; Stage 1 hubris treating findings as 'legacy' is also flagged."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently tagged and the missing data (active/funded rate, terminations, hotline, turnover) is flagged rather than guessed, but 'Greatness potential: 42/100' is an unmarked, unexplained figure that sits oddly with 'good, close to great'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen compactly gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence statement, and is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|B03|s1|judge",
+    "stage": "judge",
+    "case_id": "B03",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14332,
+    "tokens_out": 1732,
+    "cost_usd": 0.2590918,
+    "duration_s": 25.5,
+    "finished_at": 1795625002.9868188,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1732,
+        "costUSD": 0.2590918
+      }
+    }
+  }
+}

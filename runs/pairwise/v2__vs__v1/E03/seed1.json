@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "1",
+  "D5": "2",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "2",
+  "overall": "2",
+  "why": "Both confirm the cost-effective-portfolio hedgehog with profit per employee, refuse the PBM purchase, scale merger and R&D race, and make the diagnostics quality fix the urgent priority; Analysis 1's brutal-facts table matches the key slightly better because it lists rival consolidation explicitly. Analysis 2 is the stronger hand-off because it adds correctly derived warnings that match the key's early-warning signs (joint-venture and government-channel compliance exposure, a slowing streak propped up by buybacks), sets concrete trigger thresholds, and is more explicit about confidence and caveats.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|E03|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "E03",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17591,
+    "tokens_out": 1605,
+    "cost_usd": 0.34564,
+    "duration_s": 19.7,
+    "finished_at": 1795630075.1047473,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1605,
+        "costUSD": 0.34564
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is daily one-to-one early-reading tutoring by well-trained, closely coached tutors inside district partnerships, explicitly excludes math, apps and rapid multi-state launches, and uses 'cost per additional reader' as the denominator, which is compatible with benchmark-per-dollar."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict's 'temptations to refuse' are the grant as written (five states in 30 months plus three board seats), One Million Readers, and the math pilot and ReadAlong; it also restores 30-hour training and the coaching ratio and fills the research director now, without dismantling the core."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The brutal-facts register ranks the new-school decline (69% to 63% to 58% against 74% in mature schools) first as critical, the cuts to training, coaching and retention second, and the dark evidence base (vacant research role, dropped study) third, with consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names quality dilution through the tutor-preparation chain, the funder setting pace and governance, the evidence going dark, and loss of district trust, each with specific warning signs and thresholds (new-school benchmark below 62%, retention below 70%, any district non-renewal), and it diagnoses Stage 1 and 2 hubris and undisciplined growth."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures are computed from dossier data and assumptions are tagged, missing data (coach headcount, module completion, cohort splits, board size) is flagged and confidence is stated, but the 'Greatness potential: 62/100' score is given with no basis."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (tutor preparation and coaching), three temptations to refuse, the most urgent brutal fact, the missing numbers and a confidence level, compactly enough to act on."
+  },
+  "D9": {
+    "score": 5,
+    "why": "It states plainly that Calloway is 'already great at its core' with the study, renewal and cost evidence, confirms the existing hedgehog, and its recommendations restore and protect the training and coaching engine with clock-building mechanisms and subject-specific warning thresholds, though the list of structural additions runs somewhat long."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|E07|s3|judge",
+    "stage": "judge",
+    "case_id": "E07",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14193,
+    "tokens_out": 2205,
+    "cost_usd": 0.27578779999999997,
+    "duration_s": 26.5,
+    "finished_at": 1795631102.010229,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2205,
+        "costUSD": 0.27578779999999997
+      }
+    }
+  }
+}

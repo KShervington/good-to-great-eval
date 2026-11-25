@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 3,
+    "why": "It proposes a reasonable stapling-centered hedgehog ('converting surgeons from sutures to mechanical stapling', profit per active stapling surgeon) and refuses overreach, but never says the company currently lacks a hedgehog and sets no bounded floor-and-ceiling growth march."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Curbing commission-only, volume-driven selling is item 1 ('phase out pure commission on placement'), backed by 'never stretch a quarter by loading the channel' and 'stop measuring success by sales growth alone', but it is framed as placement versus usage, not growth restraint, and cutting non-stapling products runs against reducing single-franchise dependence."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All four key facts are in the register with consequences: the temporary monopoly open to suture makers is ranked #1 Critical, followed by 'selling an instrument ≠ creating a user', commission-only pressure incentives, and single-technology concentration."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names both actual mechanisms specifically: entry by large suture makers, and 'chasing reported numbers' with the warning signs 'instruments shipped grow faster than cartridges used; distributor inventory or receivables grow faster than sales' triggering a revenue-recognition review."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, missing financials, patents and usage data are flagged, and confidence is stated as low to moderate, but the 30/100 greatness score is unsupported and the two endorsing surgeons are treated as current champions without an assumption tag."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (training to habit), three stop-doing items, the most urgent brutal fact (monopoly is a head start, not a moat), the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track C, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|C02|s2|judge",
+    "stage": "judge",
+    "case_id": "C02",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13293,
+    "tokens_out": 2512,
+    "cost_usd": 0.2736678,
+    "duration_s": 30.0,
+    "finished_at": 1795626495.2293134,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2512,
+        "costUSD": 0.2736678
+      }
+    }
+  }
+}

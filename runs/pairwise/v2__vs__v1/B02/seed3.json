@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses catch the EPS-doubling goal, EPS-linked pay, thin capital, the duration gap and the self-defined operating earnings, so they are level on the stop-doing list and brutal facts. Analysis 2 edges ahead because its denominator (profit per dollar of mortgage credit risk managed) sits closer to the key's, and its stage-by-stage decline register names accounting discretion, aggressive new credit products and a thin-capital path to takeover.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|B02|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "B02",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 20895,
+    "tokens_out": 1370,
+    "cost_usd": 0.38910399999999995,
+    "duration_s": 19.1,
+    "finished_at": 1795624834.4655685,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1370,
+        "costUSD": 0.38910399999999995
+      }
+    }
+  }
+}

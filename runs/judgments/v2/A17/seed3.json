@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'best in the world at business mail' (meters, mailing machines, finance and service) sold through the field-force relationship and judged by profit per customer, with per-meter explicitly rejected; this matches the key's field, give-up and denominator, though slightly narrower than the key's 'messaging/back-office'."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are no more retail electronics or point-of-sale ventures, stop the price fight with the copier giant, and stop treating diversification as a goal, which is the key's decision stated explicitly and up front."
+  },
+  "D3": {
+    "score": 4,
+    "why": "The register lists the $42M point-of-sale failure (#2, High), the copier challenge to a stronger incumbent (#3, High) and the consent decree and postal uncertainty (#4, #5), but the top slot goes to a data gap, the decree is framed partly as a strength, and meter maturity is not registered as a brutal fact."
+  },
+  "D5": {
+    "score": 2,
+    "why": "The risk register flags postal-policy dependence, mechanical-meter obsolescence and undisciplined diversification, but never names the actual mechanism of physical mail volume falling to electronic substitution; the faith statement ('every business that mails has to pay postage') leans toward assuming durable demand."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Non-dossier figures and thresholds are tagged [ASSUMPTION], derived figures (6.8x, about 16% a year) are correct arithmetic from dossier data, missing profitability, customer and CEO data are flagged repeatedly, and the verdict is stated as a moderate-confidence working hypothesis; the only unsupported number is the 55/100 potential score."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict concisely gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, and could be acted on without reading further."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A17|s3|judge",
+    "stage": "judge",
+    "case_id": "A17",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12274,
+    "tokens_out": 2320,
+    "cost_usd": 0.2496838,
+    "duration_s": 26.9,
+    "finished_at": 1795621789.4793034,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2320,
+        "costUSD": 0.2496838
+      }
+    }
+  }
+}

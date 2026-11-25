@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog 'keep St. Aldric's heart-failure patients home for 90 days, not 30' matches the key's field and horizon, explicitly rules out acute inpatient care at home, and uses a compatible denominator (risk-adjusted 90-day readmissions avoided per FTE, alongside days at home)."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1, also in the opening verdict, is 'stop pursuing leadership of Hospital at Home in Year 1', followed by stopping the enrolled vs. not-enrolled comparison, day-30 graduation, enrollment as the headline goal and stories as proof."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1, rated Critical and repeated in the verdict, is that the 30-day advantage nearly disappears by day 90 (32.7% vs 33.9%), read as deferral past graduation; fact 2 is the confounded comparison group and fact 3 the unmeasured value."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 2 undisciplined pursuit of more (Hospital at Home taken on anyway) and Stage 3 denial (30-day number as the only story), each with specific early warnings, and adds defunding as a cost center once Finance runs the numbers."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Cost per readmission is flagged as missing and most estimates carry [ASSUMPTION] tags, but it still computes ~68 avoided readmissions and ~$21.6k/$106k per avoided readmission (labelled 'naive', 'true value unknown') and presents derived days 31–90 rates (16.8% vs 12.1%, 20.0% vs 15.5%) as evidence without an assumption tag."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link (stable at home through day 90), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, and is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|D11|s3|judge",
+    "stage": "judge",
+    "case_id": "D11",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14743,
+    "tokens_out": 1906,
+    "cost_usd": 0.2726278,
+    "duration_s": 22.0,
+    "finished_at": 1795629460.84862,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1906,
+        "costUSD": 0.2726278
+      }
+    }
+  }
+}

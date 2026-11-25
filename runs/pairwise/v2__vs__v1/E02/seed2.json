@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "1",
+  "overall": "1",
+  "why": "Both analyses match the key's hedgehog (convenient pharmacy-led corner drugstores, profit per customer visit), refuse scale acquisitions, re-diversification and a standalone PBM, and name the payer squeeze, consolidation and mail-order threats. Analysis 1 edges ahead by showing that the 3,000-store target does not add up organically (215 openings less about 88 closures) and treating it as an outcome rather than a goal, whereas Analysis 2 puts store count on its scorecard without noticing the gap.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|E02|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "E02",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18299,
+    "tokens_out": 1811,
+    "cost_usd": 0.365208,
+    "duration_s": 24.8,
+    "finished_at": 1795629811.3554919,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1811,
+        "costUSD": 0.365208
+      }
+    }
+  }
+}

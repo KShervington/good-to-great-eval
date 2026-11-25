@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "2",
+  "D8": "1",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both land on the key's hedgehog (lowest-cost western bank, profit per employee) and its brutal facts, but Analysis 2 adds cutting executive perks starting at the top and invents fewer numeric thresholds, though it is softer on exiting existing overseas offices. Analysis 1 has the crisper verdict and its single-metric gaming warning is closer to the later sales-pressure scandal, but Analysis 2 is the slightly more useful document for the incoming CEO.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|A21|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A21",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14640,
+    "tokens_out": 1781,
+    "cost_usd": 0.305464,
+    "duration_s": 20.5,
+    "finished_at": 1795622739.63889,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1781,
+        "costUSD": 0.305464
+      }
+    }
+  }
+}

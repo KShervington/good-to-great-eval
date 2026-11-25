@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "1",
+  "D3": "2",
+  "D5": "2",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses find the Delmar/Harrow's supply cliff, decline Larchmont as structured, hold the third metro and flag churn as unmeasured without inventing it. Analysis 2 edges ahead with a per-source payback table (about 12, 24 and 47 months), a payback-per-placement guardrail closer to the key's per-machine denominator, an explicit confidence statement and decline risks with triggers, while Analysis 1 more explicitly lists 'stop planning on $1,140 machines'.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|D02|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "D02",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 21117,
+    "tokens_out": 1726,
+    "cost_usd": 0.406896,
+    "duration_s": 22.0,
+    "finished_at": 1795627334.3299007,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1726,
+        "costUSD": 0.406896
+      }
+    }
+  }
+}

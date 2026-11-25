@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('reliable information-moving systems... starting with the printing trade we already lead', with 'electronics applied to the graphic arts' as the unique combination) matches the key's technology-applied-to-printing-and-communications concept and keeps the halves joined, but it is electronics-first, demotes printing to 'a channel and a cash source', and uses a profit-per-engineer denominator the key does not give."
+  },
+  "D2": {
+    "score": 4,
+    "why": "'Stop acquiring' is item 1 and 'no head-on fights with electrical giants' is item 3, with a succession plan listed as a missing seat, but succession is not tied to preserving the concept and the analysis also recommends relocating leadership to the electronics base, a move the key says to refuse."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register covers all four key facts, with weak earnings ranked Critical at the top ('acquisitions bought revenue, not profit'), plus integration overload, still-mechanical presses and federal-budget dependence."
+  },
+  "D5": {
+    "score": 3,
+    "why": "Gate 10 flags a 'transformational merger to fix earnings' with a fitting early warning and the acquisition habit, but misses the successor-resets-direction mechanism and itself endorses parts of it: moving headquarters, the electronics head as natural successor, and possibly separating printing."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged throughout, missing segment profit, return on capital and backlog are flagged, and confidence is stated as low to moderate, but 'Greatness potential: 24/100' is an unexplained, unmarked figure."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict compactly gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact, the numbers that would change it and a confidence level, so it is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A25|s2|judge",
+    "stage": "judge",
+    "case_id": "A25",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12484,
+    "tokens_out": 2517,
+    "cost_usd": 0.26092380000000004,
+    "duration_s": 29.0,
+    "finished_at": 1795623870.3195791,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2517,
+        "costUSD": 0.26092380000000004
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog ('invents and leads everyday paper-based personal-care categories that people buy by brand', out-inventing Rival P, denominator 'profit per consumer brand') matches the key's field, exclusions (commodity paper, aviation) and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top stop-doing items are the key's temptations: stop the $120M airline expansion and exit aviation, sell newsprint and printing papers, no growth capital for tobacco papers, and stage-gate Europe, all while leaving the consumer core intact."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the larger rival leading diapers first, then capital split across unrelated businesses, succession, Europe and the commodity cycle, with the consequence (reinvestment starved) stated; stop-doing item 7 captures the 'profitable but outside the Hedgehog' airline point."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and describes the later history as integration pain, not a decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged and the missing segment, brand, airline and Europe figures are flagged, but 'the anti-viral tissue lost money for three years' and the claim that management itself cannot see brand profit are unmarked inferences, and 'good, not yet great' slightly undersells the evidence."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (reinvestment), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": 4,
+    "why": "It keeps the existing hedgehog, says 'the core move was right' and 'does not invent a new strategy', and names specific warnings (non-core capex, a transformational acquisition, a new CEO changing direction), but it labels the subject 'good, not yet great' (68/100) instead of plainly great and adds a moderately long list of hires and mechanisms."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|E04|s3|judge",
+    "stage": "judge",
+    "case_id": "E04",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12544,
+    "tokens_out": 2290,
+    "cost_usd": 0.2528038,
+    "duration_s": 25.4,
+    "finished_at": 1795630428.2124796,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2290,
+        "costUSD": 0.2528038
+      }
+    }
+  }
+}

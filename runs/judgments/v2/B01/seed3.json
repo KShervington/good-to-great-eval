@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('expert guidance in the best-run electronics stores') keeps the electronics superstore core and calls for renewing the format against Rival B, but it picks profit per store as the denominator, with the key's profit per region only as a backup, and adds an unproven advice-and-setup thesis."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Revenue and store-count targets and the used-car distraction are in the top three, and proprietary ventures and silver-bullet fixes are also refused; but the list leads with the appliance exit and frames the attention problem as separating the car business, where the key says it should have been kept."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Rival B's lead on sales, earnings, profit per store and share is ranked #1 and Critical, with the consequence stated ('losing ground, and its record year is hiding that'); the ageing format and commissions, the venture diversion and the appliance price war are also listed."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The register names hubris plus denial ('a record year is read as proof the format is fine'), Stage 2 pursuit of more, and grasping for salvation (a panic switch to self-service or a chain-wide fix), each with specific warning signs and thresholds tied to the gap with Rival B."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions and derived figures are marked, the missing ROE, margin and profit-per-store data are flagged, and confidence is stated as low to moderate; but brutal fact 8 asserts as fact that Kestrel 'does not track' its unit economics, when the dossier only omits them, and the name 'DIVX' comes from outside the dossier."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, all on one screen and actionable."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": true,
+  "_meta": {
+    "job_id": "v2|B01|s3|judge",
+    "stage": "judge",
+    "case_id": "B01",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14117,
+    "tokens_out": 2633,
+    "cost_usd": 0.2916918,
+    "duration_s": 29.1,
+    "finished_at": 1795624518.2427347,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2633,
+        "costUSD": 0.2916918
+      }
+    }
+  }
+}

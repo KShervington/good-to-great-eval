@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the hospital's most trusted source of products that lower the cost of diagnosing and treating patients' (IV, nutrition, diagnostics), it explicitly rules out drug discovery and consumer branding, and it names profit per employee as the alternate to its primary 'profit per hospital account' denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing items 1 and 2, both repeated in the opening verdict, are 'stop owning unrelated consumer brands' and 'stop competing for blockbuster drugs' against research-led rivals; only the nepotism point is absent."
+  },
+  "D3": {
+    "score": 4,
+    "why": "The register ranks the IV recall as Critical with consequences and lists the sweetener shock, weakened management and 'no breakthrough coming', but the research gap is rated High rather than most urgent and the hospital cost-control shift appears only in the faith statement and hedgehog."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and its later history says 'No collapse', so there is no decline mechanism to grade."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Figures come from the dossier, assumptions are tagged and missing divisional financials are flagged with low-to-moderate confidence, but a few minor inferences are unmarked, such as the CEO recruiting the hospital head and the consumer group being assembled 'partly after the sweetener ban'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict compactly gives the hedgehog sentence, the weakest flywheel link (hospital trust in safety), three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A03|s3|judge",
+    "stage": "judge",
+    "case_id": "A03",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12562,
+    "tokens_out": 2126,
+    "cost_usd": 0.2465318,
+    "duration_s": 24.2,
+    "finished_at": 1795619728.7912867,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2126,
+        "costUSD": 0.2465318
+      }
+    }
+  }
+}

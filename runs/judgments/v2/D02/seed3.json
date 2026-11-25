@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog matches the key's field (fast uptime on subscribed undercounter/door machines for independents in dense routes) and explicitly rules out hotels/conveyor work and multi-metro breadth, but the primary denominator is gross profit per field technician, with payback per placement only as a guardrail rather than the key's per-machine denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict and stop-doing items 1 and 2 are 'stop planning a third metro' and 'decline Larchmont as structured', and items 6 and 7 stop pricing and buying on Delmar-era cost assumptions; the optional narrow Larchmont alternative is only a mild softening."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical, links 288 of 403 units via Delmar to the Harrow's program having 118 of 610 locations left, states the roughly 2.8x replacement cost and the payback doubling from about 12 to 24 months, and notes that no offsite agenda item addresses it."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 3 'denial of risk: the supply cost cliff' and Stage 2 'undisciplined pursuit of more: third metro or hotels' as the top two risks, with specific early warnings (Delmar lot cadence slowing, auction share rising, a territory below 90% within 4 hours) and action triggers."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Churn is flagged as invisible and requested rather than computed, loaded technician cost and remaining Harrow's yield carry [ASSUMPTION] tags, derived figures check out against the dossier, and confidence is stated as moderate to low; the only blemishes are an unexplained '18/100' greatness score and an unsupported 'world-class' rework claim."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict concisely gives the hedgehog sentence, the weakest flywheel link (cheap machines, with payback numbers), three stop items, the most urgent brutal fact, the missing numbers and a confidence level, and is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|D02|s3|judge",
+    "stage": "judge",
+    "case_id": "D02",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15417,
+    "tokens_out": 2169,
+    "cost_usd": 0.2939318,
+    "duration_s": 24.5,
+    "finished_at": 1795627312.197395,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2169,
+        "costUSD": 0.2939318
+      }
+    }
+  }
+}

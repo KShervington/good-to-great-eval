@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "tie",
+  "overall": "2",
+  "why": "Both analyses confirm the trained-and-coached early-reading hedgehog, refuse the grant as written, restore training and coaching, pause math and ReadAlong, and surface all three key brutal facts with appropriate restraint. Analysis 2 edges ahead by naming one-on-one tutoring and the denominator in the hedgehog sentence, treating funder-driven governance and measurement blindness as explicit decline mechanisms with thresholds, and being more calibrated (stated confidence, a site-mix alternative explanation, a test that would challenge its own hypothesis).",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|E07|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "E07",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 21380,
+    "tokens_out": 1875,
+    "cost_usd": 0.417064,
+    "duration_s": 22.2,
+    "finished_at": 1795631049.462847,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1875,
+        "costUSD": 0.417064
+      }
+    }
+  }
+}

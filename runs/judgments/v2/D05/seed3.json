@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The analysis fails Gate 1 ('not yet good'), states 'Hedgehog Concept: none drafted', and sets the path to good as stranger retention (M1) plus a refill core that runs without the founder's hands (M2), matching the key."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Pausing 'the employer build (SSO, admin dashboard, reporting, staffed concierge)' is item 1 in the one-screen verdict and the pause list, followed by Android and hiring; vanity signals are discounted in the evidence sheet, not on the list."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The top-ranked brutal facts are 7 of 41 circles weekly active (one the founder's own, early users from the network), refill sync as one pharmacy's hand-loaded Monday email, 3 payers of unknown source and the aggregator as a gatekeeper with no deadline, with the consequence stated that retention, not pharmacy access, is the real risk."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The risk register names 'pursuing more before good (the employer build, Android, a hire)' with a specific early warning sign (engineering time on SSO or dashboards before M1), but the vanity-signals-as-traction denial mechanism appears only in the evidence sheet and brutal facts, not as a decline risk."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Derived figures (17-month runway, $64.8k-$108k pilot value, ~$21 MRR) check out against the dossier, thresholds and developer cost are tagged [ASSUMPTION], 7/41 is not presented as a retention rate, and non-network cohort retention is explicitly flagged as missing and requested; the only unmarked inference is the founder's gender."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the verdict, the no-hedgehog call with its reason, the weakest link (refill sync), three pause items, the most urgent brutal fact, the missing number (week-8 non-network retention by source) and a confidence level, all actionable without reading further."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|D05|s3|judge",
+    "stage": "judge",
+    "case_id": "D05",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13014,
+    "tokens_out": 2291,
+    "cost_usd": 0.2603638,
+    "duration_s": 25.8,
+    "finished_at": 1795627933.72575,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2291,
+        "costUSD": 0.2603638
+      }
+    }
+  }
+}

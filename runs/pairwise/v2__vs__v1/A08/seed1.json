@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both propose the same focused home-lender hedgehog while recognising the company has not chosen one, and both name the rate squeeze, risk-taking deregulated peers and the legacy fixed-rate book. Analysis 2 edges ahead because its stop-doing list bars all further non-lending acquisitions rather than only the brokerage unit, and it names undisciplined diversification as the top decline risk, with triggers, a home-state housing downturn and an eventual sale.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|A08|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A08",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16551,
+    "tokens_out": 1512,
+    "cost_usd": 0.32528,
+    "duration_s": 19.2,
+    "finished_at": 1795620914.7038653,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1512,
+        "costUSD": 0.32528
+      }
+    }
+  }
+}

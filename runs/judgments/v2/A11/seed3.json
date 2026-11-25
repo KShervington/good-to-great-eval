@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the leading combination food-and-drug superstore in every metro market it chooses to serve' with #1 or #2 share and a denominator of 'profit per household in each served metro', which matches the key's field, sacrifice and denominator."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Exiting metros where it can't reach #1 or #2 is item 1, but the small-store decision is softened to 'stop building, expanding or heavily remodeling small conventional stores' rather than eliminating or replacing the whole base; closure appears only as an 'uncomfortable commitment'."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1 (Critical) is 'most stores are conventional and small, and the format is under price attack' and #2 is the repeated loss of markets with no rule for where it can win, covering the key's small-store and weak-region facts at the top with consequences stated."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no decline risks and its later history says 'No collapse'."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are tagged [ASSUMPTION], no figures are invented, the missing margins, ROE, metro share and test-store economics are named, and confidence is stated as 'moderate-low' with conditional gates that fit the evidence."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, all within one screen and actionable."
+  },
+  "D9": {
+    "score": null,
+    "why": "The key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A11|s3|judge",
+    "stage": "judge",
+    "case_id": "A11",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11686,
+    "tokens_out": 1532,
+    "cost_usd": 0.20875580000000002,
+    "duration_s": 19.2,
+    "finished_at": 1795621227.7905328,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1532,
+        "costUSD": 0.20875580000000002
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both prescribe nearly the same focused in-state ARM hedgehog and stop-doing list, but Analysis 2 makes the unfocused diversification the most urgent brutal fact and names the specific deregulated lines to refuse, which is closest to the key's 'no coherent hedgehog' finding. Analysis 1 is better calibrated (explicit confidence, the MBS-swap caveat, fewer unsupported claims) and alone flags the single-state concentration that later hurt the company, but its headline puts rate mismatch ahead of the diversification drift.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|A08|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A08",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18847,
+    "tokens_out": 1801,
+    "cost_usd": 0.373576,
+    "duration_s": 27.9,
+    "finished_at": 1795620958.9194133,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1801,
+        "costUSD": 0.373576
+      }
+    }
+  }
+}

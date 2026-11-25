@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('clinician frustrations into practical devices… focused, results-paid specialist sales teams', plus budgets and a shift from beds toward instruments) matches the key's core and give-ups, but the denominator is gross profit per specialty territory rather than net-income growth, and the great version 'deliberately stays out of implants'."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items are salaried generalist selling, routing every decision through one office, and operating without budgets or goals, with implant and IPO deferral added as restraint; the verdict repeats them."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'No effective sales force' and the leadership vacuum with founder-centred control and no budget as Critical, and also lists the ~70% bed concentration, no implants and modest scale, each with an owner and consequence."
+  },
+  "D5": {
+    "score": null,
+    "why": "The answer key lists no expected decline risks and its later history records no decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION], missing margins, share and sales history are flagged, and confidence is stated as low to moderate, but the 'Greatness potential: 30/100' figure is unexplained and 'the last major instrument launched 9 years ago' is an unmarked inference."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest link (selling), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level in one compact, actionable screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key's track is C, not E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|C01|s3|judge",
+    "stage": "judge",
+    "case_id": "C01",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13611,
+    "tokens_out": 1838,
+    "cost_usd": 0.2517958,
+    "duration_s": 22.1,
+    "finished_at": 1795626294.7390153,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1838,
+        "costUSD": 0.2517958
+      }
+    }
+  }
+}

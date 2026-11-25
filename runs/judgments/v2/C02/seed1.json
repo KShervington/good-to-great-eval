@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 3,
+    "why": "It narrows sensibly to the stapling franchise ('converting surgical teams from sutures to stapling', profit per stapled procedure) and rules out non-stapling lines, but it never says the company currently lacks a hedgehog or a disciplined, bounded growth march."
+  },
+  "D2": {
+    "score": 3,
+    "why": "Curbing the sales culture is only implied through 'stop paying reps purely on instrument placement' and 'stop treating trained reps as disposable'; on single-franchise dependence it goes the other way with 'stop developing non-stapling instruments', and no cap on growth in good years appears."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'the monopoly is temporary' as Critical and top, with large suture makers named, and also lists the unused-instrument loss year, single-technology concentration, and commission-only pay within a high-pressure culture."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names a large suture maker entering with existing OR relationships, with specific warning signs, flags skin staples as 'where the moat is weakest', and warns of placements outrunning real use with reps hiding unused instruments."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION], missing financials and patents are flagged, and confidence is stated as low to moderate, but the 'Greatness potential: 42/100' score is given with no basis or assumption tag."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link (training to active use), three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, concisely enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track C, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|C02|s1|judge",
+    "stage": "judge",
+    "case_id": "C02",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12774,
+    "tokens_out": 2007,
+    "cost_usd": 0.2451638,
+    "duration_s": 23.4,
+    "finished_at": 1795626369.648138,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2007,
+        "costUSD": 0.2451638
+      }
+    }
+  }
+}

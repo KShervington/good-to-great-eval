@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "2",
+  "overall": "2",
+  "why": "Both analyses land on the convenience and profit-per-visit hedgehog and refuse the scale acquisition, but Analysis 2 puts pharmacy in the hedgehog sentence and its stop-doing list covers every key decision, including no re-diversification and the reason acquired chains bring inferior sites. Analysis 2 is also better calibrated, saying the dossier lacks the per-visit numbers where Analysis 1 asserts the company cannot see them, and it shows more restraint by leaving the proven core intact with stage-by-stage warnings.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|E02|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "E02",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18029,
+    "tokens_out": 1583,
+    "cost_usd": 0.351768,
+    "duration_s": 22.4,
+    "finished_at": 1795629786.3507788,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1583,
+        "costUSD": 0.351768
+      }
+    }
+  }
+}

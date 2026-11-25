@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "Narrows to 'self-service discount drugstores co-located with supermarkets in the Southeast and Texas' on profit per visit and calls the diversified story 'a detour' and the company 'drifting away from its core', but labels the hedgehog 'working' and never says outright that the current portfolio has no hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the opening verdict are 'Stop buying businesses outside drugstores', 'Stop owning the department stores, security business and food-service supplier', and stop buying drug chains faster than they can be integrated."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All three key facts are in the register: Rival W's home-state entry (#1, High), the founder's five years in politics (#3, High) and acquisition-led growth across unrelated fields (#4, #5), with the first two named as most urgent in the verdict."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names 'Undisciplined pursuit of more: more unrelated or distant acquisitions', a leadership vacuum with the warning sign 'Founder takes a public post', and 'Capitulation: sale or breakup under pressure', matching the founder's departure, the later video-store purchase and the buyout and breakup."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION], missing financials are flagged and confidence is stated as low to moderate, but the faith statement says Brightwater 'invented self-service drug retail in the East' where the dossier says 'one of the first', and the 22/100 score has no stated basis."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (profit per visit), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A20|s2|judge",
+    "stage": "judge",
+    "case_id": "A20",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12093,
+    "tokens_out": 1519,
+    "cost_usd": 0.2147478,
+    "duration_s": 18.3,
+    "finished_at": 1795622450.8892555,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1519,
+        "costUSD": 0.2147478
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "2",
+  "D5": "2",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2 tracks the key more closely: it explicitly lists \"stop dismissing imports\" as a stop-doing item, makes the unit-cost gap versus imports a scorecard metric, and anticipates the Stage 3 pattern of blaming dumping, labor and regulators. Analysis 1 is better calibrated (it correctly limits \"no debt\" to Year -6 and tags its thresholds as assumptions, while Analysis 2 asserts current no-debt and a No. 2 color rank the dossier does not give), but its stop-doing list and decline register match the key less well.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|B08|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "B08",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 20658,
+    "tokens_out": 1616,
+    "cost_usd": 0.395152,
+    "duration_s": 19.5,
+    "finished_at": 1795625623.4757679,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1616,
+        "costUSD": 0.395152
+      }
+    }
+  }
+}

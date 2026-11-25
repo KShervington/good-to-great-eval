@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is a portfolio of cost-lowering products (diagnostics, nutrition, hospital products, focused drugs) with profit per employee as the denominator, and it explicitly rules out being best at branded blockbuster drugs or PBMs, which matches all three key points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict and the top three stop-doing items are 'don't buy a PBM', 'don't merge for scale' and 'don't raise R&D across the board to match the largest drugmakers', and fixing diagnostics quality is the first 90-day action, framed as preserving the core."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The unresolved diagnostics quality findings are ranked #1 and Critical, named the most urgent brutal fact in the verdict, and tied to the earlier IV recall as the consequence; cost containment, consolidation and sub-scale in branded drugs are also registered."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and says there was no later How-the-Mighty-Fall-style decline, so this dimension does not apply."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Derived figures ($30.7k profit per employee, segment margins of 28.1% and 19.5%, the ~1.9% share-count fall) check out against the dossier and are marked as calculated, assumptions are tagged, and missing shareholder returns, product-line profit and regulator findings are flagged with moderate confidence."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (manufacturing quality), three temptations to refuse, the most urgent brutal fact, the missing numbers and a confidence level, so it can be acted on alone."
+  },
+  "D9": {
+    "score": 4,
+    "why": "It says 'already great, so protect it rather than reinvent it', keeps the existing hedgehog and gives specific warning signs for this subject, but it hedges with 'provisional' and 72/100 and adds a few changes the evidence does not clearly justify, such as a health-economics capability and an R&D re-rank that stops the bottom tier."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|E03|s3|judge",
+    "stage": "judge",
+    "case_id": "E03",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13658,
+    "tokens_out": 2265,
+    "cost_usd": 0.2696278,
+    "duration_s": 24.7,
+    "finished_at": 1795630176.0583286,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2265,
+        "costUSD": 0.2696278
+      }
+    }
+  }
+}

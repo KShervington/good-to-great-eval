@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "1",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses match the key almost point for point on hedgehog, stop-doing, brutal facts and decline risks; Analysis 1 is better calibrated because it explicitly names the missing per-pipeline deploy and incident-rate data and states its confidence. Analysis 2 has the sharper action-first verdict and slightly more usable guidance for the leader (a concrete rewritten Q4 OKR, the rollback-versus-approval compliance conflict, a fallback if the headcount is withdrawn), which narrowly wins overall.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|D10|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "D10",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 20750,
+    "tokens_out": 1644,
+    "cost_usd": 0.397744,
+    "duration_s": 20.6,
+    "finished_at": 1795628979.3595195,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1644,
+        "costUSD": 0.397744
+      }
+    }
+  }
+}

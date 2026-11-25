@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'primary financial home for American households and small businesses' winning on 'profit per actively used primary relationship rather than products sold', which matches the key's genuine community-banking relationships and its denominator, and it explicitly rejects product count."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's top three are daily product-sales quotas tied to pay, counting unfunded or inactive accounts in cross-sell, and business lines policing their own sales conduct; the full list also demotes 'eight' from target to aspiration, with only firing-as-fix absent."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks as Critical the regulator's quota-and-incentive finding at the subsidiary ('the same mechanism runs 9,000+ stores') and the inability to show cross-sold products are used or funded, followed by decentralized risk and HR, with consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The lead decline risk is Stage 1 + 3 hubris and denial, where 'quota pressure produces unwanted or unauthorized products in some stores', with fitting warning signs (unfunded account share, hotline reports, sales-integrity terminations, turnover) plus Stage 2 target-raising and Stage 4 risks."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, the missing usage, hotline, termination and turnover data are flagged as findings, and confidence is stated as moderate/low; but 'Greatness potential: 45/100' and the claims of 'conservative lending' and a strategy 'consistent for decades' are unmarked inferences."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact, the numbers that would change the view, and a confidence level, so it is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|B03|s3|judge",
+    "stage": "judge",
+    "case_id": "B03",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14801,
+    "tokens_out": 1662,
+    "cost_usd": 0.2637958,
+    "duration_s": 20.9,
+    "finished_at": 1795625152.1587765,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1662,
+        "costUSD": 0.2637958
+      }
+    }
+  }
+}

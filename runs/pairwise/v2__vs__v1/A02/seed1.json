@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both narrow Corwin to household paper, list the three key brutal facts and flag the savior-chairman and capitulation risks, but Analysis 2 says outright that Corwin cannot out-market Rival P, states what would falsify its hedgehog, and gives an explicit confidence level. Analysis 1 puts list-price cuts in its top three stops, which is closer to the key's stop-doing decision, but it presents the missing share data as something the company itself does not know and adds an unsupported \"80 years ago\" figure.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|A02|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A02",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16634,
+    "tokens_out": 1412,
+    "cost_usd": 0.322608,
+    "duration_s": 18.7,
+    "finished_at": 1795619427.083812,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1412,
+        "costUSD": 0.322608
+      }
+    }
+  }
+}

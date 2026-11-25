@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog ('world's best at making portable radio communication reliable at scale... by obsoleting its own products') matches the key's wireless-plus-self-renewal core, rules out size for its own sake ('Growth follows from the Hedgehog Concept instead of being demanded by a doubling target'), and offers a compatible denominator (profit per wireless subscriber) flagged as unconfirmed."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three in the one-screen verdict are defending analog, the uncapped satellite launch-phase commitment and the doubling target, with carrier coercion through premium distribution terms as item 4 — all of the key's stop-doing points, explicit and at the top."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical, is 'The core franchise is analog while digital is coming'; wireless pricing pressure, the open-ended satellite exposure (with expanding terrestrial coverage) and carrier alienation are also listed with consequences."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names 'Stages 1→3: hubris, then denial, in analog' with the warning sign of carriers picking rival digital suppliers while the analog base masks share loss, plus Stage 2 (doubling goal and satellite) and Stage 4 (big acquisition pitched to restore growth) — the mechanisms that actually occurred."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures (margins, growth rates, R&D intensity, the $560M satellite exposure) check out against the dossier, assumptions are tagged and all four missing data items are flagged, but 'Greatness potential: 33/100' is an unexplained number with no derivation that sits oddly with the 'already great' verdict."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link ('first to the next standard'), three temptations to refuse, the most urgent brutal fact, the missing numbers and a confidence level — actionable without reading further."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|B05|s3|judge",
+    "stage": "judge",
+    "case_id": "B05",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13520,
+    "tokens_out": 1945,
+    "cost_usd": 0.25461979999999995,
+    "duration_s": 21.6,
+    "finished_at": 1795625390.4521518,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1945,
+        "costUSD": 0.25461979999999995
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "2",
+  "D5": "na",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "2",
+  "overall": "2",
+  "why": "Both analyses land on the same hedgehog (most convenient pharmacy-led corner drugstore, profit per customer visit) and the same refusals: no scale acquisition, mail/PBM kept in support of the stores, and no weak sites to hit 3,000. Analysis 2 edges ahead because its brutal facts also cover payers and mail-order steering where prescriptions are filled, and its warnings come with explicit trigger thresholds and a caution that the record streak could become a goal in itself.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|E02|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "E02",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18469,
+    "tokens_out": 1636,
+    "cost_usd": 0.360928,
+    "duration_s": 20.4,
+    "finished_at": 1795629875.336563,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1636,
+        "costUSD": 0.360928
+      }
+    }
+  }
+}

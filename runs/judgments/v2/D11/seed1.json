@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'adds the most days at home in the 90 days after a heart-failure discharge', it explicitly rules out Hospital at Home, enrollment volume and day-30 design, and its denominator (verified 90-day home days gained per $100k, also tracked per enrolled patient) is compatible with the key's hospital-free days."
+  },
+  "D2": {
+    "score": 5,
+    "why": "'Stop: leading Hospital at Home now' is item 1 in both the one-screen verdict and the full list, followed by stopping the enrolled-vs-not-enrolled comparison, day-30 graduation, the 75% enrollment target, and stories and satisfaction as proof."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The 90-day near-parity (32.7% vs 33.9%) is ranked the most urgent brutal fact, with the consequence stated (readmissions deferred past day 30 rather than prevented), the selection bias in the comparison group named, and the burial in the accreditation checklist noted."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names both mechanisms as top risks with specific early warnings: Hospital at Home absorbing manager time and staff (any FTE redeployed), and the 90-day number being reframed or dropped (next memo leads with the 30-day gap); it also flags the program being cut at the budget cycle for lack of verified value."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Finance's missing cost per readmission is flagged and most inferences are tagged, but the analysis computes cost per avoided readmission (~$21.6k at 30 days, ~$106k at 90 days) from the non-comparable group and puts it in the scorecard as 'current', caveated only as 'unadjusted and probably flattering' rather than marked as an assumption."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the most urgent brutal fact with numbers, the weakest flywheel link, three stop-doing items, the missing numbers and a confidence statement, and is concise enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|D11|s1|judge",
+    "stage": "judge",
+    "case_id": "D11",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14770,
+    "tokens_out": 2206,
+    "cost_usd": 0.2850598,
+    "duration_s": 24.9,
+    "finished_at": 1795629213.1530976,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2206,
+        "costUSD": 0.2850598
+      }
+    }
+  }
+}

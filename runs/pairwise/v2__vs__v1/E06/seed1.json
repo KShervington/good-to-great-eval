@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "2",
+  "overall": "2",
+  "why": "Both analyses recognise Halvard as already great, match the key's hedgehog, refuse Halvard Six and the student brand, and list the key's brutal facts. Analysis 2 is slightly more restrained and better calibrated: it flags its blended-margin assumptions, leaves no guitar licensing door open, and gives specific tripwire thresholds, whereas Analysis 1 presents a 52% blended margin without flagging that it assumes no core growth.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|E06|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "E06",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18664,
+    "tokens_out": 1738,
+    "cost_usd": 0.368128,
+    "duration_s": 22.1,
+    "finished_at": 1795630664.8842459,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1738,
+        "costUSD": 0.368128
+      }
+    }
+  }
+}

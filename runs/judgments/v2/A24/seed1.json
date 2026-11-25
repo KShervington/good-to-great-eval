@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog narrows to 'front-wheel-drive family vehicles on a few shared platforms' with a profit-per-platform denominator, explicitly gives up the full line against Rival G and market share as a target, and treats it as an unproven hypothesis while flagging the 'savior leader' dependence."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Top-three items include 'stop selling publicity and the CEO in place of the product' and stop building for inventory, but non-core diversification is only partly covered (defense, new programs) and succession sits in the mechanisms and risk register, not the stop-doing list."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Fact #1 ranks 'survival is in doubt within months' as critical (accelerating losses, no private capital, possible closure by year-end), and the register also lists highest inventory, wrong mix, poor quality and the compacts being a year away."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 #2 names 'post-rescue hubris' in which 'a celebrated CEO re-expands the full line or acquires', and the Gate 2 risk flags publicity focus and no successor bench, with the early warning 'any second public campaign centered on the CEO'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently marked, missing cash, debt, break-even and line profitability are flagged, and confidence is stated as low; but it asserts the government-relations handover gap 'according to the dossier' and that chasing share caused the inventory glut, neither of which the dossier states."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (quality to reputation), three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, all on one screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A24|s1|judge",
+    "stage": "judge",
+    "case_id": "A24",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13848,
+    "tokens_out": 2522,
+    "cost_usd": 0.28294779999999997,
+    "duration_s": 28.2,
+    "finished_at": 1795623492.4338038,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2522,
+        "costUSD": 0.28294779999999997
+      }
+    }
+  }
+}

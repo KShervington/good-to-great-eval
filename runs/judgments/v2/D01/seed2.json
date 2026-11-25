@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'distributor-neutral drug and supply inventory for independent vet clinics' with 'profit per inventory-active clinic' as denominator, and it explicitly rules out dental, chains and a reminder feature race, matching the key on all three points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "'Stop the dental pilot' is item 1 and 'Stop pursuing corporate chains' is item 2 of the stop-doing list, and both appear in the one-screen verdict."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1, rated Critical, gives 38% of ARR (~$912K) via VetSource, renewal in five months, the native inventory announcement and two unanswered emails, with the consequence stated as lost gross profit and shortened runway."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 3 denial of the VetSource risk and Stage 2 undisciplined pursuit of more (dental, chains), each with specific early warnings and triggers such as no renewal talks four months before expiry or engineers allocated outside the hedgehog."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Channel-level spend and wins are flagged as missing and derived figures are labelled and shown in Appendix B, but it still computes a blended ~$10K CAC and 1.7-year payback, and adds unmarked details such as 'multi-site rollups, SSO-for-enterprise' and an unexplained '24/100' score."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict compactly gives the hedgehog sentence, the weakest flywheel link (winning new clinics), three stop items, the VetSource fact as most urgent, the missing numbers and a confidence level, so it is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|D01|s2|judge",
+    "stage": "judge",
+    "case_id": "D01",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14122,
+    "tokens_out": 1638,
+    "cost_usd": 0.25197179999999997,
+    "duration_s": 19.4,
+    "finished_at": 1795626769.07771,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1638,
+        "costUSD": 0.25197179999999997
+      }
+    }
+  }
+}

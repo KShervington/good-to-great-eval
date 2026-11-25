@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses connect the Delmar/Harrow's supply cliff, decline Larchmont as offered, pause the third metro and flag churn as missing, but Analysis 2 uses the key's per-machine denominator while Analysis 1 explicitly rejects per-machine in favour of per-technician. Analysis 2 is also better calibrated: it adds a landed-cost ceiling to stop buying on Delmar-price assumptions, bounds labor cost from the dossier's own figures instead of assuming a salary range, and states its confidence level.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|D02|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "D02",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 20967,
+    "tokens_out": 1353,
+    "cost_usd": 0.38957600000000003,
+    "duration_s": 17.4,
+    "finished_at": 1795627244.939749,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1353,
+        "costUSD": 0.38957600000000003
+      }
+    }
+  }
+}

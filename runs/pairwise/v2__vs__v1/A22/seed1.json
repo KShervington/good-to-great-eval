@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses reach nearly the same diagnosis as the key: no proven hedgehog, growth-for-size as the core error, all four brutal facts, and denial of credit losses plus grasping for growth as the decline path; neither mentions executive perks. Analysis 2 is slightly better calibrated, because it avoids invented numeric targets, marks the brutal-facts gate conditional since loss size is unknown, and keeps its BHAG on profit per employee rather than regional expansion.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|A22|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A22",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17443,
+    "tokens_out": 1479,
+    "cost_usd": 0.33823200000000003,
+    "duration_s": 21.3,
+    "finished_at": 1795622962.6625142,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1479,
+        "costUSD": 0.33823200000000003
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog 'Be the best-run, lowest-cost bank in the West: earn more profit per employee than any peer by serving home-region customers... and nothing else' matches all three key points: cost discipline, western focus over global banking, and profit per employee."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1, also in the verdict, is exiting overseas branches, representative offices and foreign stakes, followed by ending the branch race and closing unprofitable branches and refusing deregulation sprawl; only executive perks are not named."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent brutal fact is that deposit-rate caps are being phased out so 'a cost base built on cheap deposits is now too expensive to carry', and the register also lists the international loss record and the inability to win on scale."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The Gate 10 register flags 'single-metric gaming' with early warnings of rising customer complaints, staff turnover and audit exceptions, and separately warns against a transformational acquisition, which is close to the later sales-pressure scandal and troubled integration but not specific to sales incentives."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are tagged as assumptions, no financials are invented, and the missing metrics including profit per employee are flagged, but the claim that 1970s growth 'came from the home franchise' is unmarked and the 40/100 greatness score has no stated basis."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact, missing numbers and a confidence statement, all of it actionable."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A21|s1|judge",
+    "stage": "judge",
+    "case_id": "A21",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 10648,
+    "tokens_out": 1792,
+    "cost_usd": 0.2025478,
+    "duration_s": 21.7,
+    "finished_at": 1795622632.3520129,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1792,
+        "costUSD": 0.2025478
+      }
+    }
+  }
+}

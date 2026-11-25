@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "tie",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses land on the same hedgehog (home-state retail and small-business banking, profit per employee rather than asset size) and cover all four key brutal facts with missing data honestly flagged. Analysis 1 is stronger because its stop-doing list also covers cutting money-losing branches and refusing salvation acquisitions, it places the bank at late Stage 2 entering Stage 3 with concrete triggers, and its one-screen verdict is more complete and actionable.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|B09|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "B09",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 19359,
+    "tokens_out": 1167,
+    "cost_usd": 0.356408,
+    "duration_s": 15.6,
+    "finished_at": 1795626014.0157294,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1167,
+        "costUSD": 0.356408
+      }
+    }
+  }
+}

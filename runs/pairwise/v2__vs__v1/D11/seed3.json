@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "2",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land the 90-day hedgehog, decline Hospital at Home, and surface the 90-day fade, the selection bias and the unpriced value; both also quote the naive cost-per-avoided-readmission figures, labelled as naive. Analysis 2 is slightly better calibrated (explicit confidence level, 'upper bound' and 'true value unknown' framing), names denial and undisciplined expansion as the top decline risks with thresholds, and gives a sharper verdict and plan, including telling the VP the 90-day number first and running a fair-comparison extension pilot.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|D11|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "D11",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 19608,
+    "tokens_out": 1504,
+    "cost_usd": 0.373872,
+    "duration_s": 18.4,
+    "finished_at": 1795629479.429407,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1504,
+        "costUSD": 0.373872
+      }
+    }
+  }
+}

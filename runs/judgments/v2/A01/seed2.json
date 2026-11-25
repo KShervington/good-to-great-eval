@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'turning cellulose fiber into branded, everyday paper-based consumer products... measured by profit per consumer brand', and it explicitly rules out printing papers, specialty papers and aviation, matching all three key points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items include 'spreading capital across every business by tradition' and 'funding printing-paper mills just to stay at cost parity. Prepare to sell them', and the bus section says to sell the paper businesses; the exit is made conditional on segment ROC but is explicit and at the top."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical, is that the company cannot fund a head-on fight with Rival P and mill modernization at once; the register also lists the 20-year lag behind the market, the commodity mills and Rival P's superiority, with consequences stated."
+  },
+  "D5": {
+    "score": null,
+    "why": "The answer key lists no expected decline risks and the later history shows no collapse."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are tagged [ASSUMPTION], the missing segment ROC, brand shares and growth rates are flagged rather than guessed, and confidence is stated as moderate-low with the mill exit conditional on data; the unexplained 'Greatness potential: 33/100' is the only blemish and is not presented as a fact."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (product superiority and nonwovens), three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, all concisely enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A01|s2|judge",
+    "stage": "judge",
+    "case_id": "A01",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12373,
+    "tokens_out": 1696,
+    "cost_usd": 0.26579200000000003,
+    "duration_s": 20.0,
+    "finished_at": 1795619115.927051,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1696,
+        "costUSD": 0.26579200000000003
+      }
+    }
+  }
+}

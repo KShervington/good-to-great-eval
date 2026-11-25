@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog 'safe to ship and fast to undo, starting with the services that move money' matches the key's safe delivery for critical services, rules out the portal, starters and one-off tweaks, and uses a compatible denominator (share of Tier-1 deploys on Runway, checked against change-caused Sev-1/2 per 1,000 deploys)."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict's top three stop-doing items are exactly the key's: decline owning Atlas now, no new template or language features until rollback ships, and drop '80% of services' as the headline OKR; the full list adds 'not our services, not our budget'."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal facts #1 to #3 cover all three key points (5 of 6 incidents on legacy including both Sev-1s, four in Payments; the rollback blocker slipped three quarters; growth comes from new services), with the first two ranked Critical and the consequence stated that Payments won't migrate until rollback ships."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names both expected mechanisms specifically, 'undisciplined pursuit of more (Atlas, new starters)' and 'denial of risk: vanity adoption metric', each with a fitting early warning such as service % rising while the Payments count on Runway stays flat."
+  },
+  "D7": {
+    "score": 4,
+    "why": "It flags the missing per-pipeline deploy and incident-rate data, computes no failure rate, and marks targets as assumptions, but the 'Greatness potential: 58/100' score is unexplained and the claim that headcount is 'offered for visibility' is an unmarked inference that ignores the VP's survey evidence."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict compactly gives the hedgehog sentence, the weakest flywheel link (rollback plus the approval step), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, and could be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|D10|s2|judge",
+    "stage": "judge",
+    "case_id": "D10",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14714,
+    "tokens_out": 1773,
+    "cost_usd": 0.26684379999999996,
+    "duration_s": 21.0,
+    "finished_at": 1795628941.238827,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1773,
+        "costUSD": 0.26684379999999996
+      }
+    }
+  }
+}

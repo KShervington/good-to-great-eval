@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses land on the same hedgehog (toys only, enduring classic and licensed brands, profit per brand-year), the same stop-doing core (no electronics, no unrelated ventures, separate pencils, prune the line) and all four key brutal facts. Analysis 1 is more explicit about building a successor bench and endurance independent of the son, which is the key's decline mechanism, while Analysis 2 is slightly better calibrated with its stated confidence level and its warning to decide nothing irreversible before segment data exists.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|A26|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A26",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17219,
+    "tokens_out": 1412,
+    "cost_usd": 0.331968,
+    "duration_s": 21.9,
+    "finished_at": 1795624208.7398133,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1412,
+        "costUSD": 0.331968
+      }
+    }
+  }
+}

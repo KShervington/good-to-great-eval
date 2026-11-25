@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "2",
+  "D5": "1",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2 names capital-markets management of mortgage risk explicitly and states the brutal fact as the key does (the core model was an unhedged rate bet that lost, about $1M a day), with an explicit confidence statement and a more cautious Hedgehog gate. Analysis 1 has the fuller decline register (guarantees outrunning capital, earnings smoothing, loss of private status) and is slightly clearer on moving out old-model executives, but it is a little less precise on the hedgehog and brutal facts.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|A07|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A07",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16768,
+    "tokens_out": 1557,
+    "cost_usd": 0.330552,
+    "duration_s": 19.5,
+    "finished_at": 1795620630.8359613,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1557,
+        "costUSD": 0.330552
+      }
+    }
+  }
+}

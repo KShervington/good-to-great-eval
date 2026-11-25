@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's suggested core ('the complete system the small printer runs on', profit per installed press) and rejects the office-automation vision, but it only implies the current portfolio lacks a hedgehog (27 subsidiaries, 'broad office equipment' identity) and hedges with a card-systems runner-up."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1, also in the opening verdict, is 'Stop the heavy bet on electronic office technology against much larger firms', backed by harvesting addressing, conceding copying and selling engineering graphics and other out-of-hedgehog units."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1, rated Critical, is that both founding franchises are being replaced by plain-paper copying and computers, fact 2 is stalled growth since the peak, and the consequence is stated ('their shrinking cash is the only fuel for the turnaround')."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names 'Stage 4, grasping for salvation: big electronic-office bet' with a capital-outside-hedgehog warning trigger, the charisma check flags 'a leader who frames the electronic office bet as a rescue', and Stage 5 covers cash running out, which is the mechanism that occurred."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged throughout, the missing segment financials, share and leadership data are flagged, and confidence is stated as low to moderate, but 'stalled for about a decade' overstates the dossier and the '12/100' greatness score and 'probably minority or plurality' are unsupported and unmarked."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, concisely enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A18|s1|judge",
+    "stage": "judge",
+    "case_id": "A18",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12068,
+    "tokens_out": 1741,
+    "cost_usd": 0.2232278,
+    "duration_s": 19.8,
+    "finished_at": 1795621898.7130306,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1741,
+        "costUSD": 0.2232278
+      }
+    }
+  }
+}

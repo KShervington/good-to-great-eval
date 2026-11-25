@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('fastest, safest way to get a stranger's high-value machine into your field when the window opens', in dense counties, keeping repeat on-platform through protection, engine hours and payment while leaving numbers unmasked) matches the key's core field and give-ups, but the denominator is 'net revenue per high-value booking', not per pair, county or owner, so it does not make leakage visible."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items, in both the verdict and the list, are 'input financing in January', 'two new states next spring' and 'counting off-platform friendships as wins', which are the key's decisions."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1 is 'Ranvik sells introductions and loses relationships', citing 11% same-owner repeat, 71% swapped numbers, masking turned off and the Ostrander–Kemp baler, rated High and also named the weakest flywheel link, with 68% concentration listed separately as fact #4."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register flags Stage 2 ('financing, new states, Pro all at once') and Stage 3 ('leakage framed as community') as top risks, plus Stage 1 hubris, each with a specific early warning sign such as 'community stories rise while same-owner repeat stays ≤11%'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures check out against the dossier and inferences are mostly tagged, including the ~17.7% decline rate marked '[ASSUMPTION: requests ≈ bookings + declines]', but the evidence gaps never ask for search-to-booking fill rate, and the 'Greatness potential: 16/100' score is unexplained."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict is compact and has the hedgehog, weakest link, top three stop-doing items, missing numbers and confidence, but its 'most urgent brutal fact' bundles engineering cost, the $28M-vs-$6M mismatch and runway instead of stating one clear fact."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|D03|s2|judge",
+    "stage": "judge",
+    "case_id": "D03",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13866,
+    "tokens_out": 2427,
+    "cost_usd": 0.2794358,
+    "duration_s": 26.0,
+    "finished_at": 1795627563.574429,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2427,
+        "costUSD": 0.2794358
+      }
+    }
+  }
+}

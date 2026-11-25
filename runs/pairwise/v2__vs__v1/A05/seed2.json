@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on the same hedgehog as the key (superstores in regional clusters, measured by profit per region), the same stop-doing core (end tax-driven acquisitions, exit leased departments, stop running a patchwork of formats) and two of the key's three brutal facts. Analysis 2 edges ahead on calibration with an explicit confidence statement and an honest note about what it could not do, and its dated format-decision debate and no-new-capital fix-or-exit rule for the acquired chain are slightly more actionable for the leader.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|A05|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A05",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16640,
+    "tokens_out": 1723,
+    "cost_usd": 0.335144,
+    "duration_s": 21.2,
+    "finished_at": 1795620150.5700607,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1723,
+        "costUSD": 0.335144
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "2",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Analysis 1 commits to a narrow front-drive, few-platform hedgehog with a profit-per-platform denominator, and it explicitly flags the key's decline path: reliance on the CEO's salesmanship, post-recovery diversification, succession failure and building for inventory. Analysis 2 is more cautious and well calibrated in stopping at Gate 1, but it leaves the leader with no hedgehog, a thinner stop-doing list and only a passing charisma warning.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|A24|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A24",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15726,
+    "tokens_out": 1270,
+    "cost_usd": 0.3024,
+    "duration_s": 17.9,
+    "finished_at": 1795623693.7733862,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1270,
+        "costUSD": 0.3024
+      }
+    }
+  }
+}

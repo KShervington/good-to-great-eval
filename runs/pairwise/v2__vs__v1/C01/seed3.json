@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "1",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Analysis 2's hedgehog is slightly closer to the key because it leads with powered orthopedic instruments and annual earnings growth, whereas Analysis 1's great version deliberately stays out of implants. Analysis 1 is the better hand-off overall: its stop-doing list names salaried selling, centralized decisions and the missing budgets and goals explicitly, it states its confidence and marks the brutal-facts gate conditional on missing data, and its verdict opens with a clearer directive.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|C01|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "C01",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16679,
+    "tokens_out": 1705,
+    "cost_usd": 0.335048,
+    "duration_s": 20.0,
+    "finished_at": 1795626314.8510416,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1705,
+        "costUSD": 0.335048
+      }
+    }
+  }
+}

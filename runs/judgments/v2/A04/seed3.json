@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to a tight endocrine/inflammation core, explicitly rejects 'broad research-based prescription drugs', seeds and the 'status passion' of being a peer of the giants, and calls the strategic identity 'unresolved', but it never says plainly that the company currently has no hedgehog."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Stop-doing items 1 and 2 in the verdict are matching the largest firms' research budgets and diversifying outside human medicine, but the seed exit is softened to a 'review' and single-product dependence appears only as a licensing rule and a risk-register entry."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register lists all three key facts as High severity (regulatory removals and the diabetes safety cloud at #1-2, inability to win a research-volume race at #3, the licensed profit engine at #4), and the verdict names the regulatory fact as most urgent with its 12% consequence."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The top Gate 10 risk is dependence on the licensed arthritis compound, with the warning sign 'the licensor signals it may sell the compound itself' and a profit-share trigger, and it also flags denial of safety data and capitulation by sale or merger."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, missing financials are flagged and confidence is stated as low to moderate, but it asserts unmarked that the antibiotic was removed for lack of evidence (the dossier gives no reason) and gives an unexplained 'Greatness potential: 12/100'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict compactly gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact, the numbers that would change it and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A04|s3|judge",
+    "stage": "judge",
+    "case_id": "A04",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12021,
+    "tokens_out": 2089,
+    "cost_usd": 0.23639580000000002,
+    "duration_s": 24.2,
+    "finished_at": 1795619956.709978,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2089,
+        "costUSD": 0.23639580000000002
+      }
+    }
+  }
+}

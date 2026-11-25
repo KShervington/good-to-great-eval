@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'a small stable of owned and licensed children's toy brands selling for decades' measured on 'profit per brand-year', with pencils separated and electronic games and non-toy ventures excluded, which matches all three key points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The headline verdict says 'Separate the pencil business', and the top stop-doing items are chasing electronic games and diversifying outside toys, with the launch cap at #6; the succession bench appears only in the bus section, not on the list."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the family feud and lender control (losses, heavy debt, suspended dividend) as Critical, and lists no hit since the action figure and the poor diversification record as High, each with evidence and an owner."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The risk register and bus section flag 'no successor is named' behind the son and call for independent directors, but one-leader dependence gets no early warning sign and ranks below diversification relapse and single-hit dependency."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged throughout, the missing segment profit, debt terms and Year -1 results are flagged, and confidence is stated as low to moderate; the 'Greatness potential: 25/100' score and the claim that the son 'has run the toy line for 6 years' are unmarked."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link (cash to reinvest), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, and can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A26|s3|judge",
+    "stage": "judge",
+    "case_id": "A26",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11731,
+    "tokens_out": 2008,
+    "cost_usd": 0.2285158,
+    "duration_s": 22.5,
+    "finished_at": 1795624186.6628242,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2008,
+        "costUSD": 0.2285158
+      }
+    }
+  }
+}

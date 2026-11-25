@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'safe, compliant, instantly reversible change for regulated money-moving services', it explicitly gives up portals, template breadth and one-off tweaks, and its denominator (change-induced Sev-1/2 per 1,000 deploys plus time to restore) is compatible with the key's."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the opening verdict are 'Atlas as scoped', 'Chasing 80% of services' and 'New templates and one-off tweaks until rollback ships', which are the key's three decisions."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical, says the riskiest services are the ones not on Runway (both Sev-1s, 47 and 22 minute rollbacks) and the rollback epic has slipped three times; fact #2 adds that growth is greenfield, not migration."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names both key mechanisms as top risks, undisciplined pursuit of more (Atlas displacing rollback for a fourth quarter) and denial of risk (adoption rising while incidents stay flat), each with a specific early warning and trigger."
+  },
+  "D7": {
+    "score": 3,
+    "why": "It flags uninstrumented legacy pipelines and unknown Runway rollback time and tags most inferences, but it computes '6 ÷ 4,212 ≈ 1.4' as the current change-incident rate without an [ASSUMPTION] tag, which the key counts as making up the missing metric."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|D10|s3|judge",
+    "stage": "judge",
+    "case_id": "D10",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14062,
+    "tokens_out": 1858,
+    "cost_usd": 0.2598118,
+    "duration_s": 20.9,
+    "finished_at": 1795629008.5867243,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1858,
+        "costUSD": 0.2598118
+      }
+    }
+  }
+}

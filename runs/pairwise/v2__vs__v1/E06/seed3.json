@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "1",
+  "overall": "1",
+  "why": "Both confirm the same hedgehog, name the three key brutal facts and refuse Halvard Six and the student brand, but Analysis 1 refuses more cleanly, while Analysis 2 leaves open a capped guitar blind test. Analysis 2 is slightly better calibrated, with an explicit confidence statement, yet Analysis 1's firmer restraint and staged warnings make it the one I would hand to the CEO.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|E06|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "E06",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16875,
+    "tokens_out": 1822,
+    "cost_usd": 0.342864,
+    "duration_s": 23.4,
+    "finished_at": 1795630775.094464,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1822,
+        "costUSD": 0.342864
+      }
+    }
+  }
+}

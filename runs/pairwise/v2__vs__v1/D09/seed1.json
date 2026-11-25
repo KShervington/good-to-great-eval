@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "tie",
+  "D8": "1",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses catch the Freshway 44% concentration, the 36% Eastside drop tied to the markdown app, the missing use/household data, and both decline the café, defer the van and prune the add-ons with assumptions flagged. Analysis 2 edges ahead overall with a hedgehog that names 'any source', a sharper test of app versus road and a tougher read on leadership, while Analysis 1 has the slightly crisper verdict and more specific decline triggers.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|D09|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "D09",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 21965,
+    "tokens_out": 1573,
+    "cost_usd": 0.414344,
+    "duration_s": 20.8,
+    "finished_at": 1795628621.118776,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1573,
+        "costUSD": 0.414344
+      }
+    }
+  }
+}

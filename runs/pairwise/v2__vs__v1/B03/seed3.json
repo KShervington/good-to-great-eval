@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses land on essentially the same hedgehog (profit per active primary relationship), the same brutal facts and the same hubris-and-denial decline path, with similar honesty about missing data. Analysis 1 edges ahead because it drops the eight-products goal and both daily and monthly quotas outright, whereas Analysis 2 keeps 'eight' as an aspiration, and it also flags treating the subsidiary fine as a legacy matter and eventual regulatory growth limits.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|B03|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "B03",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 19942,
+    "tokens_out": 1634,
+    "cost_usd": 0.384416,
+    "duration_s": 19.4,
+    "finished_at": 1795625171.6673284,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1634,
+        "costUSD": 0.384416
+      }
+    }
+  }
+}

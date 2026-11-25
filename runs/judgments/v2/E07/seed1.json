@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'well-trained, well-coached community tutors' giving struggling six-year-olds 'the most proven thirty minutes', explicitly excludes math and parent apps, and uses 'cost per additional reader', which is compatible with the key's benchmark-per-dollar denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict and the top of the stop-doing list refuse five states in 30 months on the grant terms, the three board seats, the math pilot and ReadAlong, while restoring 30-hour training, the coach ratio and the research director before growth, without touching the core."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The new-school decline (69% to 63% to 58% against a steady 74%) is ranked Critical and named the most urgent fact, alongside the cut mechanisms (training, coach ratio, retention) and the lost research function, each with consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names 'grant-driven overreach' as the most likely way down, with a specific warning sign (launch calendar set by grant milestones, new-school gap above 10 points), and also flags hubris, the architect's departure, funder board seats and drift into math and apps."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures check out against the dossier, targets are tagged as assumptions and missing data is flagged, but there are small slips: 'sixteen years of renewals' where the dossier says twelve, an unexplained '70/100' score, and unmarked 'community tutors'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link, three temptations to refuse, the most urgent brutal fact, the missing numbers and a confidence statement, so a reader could act on it alone."
+  },
+  "D9": {
+    "score": 5,
+    "why": "It opens with 'already great, and it is in early decline', cites the randomized studies, renewals and cost advantage, confirms the existing hedgehog, and limits recommendations to restoring fidelity mechanisms and refusing named temptations, with specific trigger thresholds; the list is somewhat long but all of it preserves the core."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|E07|s1|judge",
+    "stage": "judge",
+    "case_id": "E07",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13621,
+    "tokens_out": 2232,
+    "cost_usd": 0.2677158,
+    "duration_s": 25.8,
+    "finished_at": 1795630886.2595124,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2232,
+        "costUSD": 0.2677158
+      }
+    }
+  }
+}

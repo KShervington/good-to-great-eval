@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the most convenient drugstore in every neighborhood it enters, run for profit per customer visit', with pharmacy-centered convenience kept, freestanding drive-through corner sites as evidence, and PBM, acquisitions and non-drugstore businesses ruled out, which matches all three key points including the denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict's 'temptations to refuse' are a big chain acquisition, a standalone PBM/mail business, and letting the 3,000-store target override site quality, which are the key's restraint decisions, and nothing on the list dismantles the core."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks payer-driven prescription margin compression first and second at High severity with the gross-margin consequence, and also lists rival consolidation (#3) and mail-order and supermarket competition (#6)."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key's decline_risks_expected is empty and later_history records only a growth slowdown beyond the 10-year window, so there is no decline mechanism to grade against."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged throughout and the missing profit per visit, cohort returns and shareholder returns are flagged, but it states as fact that the company 'can't see its own denominator' (the dossier only omits the figure) and that the streak 'spans a CEO change', both unmarked inferences."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (visits into profit), three temptations to refuse, the most urgent brutal fact (gross margin slipping to 28.0%), the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": 4,
+    "why": "It says plainly 'Already great, so this is a stewardship run', confirms the existing hedgehog and names subject-specific warning signs, but adds three 'missing' seats and treats the unmeasured denominator as a High-severity deficiency, which the evidence doesn't justify, alongside three CONDITIONAL gates and a 74/100 score."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|E02|s1|judge",
+    "stage": "judge",
+    "case_id": "E02",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12678,
+    "tokens_out": 2543,
+    "cost_usd": 0.2650678,
+    "duration_s": 28.7,
+    "finished_at": 1795629704.8523095,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2543,
+        "costUSD": 0.2650678
+      }
+    }
+  }
+}

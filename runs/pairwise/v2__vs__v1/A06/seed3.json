@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both propose a similar density-based regional hedgehog and cover all three key brutal facts, but Analysis 1 comes closer to the key by naming the doom loop in its verdict, admitting the 'best at' circle may be empty, and putting 'stop competing on price without a cost edge' in its top stop-doing items. Analysis 2 is better on the decline mechanism, since it warns against ignoring the superstore shift and a parent sale, whereas Analysis 1 treats the superstore format as a hype risk.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|A06|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A06",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15122,
+    "tokens_out": 1510,
+    "cost_usd": 0.302336,
+    "duration_s": 19.7,
+    "finished_at": 1795620436.7905707,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1510,
+        "costUSD": 0.302336
+      }
+    }
+  }
+}

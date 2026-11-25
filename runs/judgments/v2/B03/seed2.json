@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'primary bank of American households and small businesses, earning the most profit per active, trusting relationship', which matches the key's genuine-relationship core and denominator and explicitly rejects product count as 'easy to game'."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doings in the opening verdict are daily product-sales quotas, incentive pay tied to product counts, and the eight-products target; item 5 ends business-line ownership of risk and HR oversight, and active/funded measurement is prescribed."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the regulator's quota-driven misconduct finding ('the stores run the same design') as Critical #1 and the unverified active/funded quality of cross-sell as Critical #2, and also lists decentralized risk/HR and the pressure implied by the eight goal, with the doom-loop consequence stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names 'undisciplined pursuit of more via sales pressure' with warning signs of unfunded/inactive accounts, rising sales-misconduct terminations and hotline reports, plus 'hubris and denial' via the subsidiary fine being treated as legacy — the mechanism that actually occurred."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions and derived figures (ROA, years to reach eight) are marked, missing data is flagged and confidence is stated as moderate, but the 'cheapest and stickiest deposits in the country' claim behind the hedgehog is asserted without dossier support or an assumption tag."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link (customers bring more business, pushed by quotas), the top three stop-doings, the most urgent brutal fact, the missing numbers and a confidence level, compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|B03|s2|judge",
+    "stage": "judge",
+    "case_id": "B03",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14182,
+    "tokens_out": 1749,
+    "cost_usd": 0.2573718,
+    "duration_s": 22.2,
+    "finished_at": 1795624989.6036272,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1749,
+        "costUSD": 0.2573718
+      }
+    }
+  }
+}

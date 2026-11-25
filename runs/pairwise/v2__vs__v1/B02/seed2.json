@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses cover the key's stop-doing items, all four brutal facts and the Stage 1-3 decline signals, so they are hard to separate on substance. Analysis 2 edges ahead because its risk-based denominator is closer to the key's 'profit per mortgage risk level', it flags the suspiciously smooth earnings record for accounting review, and it marks its assumption about the CFO's scope where Analysis 1 states it as fact.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|B02|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "B02",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 21400,
+    "tokens_out": 2408,
+    "cost_usd": 0.438704,
+    "duration_s": 25.3,
+    "finished_at": 1795624815.2150202,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2408,
+        "costUSD": 0.438704
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "1",
+  "overall": "2",
+  "why": "Both analyses land on the key's hedgehog (paper-based consumer brands, profit per consumer brand), the aviation and commodity-paper exits, and all five brutal facts; Analysis 1 frames restraint more explicitly ('the core move was right; finish the narrowing', no new strategy). Analysis 2 is narrowly preferred because its warnings match the key's early signs more closely (a transformative acquisition, falling profit per brand against private label, capital approved without brand-level returns) and it avoids Analysis 1's unsupported claim that the anti-viral tissue 'lost money for three years'.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|E04|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "E04",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16636,
+    "tokens_out": 2362,
+    "cost_usd": 0.36063999999999996,
+    "duration_s": 26.1,
+    "finished_at": 1795630454.6584666,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2362,
+        "costUSD": 0.36063999999999996
+      }
+    }
+  }
+}

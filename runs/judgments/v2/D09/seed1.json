@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'Corbridge's cold chain for rescued food' (dairy, meat, produce), with the denominator 'usable perishable pounds per route-hour' and a donor concentration cap, matching the key's field, exclusions (café, backpacks, composting, gleaning) and used-food denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict and in section 5 are the café grant application, the third-van purchase for now, and the composting route and backpack pilot, which are exactly the key's decisions."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal facts 1-3, rated Critical and leading the verdict, combine the Eastside 412 to 263 drop, flat other Freshway stores, Freshway at 44% of pounds and the chainwide rollout, judge the app likelier than construction, and state the consequence."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names 'Stage 3: denial of risk' (the drop explained away as construction) as top risk with specific yield triggers, and 'undisciplined more, then grasping' (café or new programs) as second, both of which match the key's mechanisms."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Derived figures (about 12.5% loss, $0.54 per pound, 35% cap) are marked [ASSUMPTION], the 'only cold chain' claim is flagged unverified, and households and agency use are flagged as unmeasured with no pounds-to-meals conversion; the unexplained 38/100 score is a judgment, not an invented fact."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, most urgent brutal fact, weakest flywheel link (no proof the food is eaten), top three stops, the numbers that would change it and a confidence level, all in one screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|D09|s1|judge",
+    "stage": "judge",
+    "case_id": "D09",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15945,
+    "tokens_out": 1504,
+    "cost_usd": 0.2757798,
+    "duration_s": 19.9,
+    "finished_at": 1795628504.886983,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1504,
+        "costUSD": 0.2757798
+      }
+    }
+  }
+}

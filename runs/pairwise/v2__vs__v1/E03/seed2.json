@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "1",
+  "overall": "1",
+  "why": "Both analyses reach the key's answer: a cost-effective-care hedgehog, refusing the PBM purchase, the scale merger and the R&D race, and fixing diagnostics quality as the critical preservation move. Analysis 1 edges ahead by putting profit per employee in the hedgehog sentence, answering the dossier's three open questions directly, adding trigger thresholds to its decline risks, and avoiding Analysis 2's small overstatements (diagnostics as \"fastest-growing\", a scale game Marbury \"is losing\").",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|E03|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "E03",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17605,
+    "tokens_out": 1705,
+    "cost_usd": 0.349864,
+    "duration_s": 20.9,
+    "finished_at": 1795630096.1778998,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1705,
+        "costUSD": 0.349864
+      }
+    }
+  }
+}

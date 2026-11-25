@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both land on the key's low-cost, home-region, profit-per-employee hedgehog with the same international exit and branch and perk cuts, but Analysis 2 is closer to the key's wording (\"run like a business\", the American West, cuts starting at the top) and adds a refutation test and a fuller action plan. Analysis 1 is better calibrated (no invented numeric targets, explicit confidence level) and its controls-hollowing and big-acquisition warnings sit closer to the later decline, but that does not outweigh Analysis 2's fit and actionability.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|A21|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A21",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16610,
+    "tokens_out": 1621,
+    "cost_usd": 0.33058400000000004,
+    "duration_s": 18.8,
+    "finished_at": 1795622758.5039728,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1621,
+        "costUSD": 0.33058400000000004
+      }
+    }
+  }
+}

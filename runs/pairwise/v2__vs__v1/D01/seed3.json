@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses match the key on the hedgehog (inventory for independent vet clinics, per-clinic gross profit), on stopping dental and the chain pilots, on the VetSource 38%/five-month/rival-tool fact, and on the two decline mechanisms. Analysis 2 is better calibrated: it says sales efficiency cannot be judged and lifetime value cannot be computed without churn, and states its confidence, whereas Analysis 1 derives a ~$12.2k CAC and two-year payback from net new clinics without an assumption tag.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|D01|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "D01",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 21849,
+    "tokens_out": 1235,
+    "cost_usd": 0.398968,
+    "duration_s": 16.5,
+    "finished_at": 1795626972.1130517,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1235,
+        "costUSD": 0.398968
+      }
+    }
+  }
+}

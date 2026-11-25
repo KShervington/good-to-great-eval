@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's core ('paper towels and bath tissue... under its own brands... lowest cost per ton'), rules out films, furniture, AV aids and fine papers, and names a fallback if it cannot beat Rival P, but it calls the hedgehog a 'working hypothesis' and never says outright that the current portfolio has none."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing items 1 and 2, also in the opening verdict, are 'stop treating diversification as the strategy' and sell the films, furniture and AV businesses; item 7 and the hubris risk also challenge the no-coupon doctrine and reliance on past dominance."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Rival P's national premium soft-tissue launch with 'no softness answer' is ranked #1 Critical and named most urgent in the verdict, and the ROE and earnings decline (#3) and the roughly $200M of unprofitable acquisitions (#4) are both in the register."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The top risk is 'Rival P's softness win spreads nationally' with a regional share-loss trigger, and it also flags a new chairman grasping for salvation through sweeping cost cuts, Rival K moving into its categories, and selling the core by default, though not the capacity over-expansion."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged throughout, the missing share, acquisition P&L and blind-test data are flagged, and confidence is stated as low to moderate, but the current lowest-cost mill advantage is treated as a present fact without an assumption tag."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (product superiority), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A02|s2|judge",
+    "stage": "judge",
+    "case_id": "A02",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11554,
+    "tokens_out": 2066,
+    "cost_usd": 0.2280038,
+    "duration_s": 22.5,
+    "finished_at": 1795619408.2580168,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2066,
+        "costUSD": 0.2280038
+      }
+    }
+  }
+}

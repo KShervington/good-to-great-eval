@@ -17,3 +17,6 @@
 2026-11-25 01:32:00	resume	fable limit lifted; resuming 143 remaining jobs
 2026-11-25 01:58:43	round_done	round r1: every job is done; ready for the accept/reject decision
 2026-11-25 01:58:43	finish	harness idle; counts={'done': 719}
+2026-11-25 10:02:30	start	harness run started; 378 jobs remaining
+2026-11-25 13:25:02	round_done	round r2: every job is done; ready for the accept/reject decision
+2026-11-25 13:25:02	finish	harness idle; counts={'done': 1097}

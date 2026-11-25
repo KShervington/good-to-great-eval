@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses propose the same drugstore-only hedgehog, the same exits from unrelated businesses and all three key brutal facts, so they are hard to separate on most dimensions. Analysis 2 is closer to the key's 'no coherent hedgehog' reading, calling the company closer to a doom loop than a flywheel and scoring it lower, while Analysis 1 more explicitly names unrelated acquisitions and founder dependence as the top decline risks.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|A20|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A20",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17062,
+    "tokens_out": 1942,
+    "cost_usd": 0.35065599999999997,
+    "duration_s": 22.2,
+    "finished_at": 1795622473.2194738,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1942,
+        "costUSD": 0.35065599999999997
+      }
+    }
+  }
+}

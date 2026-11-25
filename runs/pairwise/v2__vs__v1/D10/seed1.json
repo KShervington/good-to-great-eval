@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "1",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both land on the key's hedgehog, brutal facts and Atlas decline, but Analysis 2 puts the service-count OKR in its top three stop-doing items, adds the key's \"stop treating legacy as not our budget\" point, names decline stages 2 and 3 as primary, and opens with a more actionable verdict. Analysis 1 is better calibrated, since it explicitly says \"Runway is safer\" is unproven without per-pipeline deploy counts, whereas Analysis 2 slips by saying Payments committed \"in writing\".",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|D10|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "D10",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 19442,
+    "tokens_out": 1359,
+    "cost_usd": 0.36541599999999996,
+    "duration_s": 17.2,
+    "finished_at": 1795628958.6436765,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1359,
+        "costUSD": 0.36541599999999996
+      }
+    }
+  }
+}

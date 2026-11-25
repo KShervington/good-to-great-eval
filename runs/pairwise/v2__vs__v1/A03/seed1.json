@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on essentially the key's hedgehog (cost-effective hospital, nutrition and diagnostic products, profit per employee) and both drop the blockbuster race and consumer diversification. Analysis 2 edges ahead by putting family-line/tenure appointments on the stop-doing list, stating its confidence level outright and admitting the antibiotic does not fit the concept, while Analysis 1 only raises family influence as a review item.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|A03|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A03",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16497,
+    "tokens_out": 1828,
+    "cost_usd": 0.337056,
+    "duration_s": 21.7,
+    "finished_at": 1795619660.244754,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1828,
+        "costUSD": 0.337056
+      }
+    }
+  }
+}

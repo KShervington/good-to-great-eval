@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "It narrows to the key's suggested core ('indispensable equipment-and-supplies partner to the independent quick printer', profit per installed system), rules out copiers and the electronic office, and calls the current portfolio a sprawl of '27 subsidiaries with no clear organizing logic' with three competing strategies still open."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing #1 in both the verdict and the full list is 'No bet-the-company push into electronic office against much larger firms', followed by harvesting addressing, pulling duplicators from general offices and divesting units that don't serve print shops."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1 (Critical, and the verdict's most urgent) says copying is replacing duplicating and computers are replacing plate addressing, #2 says Duplicon leads neither replacement, and #3 covers stalled growth since the late 1960s."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The top decline risk is Stage 4 'grasping for salvation: a big electronic-office bet, a bold transformational CEO, or an acquisition spree', with the warning sign of 'a new leader announcing a transformation', which is the mechanism that occurred."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged throughout, missing financials, share and leadership data are flagged, and confidence is stated as low to moderate; but the faith statement upgrades the dossier's 'a leading name' to 'the leading position with quick printers' and the 15/100 score is unexplained."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict compactly gives the hedgehog sentence, the weakest flywheel link (supplies and service profit per installed press), three stop-doings, the most urgent brutal fact, the missing numbers and a confidence level, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A18|s2|judge",
+    "stage": "judge",
+    "case_id": "A18",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 10952,
+    "tokens_out": 1654,
+    "cost_usd": 0.2018918,
+    "duration_s": 19.0,
+    "finished_at": 1795621939.822494,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1654,
+        "costUSD": 0.2018918
+      }
+    }
+  }
+}

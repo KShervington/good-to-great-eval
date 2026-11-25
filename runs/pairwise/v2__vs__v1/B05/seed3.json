@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses land on the same wireless self-obsolescence hedgehog and cover all four key stop-doing items, but Analysis 1 maps the decline stages more closely to the key (parallel bets, pricing pressure framed as temporary, satellite launch without demand data) and is firmer on withdrawing the carrier distribution program. Analysis 2 is better calibrated, with a stated confidence level, flagged inferred values and a closing caveat, whereas Analysis 1 presents unflagged core values and calls an internal remark a public denial.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|B05|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "B05",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18541,
+    "tokens_out": 1738,
+    "cost_usd": 0.36616,
+    "duration_s": 20.4,
+    "finished_at": 1795625410.9852319,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1738,
+        "costUSD": 0.36616
+      }
+    }
+  }
+}

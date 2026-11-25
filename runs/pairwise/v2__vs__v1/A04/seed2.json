@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses propose the same hormone/inflammation hedgehog where the key says there was none, and both surface all three brutal facts and the licensed-product dependence and merger risks. Analysis 2 edges ahead because its stop-doing list calls for an orderly exit from seeds, stops the all-areas research race, and caps reliance on any single licensed product, which is closer to the key's decision.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|A04|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A04",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17297,
+    "tokens_out": 1084,
+    "cost_usd": 0.32009600000000005,
+    "duration_s": 15.2,
+    "finished_at": 1795619930.961467,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1084,
+        "costUSD": 0.32009600000000005
+      }
+    }
+  }
+}

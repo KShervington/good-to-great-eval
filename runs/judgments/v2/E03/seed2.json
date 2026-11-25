@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'best in the world at products that make health care more cost-effective, and it measures itself by profit per employee', with branded blockbuster discovery explicitly ruled out, which matches all three key points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict and the top three stop-doing items are 'do not buy a pharmacy benefit manager', 'do not merge for scale' and 'do not escalate branded R&D', and fixing diagnostics quality is framed as preserving the core rather than a new strategy."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Unresolved diagnostics quality concerns are ranked #1 and 'Critical', with the consequence tied to the earlier IV recall; cost containment, subscale branded drugs and consolidation are also in the register."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and its later history records no Mighty-Fall-style decline, so this dimension is N/A."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures (about $30,700 per employee, segment margins, implied share counts) check out against the dossier, assumptions are tagged and the missing data is flagged, but the 'Greatness potential: 72/100' score is unexplained and Gate 1 overstates formula as 'world leadership' when the dossier says leading U.S."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link, three temptations to refuse, the most urgent brutal fact, the missing numbers and a confidence level, compactly enough to act on."
+  },
+  "D9": {
+    "score": 4,
+    "why": "It declares 'already great' in stewardship mode with evidence, keeps the lived hedgehog and names subject-specific warning signs, but adds several changes the evidence does not strictly call for (a managed-care organization, a health-economics unit, an R&D re-rank, a BHAG)."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|E03|s2|judge",
+    "stage": "judge",
+    "case_id": "E03",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12652,
+    "tokens_out": 2175,
+    "cost_usd": 0.24993179999999998,
+    "duration_s": 25.4,
+    "finished_at": 1795630055.3121386,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2175,
+        "costUSD": 0.24993179999999998
+      }
+    }
+  }
+}

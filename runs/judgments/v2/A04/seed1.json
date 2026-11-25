@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to hormone/inflammation/metabolic drugs judged by profit per research dollar and explicitly rules out broad research pharma and diversification, matching the key's give-ups; but it only implies the current state lacks a hedgehog ('working hypothesis', 'strategy that keeps oscillating', 'the concept isn't real yet') and never says so plainly."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing items 1 and 2, repeated in the one-screen verdict, are 'non-drug acquisitions (seeds and agriculture)' and 'trying to match the giants' research budgets', and single-product reliance is handled by treating the licensed compound as 'a bridge product, not the foundation' with a forecast cap on its profit share."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The top three brutal facts, all rated High, are exactly the key's: cannot outspend the largest research firms, growth dependent on a compound another firm owns, and regulators removing or weakening established products (the ~12% antibiotic and the diabetes drug); the first two are named most urgent in the verdict."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names 'grasping for salvation through the licensed compound' with its profit share rising and a ~25% trigger, plus denial of safety signals on other drugs and 'capitulation: being sold or merged because it lacks scale', which match the later product dependence, safety controversies and merger."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences and thresholds are tagged [ASSUMPTION], no financial figures are invented, the missing sales, earnings, ROE, research intensity and non-drug share are flagged up front and assigned as the first 90-day action, and confidence is stated as low to moderate."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict compactly gives the hedgehog sentence, the weakest flywheel link (in-house discovery), the top three stop-doing items, the most urgent brutal fact, the numbers that could change it and a confidence level, so it can be acted on without reading further."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A04|s1|judge",
+    "stage": "judge",
+    "case_id": "A04",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11938,
+    "tokens_out": 2194,
+    "cost_usd": 0.23926779999999997,
+    "duration_s": 25.1,
+    "finished_at": 1795619813.4988828,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2194,
+        "costUSD": 0.23926779999999997
+      }
+    }
+  }
+}

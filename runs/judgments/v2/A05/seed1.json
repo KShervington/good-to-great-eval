@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'best operator of electronics-and-appliance superstores in dense regional clusters' with 'profit per geographic region' as denominator, it rules out three of the four current operations, and the BHAG extends it to national leadership, matching the key on all three points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are no more acquisitions, 'growth capital goes to superstores only' and no single-store entries, which is the key's decision to end the format and acquisition patchwork and concentrate on superstores; the leased-department exit is also listed, at item 5."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'four formats run in parallel with no stated choice' and the struggling big-city acquisition as High and the superstore's capital weight (half of net worth) as Medium-High, with the consequence stated that the core strategic bet is unmeasured; the loss year itself appears only in the faith statement."
+  },
+  "D5": {
+    "score": 3,
+    "why": "The risk register names Stage 2 undisciplined pursuit of more and Stage 4 'a big acquisition or new concept pitched as the fix for slowing growth', but as part of a five-stage boilerplate list, and it does not name the actual mechanisms of losing ground to a better-format rival or eroding the service and sales staff."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferred figures and thresholds are tagged [ASSUMPTION], the absent profit, ROE, debt and format-profitability data are flagged repeatedly and drive the CONDITIONAL gates, the 11.7% growth rate is correctly derived from dossier figures, and confidence is stated as low to medium; the only loose item is an unexplained '35/100' potential score."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (profit per region), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, so it is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A05|s1|judge",
+    "stage": "judge",
+    "case_id": "A05",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11208,
+    "tokens_out": 2604,
+    "cost_usd": 0.24398779999999998,
+    "duration_s": 30.2,
+    "finished_at": 1795620078.1459475,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2604,
+        "costUSD": 0.24398779999999998
+      }
+    }
+  }
+}

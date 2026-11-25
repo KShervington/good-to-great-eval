@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'dependable products that let hospitals deliver care at lower cost' (IV, clinical nutrition, diagnostics), it rules out blockbuster discovery and consumer brands, and it uses profit per employee, which matches the key on field, sacrifice and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the opening verdict are consumer brands, 'racing research-led rivals for blockbuster drugs' and spreading capital across five divisions; the bus section also calls for a review of weakened senior management."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the recall and 'no strategy while both profit engines are gone' as Critical, lists 'the discovery path is not winnable' and weakened management as High, and states consequences for each; the shift of hospitals toward cost control appears in the hedgehog but not in the register."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and its later history says 'No collapse', so there is no decline mechanism to grade; the analysis's top-ranked risk of a repeat quality failure does loosely anticipate the 1999 FDA quality fine."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, missing divisional financials, market share and research spending are flagged, and confidence is stated as moderate to low; but it overstates the antibiotic as a profit engine that is 'gone' when the dossier says only that it is off-patent, and the 'Greatness potential: 30/100' score has no stated basis."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog, the weakest flywheel link (trust), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, so a reader could act on it alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A03|s2|judge",
+    "stage": "judge",
+    "case_id": "A03",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12542,
+    "tokens_out": 2304,
+    "cost_usd": 0.2533318,
+    "duration_s": 26.5,
+    "finished_at": 1795619638.4625995,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2304,
+        "costUSD": 0.2533318
+      }
+    }
+  }
+}

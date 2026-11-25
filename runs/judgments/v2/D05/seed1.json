@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "It states 'Tessel is not yet good, so the run stops at Gate 1' and 'Hedgehog Concept: none yet', and offers only seeds that match the key: the medication and refill moment after discharge, a per-active-circle denominator, and a path through non-network retention and refill without hand-loading."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's 'Not yet' list leads with building SSO, the admin dashboard and the staffed concierge for the employer pilot, followed by deferring the Android port and a hire; a dedicated section says 'don't build for it now'."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent brutal fact in the verdict is that 'families outside your circle don't stay' and refill sync is 'hand-loaded from one pharmacy's Monday email'; it also cites 7 of 41 circles with one her own, network-sourced users, 3 payers and the stalled aggregator, and concludes that building on this is 'built on sand'."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The risk register names 'Being pulled into the employer pivot' with a fitting warning sign ('Building SSO or the dashboard before milestone 1'), but denial through vanity signals is handled only in prose ('You've named the wrong biggest risk'), not as a registered risk with a warning sign."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Thresholds are tagged [ASSUMPTION], Graham's figures are marked unverified, and cohort retention is flagged as unknown with 7/41 called 'only a rough proxy, not true cohort retention'; however '34 of 41 circles have stopped engaging' is an unmarked inference from a weekly-active snapshot."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the Gate 1 fail with no hedgehog, the weakest link (families stop using it), three not-yet items, the most urgent brutal fact, the numbers that would change the verdict, and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|D05|s1|judge",
+    "stage": "judge",
+    "case_id": "D05",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11486,
+    "tokens_out": 2249,
+    "cost_usd": 0.2342358,
+    "duration_s": 26.4,
+    "finished_at": 1795627757.5866132,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2249,
+        "costUSD": 0.2342358
+      }
+    }
+  }
+}

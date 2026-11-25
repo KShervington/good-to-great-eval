@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The analysis opens with 'Gate 0 FAIL', states 'Hedgehog Concept: none', and both reframes to the ongoing endeavors behind the event (Bellmoor Days, the library archive, the ED's career) and switches to project-delivery methods, as the key requires."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The run ends at Gate 0 and the project-scope stop list, echoed in the verdict, puts the unbudgeted app first (declined in January unless fully outside-funded with a permanent owner) and includes 'stop waiting until April to learn Calder's position' and no deposits ahead of confirmed revenue."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The delivery register ranks Calder as Critical with every key point (63% of sponsorship, $160,000 due in April, Farrow retired with no successor, parent consolidating, March deposit before May loan expiry) and states the consequence that money goes out before its funding is confirmed."
+  },
+  "D5": {
+    "score": null,
+    "why": "The answer key lists no expected decline risks and its later history is not applicable."
+  },
+  "D7": {
+    "score": 5,
+    "why": "All derived figures (63%, 20%, 12%, 5.7 visits per resident, 18 times, about $16,100 average) check against the dossier, inferences are tagged [ASSUMPTION], and the attendance target is flagged as baseless rather than re-derived; the only unmarked items are a judgment score of 5/100 and a recommended 90% threshold."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The compact opening verdict gives the Gate 0 FAIL, 'Hedgehog Concept: none', the weakest delivery link (Calder's $160,000), three stop-now items, the most urgent brutal fact (March deposit and May loan end around an unconfirmed installment), the unmethodical 180,000 figure, and what would change the answer."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable because the answer key is track D, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|D12|s1|judge",
+    "stage": "judge",
+    "case_id": "D12",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11379,
+    "tokens_out": 2033,
+    "cost_usd": 0.22388380000000002,
+    "duration_s": 23.5,
+    "finished_at": 1795629414.9191563,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2033,
+        "costUSD": 0.22388380000000002
+      }
+    }
+  }
+}

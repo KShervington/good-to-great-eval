@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on a toys-only, long-lived low-price brand hedgehog with profit per brand-year, separate pencils, reject electronics and diversification, and cover all four key brutal facts. Analysis 2 is closer to the key on characters and relaunching dormant brands, puts the pencil separation at the top of its stop-doing list, flags the succession bench and survival beyond the current leader more explicitly, and is better calibrated with a stated confidence level and a lower greatness score.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|A26|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A26",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18159,
+    "tokens_out": 1316,
+    "cost_usd": 0.343168,
+    "duration_s": 19.2,
+    "finished_at": 1795624094.2376986,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1316,
+        "costUSD": 0.343168
+      }
+    }
+  }
+}

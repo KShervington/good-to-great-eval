@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on nearly the same hedgehog (outcome-defined quality, profit per set, no share race), stop-doing list and brutal facts; Analysis 1 is slightly better calibrated, with an explicit confidence statement and no unsupported claims such as Analysis 2's 'No. 2 in color'. Analysis 2 gets the overall nod because its decline register tracks the key's mechanism more closely, placing pay TV and debt-funded capacity in Stage 2 and flagging blame on outside causes and a later panic response, and its verdict states outright that an already-great company is showing early decline.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|B08|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "B08",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 19350,
+    "tokens_out": 2147,
+    "cost_usd": 0.39546400000000004,
+    "duration_s": 24.5,
+    "finished_at": 1795625648.0737073,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2147,
+        "costUSD": 0.39546400000000004
+      }
+    }
+  }
+}

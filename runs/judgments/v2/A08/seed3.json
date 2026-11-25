@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog narrows to the key's suggested core (in-state savings into conservative adjustable-rate home loans) and rules out brokerage, real-estate services and size-driven acquisitions, but it only calls this a 'working hypothesis' with a CONDITIONAL verdict and never says plainly that the current company lacks a hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict lists 'No further capital into brokerage and real-estate services' as item 1 and 'No thrift acquisitions or out-of-state expansion judged by size' as item 3, matching both of the key's stop-doing points."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical, is the legacy fixed-rate book funded by floating-cost deposits amid the rate squeeze, with the consequence that it could turn the run into a turnaround; deregulated peers moving into riskier assets is fact #4."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The top Gate 10 risk is Stage 2 undisciplined pursuit of more through diversification and acquisitions, with a specific warning sign (share of net worth outside residential lending); it also flags a single-state housing downturn and eventual sale to a larger rival, which is what happened."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences and targets are consistently tagged [ASSUMPTION], the missing financials, fixed-rate book size, market share and new-unit earnings are all flagged, and confidence is stated as low to moderate with conditional gate verdicts; only trivial unmarked asides such as 'specialists already own it' remain."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (profit to capital), three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, all compactly and in a form someone could act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A08|s3|judge",
+    "stage": "judge",
+    "case_id": "A08",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14347,
+    "tokens_out": 1952,
+    "cost_usd": 0.26813180000000003,
+    "duration_s": 23.5,
+    "finished_at": 1795620951.743818,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1952,
+        "costUSD": 0.26813180000000003
+      }
+    }
+  }
+}

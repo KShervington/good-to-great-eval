@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the sonographer adult congenital heart teams trust with their hardest anatomy, paid for the complexity of each study, not the count, and pass that skill on', with the denominator 'earnings per scanning hour, at a load your shoulder can sustain', which matches the key's core, volume-to-expertise shift and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are the high-volume travel contract, going without disability cover, and extra overtime, which are exactly the key's three points, explicit and unsoftened."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent brutal fact is 'Your whole income runs through one shoulder', already injured, load up about 50%, disability insurance dropped; the register ranks the shoulder and the missing cover as its two Critical items, with the thin buffer and variable second income as the consequence."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names both expected mechanisms specifically: denial of risk as body failure while uninsured (warning signs: night pain, cushion on every study, a lost shift) and undisciplined more as 'Money panic buys a yes: travel, overtime' (warning sign: 'just one contract' after a braces bill)."
+  },
+  "D7": {
+    "score": 4,
+    "why": "University pay is flagged as unknown and never guessed, and the derived figures are arithmetically sound and mostly tagged [ASSUMPTION]; but a few inferences go unmarked, such as the '5–7 studies a day' specialist workload and 'ACHD volume at a regional hospital will never fill a job'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (visible trust to a congenital role), three stop-doing items, the most urgent brutal fact, the missing facts and a confidence level, compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track D, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|D06|s3|judge",
+    "stage": "judge",
+    "case_id": "D06",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13661,
+    "tokens_out": 1664,
+    "cost_usd": 0.2456358,
+    "duration_s": 20.9,
+    "finished_at": 1795628367.3271534,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1664,
+        "costUSD": 0.2456358
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the world's best maker of health-care products that make care better per dollar (diagnostics, nutrition, hospital products and focused medicines), measured by profit per employee', explicitly excludes broad branded-drug discovery and PBMs, and is labelled 'confirmed, not invented'."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict and stop-doing list lead with 'Don't buy a pharmacy benefit manager', 'Don't merge for branded-drug scale' and 'Don't race the largest drugmakers on discovery breadth', and closing the diagnostics quality findings is the first 90-day action, with nothing dismantling the core."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical, is 'Diagnostics quality concerns unresolved for two years' with the consequence tied to the flagship segment and the old IV recall; near-zero pricing power and sub-scale in branded drugs are also registered, and consolidation is handled as a temptation."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key's decline_risks_expected is empty and later_history records no decline, so this dimension is N/A."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Every derived figure (about $30,700 profit per employee, implied share counts, margins, growth rates) checks out against the dossier, inferences are tagged [ASSUMPTION], and missing shareholder return, regulator findings, JV financials and profit by line are flagged, with Gate 1 made conditional on shareholder return; the only loose item is an unexplained '72/100' score."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, weakest flywheel link (diagnostics manufacturing quality), three temptations to refuse, the most urgent brutal fact, missing numbers and confidence, compactly enough to act on."
+  },
+  "D9": {
+    "score": 5,
+    "why": "It states 'Already great. Stewardship mode: protect the machine, don't reinvent it' with evidence (23-year streak, ~39% ROE, low debt), keeps the existing hedgehog, limits recommendations to preservation mechanisms (quality officer, succession bench, written Hedgehog test), and names subject-specific warning signs: open findings, scale deals, JV and government-channel compliance, streak sustained by buybacks."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|E03|s1|judge",
+    "stage": "judge",
+    "case_id": "E03",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13894,
+    "tokens_out": 2417,
+    "cost_usd": 0.2794838,
+    "duration_s": 26.2,
+    "finished_at": 1795629996.3128734,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2417,
+        "costUSD": 0.2794838
+      }
+    }
+  }
+}

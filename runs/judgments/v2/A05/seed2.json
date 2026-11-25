@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the dominant big-ticket electronics-and-appliance superstore in each region it enters', measured by profit per region, with leased departments, turnarounds, mail order and audio boutiques explicitly ruled out, which matches the key's field, sacrifice and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are 'stop buying chains', 'stop running four formats at once' and 'stop entering markets one store at a time', and the full list adds exiting the West Coast leased department and no new capital for the acquired chain."
+  },
+  "D3": {
+    "score": 4,
+    "why": "The register lists the thin capital relative to the superstore bet (#3) and the struggling acquired chain (#4) as High, and the unproven mixed-format economics (#2) as Critical, but it ranks Rival S as most urgent and does not frame the loss year as proof that the mixed-format model failed."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The risk register names 'losing to a lower-cost rival in core regions' with a share-loss warning sign, plus 'undisciplined pursuit of more' and 'searching for the next format or deal', which fit the later decline but stay fairly generic and miss the erosion of the service and sales-staff advantage."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferred items are tagged [ASSUMPTION], the one computed figure (about 11.7% a year sales growth) follows correctly from dossier numbers, the missing profit, ROE, debt and per-format data are flagged repeatedly, and confidence is stated as moderate-low with conditional gates."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level in a compact, actionable form."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A05|s2|judge",
+    "stage": "judge",
+    "case_id": "A05",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11752,
+    "tokens_out": 1965,
+    "cost_usd": 0.2271318,
+    "duration_s": 22.8,
+    "finished_at": 1795620111.063929,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1965,
+        "costUSD": 0.2271318
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "2",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2's hedgehog centres on the electronics superstore run on best-in-class distribution and store operations, with capital redirected from ventures and store count into renewing the existing base, which is closer to the key than Analysis 1's narrower expert-advice concept; it also names the ageing store base as a brutal fact. Both flag hubris, overreach, denial and the silver-bullet risk about equally well, but Analysis 2 is better calibrated, with an explicit confidence statement and missing unit economics treated as a brutal fact.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|B01|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "B01",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 20527,
+    "tokens_out": 1633,
+    "cost_usd": 0.39373600000000003,
+    "duration_s": 19.2,
+    "finished_at": 1795624427.242926,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1633,
+        "costUSD": 0.39373600000000003
+      }
+    }
+  }
+}

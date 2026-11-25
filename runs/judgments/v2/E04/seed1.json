@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'out-inventing larger rivals to own the leading brand in each everyday, paper-based absorbent-care need', with profit per consumer brand as denominator and the airline, aviation services and commodity papers ruled out, which matches the key on all three points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top stop-doing items are funding the airline expansion, owning aviation services, reinvesting in newsprint and printing-paper mills, and housing tobacco papers; Europe is kept inside the consumer hedgehog and the consumer core is left intact."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register contains all five key facts (succession, Rival P's size and diaper lead, airline capital drain, commodity mills, Europe), with succession ranked Critical and its consequence stated as handing a three-business conglomerate to a two-month president."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and describes the later history as integration pain, not a decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION] and the missing segment, brand, share and Europe data are flagged, but the '58/100' score is unsupported and the 'not yet great' verdict undersells a 20-year record of outperformance."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen compactly gives the hedgehog sentence, the weakest flywheel link (reinvestment), three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It keeps the existing hedgehog and names subject-specific risks, but labels the company 'Good, not yet great' at 58/100 and adds a long improvement list (eight stop-doing items, three seats to fill, new values and BHAG) rather than plainly recognizing greatness."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|E04|s1|judge",
+    "stage": "judge",
+    "case_id": "E04",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13002,
+    "tokens_out": 2017,
+    "cost_usd": 0.24921179999999998,
+    "duration_s": 22.8,
+    "finished_at": 1795630262.3405395,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2017,
+        "costUSD": 0.24921179999999998
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2's denominator (profit per unit of risk borne) matches the key's 'profit per mortgage risk level' more closely than Analysis 1's guarantee-fee framing, and it pinpoints the earnings-quality mechanism (self-defined operating EPS, amortization and hedge accounting, restatement indicators) with explicit triggers. Both cover the key's stop-doing items and brutal facts well, but Analysis 2 is slightly better calibrated, with accurate arithmetic, a stated confidence level and clearly tagged assumptions.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|B02|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "B02",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 22047,
+    "tokens_out": 1724,
+    "cost_usd": 0.42169599999999996,
+    "duration_s": 21.4,
+    "finished_at": 1795624789.7908556,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1724,
+        "costUSD": 0.42169599999999996
+      }
+    }
+  }
+}

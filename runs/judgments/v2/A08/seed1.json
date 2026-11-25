@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog narrows to the key's suggested core ('lowest-risk, lowest-cost home lender in its state') and rules out brokerage, real estate and size-driven mergers, but it only says the company is 'drifting toward diversification' and 'pushing on more than one wheel' rather than stating plainly that it currently lacks a hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict and stop-doing list lead with 'No more non-lending acquisitions. Freeze and review last year's brokerage and real-estate unit' and include 'No thrift acquisitions made for size or rank' at #3, matching both key points."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register rates as High both the legacy fixed-rate book funded by rate-sensitive deposits and deregulated competitors bidding up deposit costs, and the verdict names the fixed-rate book as the most urgent fact with the spread-squeeze consequence stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 2 'deregulation tempts more diversification and size-driven mergers' as the top risk with a specific warning sign (share of capital in non-residential activities), and also flags a home-state housing downturn and Stage 5 'sold or absorbed', all of which match the later history."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, missing ROE, net worth, fixed-rate book size and new-unit profit are flagged, and confidence is 'low to moderate'; however, it asserts treasury, securitization and risk-reporting seats are 'missing' without dossier evidence or an assumption tag, and gives an unsupported 25/100 score."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, weakest flywheel link (deposit cost), top three stop-doing items, most urgent brutal fact, the numbers that would change it, and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A08|s1|judge",
+    "stage": "judge",
+    "case_id": "A08",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11704,
+    "tokens_out": 1795,
+    "cost_usd": 0.21956379999999998,
+    "duration_s": 20.5,
+    "finished_at": 1795620770.225054,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1795,
+        "costUSD": 0.21956379999999998
+      }
+    }
+  }
+}

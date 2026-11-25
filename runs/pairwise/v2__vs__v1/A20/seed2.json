@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "2",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "1",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on the same regional-drugstore focus, call for divesting the unrelated lines and flag the key's three brutal facts, but Analysis 2 weights the founder's politics and the diversification churn more heavily and is more honest about the unknown truth climate and unproven successor. Analysis 1 has the crisper headline verdict with an explicit confidence statement, but it slightly overstates the dossier (\"invented\" self-service) and passes its brutal-facts gate despite the same unknowns.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|A20|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A20",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16576,
+    "tokens_out": 1624,
+    "cost_usd": 0.33016,
+    "duration_s": 20.3,
+    "finished_at": 1795622493.612163,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1624,
+        "costUSD": 0.33016
+      }
+    }
+  }
+}

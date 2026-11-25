@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's suggested core (quick-print short-run offset, profit per installed machine) and rules out electronic office systems and addressing growth, but only implies the current portfolio lacks a hedgehog ('coverage without focus', 'stops trying to be everything') without saying so plainly."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1, also in the verdict, is 'betting the company on electronic-office leadership against much larger firms', followed by harvesting addressing and divesting or harvesting typesetting and engineering graphics."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks plain-paper copying replacing duplicating as Critical at #1, then the sales peak and stalled growth at #2 and computers displacing plate addressing at #3, and the verdict states the consequence."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names stage 4 as the top risk: 'a big bet on the electronic office, a transformative acquisition, or an outside savior with a sweeping plan', with capex and R&D outside the hedgehog as the early warning, which is the mechanism that occurred."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged throughout, missing financials and leadership data are flagged, and confidence is stated as low to moderate, but 'Greatness potential: 12/100' and 'thousands of small printers' are unmarked and unsupported."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact, missing numbers and confidence, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A18|s3|judge",
+    "stage": "judge",
+    "case_id": "A18",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11357,
+    "tokens_out": 1680,
+    "cost_usd": 0.20941179999999998,
+    "duration_s": 19.2,
+    "finished_at": 1795622026.9386816,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1680,
+        "costUSD": 0.20941179999999998
+      }
+    }
+  }
+}

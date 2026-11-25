@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both land on superstores with profit per region, stop the acquisition and multi-format patchwork, and flag the capital-heavy superstore bet and the struggling acquired chain, with similar honesty about the missing profit data. Analysis 2 is slightly closer to the key because it names consumer-electronics superstores specifically, adds a single documented prototype and playbook (the systems discipline for rollout), and puts 'stop running four formats as equal bets' in its top-line verdict.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|A05|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A05",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15568,
+    "tokens_out": 1415,
+    "cost_usd": 0.305672,
+    "duration_s": 18.0,
+    "finished_at": 1795620129.2026205,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1415,
+        "costUSD": 0.305672
+      }
+    }
+  }
+}

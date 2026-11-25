@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Analysis 1's hedgehog matches the key most closely (capital-markets management of mortgage risk, profit per unit of risk, home-ownership passion), whereas Analysis 2 narrows it to credit-risk pricing and demotes securitization to a delivery mechanism. Analysis 2 is sharper on the decline mechanism (portfolio growth beyond capital, earnings smoothing, higher-risk loans, Treasury rescue), but both are equivalent on the stop-doing list, brutal facts and calibration.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|A07|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A07",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17083,
+    "tokens_out": 1538,
+    "cost_usd": 0.334832,
+    "duration_s": 21.5,
+    "finished_at": 1795620742.5435622,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1538,
+        "costUSD": 0.334832
+      }
+    }
+  }
+}

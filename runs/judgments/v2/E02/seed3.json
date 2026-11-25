@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the most convenient pharmacy-led drugstore on the corner, measured by profit per customer visit', which matches the key on convenience (freestanding corners, drive-through, any-store refills), pharmacy-centred pure drugstore, and the profit-per-visit denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top stop-doing items and the verdict refuse a large acquisition to 'keep pace', refuse growing mail and the benefit network as standalone engines, and refuse letting the 3,000-store target drive weak sites, while leaving the proven core intact."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks rival consolidation (about 4,500 stores, more than $11B, payer leverage) first and the third-party squeeze on prescription margins second, both rated High with consequences, and lists payer steering and mail-order competition as fact 6."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key's decline_risks_expected is empty and later_history records no decline mechanism within the window."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are consistently tagged [ASSUMPTION], derived figures ($42M margin effect, 183 versus 127 net stores a year) are correct arithmetic from dossier numbers, and profit per visit is flagged as absent, not estimated; the unexplained 76/100 score is the only loose item."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link, three temptations to refuse, the most urgent brutal fact, the missing numbers and a confidence level, so it is actionable on its own."
+  },
+  "D9": {
+    "score": 5,
+    "why": "It states plainly 'Ravenhill is already great' with evidence, confirms the existing hedgehog, frames its recommendations as temptations to refuse plus measurement and succession mechanisms, and names subject-specific warning signs; the mini-store deadline and new seats are minor additions."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|E02|s3|judge",
+    "stage": "judge",
+    "case_id": "E02",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13371,
+    "tokens_out": 2198,
+    "cost_usd": 0.2623558,
+    "duration_s": 25.3,
+    "finished_at": 1795629854.7156527,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2198,
+        "costUSD": 0.2623558
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "2",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both land on nearly the same mailroom hedgehog, stop-doing list and brutal facts; Analysis 2 matches the key's profit-per-customer denominator exactly and is a little better calibrated, with a stated confidence level and a closing caveat. Analysis 1 is the only one to flag the key's actual decline mechanism, long-term shrinkage of the mail stream itself, and its verdict is slightly sharper and more actionable, which narrowly tips the overall call.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|A17|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A17",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16730,
+    "tokens_out": 2084,
+    "cost_usd": 0.351024,
+    "duration_s": 23.3,
+    "finished_at": 1795621812.887396,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2084,
+        "costUSD": 0.351024
+      }
+    }
+  }
+}

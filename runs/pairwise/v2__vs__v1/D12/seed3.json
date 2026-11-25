@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "1",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both correctly fail Gate 0, offer the same reframes and project-method substitute, and connect the Calder concentration, retired contact, plant review and March–May cash timing; Analysis 2 avoids a stop-doing list and adds a go/no-go rule before the tall-ship deposit. Analysis 1 edges ahead overall with a more actionable one-screen verdict, a risk register with owners and early warnings, and an explicit assumption tag on the link between revenue and the attendance target, which Analysis 2 states as fact.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|D12|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "D12",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11550,
+    "tokens_out": 1434,
+    "cost_usd": 0.24214399999999997,
+    "duration_s": 18.5,
+    "finished_at": 1795629602.314225,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1434,
+        "costUSD": 0.24214399999999997
+      }
+    }
+  }
+}

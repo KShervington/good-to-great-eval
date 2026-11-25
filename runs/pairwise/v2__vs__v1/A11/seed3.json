@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "2",
+  "D5": "na",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both land on the key's combination-superstore, #1-or-#2, profit-per-local-household hedgehog, but Analysis 2 puts all three elements in its headline sentence, frames the small conventional store as being outgrown, and says each one is held for cash until converted or closed, which is closer to the key's rebuild-the-whole-store-base decision. Analysis 1 is somewhat better calibrated (explicit confidence statement, flywheel kept conditional, missing internal data tagged as an assumption rather than asserted), but not by enough to outweigh Analysis 2's closer match on substance.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|A11|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A11",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15833,
+    "tokens_out": 1217,
+    "cost_usd": 0.30199200000000004,
+    "duration_s": 20.7,
+    "finished_at": 1795621248.6185493,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1217,
+        "costUSD": 0.30199200000000004
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the region's go-to adult congenital echo specialist: fewer, harder heart studies... taught to others, and paid per study rather than per hour of volume', with income per study capped at a sustainable shoulder load as the denominator, which matches the key's field, trade-off and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "'Don't take the travel contract' is stop-doing item 1 and in the opening verdict, followed by stopping voluntary overtime and restoring LTD cover; the firm 'no' on lab lead departs from the key's softer 'reconsider' but is not a key point."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The top brutal fact, rated Critical, is that her scanning arm earns nearly all her income, is injured and has no LTD cover, tied to the 9 to 13-14 studies/day rise, the two-month fund, variable partner income and debts."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names 'denial of risk (the shoulder)' and money pressure pushing her into travel or overtime, each with specific early warning signs and trigger thresholds (more than 12 studies/day for 4+ weeks, any signed contract, a lost shift)."
+  },
+  "D7": {
+    "score": 4,
+    "why": "University pay and load are flagged as unknown with no invented figure, and most derived numbers carry [ASSUMPTION] tags; a few inferences are unmarked, such as about $71/hr for travel (assumes a 40-hour week), 11.7 h/week of commuting (assumes five days) and the claim that she 'didn't raise' the volume increase."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, weakest flywheel link, three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|D06|s1|judge",
+    "stage": "judge",
+    "case_id": "D06",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13237,
+    "tokens_out": 1703,
+    "cost_usd": 0.2404118,
+    "duration_s": 20.5,
+    "finished_at": 1795628124.756962,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1703,
+        "costUSD": 0.2404118
+      }
+    }
+  }
+}

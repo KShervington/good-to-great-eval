@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses land on the same wireless self-obsolescence hedgehog, cover all four key stop-doing items (doubling goal, satellite launch, analog stance, carrier coercion) and surface the same brutal facts with correctly derived figures and flagged assumptions. Analysis 1 edges ahead because its decline register matches the key's staging more closely: Stage 1 hubris over analog, Stage 2 doubling plus parallel bets, Stage 3 satellite launch commitment without demand data, and Stage 4 savior hire or acquisition.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|B05|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "B05",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18150,
+    "tokens_out": 2134,
+    "cost_usd": 0.375744,
+    "duration_s": 25.2,
+    "finished_at": 1795625388.0072968,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2134,
+        "costUSD": 0.375744
+      }
+    }
+  }
+}

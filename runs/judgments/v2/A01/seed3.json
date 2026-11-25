@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog sentence is 'paper-based consumer products people ask for by name... profit per consumer brand', and it rules out newsprint, coated paper and specialty paper, matching the key's field, sacrifice and denominator."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Stop-doing items 1 and 2 end default mill funding, but the sale itself is softened to a freeze 'pending segment ROC' and 'prepare divestment options', with the namesake mill to be converted or sold."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1 (Critical, and the verdict's most urgent) is capital going to commodity mills the company cannot be best at while 20-year TSR trails the market; fact 4 names Rival P attacking on two fronts."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and its later history records no decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Numeric assumptions are tagged, the missing segment ROC, share and growth data are flagged, and the hedgehog is held as a working hypothesis; but 'no nonwoven expertise' and 'no successor named' overstate the dossier unmarked, and '30/100' is unexplained."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact, the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A01|s3|judge",
+    "stage": "judge",
+    "case_id": "A01",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 10530,
+    "tokens_out": 1680,
+    "cost_usd": 0.19617980000000002,
+    "duration_s": 20.4,
+    "finished_at": 1795619229.4326267,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1680,
+        "costUSD": 0.19617980000000002
+      }
+    }
+  }
+}

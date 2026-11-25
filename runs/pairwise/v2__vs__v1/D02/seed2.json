@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "1",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2's hedgehog names the owned-machine-plus-care bundle for independents in dense territories, and its decline register ties denial of risk to the ending supply channel as well as flagging the hotel and third-metro overreach. Analysis 1 gives the sharper payback arithmetic (12/24/46 months) on the supply cliff, but its hedgehog drops machine ownership and its denial-of-risk item points at labor rather than supply.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|D02|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "D02",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 20079,
+    "tokens_out": 1787,
+    "cost_usd": 0.392728,
+    "duration_s": 21.3,
+    "finished_at": 1795627266.4141653,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1787,
+        "costUSD": 0.392728
+      }
+    }
+  }
+}

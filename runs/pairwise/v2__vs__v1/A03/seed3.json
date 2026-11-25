@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses land on essentially the same hedgehog (cost-lowering hospital products: IV, nutrition, diagnostics), the same stop-doing items (exit consumer brands, quit the blockbuster race) and the same brutal facts, with profit per employee only as a secondary denominator in each. Analysis 2 is more explicit about confidence and uncomfortable truths, but Analysis 1 backs diagnostics and the hospital core more decisively and reads the company's potential closer to the key, so it is marginally the better one to hand to the leader.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|A03|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A03",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16581,
+    "tokens_out": 1713,
+    "cost_usd": 0.3338,
+    "duration_s": 23.4,
+    "finished_at": 1795619752.3316064,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1713,
+        "costUSD": 0.3338
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The analysis narrows to the key's suggested core (\"lowest-cost, most automated bank for households and for middle-market and farm businesses in the home state\", profit per employee) and condemns growth-for-size as the old denominator, but it presents this as a \"working hypothesis\" without plainly stating that the current portfolio lacks a hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's top three are \"Growing assets for the sake of size\", \"Writing new developing-country, energy and shipping loans\" and \"Buying new businesses or entering new states to outgrow the problems\", with cost named as the weakest link and branch cuts on the full list; only executive perks are absent."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All four key facts are in the register (bad loans in four sectors ranked Critical and most urgent, the end of cheap deposits, highest overhead, and the low-rate mortgage book all ranked High), each with evidence and an owner, and the consequences are stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names the actual mechanisms: \"Denial of credit risk: reserves lag losses\", \"Grasping for salvation through growth: acquisitions or new states\" and a Stage 5 forced merger as capital erodes, each with a specific early-warning sign such as reserve coverage falling two quarters in a row."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferred items and targets are tagged [ASSUMPTION], the missing net income, ROA, reserves, cost-to-revenue and profit-by-line data are flagged as numbers that would change the answer, confidence is stated as \"moderate on direction, low on magnitude\", and no figures are invented."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (cost), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, so a reader could act on it alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A22|s1|judge",
+    "stage": "judge",
+    "case_id": "A22",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12367,
+    "tokens_out": 1709,
+    "cost_usd": 0.22673179999999998,
+    "duration_s": 20.3,
+    "finished_at": 1795622941.2774687,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1709,
+        "costUSD": 0.22673179999999998
+      }
+    }
+  }
+}

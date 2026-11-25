@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "tie",
+  "D8": "1",
+  "D9": "1",
+  "overall": "1",
+  "why": "Both land the key's hedgehog (paper-based absorbent consumer brands, out-innovating Rival P, profit per consumer brand) and the same brutal facts, and Analysis 2's stop-doing list is more complete on aviation services, tobacco papers and a no-capital-outside-the-core rule. Analysis 1 wins overall because it correctly reads the subject as already great and works in stewardship mode with a short list of real temptations, whereas Analysis 2 calls it 'not yet great' and prescribes a longer overhaul.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|E04|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "E04",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17168,
+    "tokens_out": 1954,
+    "cost_usd": 0.35283200000000003,
+    "duration_s": 22.6,
+    "finished_at": 1795630374.3877285,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1954,
+        "costUSD": 0.35283200000000003
+      }
+    }
+  }
+}

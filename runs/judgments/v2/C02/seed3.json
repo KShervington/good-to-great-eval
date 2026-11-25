@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 3,
+    "why": "It proposes a reasonable stapling-centered hedgehog ('converting surgeons from sutures to stapling', profit per stapled procedure) and says 'disciplined growth', but never says the company currently lacks a consistent march and sets no growth floor or ceiling (only an assumed '≥25% growth' target)."
+  },
+  "D2": {
+    "score": 3,
+    "why": "Items 2 and 3 explicitly target commission-only pay and the fast hire-and-fire cycle, but they are framed as usage incentives, not a curb on maximum growth; item 5 ('stop adding non-stapling instruments') runs against the key's call to reduce single-franchise dependence."
+  },
+  "D3": {
+    "score": 4,
+    "why": "All four key facts are in the register (buying is not using #4, single-technology concentration #6, large suture makers likely to respond #3, commission-only and high-pressure culture #5 and #8) with consequences, but they sit below two 'unknown data' items ranked Critical."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names entry by a large suture maker with warning signs ('a competitor ... launches a stapler') and sales pressure pushing placements ahead of use ('placements grow faster than cartridge reorders'), plus a truth-climate warning about reps hiding non-use, which matches Ethicon's entry and the later phantom-shipment problem."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are consistently marked [ASSUMPTION], missing financials, patents, quality record and rep turnover are flagged, no figures are invented, and the verdict is hedged at low-to-moderate confidence with 25/100."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|C02|s3|judge",
+    "stage": "judge",
+    "case_id": "C02",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12082,
+    "tokens_out": 2375,
+    "cost_usd": 0.24881179999999997,
+    "duration_s": 26.3,
+    "finished_at": 1795626511.0179944,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2375,
+        "costUSD": 0.24881179999999997
+      }
+    }
+  }
+}

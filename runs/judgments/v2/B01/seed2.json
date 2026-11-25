@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog keeps the electronics store core, drops size targets and side ventures, and uses 'operating profit per store, by region' (compatible with the key), but it narrows the field to 'expert-led selling of complex technology' instead of the key's renewal of the whole superstore model."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's top three stop-doing items are 'Chasing size targets ($15B, 800 stores)' and 'Side ventures that pull management attention', and the analysis also warns against a 'panicked, wholesale copy' of Rival B and against cutting top counselors."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical and repeated in the verdict, is that Rival B leads on sales, earnings, profit per store and share ('Kestrel is no longer best at its own core'); the untested commission model, venture diversion, ageing base and appliance attack are also listed."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 2 size targets, Stage 3 denial of the unmeasured gap, and a Stage 4 'panicked wholesale switch to self-service or cuts to top counselors', each with a specific warning sign such as comps trailing Rival B for two quarters."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures are tagged as assumptions, the missing profit-per-store, margin and ROE data are flagged, and confidence is stated as low to moderate; the one slip is 'more than $200M in losses and charges', which is unmarked and slightly above the dossier's roughly $198.5M."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|B01|s2|judge",
+    "stage": "judge",
+    "case_id": "B01",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14441,
+    "tokens_out": 2204,
+    "cost_usd": 0.27971579999999996,
+    "duration_s": 26.9,
+    "finished_at": 1795624407.898619,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2204,
+        "costUSD": 0.27971579999999996
+      }
+    }
+  }
+}

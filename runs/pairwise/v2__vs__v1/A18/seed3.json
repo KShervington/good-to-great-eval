@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on the key's narrowing to quick-print, reject the electronic-office bet against giants, list all three brutal facts and flag a grasping-for-salvation outsider CEO as the top decline risk; Analysis 1 is slightly closer on stop-doing because it explicitly rejects defending every legacy line. Analysis 2 edges ahead overall with an explicit confidence statement, a clearer turnaround verdict, and decline triggers with thresholds flagged as assumptions.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|A18|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A18",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14528,
+    "tokens_out": 1132,
+    "cost_usd": 0.277712,
+    "duration_s": 16.0,
+    "finished_at": 1795622043.1197283,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1132,
+        "costUSD": 0.277712
+      }
+    }
+  }
+}

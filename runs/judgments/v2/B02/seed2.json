@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog is \"pricing, standardizing and guaranteeing the credit risk of American home mortgages for working families\" measured by \"fair-value profit per dollar of capital, not by the size of its balance sheet\"; this matches the key's mortgage-risk core, passion and risk-adjusted denominator, but narrows the field to credit guarantee and explicitly rejects the capital-markets/portfolio side the key includes."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items, repeated in the verdict, are paying on the EPS-doubling target, growing the portfolio faster than the mortgage market, and leading with \"operating\" earnings, with the capital minimum at #4 and \"mission justifies the structure\" at #7."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks thin capital (3.2% of assets, $0.9B cushion) and the −14-month duration gap with the first-ever supervisory action as Critical, and also lists EPS-linked pay, leverage-driven growth and the revocable implicit backing, with the verdict naming the capital-plus-duration fact as most urgent."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names Stage 2 as \"portfolio growth and EPS pressure drive leverage and estimate-bending\" with the warning sign \"accounting-estimate changes that move operating EPS toward the target\", plus Stage 3 thin capital and rate risk described as \"well hedged\" and Stage 1 mission hubris."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Targets and inferences are mostly tagged [ASSUMPTION], derived figures follow from dossier numbers, and missing fair-value, amortization, segment and credit-mix data are flagged; but the claims that the CFO seat \"holds final say on judgmental estimates\" and that the COO is a credible successor are unmarked inferences, and the 22/100 score is unsupported."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (capital to earned trust), the three stop items, the most urgent brutal fact, the missing numbers and a confidence statement."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|B02|s2|judge",
+    "stage": "judge",
+    "case_id": "B02",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15531,
+    "tokens_out": 2068,
+    "cost_usd": 0.29171579999999997,
+    "duration_s": 24.4,
+    "finished_at": 1795624768.2109098,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2068,
+        "costUSD": 0.29171579999999997
+      }
+    }
+  }
+}

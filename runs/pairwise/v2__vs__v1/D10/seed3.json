@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses find the planted brutal fact, decline Atlas, drop the 80% OKR and flag the same two decline risks, but Analysis 2's hedgehog and denominator are weighted to tier-1 money-moving services, as the key requires, where Analysis 1 uses a company-wide rate. Analysis 1 also computes a change failure rate of 6/4,212 ≈ 1.4 from total deploys without flagging it as an assumption, which the key counts as making it up, while Analysis 2 avoids this and caveats its per-service comparison.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|D10|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "D10",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 20335,
+    "tokens_out": 1205,
+    "cost_usd": 0.373544,
+    "duration_s": 16.6,
+    "finished_at": 1795629025.3407958,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1205,
+        "costUSD": 0.373544
+      }
+    }
+  }
+}

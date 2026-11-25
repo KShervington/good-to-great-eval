@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses propose the same endocrine/inflammation hedgehog (the key says there is none) and cover the key's stop-doing items and brutal facts about equally. Analysis 2 edges ahead by naming the giant-peer ambition as a status passion to drop, conceding Kessling may be only a good mid-sized company, stating its confidence level, and flagging the licensor selling the compound itself as the top decline risk with explicit triggers.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|A04|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A04",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16687,
+    "tokens_out": 1133,
+    "cost_usd": 0.31229599999999996,
+    "duration_s": 15.0,
+    "finished_at": 1795619971.836185,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1133,
+        "costUSD": 0.31229599999999996
+      }
+    }
+  }
+}

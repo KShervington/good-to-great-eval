@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses find the 90-day near-parity, the non-comparable comparison group, the day-30 protocol design and the Hospital at Home distraction, and both flag denial and undisciplined pursuit of more. Analysis 2 is preferred because its denominator is per enrolled patient as in the key and it labels the cost-per-avoided-readmission arithmetic as illustration only, whereas Analysis 1 puts the unadjusted $106k figure in its scorecard as a current value.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|D11|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "D11",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 21545,
+    "tokens_out": 1315,
+    "cost_usd": 0.397304,
+    "duration_s": 20.1,
+    "finished_at": 1795629264.239608,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1315,
+        "costUSD": 0.397304
+      }
+    }
+  }
+}

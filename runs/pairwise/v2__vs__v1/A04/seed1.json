@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "The two analyses are nearly identical on hedgehog, brutal facts and decline risks, but Analysis 1's stop-doing list covers all three of the key's items, including an explicit cap on single licensed-product dependence, which Analysis 2 leaves to its risk register. Analysis 2 is slightly better calibrated, with an explicit confidence statement and trigger thresholds, but that does not outweigh Analysis 1's closer match to the key's decision.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|A04|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A04",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15955,
+    "tokens_out": 1371,
+    "cost_usd": 0.310104,
+    "duration_s": 17.3,
+    "finished_at": 1795619915.606858,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1371,
+        "costUSD": 0.310104
+      }
+    }
+  }
+}

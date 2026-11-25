@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "1",
+  "D3": "2",
+  "D5": "na",
+  "D7": "2",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both land on the key's hedgehog (#1 or #2 food-and-drug combination stores, profit per local household), but Analysis 2 is closer with one-stop superstores plus specialty departments and makes the squeezed small-store format its critical brutal fact, with an explicit confidence statement. Analysis 1 is better on stop-doing, putting weak-market exits and the end of small conventional stores in its top two, whereas Analysis 2 buries the small-store item at fifth.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|A11|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A11",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15402,
+    "tokens_out": 1378,
+    "cost_usd": 0.301536,
+    "duration_s": 17.2,
+    "finished_at": 1795621153.7230859,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1378,
+        "costUSD": 0.301536
+      }
+    }
+  }
+}

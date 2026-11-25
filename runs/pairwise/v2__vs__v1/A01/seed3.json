@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "2",
+  "D5": "na",
+  "D7": "tie",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on the same hedgehog (branded paper-based consumer products, profit per consumer brand) and flag missing segment data with marked assumptions, but Analysis 2 commits outright to selling the mills, including the namesake mill, and names the inability to fund both mill modernization and a fight with Rival P as the most urgent brutal fact. Analysis 1 hedges the mill exit as a capex freeze pending return-on-capital data, which makes its verdict less decisive and further from the key's stop-doing decision.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|A01|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A01",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15968,
+    "tokens_out": 1236,
+    "cost_usd": 0.304912,
+    "duration_s": 19.4,
+    "finished_at": 1795619248.997177,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1236,
+        "costUSD": 0.304912
+      }
+    }
+  }
+}

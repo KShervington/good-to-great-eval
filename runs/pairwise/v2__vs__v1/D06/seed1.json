@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both land the key's hedgehog, stop-doing items and the shoulder/volume/no-disability-cover fact, and Analysis 1 maps the decline stages slightly closer to the key (Stage 3 denial including the lapsed cover, Stage 2 including the contract). Analysis 2 is better calibrated: it gives no pay figure for the unpriced university role (Analysis 1 tables ~$50–60 per study, tagged but still above travel), states its confidence, and adds trigger thresholds and a local plan B, so it is the one I would hand to Annika.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|D06|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "D06",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18860,
+    "tokens_out": 1563,
+    "cost_usd": 0.364264,
+    "duration_s": 19.0,
+    "finished_at": 1795628237.8898513,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1563,
+        "costUSD": 0.364264
+      }
+    }
+  }
+}

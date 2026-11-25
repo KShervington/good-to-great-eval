@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "1",
+  "D5": "1",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses offer nearly the same surgeon-conversion hedgehog and miss the key's bounded-growth march, and both flag the unused-stapler loss, single-technology dependence and a large suture maker's entry. Analysis 1 ties the high-pressure, commission-only culture more directly to pulled-forward revenue and channel stuffing, asks for a CFO with independent controls, and gives a more sober score, which outweighs Analysis 2's sharp point about skin staples and its risk triggers.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|C02|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "C02",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16894,
+    "tokens_out": 1999,
+    "cost_usd": 0.350248,
+    "duration_s": 24.0,
+    "finished_at": 1795626519.5180826,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1999,
+        "costUSD": 0.350248
+      }
+    }
+  }
+}

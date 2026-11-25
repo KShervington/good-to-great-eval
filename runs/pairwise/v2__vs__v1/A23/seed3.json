@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "tie",
+  "D3": "1",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both land on bank automation with profit per financial-institution customer and both drop the broad fight with Rival I, but Analysis 1 keeps accounting and bookkeeping users inside the hedgehog and explicitly lists the narrow, accounting-machine-dependent product line as a brutal fact. Analysis 2 is slightly sharper on the one-leader dependence risk (\"genius with helpers\", named successors), yet neither warns against cost cuts starving engineering, so Analysis 1 edges it overall.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|A23|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A23",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17995,
+    "tokens_out": 1726,
+    "cost_usd": 0.356944,
+    "duration_s": 19.5,
+    "finished_at": 1795623332.2783995,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1726,
+        "costUSD": 0.356944
+      }
+    }
+  }
+}

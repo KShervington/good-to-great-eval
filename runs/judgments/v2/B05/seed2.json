@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog ('world's best handheld wireless devices and the networks they run on, and is always first to make its own generation obsolete') matches the key's wireless-plus-self-renewal core, uses profit per wireless subscriber as the denominator, and explicitly rules out 'revenue size for its own sake'."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items, repeated in the opening verdict, are the doubling goal, the satellite full-launch commitment without independent demand evidence, and the coercive distribution program; item 4 adds harvesting analog instead of extending it."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical, is 'the core franchise is the passing generation' (about 45% share, mainly analog, carriers planning digital), and the register also lists satellite exposure, pricing pressure and carrier goodwill."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names the actual mechanisms: Stage 1 analog hubris and denial of digital, the Stage 2 doubling goal with parallel bets, an unvalidated satellite launch, carrier alienation and Stage 4 savior acquisitions, each with a specific warning sign such as carriers choosing competitors for digital buildouts."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures are correct and assumptions and missing data (digital share, segment profit, satellite demand forecast, carrier reaction) are flagged, but the 35/100 greatness score has no stated basis and 'debate settled by seniority' and 'earnings growth has stalled' are stated more firmly than the dossier supports."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen is compact and gives the hedgehog sentence, weakest flywheel link (self-renewal pointed at analog), three temptations to refuse, the most urgent brutal fact, the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|B05|s2|judge",
+    "stage": "judge",
+    "case_id": "B05",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13903,
+    "tokens_out": 1749,
+    "cost_usd": 0.2529078,
+    "duration_s": 21.7,
+    "finished_at": 1795625362.685124,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1749,
+        "costUSD": 0.2529078
+      }
+    }
+  }
+}

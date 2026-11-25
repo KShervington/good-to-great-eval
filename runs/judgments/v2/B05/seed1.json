@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog ('put the next generation of radio communication into people's hands first... obsolete our own products before a competitor does') matches the key's wireless-plus-self-obsolescence core, explicitly replaces size goals with 'generations led and profit per connection', rules out the PC-chip war and satellite guarantor role, and offers a compatible profit-per-wireless-connection denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict's top three temptations are defending analog, committing to the satellite full launch without demand evidence, and the double-every-five-years goal, with the coercive carrier distribution program as item 4; this covers every key stop-doing point explicitly."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'core franchise sits on an aging standard' (analog while carriers plan digital) as Critical #1, with margin compression, open-ended satellite exposure and carrier alienation also listed, and the verdict states the consequence (self-obsolescence switched off in the biggest business, earnings lagging sales)."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register names the actual mechanisms: analog denial and hubris, satellite launch commitment without demand data, the size goal driving bets, carrier backlash, and Stage 4 acquisitions or sweeping reorganizations. Each has a specific early warning, such as carriers choosing a digital supplier without Varden or qualifying second suppliers."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures (14% vs 22%, margin 7.0% to 6.6%, $560M exposure) check out against the dossier, thresholds are tagged [ASSUMPTION], and the missing data is flagged; but the 'Greatness potential: 40/100' score is unexplained and 'no compensating bureaucracy found' is an unsupported, unmarked claim."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (first to next generation, analog defense), the top three temptations, the most urgent brutal fact, the missing numbers and a confidence level; it is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|B05|s1|judge",
+    "stage": "judge",
+    "case_id": "B05",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13893,
+    "tokens_out": 1870,
+    "cost_usd": 0.2575878,
+    "duration_s": 21.8,
+    "finished_at": 1795625233.1219316,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1870,
+        "costUSD": 0.2575878
+      }
+    }
+  }
+}

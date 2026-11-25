@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('best place in America to buy complex, high-ticket home electronics, run on the industry's best distribution and store system') matches the key's electronics-superstore core and rules out ventures and store-count growth, but it uses profit per store where the key uses profit per region and narrows slightly to advice-led categories."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are chasing the 800-store/$15B headline and keeping used cars inside management's attention, with remodel-before-new-stores and no all-or-nothing commission flip also listed, which matches the key's attention, targets and no-silver-bullet points."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Rival B's lead on sales, earnings, profit per store and share is ranked #1 and named the most urgent fact in the verdict, and the register also lists the ageing format and commission model, the venture diversion with figures, and the appliance price war."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 2 pursuit of more, Stage 3 explaining away the Rival B gap, Stage 1 'great shape' hubris and Stage 4 salvation moves ('abandoning commission everywhere overnight… a rebrand'), each with a specific early warning sign and trigger."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions and derived figures are tagged and the missing ROE, margin and profit-per-store data are flagged with low-to-moderate confidence, but 'Greatness potential: 24/100' is unexplained and the claim that Rival B has led on profit per store 'for about four years' stretches the dossier slightly."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|B01|s1|judge",
+    "stage": "judge",
+    "case_id": "B01",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14364,
+    "tokens_out": 2112,
+    "cost_usd": 0.2748038,
+    "duration_s": 24.5,
+    "finished_at": 1795624313.9783876,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2112,
+        "costUSD": 0.2748038
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is framed as a working hypothesis: best-value front-drive family vehicles on a few shared platforms, explicitly giving up full-line competition with Rival G, measured on profit per platform (compatible with the key's profit per vehicle or segment), with the CEO's salesmanship explicitly rejected as the plan."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Stop building for inventory is item 1 and 'treating the CEO's salesmanship as the plan' is in the top three, but celebrity distraction is softened to publicity as a sales lever, non-core diversification appears only as a defense divestiture, and succession sits in the bus and risk register, not on the stop-doing list."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register's top rows are 'may not survive to the launch of its own rescue product', private capital closed off and accelerating losses, with worst inventory, broken quality and product whipsaw also listed and the year-long gap to the new compacts stated as the consequence."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names post-recovery hubris where 'the savior story leads to diversification', with non-auto acquisition proposals as the early warning, plus succession failure signalled by 'CEO profile outpaces the bench' — the mechanisms that actually occurred."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked, derived figures (4.6% defense share, about 840 units a day) follow from the dossier, and missing cash, debt, break-even and line profitability are flagged with low-to-moderate confidence; however, undocumented senior seats such as the CFO are treated as 'missing' without an assumption tag."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link (quality to buyer trust), three stop-doing items, the most urgent brutal fact with its year-end deadline, the missing numbers and a confidence level, and is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A24|s3|judge",
+    "stage": "judge",
+    "case_id": "A24",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13682,
+    "tokens_out": 2857,
+    "cost_usd": 0.2936918,
+    "duration_s": 31.6,
+    "finished_at": 1795623675.7595217,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2857,
+        "costUSD": 0.2936918
+      }
+    }
+  }
+}

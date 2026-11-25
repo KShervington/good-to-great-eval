@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The analysis fails Gate 0 ('The run stops here'), says building a Hedgehog or flywheel 'would be theatre', and offers the key's reframes (council-created Bellmoor Days, library archive, ED's career) plus an event delivery review instead."
+  },
+  "D2": {
+    "score": 5,
+    "why": "It ends the run at Gate 0 with no stop-doing list, and its project advice leads with securing the Calder $160k and a go/no-go rule before the tall-ship deposit, then recommends declining the app, though that decline is softened by two conditions."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The Calder dependence is named as the most urgent fact in the verdict and rated Critical, with the 63% share, the $160k April installment, the retired champion with no successor, the parent's review, and the March deposit and May loan timing all connected."
+  },
+  "D5": {
+    "score": null,
+    "why": "The answer key lists no expected decline risks and no later decline history."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Every percentage and ratio is correct arithmetic on dossier figures, the month-timing inference is tagged [ASSUMPTION], and the 180,000 target is flagged as having no basis and sent for a bottom-up rebuild instead of being derived from population; the only blemish is an unexplained 'Greatness potential: 3/100'."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict is short and actionable, giving the Gate 0 fail, the most urgent fact, what would change the answer and confidence, but it leaves the missing attendance basis and the app decision to the body."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|D12|s3|judge",
+    "stage": "judge",
+    "case_id": "D12",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 9554,
+    "tokens_out": 1585,
+    "cost_usd": 0.1767638,
+    "duration_s": 20.1,
+    "finished_at": 1795629583.6834278,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1585,
+        "costUSD": 0.1767638
+      }
+    }
+  }
+}

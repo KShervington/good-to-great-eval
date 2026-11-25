@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'best in the world at running the business mailroom: leasing, financing and servicing' through the field relationship, with profit per business customer as the denominator and copiers and retail electronics explicitly excluded, which matches the key's field, give-up and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict and the stop-doing list put '(1) retail electronics and point-of-sale; (2) fighting the copier giant head-on' at the top, plus no buying growth where larger firms lead, and the mailroom/per-customer framing moves beyond a meters-only definition."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the $42M POS write-off first and also lists the patent moat gone under the decree, single-regulator dependence on the core, and copiers facing a giant, each with severity and owner; the consequence is stated as value destruction outside the core."
+  },
+  "D5": {
+    "score": 2,
+    "why": "The risk register flags diversification drift, USPS rule changes, a licensee's electronic meter and a 'slow harvest of meters', but never names the actual mechanism of physical mail volume falling to electronic substitution; only the stage 5 boilerplate touches it."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, missing data (return on capital by line, customer count, CEO background) is flagged and confidence is stated as moderate-low, but the '60/100' greatness score and the claim that price-marking was the route to the POS loss are unmarked inferences."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence with denominator, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, concisely enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A17|s2|judge",
+    "stage": "judge",
+    "case_id": "A17",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12543,
+    "tokens_out": 1817,
+    "cost_usd": 0.23386780000000001,
+    "duration_s": 21.6,
+    "finished_at": 1795621715.2940712,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1817,
+        "costUSD": 0.23386780000000001
+      }
+    }
+  }
+}

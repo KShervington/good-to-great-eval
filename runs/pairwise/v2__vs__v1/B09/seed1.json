@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on the same home-state retail hedgehog, reject asset growth as the measure, and name all four key brutal facts, so they are close on substance. Analysis 2 edges ahead by warning more explicitly against a charismatic savior CEO and a transformational program or acquisition, flagging bureaucracy layers and branch consolidation, and being more candid about what remains unmeasured (more CONDITIONAL gates and explicit confirmation tests).",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|B09|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "B09",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 19697,
+    "tokens_out": 1362,
+    "cost_usd": 0.369616,
+    "duration_s": 19.3,
+    "finished_at": 1795625998.1505961,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1362,
+        "costUSD": 0.369616
+      }
+    }
+  }
+}

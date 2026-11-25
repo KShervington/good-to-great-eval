@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'strings that professional bowed-string players choose blind, sold at a full premium only through specialist shops', explicitly excluding student, mass-retail and guitar, with 'gross profit per professional player won and kept' as the denominator, which matches the key on all three points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict and the top of the stop-doing list refuse Halvard Six, decline the PE student brand and bar any product without Listening Room approval, while keeping MAP, the shop channel and the panel intact."
+  },
+  "D3": {
+    "score": 4,
+    "why": "All three key facts are in the register with consequences (2% market with a share ceiling at #2, shop consolidation at #4, the two key-person transitions at #5), but they are rated Medium and ranked below the agenda-reversal and capacity facts the analysis treats as most urgent."
+  },
+  "D5": {
+    "score": null,
+    "why": "The answer key lists no expected decline risks and the later history shows no decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Projections such as the 24% revenue share, the roughly 54% blended margin and the BHAG pace are tagged as assumptions and missing data is named, but a few inferences are unmarked: 'no acquisitions' in 14 years, the 'employee-owned plant', and an unexplained 'Greatness potential: 78/100'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the already-great verdict with evidence, the hedgehog sentence, the weakest flywheel link (cello and bass winding capacity), three temptations to refuse, the most urgent brutal fact, the missing numbers and a confidence level, and can be acted on alone."
+  },
+  "D9": {
+    "score": 5,
+    "why": "It states 'Halvard is already great. This is a stewardship run' with evidence, confirms the existing hedgehog, limits recommendations to declining both temptations, fixing core capacity and securing succession, and names subject-specific tripwires such as panel kill rate, a 58% gross margin floor and the mass-retail instincts of the commercial director."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|E06|s1|judge",
+    "stage": "judge",
+    "case_id": "E06",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13549,
+    "tokens_out": 2231,
+    "cost_usd": 0.2665238,
+    "duration_s": 26.8,
+    "finished_at": 1795630595.8707256,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2231,
+        "costUSD": 0.2665238
+      }
+    }
+  }
+}

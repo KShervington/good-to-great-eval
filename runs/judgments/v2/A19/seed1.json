@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'America's most convenient drugstore, measured by profit per customer visit', built on dense sites in chosen markets and ruling out discount stores, family restaurants and side businesses, which matches the key's field, denominator and focus."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Selling all 25 discount stores is item 1, but the key's main decision to exit food service entirely is softened to 'hold' the free-standing restaurant pipeline (item 2) and a 12-month test of the 288 lunch counters, buried at item 9."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The top-ranked brutal fact is that sales doubled while EPS stalled and margin compressed, rated Critical with the consequence stated; capital spread across 5+ businesses and the weak discount stores are also in the register."
+  },
+  "D5": {
+    "score": 3,
+    "why": "The risk register names Stage 2 'undisciplined pursuit of more' and a Stage 4 watch for 'a large acquisition to restore growth', which loosely fits the later merger-driven decline but is generic and not tied to a specific mechanism."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Figures are taken or arithmetically derived from the dossier, inferences and targets are tagged [ASSUMPTION], the missing divisional and per-visit data are flagged as able to change the verdict, and confidence is stated as moderate-to-low."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (profit per visit), three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A19|s1|judge",
+    "stage": "judge",
+    "case_id": "A19",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11300,
+    "tokens_out": 2509,
+    "cost_usd": 0.24165979999999998,
+    "duration_s": 30.4,
+    "finished_at": 1795622123.6718526,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2509,
+        "costUSD": 0.24165979999999998
+      }
+    }
+  }
+}

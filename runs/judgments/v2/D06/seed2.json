@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the region's trusted adult congenital echo specialist... paid for expertise rather than volume, and passing that expertise on', with denominator 'earnings per hands-on scanning hour', which matches the key's field, give-up (routine volume) and per-physical-load denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's top three stop-doing items are the high-volume travel contract, discretionary routine overtime, and going without long-term disability cover, which are exactly the key's three points."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1, rated Critical and named most urgent in the verdict, is 'her income depends on a shoulder already under treatment, and she removed the insurance that covers it', backed by fact 2 (load up 44–56%) and fact 4 (two months of runway), with the career-ending consequence stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names 'denial of risk' (shoulder ends her scanning career, uninsured) and 'undisciplined pursuit of more' (money pressure stacking travel, teaching and overtime) as the top two risks, each with specific warning signs and trigger thresholds."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Figures beyond the dossier are consistently tagged [ASSUMPTION], and the university pay range is flagged as missing with no invented salary, but there are small unmarked slips such as 'when the lab doubled your load' (the dossier shows about 50%) and the untagged claim that TEE support lowers arm load."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|D06|s2|judge",
+    "stage": "judge",
+    "case_id": "D06",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15449,
+    "tokens_out": 2043,
+    "cost_usd": 0.2894038,
+    "duration_s": 24.1,
+    "finished_at": 1795628218.7480106,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2043,
+        "costUSD": 0.2894038
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses narrow to the household paper core, call for exiting the unrelated acquisitions and ending list-price cuts, and surface all three key brutal facts with assumptions flagged. Analysis 2 edges ahead on decline risk by explicitly warning against a charismatic outside savior, a big merger and capitulation of the core, and by giving the board written chairman criteria that match how the decline actually unfolded.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|A02|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A02",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16017,
+    "tokens_out": 1512,
+    "cost_usd": 0.316736,
+    "duration_s": 19.7,
+    "finished_at": 1795619468.6737416,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1512,
+        "costUSD": 0.316736
+      }
+    }
+  }
+}

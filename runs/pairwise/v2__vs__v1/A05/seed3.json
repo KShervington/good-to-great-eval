@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "2",
+  "D5": "1",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on the key's hedgehog of consumer-electronics superstores measured by profit per region, but Analysis 2 adds the replicable playbook and national rollout discipline, ties the loss year to earlier sprawl, and pushes the CEO to commit to one format in writing. Analysis 1 is slightly better on decline risk, since it flags a new-format or category leap and regional share loss being explained away, and it is more careful about the missing profit data, but it hedges more on the format commitment.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|A05|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A05",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15679,
+    "tokens_out": 1724,
+    "cost_usd": 0.319808,
+    "duration_s": 22.2,
+    "finished_at": 1795620235.6206326,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1724,
+        "costUSD": 0.319808
+      }
+    }
+  }
+}

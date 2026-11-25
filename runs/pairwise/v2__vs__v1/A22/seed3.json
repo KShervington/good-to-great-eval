@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses propose nearly the same home-state, low-cost, profit-per-employee hedgehog, name all four key brutal facts, and tell the bank to stop growth-for-size, new ventures and energy/shipping/developing-country lending, so they are hard to separate on substance. Analysis 2 edges ahead with an explicit confidence statement, a sharper decline warning (under-reserved losses followed by an acquisition or new-state push as the cure, with concrete trigger thresholds), and attention to size-based incentives and unknown capital adequacy.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|A22|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A22",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 19124,
+    "tokens_out": 1574,
+    "cost_usd": 0.36892800000000003,
+    "duration_s": 22.2,
+    "finished_at": 1795623140.8286262,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1574,
+        "costUSD": 0.36892800000000003
+      }
+    }
+  }
+}

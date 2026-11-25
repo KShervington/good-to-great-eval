@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both land on the convenient-drugstore, profit-per-customer-visit hedgehog and the same brutal facts, but Analysis 1 commits to exiting food service entirely on a firm (about five-year) deadline and exiting the discount stores, which matches the key's stop-doing decision, whereas Analysis 2 only holds the free-standing restaurants and puts the lunch counters on a test. Analysis 2 is somewhat better calibrated, with an explicit confidence statement and clearer flags on unproven links, but Analysis 1 gives the leader the more decisive and correct direction.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|A19|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A19",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15530,
+    "tokens_out": 1360,
+    "cost_usd": 0.302864,
+    "duration_s": 17.8,
+    "finished_at": 1795622238.3745065,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1360,
+        "costUSD": 0.302864
+      }
+    }
+  }
+}

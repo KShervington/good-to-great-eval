@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "2",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both correctly stop at Gate 1 as not yet good, hold the employer build, Android and hiring, and ask for retention split by origin without presenting 7/41 as a retention rate. Analysis 2 goes further by naming the employer pivot as an early doom-loop pattern, contrasting stated demand with 3 payers, and offering a permissionless due-date refill workaround so the founder stops waiting on the aggregator.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|D05|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "D05",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12892,
+    "tokens_out": 1282,
+    "cost_usd": 0.257536,
+    "duration_s": 17.0,
+    "finished_at": 1795627883.9733934,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1282,
+        "costUSD": 0.257536
+      }
+    }
+  }
+}

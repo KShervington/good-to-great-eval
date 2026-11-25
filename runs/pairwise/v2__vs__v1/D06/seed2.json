@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "2",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both land the same hedgehog (adult congenital specialist, paid per scanning hour not volume) and both connect the injured shoulder, the volume jump and the dropped disability cover, without inventing a specialist salary. Analysis 2 edges ahead because its top three stop-doing items match the key exactly (travel, overtime, restoring disability cover), it ranks denial of risk and undisciplined pursuit of more as the top two decline risks with concrete trigger thresholds, and it states its confidence and a fallback if the pay engine does not connect.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|D06|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "D06",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 20612,
+    "tokens_out": 1273,
+    "cost_usd": 0.380696,
+    "duration_s": 17.0,
+    "finished_at": 1795628254.9357226,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1273,
+        "costUSD": 0.380696
+      }
+    }
+  }
+}

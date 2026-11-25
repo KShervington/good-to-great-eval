@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'Corbridge's only same-day cold chain for surplus protein, dairy and produce, routed to the agencies that will actually serve it', with denominator 'usable perishable pounds per route-hour' (delivered minus agency discard) and an explicit move to upstream donors with 'no single donor above 20%', matching all three key points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are exactly the key's: don't apply for the café grant, don't buy the third van (fix Van #2 instead), and hand off composting, backpacks and gleaning; pounds-at-pickup as headline is also stopped at item 6."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical and repeated in the verdict, combines Freshway at 44.0% of pounds, the Eastside 412→263 (−36%) drop against flat other stores (398→391), and the chainwide rollout, with the consequence stated (pounds could fall below Year −1) and Route 9 treated as the weaker explanation."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names both expected mechanisms specifically, 'Denial of risk (Stage 3): the Freshway surplus collapse' and 'Undisciplined pursuit of more (Stage 2): café, van, programs', each with a concrete early-warning metric and trigger threshold, and it also flags merger-driven capitulation."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Derived figures check out against the dossier, projections (−165,000 lbs, $0.54 per pound, the 85% threshold, ~450,000 upstream pounds) are tagged [ASSUMPTION], and used pounds and households reached are flagged as unknown or blank rather than estimated, with no meals conversion and moderate confidence stated."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (matching and measuring use), the top three stop-doing items, the most urgent brutal fact with numbers, the numbers that would change the call, and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track D, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|D09|s2|judge",
+    "stage": "judge",
+    "case_id": "D09",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14874,
+    "tokens_out": 2060,
+    "cost_usd": 0.2808838,
+    "duration_s": 23.4,
+    "finished_at": 1795628600.1734715,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2060,
+        "costUSD": 0.2808838
+      }
+    }
+  }
+}

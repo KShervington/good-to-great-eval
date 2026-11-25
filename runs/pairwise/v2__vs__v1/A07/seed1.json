@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses match the key's hedgehog (mortgage capital markets, profit per unit of risk, homeownership passion) and name the maturity-mismatch stop-doing and the $1M/day loss; Analysis 2 is slightly closer on moving out executives tied to the old model and states its confidence explicitly. Analysis 1 is the one I would hand to the leader because its decline section anticipates the key's later history far more specifically: backstop-fuelled portfolio growth, thin capital, a national housing downturn, accounting restatements and government takeover.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|A07|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A07",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16266,
+    "tokens_out": 1276,
+    "cost_usd": 0.31128,
+    "duration_s": 17.6,
+    "finished_at": 1795620611.226861,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1276,
+        "costUSD": 0.31128
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog sentence, 'the most convenient pharmacy-led drugstore in every neighborhood we enter, and earn more profit per customer visit than anyone else', on prime corner sites with drive-through, matches the key's field, exclusions and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top temptation to refuse is 'Don't buy a large chain to keep up with consolidation', followed by keeping mail/PBM as feeders, not letting the 3,000-store target lower site hurdles, and no re-diversification, with the core left intact."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the payer squeeze on prescription margins first (High, with gross margin 28.4% to 28.0% as consequence), then rival consolidation, then mail-order/PBM bypass, covering all three key facts."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key's decline_risks_expected is empty and later_history records only a slowdown beyond the 10-year window, with no decline mechanism to grade against."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Derived figures (about $5.0M sales and $154K earnings per store, 3.1% net margin, 11.6% growth) check out against the dossier, thresholds and inferences are tagged [ASSUMPTION], and profit per visit is flagged as 'not measured (missing)' rather than guessed."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the verdict, hedgehog sentence, weakest flywheel link (profit per visit), three temptations to refuse, the most urgent brutal fact, the missing numbers and a confidence level, and is actionable on its own."
+  },
+  "D9": {
+    "score": 4,
+    "why": "It declares 'already great. Stewardship mode' with evidence, keeps the lived hedgehog and names subject-specific warning signs, but adds changes the evidence does not clearly justify, such as favoring in-fill over new-metro entry, doubting the 3,000-store target and several new seats to fill."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|E02|s2|judge",
+    "stage": "judge",
+    "case_id": "E02",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12907,
+    "tokens_out": 2345,
+    "cost_usd": 0.2608118,
+    "duration_s": 26.8,
+    "finished_at": 1795629763.8162887,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2345,
+        "costUSD": 0.2608118
+      }
+    }
+  }
+}

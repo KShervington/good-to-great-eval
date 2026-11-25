@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "2",
+  "D5": "na",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "2",
+  "overall": "2",
+  "why": "Both confirm the same hedgehog and refuse Halvard Six and the student brand, but Analysis 2 leads with the key's central brutal fact (growth must come from share in a ~2% market, so such proposals will keep returning) and spells out the non-negotiable core disciplines. Analysis 2 is also better calibrated: it correctly says margin was in the 24–29% band in ten of the last eleven years where Analysis 1 overstates this, and it notes the proposal gives no operating margin.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|E06|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "E06",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17947,
+    "tokens_out": 1332,
+    "cost_usd": 0.340416,
+    "duration_s": 20.0,
+    "finished_at": 1795630685.0112863,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1332,
+        "costUSD": 0.340416
+      }
+    }
+  }
+}

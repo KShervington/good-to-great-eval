@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on the same hedgehog (home-state retail and small-business banking, profit per employee), the same stop-doing core, all four brutal facts, and the Stage 4 saviour-CEO risk, so they are nearly inseparable on substance. Analysis 2 edges ahead on calibration: it states its confidence explicitly, says the missing risk numbers could flip the case to a turnaround, diagnoses Stages 1-2 present with Stage 3 emerging, and attaches trigger thresholds to each decline risk.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|B09|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "B09",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 19037,
+    "tokens_out": 1902,
+    "cost_usd": 0.380656,
+    "duration_s": 21.8,
+    "finished_at": 1795626033.4800284,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1902,
+        "costUSD": 0.380656
+      }
+    }
+  }
+}

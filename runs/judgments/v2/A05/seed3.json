@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'best in the world at running consumer-electronics superstores in tight regional clusters, and judge every decision by profit per region', matching the key's field, the formats it gives up and its per-region denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen top three are 'buying chains for their tax credits or for instant presence' and 'running four formats side by side, starting with the leased departments', with the superstore named as the single format to commit to."
+  },
+  "D3": {
+    "score": 4,
+    "why": "The register lists the superstore capital bet (#3), the struggling big-city chain (#4), four formats splitting capital (#5) and the sprawl that led to the loss year (#6), but ranks them High or Medium below format-profit visibility and Rival S."
+  },
+  "D5": {
+    "score": 4,
+    "why": "It names stage 2 'undisciplined pursuit of more' as most likely, plus hubris and being outspent by a rival, with warning signs, but ties the mechanism to acquisitions and not to non-core ventures or neglect of the core against a stronger competitor."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferred items carry [ASSUMPTION] tags, the missing profit, ROE, debt and format figures are flagged as changing the verdict, confidence is stated as 'low to moderate', and the only computed figure (74% growth) comes from dossier numbers."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, all briefly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A05|s3|judge",
+    "stage": "judge",
+    "case_id": "A05",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12223,
+    "tokens_out": 1587,
+    "cost_usd": 0.21954780000000002,
+    "duration_s": 20.0,
+    "finished_at": 1795620213.3035529,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1587,
+        "costUSD": 0.21954780000000002
+      }
+    }
+  }
+}

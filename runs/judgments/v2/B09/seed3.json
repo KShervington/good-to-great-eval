@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog sentence is 'most efficient, most trusted bank for households and small businesses in our home state, measured by profit per employee', which matches the key's field and denominator and explicitly rules out size, developing-country lending and venture capital."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are asset growth as the measure, decentralized developing-country/farm/construction lending, and short-funded fixed-rate mortgages; it also adds branch rationalization and rejects the 'change agent who enters new businesses' successor."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks deposit deregulation and money-fund drain as Critical #1 and the short-funded mortgage book as Critical #2, followed by untested credit growth and branch fixed costs, and the verdict states the consequence."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names Stages 1-2 with Stage 3 emerging, credit losses in the fast-grown books as the most likely mechanism, margin squeeze from deregulation, and a Stage 4 new CEO announcing a transformational acquisition or big-bang restructuring, each with specific early warning signs."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Missing data is flagged prominently and most figures are tagged as assumptions or derived, but the '70-plus-year franchise' and the unexplained 'Greatness potential: 25/100' are unmarked inferences."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, weakest flywheel link (cost-to-serve), top three stop-doing items, most urgent brutal fact, missing numbers and a confidence level, so it is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|B09|s3|judge",
+    "stage": "judge",
+    "case_id": "B09",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13451,
+    "tokens_out": 1393,
+    "cost_usd": 0.2314358,
+    "duration_s": 16.8,
+    "finished_at": 1795625978.7615159,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1393,
+        "costUSD": 0.2314358
+      }
+    }
+  }
+}

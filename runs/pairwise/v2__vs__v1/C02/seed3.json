@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "1",
+  "D5": "1",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Analysis 1 makes the contestable monopoly and large suture-maker entry its most urgent brutal fact and explicitly warns against booking shipments into the channel, which best matches the key's facts and decline mechanism. Analysis 2 is better calibrated (stated confidence, lower score, Gate 10 conditional) and attacks the commission-only, hire-and-fire culture more directly, but neither sets the bounded growth march the key calls for.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|C02|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "C02",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16266,
+    "tokens_out": 1299,
+    "cost_usd": 0.31220000000000003,
+    "duration_s": 18.9,
+    "finished_at": 1795626538.5203114,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1299,
+        "costUSD": 0.31220000000000003
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'safe, compliant, reversible change for money-moving services', which explicitly rules out count-based coverage, Atlas and starter kits, with a denominator of tier-1 services on Runway plus worst-case rollback time, compatible with the key's risk-weighted denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The stop-doing list opens with 'Don't take ownership of Atlas as offered', then replaces the '80% of services' OKR, and also stops new starter kits and carried-over epics until rollback and approval ship; Atlas and the count OKR are both in the opening verdict."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal facts #1 to #3 are rated Critical/High and cover all three key points: 5 of 6 Sev-1/2s on legacy with both Sev-1s in Payments, the rollback epic slipping three quarters, and coverage gains possibly being entirely new services; the Bartek bus factor is also listed."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names stage 2 (undisciplined pursuit of more: Atlas, starter kits) and stage 3 (denial of risk: legacy outcomes out of sight, muted alerts) as primary, plus 'crossed 200 celebrated while risk sits elsewhere', each with a specific early warning and trigger."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently tagged, no failure rate is computed from total deploys, and the uninstrumented legacy pipelines and unknown Runway rollback time are flagged; but the faith statement says Payments stated its conditions 'in writing' when the dossier shows only a verbal statement, and change failure rate by pipeline is not named explicitly as the missing number."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, with an actionable headline ('Decline Atlas as offered and ship rollback')."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|D10|s1|judge",
+    "stage": "judge",
+    "case_id": "D10",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13924,
+    "tokens_out": 2156,
+    "cost_usd": 0.2695238,
+    "duration_s": 22.9,
+    "finished_at": 1795628827.431037,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2156,
+        "costUSD": 0.2695238
+      }
+    }
+  }
+}

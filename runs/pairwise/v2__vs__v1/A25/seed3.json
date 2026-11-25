@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2 keeps printing and electronics joined around applying electronics to printing and communications, which matches the key's hedgehog, while Analysis 1 demotes printing to run-for-cash or separation and urges shifting headquarters toward electronics, the very moves the key identifies as the later decline. Both cover the key's brutal facts and call for an acquisition moratorium, but Analysis 2 is slightly better calibrated (stated confidence, correct deal count, a kill condition for its hypothesis) and flags a large transformational deal with a specific trigger.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|A25|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A25",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17692,
+    "tokens_out": 1161,
+    "cost_usd": 0.329496,
+    "duration_s": 17.1,
+    "finished_at": 1795623892.7685091,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1161,
+        "costUSD": 0.329496
+      }
+    }
+  }
+}

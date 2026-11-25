@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "1",
+  "D5": "na",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses prescribe a results-paid specialist sales force, formal budgets, decentralised decisions and a shift toward instruments, and both wrongly rule out implants, but Analysis 2 comes closer to the key's earnings-growth march by making steady annual net-earnings growth its lead scorecard measure. Analysis 1 names the most urgent brutal fact closer to the key (no sales engine, no management system, lost operating leader), while Analysis 2 leads with missing line-level profit data, so the overall edge to Analysis 2 is narrow.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|C01|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "C01",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16301,
+    "tokens_out": 1659,
+    "cost_usd": 0.32716,
+    "duration_s": 22.6,
+    "finished_at": 1795626188.984931,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1659,
+        "costUSD": 0.32716
+      }
+    }
+  }
+}

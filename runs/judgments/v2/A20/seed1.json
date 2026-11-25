@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's core ('most convenient, best-value self-service drugstore in the Southeast and Texas') and excludes department stores, security and food service, but describes the current state only as 'conglomerate drift, not one engine' with a 'working hypothesis' hedgehog, never saying outright that no hedgehog exists."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top two stop-doing items in the verdict and in section 5 are 'Stop acquiring outside drugstores' and 'Exit junior department stores, security services and food-service supply', which is the key's decision, explicit and first."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All three key facts are the top three rows of the register at High severity (Rival W's home-state entry, the founder's five years in politics, conglomerate drift), and the verdict names the first two together as most urgent with the consequence of diluted capital and attention."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names as top risk 'undisciplined pursuit of more: the habit of acquisitions in unrelated fields' with a trigger on any non-drug deal, plus founder dependence, a scale-matching merger and eventual sale of the company, which fits the later video-chain purchase, founder departure, buyout and sale."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged throughout, every missing number is flagged and confidence is stated as low to moderate, but the 'Greatness potential: 25/100' score is unsupported and 'five non-drug businesses acquired' slightly overstates the dossier, since optical was opened, not bought."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (reinvestment), three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, all on one compact screen that could be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A20|s1|judge",
+    "stage": "judge",
+    "case_id": "A20",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12445,
+    "tokens_out": 1798,
+    "cost_usd": 0.2315398,
+    "duration_s": 21.4,
+    "finished_at": 1795622415.306221,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1798,
+        "costUSD": 0.2315398
+      }
+    }
+  }
+}

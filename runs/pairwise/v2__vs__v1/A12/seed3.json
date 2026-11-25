@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses miss the key's 'no hedgehog' finding in the same way, proposing a regional #1-or-#2 concept, and both cover the key's stop-doing items, brutal facts and stage-4 decline about equally. Analysis 2 edges ahead on calibration (a stated confidence level, a caveat on Collins's method, candour about the unavailable scheduling tool) and is more useful to a leader because it answers the dossier's open questions directly and sets concrete risk triggers.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|A12|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A12",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18215,
+    "tokens_out": 1354,
+    "cost_usd": 0.345584,
+    "duration_s": 20.7,
+    "finished_at": 1795621560.9086597,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1354,
+        "costUSD": 0.345584
+      }
+    }
+  }
+}

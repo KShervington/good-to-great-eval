@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses match the key's hedgehog, put the dental pilot and chain pilots at the top of the stop-doing list, name the VetSource 38%/five-month/competing-product fact as critical, and flag CAC by channel as missing while labelling their blended CAC estimate as an assumption. Analysis 1 is slightly better calibrated because it stacks fewer derived figures (Analysis 2 adds a hypothetical burn rate and lifetime-profit estimates), but Analysis 2 is marginally more useful to the leader because it answers the \"second market\" belief directly, sets testable confirmation thresholds and puts due dates on the 90-day plan.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|D01|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "D01",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 19030,
+    "tokens_out": 1930,
+    "cost_usd": 0.381664,
+    "duration_s": 22.3,
+    "finished_at": 1795626791.497473,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1930,
+        "costUSD": 0.381664
+      }
+    }
+  }
+}

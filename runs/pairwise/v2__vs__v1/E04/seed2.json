@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "1",
+  "D9": "tie",
+  "overall": "1",
+  "why": "Analysis 1 matches the key more closely: its hedgehog names absorbent-fiber consumer brands including tissue with profit per consumer brand, and its stop-doing list exits the airline, newsprint and printing papers and plans separation of tobacco papers under a 'narrow it, don't reinvent it' verdict. Analysis 2 is better calibrated (explicit confidence statement, a sharper acquisition warning, no unsupported offer to schedule a re-check) but narrows the hedgehog to personal care with a 'category-leading brand' denominator and only holds tobacco papers pending data.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|E04|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "E04",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17193,
+    "tokens_out": 1919,
+    "cost_usd": 0.35183200000000003,
+    "duration_s": 22.1,
+    "finished_at": 1795630396.6815264,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1919,
+        "costUSD": 0.35183200000000003
+      }
+    }
+  }
+}

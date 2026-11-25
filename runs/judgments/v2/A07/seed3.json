@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'best capital-markets manager of residential mortgage risk, measured by profit per unit of mortgage risk', serving wider home ownership, and it explicitly rules out 'holding unhedged fixed-rate loans for spread', which matches the key's field, sacrifice, denominator and passion."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1, repeated in the opening verdict, is 'funding long fixed-rate mortgages with short-term notes' with no new unhedged fixed-rate holdings; the bus section also moves old-model managers 'seat or off', though it does not frame this as coming before strategy."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1, rated Critical and named most urgent in the verdict, is the negative margin since Year -3 with ongoing losses of about $1M a day; fact 2 adds the below-market legacy book and possibly negative market-value net worth, and the rate bet is named as what broke the company."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The top Gate 10 risks are backstop-supported growth of the balance sheet and guarantees faster than capital, and opacity with overseers plus mission targets met by loosening credit, each with specific warning signs; this is the leverage, credit-risk and oversight mechanism that later occurred."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently tagged, the missing financials are flagged as verdict-changing, and confidence is stated as low on size; minor unmarked items remain, such as the 45/100 greatness score and the claim of 'the largest loan-level dataset in the market'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (risk measurement), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A07|s3|judge",
+    "stage": "judge",
+    "case_id": "A07",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12896,
+    "tokens_out": 1921,
+    "cost_usd": 0.2436758,
+    "duration_s": 23.1,
+    "finished_at": 1795620720.8504808,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1921,
+        "costUSD": 0.2436758
+      }
+    }
+  }
+}

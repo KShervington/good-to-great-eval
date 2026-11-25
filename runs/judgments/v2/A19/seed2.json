@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the best in America at running convenient, pharmacy-centered neighborhood drugstores' measured by 'profit per customer visit', with dense well-sited stores and 'a drugstore company and nothing else', which matches all four key points including the denominator."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Restaurants and discount stores are stop-doing items 1 and 2 and appear in the verdict, but they are worded as 'stop opening restaurants / freeze the 22 units' and 'stop investing… prepare an exit'; the full exit ('Off (phased)', 'restaurant exit as a phased multi-year plan') only appears in the bus table and 90-day plan."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal facts 1 and 2, both rated Critical, are flat EPS while sales doubled and halved margins, with the consequence stated as 'growth isn't creating value'; discount-store weakness (#4) and capital spread across businesses (#5) are also listed."
+  },
+  "D5": {
+    "score": 3,
+    "why": "The register names Stage 2 undisciplined pursuit of more and a Stage 4 large acquisition that skips the per-visit hurdle, which loosely fits the later mega-merger and overexpansion, but the mechanisms are tied to today's diversification and Rival E and nothing anticipates the grasping-for-salvation partnership or pharmacy-trust liability."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures are marked as derived or as assumptions and the missing division, store and per-visit economics are flagged repeatedly, but sales growth of 'about 11%/yr over the table (2.3×)' is slightly overstated (about 9.7% over nine years) and the '55/100' greatness score has no stated basis."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (profit per visit), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A19|s2|judge",
+    "stage": "judge",
+    "case_id": "A19",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13636,
+    "tokens_out": 2591,
+    "cost_usd": 0.2823158,
+    "duration_s": 28.5,
+    "finished_at": 1795622220.4521844,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2591,
+        "costUSD": 0.2823158
+      }
+    }
+  }
+}

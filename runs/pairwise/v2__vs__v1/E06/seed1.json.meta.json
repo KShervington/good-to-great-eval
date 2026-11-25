@@ -1,0 +1,20 @@
+{
+  "job_id": "v2|E06|s1|pairwise|vs:v1",
+  "stage": "pairwise",
+  "case_id": "E06",
+  "seed": 1,
+  "model": "claude-fable-5-2",
+  "effort": "high",
+  "tokens_in": 18664,
+  "tokens_out": 1738,
+  "cost_usd": 0.368128,
+  "duration_s": 22.1,
+  "finished_at": 1795630664.8842459,
+  "models_used": {
+    "claude-fable-5-2": {
+      "inputTokens": 2,
+      "outputTokens": 1738,
+      "costUSD": 0.368128
+    }
+  }
+}

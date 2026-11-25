@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "2",
+  "overall": "2",
+  "why": "Both analyses match the key's hedgehog (cost-effective health-care portfolio, profit per employee), refuse the PBM, merger and R&D arms race, and put the unresolved diagnostics quality problem first. Analysis 2 is better calibrated (more gates marked conditional, assumptions flagged) and its warnings sit closer to the key's early-warning signs, including the opaque joint venture, buybacks masking slowing earnings, and concrete trigger thresholds.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|E03|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "E03",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17676,
+    "tokens_out": 1308,
+    "cost_usd": 0.33512,
+    "duration_s": 17.4,
+    "finished_at": 1795630193.6445448,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1308,
+        "costUSD": 0.33512
+      }
+    }
+  }
+}

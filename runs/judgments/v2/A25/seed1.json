@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog turns government-funded communications and data technology into commercial systems for 'broadcasters, communicators, publishers', with electronic printing as the beachhead, which matches the key's field; but it demotes mechanical printing to 'electronify it or harvest it' and its denominator (profit per engineering dollar) is not in the key."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Stop-doing item 1 is an explicit acquisition moratorium and general-purpose computing is ruled out, but it is a blanket pause, not 'stay inside the concept', and succession appears only as 'successor development' under clock-building mechanisms."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'acquisitions bought revenue, not earnings' first as the most urgent fact, and also lists five parallel integrations, largely mechanical printing and government budget dependence, each with severity and an owner."
+  },
+  "D5": {
+    "score": 3,
+    "why": "Gate 10 names acquisition-driven 'grasping for salvation' and 'selling flywheel units to cover earnings' with warning signs, but never flags a successor resetting direction, relocating headquarters or leaping into an unrelated field, and its own advice to harvest or sell mechanical printing lines leans toward what later happened."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged throughout, missing segment profit, return on capital, backlog and share are flagged, and confidence is stated as low to moderate; however 'Greatness potential: 33/100' is unexplained and the absent CFO seat is inferred from the dossier's silence."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict compactly gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, and is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A25|s1|judge",
+    "stage": "judge",
+    "case_id": "A25",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12358,
+    "tokens_out": 2579,
+    "cost_usd": 0.2613878,
+    "duration_s": 28.6,
+    "finished_at": 1795623704.6655412,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2579,
+        "costUSD": 0.2613878
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog sentence ('struggling early-grade readers to benchmark through thirty daily minutes with a thoroughly trained, closely coached tutor') matches the key's field and fidelity mechanisms, explicitly excludes math, apps and rapid multi-state launches, and uses a compatible denominator (cost per additional reader at benchmark)."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three temptations to refuse, in both the verdict and the stop-doing list, are the grant as written (five states in 30 months plus three seats), the 18-hour training and coach-load drift, and the math pilot and ReadAlong; it also fills the research director 'now, not after expansion' and leaves the core intact."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical and repeated in the verdict, is the new-school decline (69% to 63% to 58% against a steady 74%) with the consequence that expansion multiplies the failing segment; the cut mechanisms (#3) and the switched-off measurement (#5) are also listed."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The lead mechanism is 'expansion outrunning the training and coaching system', with specific thresholds on new-school benchmark, coach ratio and retention; it also names measurement blindness, funder-driven governance, hubris quotes, and the risk that a failure to replicate in new states damages home-district renewals, which is what happened."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures (cost per additional reader, the One Million arithmetic, board vote share) check out and are marked as derived or assumed, and missing data is flagged; but the 'Greatness potential: 62/100' score has no stated basis and the CEO is labelled 'founder' without marking it as an inference."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (training and coaching, with numbers), three temptations to refuse, the most urgent brutal fact, the missing numbers and a confidence level, so a board member could act on it alone."
+  },
+  "D9": {
+    "score": 4,
+    "why": "It says plainly 'already great, and in the early stages of falling', confirms rather than invents the hedgehog, and mostly restores what worked with subject-specific warning thresholds; but the list is not short (ten stop-doing items, a new model-owner role, a reporting-line split, a replacement BHAG, a succession plan, a conference cap) and seven of eleven gates are marked conditional."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|E07|s2|judge",
+    "stage": "judge",
+    "case_id": "E07",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14988,
+    "tokens_out": 2848,
+    "cost_usd": 0.3142278,
+    "duration_s": 31.5,
+    "finished_at": 1795631006.0753334,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2848,
+        "costUSD": 0.3142278
+      }
+    }
+  }
+}

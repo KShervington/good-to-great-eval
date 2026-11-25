@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2's hedgehog sits closer to the key by pairing superstore operations with guided selling, measuring profit per store against Rival B and naming profit per region as the backup, and its three-arm format test is the more actionable way to renew the core. Analysis 1 covers the decline stages more fully, including warnings against a rebrand, an overnight end to commissions and mass cuts of salespeople, but the two are otherwise level on stop-doing, brutal facts and calibration.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|B01|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "B01",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 20633,
+    "tokens_out": 1698,
+    "cost_usd": 0.398032,
+    "duration_s": 23.6,
+    "finished_at": 1795624541.975206,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1698,
+        "costUSD": 0.398032
+      }
+    }
+  }
+}

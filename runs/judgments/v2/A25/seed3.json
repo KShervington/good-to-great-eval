@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('turns defense-grade communications and information technology into commercial systems for markets where information moves... broadcasting, communications links, and electronic printing and publishing') matches the key's applying technology to printing and communications with the two sides kept joined, but it tilts toward the government-electronics root, treats printing as conditional, and adds a profit-per-engineer denominator the key does not have."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Stop-doing #1 is 'Stop acquiring' and #5 is 'Stop entering commercial markets where scale decides', which cover acquisition discipline and no fights with giants, but hedgehog fit for deals and concept-preserving succession appear only as mechanisms ('acquisition rule requiring hedgehog fit', 'successor development'), not on the list."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'Growth was bought, not earned... earnings were weak for about five years' first with its consequence, and also lists mechanical printing (#4), government budget dependence (#5) and simultaneous integrations (#7)."
+  },
+  "D5": {
+    "score": 4,
+    "why": "Gate 10 flags 'Grasping for salvation: ... a large transformational merger' with a deal-size trigger and a continuing acquisition habit, which is close to the later big off-concept acquisition, but it does not name a successor resetting direction or the sale of printing, and it lists corrugated machinery for possible sale itself."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged throughout, missing segment data, backlog and share are flagged, and confidence is stated as 'low to moderate', but 'earnings have been flat' slightly overstates the dossier's 'weak' growth and 'Greatness potential: 25/100' is an unsupported figure."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, all compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A25|s3|judge",
+    "stage": "judge",
+    "case_id": "A25",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12058,
+    "tokens_out": 2963,
+    "cost_usd": 0.27194779999999996,
+    "duration_s": 33.4,
+    "finished_at": 1795623853.2586353,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2963,
+        "costUSD": 0.27194779999999996
+      }
+    }
+  }
+}

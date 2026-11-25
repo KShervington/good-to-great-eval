@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is high-stakes, time-critical machine rentals between nearby farmers, with repeat kept on-platform by protection, hour-meter billing and repeat pricing (flywheel link 4), lending and breadth ruled out, and a net-revenue-per-active-county denominator that matches the key."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict's top three stop-doing items are the January input-financing launch, the two-state launch, and counting number swaps and 'a neighbor I can call' as success, which are the key's three decisions."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical, is 'The community is partly a leak', citing 71% number swaps, 11% same-owner rebooking, masking turned off and the Ostrander/Kemp sharing, with the 68%-in-12-counties concentration listed separately; the verdict does name the lending mismatch as 'most urgent' instead."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names stage 1 hubris ('Truly a great season'), stage 2 undisciplined pursuit (lending, new states, Pro) and stage 3 denial ('leakage hidden inside community metrics'), each with a specific warning sign such as number swaps rising while same-owner repeat stays at or below 11%."
+  },
+  "D7": {
+    "score": 3,
+    "why": "Most derived figures and thresholds are tagged, but the key's missing metric was computed, not flagged: 'Peak request fill rate 82.3%' appears as the current scorecard value with only a parenthetical caveat, and '17.7% of requests' and '2.7 bookings per listed machine' are stated without an assumption tag."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, a most urgent brutal fact, the numbers that would change the call and a confidence level, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|D03|s3|judge",
+    "stage": "judge",
+    "case_id": "D03",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15209,
+    "tokens_out": 2314,
+    "cost_usd": 0.2964038,
+    "duration_s": 25.5,
+    "finished_at": 1795627731.037919,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2314,
+        "costUSD": 0.2964038
+      }
+    }
+  }
+}

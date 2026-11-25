@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The working hypothesis narrows to the key's implied core (\"stores big enough to operate efficiently\" in regions where it can be #1 or #2, ruling out small stores and unfunded price cuts) and diagnoses an active doom loop, but it never plainly states that the company currently has no hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's top three stops are chain-wide deep discounting, subsidizing stores and regions it cannot win, and paying out most profit as dividends while the stores decay, which match the key's decisions explicitly."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the ~$51M price-war loss and the obsolete store base as Critical items 1 and 2 with consequences stated, and also lists service failures, labor costs and Rival L adapting first."
+  },
+  "D5": {
+    "score": 5,
+    "why": "It places the company in Stage 4 with the early warning \"a new chain-wide program announced without a pilot\" and names Stage 5 as \"a slow shrink with no plan behind it or a sale driven by exhaustion\", which matches the program-hopping, takeover and long decline that followed."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferred figures are tagged [ASSUMPTION] and the missing unit economics, regional share, large-store tests and labor terms are flagged, but it treats the foundation as the current \"controlling holder\" from a 15-year-old stake figure without marking that as an inference."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link, the top three stops, the most urgent brutal fact, the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A12|s3|judge",
+    "stage": "judge",
+    "case_id": "A12",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12847,
+    "tokens_out": 2116,
+    "cost_usd": 0.25069179999999996,
+    "duration_s": 24.3,
+    "finished_at": 1795621540.006286,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2116,
+        "costUSD": 0.25069179999999996
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses match the key's hedgehog, stop-doing list and brutal facts almost equally, but Analysis 2 maps the decline more completely: it places the company at late Stage 1, inside Stage 2 and on the edge of Stage 3, and anticipates Stage 4 acquisitions, reorganisations and an outside saviour. Analysis 1 is slightly better calibrated, with an explicit confidence statement and no misreading of the internal analog remark as public, but Analysis 2's staged warnings and gated satellite kill criteria make it marginally the more useful to hand to the leader.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|B05|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "B05",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 19263,
+    "tokens_out": 2275,
+    "cost_usd": 0.399192,
+    "duration_s": 27.9,
+    "finished_at": 1795625415.9938226,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2275,
+        "costUSD": 0.399192
+      }
+    }
+  }
+}

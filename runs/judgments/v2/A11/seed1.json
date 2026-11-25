@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the one-stop food-and-drug store... only in markets where it can be #1 or #2' with 'profit per local market' as denominator, matching the key's combination superstore, #1/#2 rule and a compatible local-density denominator, while rejecting price leadership and manufacturing."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Exiting markets it can't lead is stop-doing #2 and in the verdict, but phasing out small conventional stores sits at #4, outside the top three, and is softened to 'stop remodeling... in place' when they can't reach combination size."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1 is 'Most stores are small conventional units, the wrong format for what comes next', echoed in the verdict's most urgent fact, and #3 covers market weakness through repeated retreats with no rule."
+  },
+  "D5": {
+    "score": null,
+    "why": "The answer key lists no expected decline risks and reports no later decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, missing margins, market share and test-store economics are flagged, and confidence is 'moderate-low', but the 'roughly 7% a year' growth figure and the '45/100' greatness score are unmarked."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, weakest flywheel link, three stop-doing items, most urgent brutal fact, missing numbers and confidence compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The subject is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A11|s1|judge",
+    "stage": "judge",
+    "case_id": "A11",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12302,
+    "tokens_out": 1663,
+    "cost_usd": 0.2238518,
+    "duration_s": 21.2,
+    "finished_at": 1795621121.1497874,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1663,
+        "costUSD": 0.2238518
+      }
+    }
+  }
+}

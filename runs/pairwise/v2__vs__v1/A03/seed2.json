@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "1",
+  "D5": "na",
+  "D7": "tie",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses land on the key's hedgehog (cost-effective hospital products, nutritionals and diagnostics, measured by profit per employee) and both put the blockbuster-drug race and consumer diversification on the stop-doing list. Analysis 1 edges ahead by naming 'the discovery path is not winnable' as an explicit brutal fact and by giving a crisper verdict with a stated confidence level and a decisive exit from all consumer lines.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|A03|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A03",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16879,
+    "tokens_out": 1684,
+    "cost_usd": 0.337408,
+    "duration_s": 20.9,
+    "finished_at": 1795619681.2460515,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1684,
+        "costUSD": 0.337408
+      }
+    }
+  }
+}

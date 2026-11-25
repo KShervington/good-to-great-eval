@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses catch the Freshway markdown-app threat (44% of pounds, 36% Eastside drop, chainwide rollout), decline the café, defer the van and cut the add-on programs, so they are close on the key's substance. Analysis 2 edges ahead because its denominator (usable perishable pounds per route-hour) and its donor-concentration target match the key's hedgehog more closely, and it states its confidence and gives numeric triggers for the denial and overreach risks.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|D09|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "D09",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 22652,
+    "tokens_out": 1614,
+    "cost_usd": 0.426976,
+    "duration_s": 21.5,
+    "finished_at": 1795628735.1433587,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1614,
+        "costUSD": 0.426976
+      }
+    }
+  }
+}

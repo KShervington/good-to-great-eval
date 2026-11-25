@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog 'invents and leads personal-care categories through absorbent-product innovation... judged by profit per category-leading brand' matches the key's consumer-products field and profit-per-brand denominator, and explicitly rules out the airline, aviation services and commodity papers."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items are halting the uncommitted airline expansion with a sale or spin-off, ending reinvestment in newsprint and printing mills, and gating Europe, with the consumer core left intact; the only softening is tobacco papers held 'pending data'."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks succession first and capital split across unrelated businesses against a bigger Rival P second, and also lists Rival P's diaper lead, unknown European returns and the airline, each with consequence and owner."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and describes later history as integration pain rather than a decline, so this is N/A (the analysis did flag a large acquisition that could bring commodity mills back)."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Figures come from the dossier or are tagged [ASSUMPTION] and the missing segment, share and European data are flagged, but it treats the dossier's data gaps as a company gap ('missing seat: capital allocator') and leaves the 66/100 score unmarked."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (reinvestment), the top three stop-doing items, the most urgent brutal fact (succession), the missing numbers and a confidence level, compactly enough to act on."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It keeps the hedgehog the company already lives by and does not attack the core, but calls the subject 'Good... Not yet great as a whole company' and adds a long list (seven stop-doing items, three missing seats, a new BHAG and mechanisms) rather than plainly recognizing greatness."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|E04|s2|judge",
+    "stage": "judge",
+    "case_id": "E04",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13151,
+    "tokens_out": 2395,
+    "cost_usd": 0.2667158,
+    "duration_s": 27.3,
+    "finished_at": 1795630351.6800344,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2395,
+        "costUSD": 0.2667158
+      }
+    }
+  }
+}

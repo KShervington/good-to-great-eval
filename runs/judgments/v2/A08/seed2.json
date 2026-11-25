@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's suggested core ('rate-matched, low-loss small residential lending funded by a statewide retail deposit base'), rules out brokerage and real-estate services, and flags diversification as 'bolted onto a lending core', but it never says plainly that the company currently lacks a hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing #1 in the one-screen verdict is 'Buying non-lending businesses' with a freeze on the brokerage and real-estate unit, and #3 is 'Acquisitions or out-of-state entry without hard criteria', which together cover both key decisions."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks as High both the borrow-short/lend-long mismatch in the legacy fixed-rate book (#2) and deregulation pulling rivals into risky assets (#4), and the verdict's most urgent fact ties deregulation to a repeat of the earlier expansion-then-foreclosure episode."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register's top risks are Stage 2 undisciplined diversification (warning signs: rising non-residential assets, another non-lending deal proposed) and home-state housing concentration (delinquencies rising, home prices softening), which match the later diversification and California problem-loan decline."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Thresholds, targets and inferences are consistently tagged [ASSUMPTION], the missing ROE, net worth, fixed-rate book size and market share are flagged as the first brutal fact, and Gates 1, 2, 3 and 5 are held CONDITIONAL on the missing data; the unexplained '20/100' score is the only loose figure."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits on one screen and gives the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact, missing numbers and a confidence statement, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A08|s2|judge",
+    "stage": "judge",
+    "case_id": "A08",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12637,
+    "tokens_out": 2186,
+    "cost_usd": 0.2501318,
+    "duration_s": 23.6,
+    "finished_at": 1795620895.3765287,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2186,
+        "costUSD": 0.2501318
+      }
+    }
+  }
+}

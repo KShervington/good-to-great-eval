@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "2",
+  "D5": "na",
+  "D7": "1",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both land on the key's hedgehog (paper-based consumer products, profit per consumer brand), but Analysis 2 commits outright to selling the commodity mills, namesake included, and to fighting Rival P head-on, and it lists 'the mills cannot be best in the world' as a brutal fact. Analysis 1 is better calibrated (stated confidence, mill exit made conditional on segment data, no misattributed Rival S claim, honest about lacking scheduling tools), but it hedges the central decision and advises against chasing Rival P broadly.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|A01|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A01",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16105,
+    "tokens_out": 1216,
+    "cost_usd": 0.306304,
+    "duration_s": 18.7,
+    "finished_at": 1795619152.695733,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1216,
+        "costUSD": 0.306304
+      }
+    }
+  }
+}

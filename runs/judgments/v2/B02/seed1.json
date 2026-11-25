@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'best at pricing and guaranteeing U.S. mortgage credit risk, earning the most profit per unit of risk borne, so that more families can buy homes they can keep', which matches the key's mortgage-risk field, home-ownership passion and profit-per-risk denominator while rejecting EPS and portfolio size as the engine; it is slightly narrower than the key in focusing on credit risk only."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's top three and the stop-doing list explicitly cover stopping portfolio growth as the EPS engine, stopping EPS targets and EPS-linked bonuses and options, stopping capital at the legal floor, and stopping leading with 'operating earnings'."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks EPS-linked pay on a self-defined number and thin capital (about 32x leverage, $0.9B surplus) as Critical, and the -14-month duration gap and revocable implicit backing as High, each with stated consequences."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 and the risk register name Stage 3 earnings-quality failure through the adjusted EPS figure (warnings: results landing on target, amortization balances, hedge-accounting questions, restatement indicators), Stage 2 leverage-driven portfolio growth, Stage 1 hubris, and a Stage 4 move into riskier product lines."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences and targets are consistently tagged [ASSUMPTION], derived figures check against the dossier, and missing data is flagged; but a few inferences are stated as fact, such as that the accounting 'has not been independently examined' and that the regulator rather than an internal mechanism 'caught' the duration gap."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict compactly gives the hedgehog sentence, the weakest flywheel link (capital), the top three stops, the most urgent brutal fact, the missing numbers and a confidence level, and is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|B02|s1|judge",
+    "stage": "judge",
+    "case_id": "B02",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16041,
+    "tokens_out": 2204,
+    "cost_usd": 0.30531579999999997,
+    "duration_s": 26.8,
+    "finished_at": 1795624655.2627017,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2204,
+        "costUSD": 0.30531579999999997
+      }
+    }
+  }
+}

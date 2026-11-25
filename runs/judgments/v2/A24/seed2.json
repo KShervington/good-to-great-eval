@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'a few front-wheel-drive family platforms better and cheaper than anyone', it explicitly rules out a full-line fight with Rival G and Rival F, it uses profit per platform with a low break-even (compatible with the key's per-vehicle or per-segment denominator), and it admits the 'best at' circle is an unevidenced hypothesis."
+  },
+  "D2": {
+    "score": 3,
+    "why": "'Stop building to fill plants' is item 1 and matches the key's inventory point, but leader-celebrity distraction and non-core diversification are only implied (item 7 on publicity, item 8 on defense, the risk register), and succession is not on the stop-doing list at all."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks cash running out by year-end and the lack of private funding as Critical, and also lists highest inventory, product planning wrong-footed three times, damaged quality, and the single launch a year away, each with evidence and an owner."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names 'charismatic, sales-led leadership… no documented successor' with the warning sign 'CEO's public profile rises faster than profit', and Gate 10 flags post-rescue hubris with 'any non-core acquisition' and break-even creep, which matches the celebrity, succession and diversification mechanism that occurred."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, missing cash, debt, break-even and line-profit data are flagged, and confidence is stated as low; but it asserts the CFO, COO and government-relations seats are 'empty' when the dossier only says the senior team is undocumented."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link (quality), three stop-doing items, the most urgent brutal fact (possible closure by year-end), the missing numbers and a confidence level, concisely enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A24|s2|judge",
+    "stage": "judge",
+    "case_id": "A24",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12307,
+    "tokens_out": 2679,
+    "cost_usd": 0.2645718,
+    "duration_s": 27.7,
+    "finished_at": 1795623511.7564769,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2679,
+        "costUSD": 0.2645718
+      }
+    }
+  }
+}

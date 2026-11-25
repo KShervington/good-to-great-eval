@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses identify the dead sales force, founder-centric control, missing budgets and bed concentration, and both wrongly rule out implants, but Analysis 2 builds the results-paid specialist sales force into the hedgehog itself and more explicitly treats beds as the cash base with instruments and P&L-owning product units as the future. Analysis 2 is also more candid about its limits, with a stated confidence level, trigger thresholds and an admission that it cannot schedule the re-check, whereas Analysis 1 offers to schedule one despite saying it lacks the tools.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|C01|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "C01",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15278,
+    "tokens_out": 1064,
+    "cost_usd": 0.286992,
+    "duration_s": 16.3,
+    "finished_at": 1795626205.4134362,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1064,
+        "costUSD": 0.286992
+      }
+    }
+  }
+}

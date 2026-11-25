@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "2",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on the same regional-drugstore hedgehog, the same divest-and-stop-diversifying list and all three key brutal facts, so they are hard to separate on substance. Analysis 2 edges ahead by naming undisciplined diversification and the founder's political pull as the top decline risks already under way, with concrete triggers, and by stating its low-to-moderate confidence up front in a sharper verdict.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|A20|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A20",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15297,
+    "tokens_out": 1211,
+    "cost_usd": 0.293176,
+    "duration_s": 15.8,
+    "finished_at": 1795622584.3174722,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1211,
+        "costUSD": 0.293176
+      }
+    }
+  }
+}

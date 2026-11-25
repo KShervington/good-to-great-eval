@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is \"dependable products that make health care more cost-effective for hospitals and clinicians\" (IV, clinical nutrition, diagnostics), explicitly rejects blockbuster discovery and consumer brands, and uses profit per employee as the denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict's top three stop-doing items are exiting non-health consumer brands, ending the blockbuster race against Rival U and the largest drug firms, and ending capital spread across five divisions; item 8 also covers filling seats by tenure or family line."
+  },
+  "D3": {
+    "score": 4,
+    "why": "The register lists \"no research engine for new drugs\" at #2 and weakened leadership at #5, but ranks the IV recall harm as most urgent and leaves the hospital cost-control shift out of the register."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and its later history says \"No collapse\", so there is no decline mechanism to grade; the analysis's quality-relapse risk does loosely anticipate the later FDA quality fine."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Targets and thresholds are tagged [ASSUMPTION], missing division financials are flagged and confidence is stated as low to moderate, but a few inferences are unmarked, such as \"no planned bench\", Rival U being \"a better researcher\" and the 35/100 score."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, weakest flywheel link (hospital trust), top three stop-doing items, most urgent brutal fact, missing numbers and confidence, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A03|s1|judge",
+    "stage": "judge",
+    "case_id": "A03",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12198,
+    "tokens_out": 2023,
+    "cost_usd": 0.23658780000000001,
+    "duration_s": 23.2,
+    "finished_at": 1795619598.6911693,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2023,
+        "costUSD": 0.23658780000000001
+      }
+    }
+  }
+}

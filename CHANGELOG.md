@@ -110,3 +110,18 @@ Every phase and every improvement round is logged here: what ran, scores, the ed
 - **E4, turnaround vs not-yet-good.** "Not yet good" is for a core that has never worked on its own. A once-good subject in crisis (mounting losses, lost share, funding squeeze) is run as a turnaround, with brutal facts and survival actions first. Hypothesis: fixes the A24 false FAIL (D6), and D05 still FAILs.
 - **E5, honesty kept in the short verdict.** Add one line on how confident the verdict is and what it rests on. Keep `[ASSUMPTION]` tags on verdict figures. Caveats are no longer on the "leave out" list. Hypothesis: wins back pairwise D7 and raises absolute D7, with D8 unchanged.
 - **E6, specific decline mechanisms first.** Gate 10 leads with the one or two mechanisms most likely to bring this subject down, from its own evidence, each with a warning sign and a trigger threshold. Then the remaining stages briefly. Hypothesis: D5 = 3 outputs fall, D5 mean rises.
+
+## 2026-11-25: Round 2 result: v2 REJECTED, loop stops (user approved round 2)
+- 378 jobs (126 v2 runs, 126 judge calls, 126 v2-vs-v1 pairwise; v1 runs and judgments reused from round 1), 0 failures, no limit pauses. About $114 API-equivalent; the project total is now $311.
+- **Decision (`runs/decisions/r2.json`): REJECT.** Composite v2 93.63 vs v1 92.88. Diff +0.74, 95% CI [-0.23, 1.92] includes 0. The other checks pass: no dimension dropped more than 0.3, growth +13.5%, overfitting scan clean.
+- **Per dimension (v1 -> v2):** D1 4.56 -> 4.64. D2 4.79 -> 4.75. D3 4.97 -> 4.92. D5 4.58 -> 4.63. D7 4.17 -> 4.27. D8 4.96 -> 4.98. D9 4.33 -> 4.33.
+- **Per track (composite v1 -> v2):** A 91.1 -> 92.4, B 94.9 -> 95.1, C 87.6 -> 88.9, D 95.5 -> 95.7, E already great 94.4 -> 94.7, E already great but drifting 97.1 -> 96.2. These are recomputed with the round-1 scorer fixes; D and E are grouped differently from the round-1 entry.
+- Pairwise overall: v2 won 64, v1 won 61, 1 tie.
+- **Hypotheses:**
+  - E4 confirmed: A24 now passes Gate 1 (PASS 1, CONDITIONAL 2; under v1 it was FAIL 3/3). D05 still FAILs. D6 is now correct in 126/126 (v1 123/126). A24 is the biggest gainer at +17.3.
+  - E5 confirmed: pairwise D7 v2 won 69, v1 won 22, 35 ties. This reverses round 1's loss. Absolute D7 rose 0.10, and D8 held at 4.98.
+  - E6 not confirmed: D5 = 3 or lower in 11 outputs (v1 12). Pairwise D5: v1 won 35, v2 won 29.
+- Biggest losers: A17 -5.6, A23 -4.4, D06 -3.3, B08 -3.2. Spread across tracks, consistent with seed noise.
+- **Stopping rule triggered.** Round 1 gained +1.87, under 2.0. Round 2's CI includes 0. That is two rounds in a row. The dev loop ends with **v1 as the final candidate**.
+  - Note for the report: E4 and E5 each fixed what they targeted, but the overall gain didn't clear noise on 26 clusters, so neither goes in under the rules.
+- Next: Phase 4, the held-out evaluation of v0 vs v1. It is 16 cases × 3 seeds, 240 calls (about $43), and needs the user's OK.

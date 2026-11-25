@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog sentence ('best in the world at the machines and service that keep a business's mail and back-office paperwork flowing... profit per business customer') matches the key's field, its use of the field-service customer base, and its denominator, and it explicitly rules out standalone copiers, retail point-of-sale and broad office equipment."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The stop-doing list in the verdict leads with 'retail point-of-sale and retail electronics', then price-led copier fights and buying growth in markets bigger firms lead; item 7 adds 'treating meter market share as the strategy'."
+  },
+  "D3": {
+    "score": 4,
+    "why": "All four key facts are in the register (the $42M write-off in the critical row 1, the consent-decree cap in row 4, regulatory flux in row 3, copiers against the category inventor in row 6), but the top fact is framed as missing profit visibility and the decree and meter-maturity facts are ranked only medium."
+  },
+  "D5": {
+    "score": 3,
+    "why": "Gate 10 names 'denial of the electronics shift' and 'capitulation: the meter treated as a cash cow', which fit a slow fade, but it never names the actual mechanism of electronic substitution shrinking physical mail volume; its warning signs concern meter roadmaps and Postal Service rules."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Derived figures (6.75x, about 16% a year, about 47% non-meter) follow correctly from the dossier, inferences are tagged [ASSUMPTION], profit per customer is marked 'Unknown' rather than guessed, and the 'good, not yet great' verdict with moderate-to-low confidence fits the evidence."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog, the weakest flywheel link, three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A17|s1|judge",
+    "stage": "judge",
+    "case_id": "A17",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11441,
+    "tokens_out": 2315,
+    "cost_usd": 0.23615579999999997,
+    "duration_s": 26.4,
+    "finished_at": 1795621613.0189269,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2315,
+        "costUSD": 0.23615579999999997
+      }
+    }
+  }
+}

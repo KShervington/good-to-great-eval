@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on the same quick-print niche hedgehog, the same stop-doing (no electronic-office bet against giants, harvest addressing), all three key brutal facts, and the savior-CEO/Stage 4 risk that later sank the company. Analysis 2 edges ahead on calibration, with an explicit low-to-moderate confidence statement, concrete warning triggers, an honest note that it cannot schedule a re-check, and a 90-day board assessment of the CEO.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|A18|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A18",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14775,
+    "tokens_out": 1462,
+    "cost_usd": 0.294864,
+    "duration_s": 17.9,
+    "finished_at": 1795621973.3954573,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1462,
+        "costUSD": 0.294864
+      }
+    }
+  }
+}

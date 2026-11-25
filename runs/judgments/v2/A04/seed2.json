@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to a hormone/inflammation/metabolism 'working hypothesis' and explicitly excludes total research scale, antibiotics and seeds ('no longer a small copy of the largest drug companies'), but it never says plainly that the current portfolio lacks a hedgehog."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Stop-doing items 1 and 2 (non-drug acquisitions with a seed sale review; benchmarking total research spend against the largest rivals) match the key and lead the verdict, but 'stop relying on single big bets' is not on the list and is only covered in the brutal facts and risk register."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks licensed-compound dependence as Critical (#1), eroding own franchises from the antibiotic withdrawal and diabetes heart-risk findings as #2, and the unwinnable total-spend research race as #3, each with evidence and an owner."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names dependence on the licensed compound replacing in-house products (warning sign: licensed share of profit rising), safety signals met with defense rather than data, and sale or merger becoming the only option, which matches what later happened."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, missing financials are flagged repeatedly and confidence is stated as low to moderate, but a few inferences are unmarked (no safety head, no independent industry directors, 'with less money than its rivals')."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact, missing numbers and confidence, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A04|s2|judge",
+    "stage": "judge",
+    "case_id": "A04",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12252,
+    "tokens_out": 2254,
+    "cost_usd": 0.24669179999999996,
+    "duration_s": 26.3,
+    "finished_at": 1795619898.2389057,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2254,
+        "costUSD": 0.24669179999999996
+      }
+    }
+  }
+}

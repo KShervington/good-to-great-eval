@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('the American TV and radio that dealers and repairmen trust most to work, to last and to be fixed') defines quality by outcome, separates it from hand-wiring, pushes solid-state and rules out unit share, but its denominator is profit per dealer (profit per set only as an alternative) and it rules out 'being lowest cost' where the key demands Japanese cost parity."
+  },
+  "D2": {
+    "score": 4,
+    "why": "The top three temptations are the debt-funded color race against Rival R, treating hand-wiring as sacred, and widening pay TV before regulators decide; 'stop dismissing the Japanese' is not a stop-doing item itself and appears only as a brutal fact and the import-teardown action."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks leadership's dismissal of integrated circuits and low-cost imports as High and most urgent ('the two forces that attack cost per set'), and also lists the labor-heavy inspection-based quality system, boom-peak capacity additions with possible borrowing, and pay TV's dependence on regulators."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register names Stage 1 hubris ('hand-crafted quality treated as an entitlement; imports and integrated circuits dismissed') and Stage 2 ('debt-funded race for No. 1 in color at the top of a boom') with specific warnings such as a debt/equity trigger and dealer inventory, and also flags pay TV and the succession gap; it misses blame externalization and scattershot diversification."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures (5.1% vs 6.0% margin, about 33%/yr stock return) compute correctly from the dossier, thresholds are tagged [ASSUMPTION] and missing data is named, but 'franchised dealer', 'B&W above 20%' (the dossier gives TV-market share) and an unexplained 'Greatness potential: 35/100' are minor unmarked inferences."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (reliability from hand-wiring and inspection rather than design), three temptations to refuse, the most urgent brutal fact, the missing numbers and a confidence statement."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|B08|s1|judge",
+    "stage": "judge",
+    "case_id": "B08",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15065,
+    "tokens_out": 2482,
+    "cost_usd": 0.30081979999999997,
+    "duration_s": 26.4,
+    "finished_at": 1795625603.83887,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2482,
+        "costUSD": 0.30081979999999997
+      }
+    }
+  }
+}

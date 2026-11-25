@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "1",
+  "D9": "na",
+  "overall": "tie",
+  "why": "Both analyses match the key almost point for point: a cold-chain perishable hedgehog with a used-pounds-per-route-hour denominator, the Freshway 44% / Eastside 36% / chainwide-app fact, declining the café, deferring the van, shedding the add-ons, and flagging denial and undisciplined-more. Analysis 2 is slightly more careful on causal inference and data reconciliation, while Analysis 1's verdict is slightly more complete and its actions carry dates and trigger thresholds, so overall they are too close to separate.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|D09|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "D09",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 20630,
+    "tokens_out": 2263,
+    "cost_usd": 0.420584,
+    "duration_s": 27.3,
+    "finished_at": 1795628648.508913,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2263,
+        "costUSD": 0.420584
+      }
+    }
+  }
+}

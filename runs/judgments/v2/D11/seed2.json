@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is \"keep heart-failure patients home past day 90, not just day 30\" through medication and home-support gap-fixing, it rules out Hospital at Home and volume enrollment, and its denominator (risk-adjusted 90-day hospital days avoided per $100K) is compatible with the key's hospital-free days."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing #1, repeated in the one-screen verdict, is declining the Hospital at Home lead, followed by dropping the enrolled-vs-not-enrolled proof, the automatic day-30 graduation, and the 75% enrollment chase."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical, is the 30-day advantage vanishing by day 90 (32.7% vs 33.9%) as \"delay rather than prevention\", with the non-control comparison group and the day-30 endpoint matching the penalty window as facts #2 and #3."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names both undisciplined pursuit of more (Hospital at Home pulling the manager and nurses) and denial of risk (90-day figure left out of the next memo) with specific triggers, and adds Finance pricing the program as cost-only at the budget cycle."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Finance's value per readmission is flagged as missing and most inferences carry [ASSUMPTION], but it computes $21.6K and $106K per \"naively avoided\" readmission from the non-control group, caveated as naive and unadjusted yet not marked as an assumption."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (holding patients after day-30 graduation), the top three stops, the most urgent brutal fact, the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|D11|s2|judge",
+    "stage": "judge",
+    "case_id": "D11",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13781,
+    "tokens_out": 2098,
+    "cost_usd": 0.2649158,
+    "duration_s": 23.8,
+    "finished_at": 1795629244.0250063,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2098,
+        "costUSD": 0.2649158
+      }
+    }
+  }
+}

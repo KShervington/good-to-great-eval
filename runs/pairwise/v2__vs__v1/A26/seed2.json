@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "1",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2 commits more clearly to the key's toys-only hedgehog and puts separating the pencil business in its top stop-doing items, while Analysis 1 hedges between a split and a ring-fence. Analysis 1 is slightly better calibrated (stated confidence, thresholds flagged as assumptions), but Analysis 2's verdict is the more decisive and actionable one to hand to the leader.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|A26|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A26",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17526,
+    "tokens_out": 1110,
+    "cost_usd": 0.32480000000000003,
+    "duration_s": 15.2,
+    "finished_at": 1795624109.596601,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1110,
+        "costUSD": 0.32480000000000003
+      }
+    }
+  }
+}

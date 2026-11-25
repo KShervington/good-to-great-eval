@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2 builds its hedgehog and denominator (net revenue per listed machine, \"first time and every time after\") around keeping repeat rentals on-platform, which is closer to the key than Analysis 1's per-high-value-booking framing that concedes small repeat leakage. Analysis 1 is better calibrated, tagging its request denominator as an assumption where Analysis 2 states an untagged ~82% fill rate, but both match the key on the stop-doing list, the leakage fact and the decline stages.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|D03|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "D03",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 20542,
+    "tokens_out": 1492,
+    "cost_usd": 0.388336,
+    "duration_s": 18.8,
+    "finished_at": 1795627605.0153396,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1492,
+        "costUSD": 0.388336
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2's hedgehog keeps printing and electronics joined around applying technology to information movers (\"from space to the printed page\"), which is closer to the key, whereas Analysis 1 demotes printing toward separation and recommends moving headquarters, both of which the key treats as part of the later decline. Both cover the acquisition moratorium and the key brutal facts equally well, but Analysis 2 is somewhat better calibrated, with an explicit confidence statement and a stated condition under which its hedgehog would be overturned.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|A25|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A25",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17086,
+    "tokens_out": 1592,
+    "cost_usd": 0.33704,
+    "duration_s": 22.1,
+    "finished_at": 1795623875.4720364,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1592,
+        "costUSD": 0.33704
+      }
+    }
+  }
+}

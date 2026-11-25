@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It proposes a density-based regional discounter hedgehog as a 'working hypothesis', rejects price-only positioning and warns that the 'best at' circle 'may be empty' and Marlow 'can only be good', but never states outright that Marlow currently has no hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items, repeated in the opening verdict, are stop entering markets by multi-store advertising blitz, stop competing on price without a cost edge, and stop treating store count as the goal; the owner-reset point appears only in the doom-loop check."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks Rival T's shift to superstores as Critical and most urgent, followed by price-only positioning not being a moat, the non-retail steel parent funding growth, and the founder's death plus ownership change as discontinuities."
+  },
+  "D5": {
+    "score": 4,
+    "why": "Gate 10 names parent exit or capital withdrawal by a non-core owner as a primary risk with specific warning signs, plus Stage 2 scatter expansion and a Stage 5 forced sale; however it treats superstores as a hype risk to avoid copying, not as the format gap that actually sank the company."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged throughout, missing financials are named, and confidence is stated as low, but 'national-scale advertising' is an unmarked inference beyond the dossier's 'heavy advertising'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (advertising efficiency), three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A06|s3|judge",
+    "stage": "judge",
+    "case_id": "A06",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11063,
+    "tokens_out": 2088,
+    "cost_usd": 0.2210278,
+    "duration_s": 24.3,
+    "finished_at": 1795620397.7110665,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2088,
+        "costUSD": 0.2210278
+      }
+    }
+  }
+}

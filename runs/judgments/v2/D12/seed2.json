@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The analysis declares 'Gate 0 FAIL', writes no hedgehog ('none written... this commission ends about 90 days after its final audit'), checks the same reframes as the key (Bellmoor Days, heritage program, ED's career) and hands over to project risk management."
+  },
+  "D2": {
+    "score": 4,
+    "why": "It ends the run at Gate 0, labels its list 'project triage, not a Hedgehog Concept stop-doing list', and puts de-risking Calder before the March deposit in the top three; but the app is softened to 'stop deferring' and 'either decline it, or cut it' instead of a plain decline."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The verdict's most urgent brutal fact and register items 1 and 2 (both 'Critical') connect Calder's 63% of sponsorship, the $160,000 April installment, the retired champion, the parent's review, and the March deposit and May loan timing, with the consequence stated as a broken cash chain."
+  },
+  "D5": {
+    "score": null,
+    "why": "The answer key lists no expected decline risks and its later history is not applicable."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are marked [ASSUMPTION], the arithmetic checks out against the dossier, and the attendance target is flagged as baseless, not used to derive a forecast; but the comparison city is called 'larger' without a marker and the 'Greatness potential: 4/100' score is unexplained."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the Gate 0 fail, no hedgehog and no flywheel with reasons, three triage items, the most urgent brutal fact, the missing numbers and a confidence statement, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|D12|s2|judge",
+    "stage": "judge",
+    "case_id": "D12",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 10353,
+    "tokens_out": 1701,
+    "cost_usd": 0.1941878,
+    "duration_s": 20.3,
+    "finished_at": 1795629515.9220924,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1701,
+        "costUSD": 0.1941878
+      }
+    }
+  }
+}

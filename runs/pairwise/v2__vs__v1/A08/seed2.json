@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "2",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses propose a focused home-lending hedgehog rather than recognising the key's 'no coherent hedgehog', and both tell the company to stop diversifying and stop acquiring for size, so they are level on D1 and D2. Analysis 2 edges ahead by making the remaining fixed-rate book its most urgent brutal fact, by flagging a forced sale after a regional real-estate bust as a decline path, and by opening with a sharper verdict ('drifting toward the wrong fork').",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|A08|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A08",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17553,
+    "tokens_out": 1323,
+    "cost_usd": 0.333752,
+    "duration_s": 16.1,
+    "finished_at": 1795620930.877183,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1323,
+        "costUSD": 0.333752
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "2",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Analysis 1 commits to a focused few-platform, low-break-even hedgehog and explicitly warns against publicity substituting for product, non-core acquisitions, and one-man dependence without a successor, which closely tracks the key. Analysis 2 is somewhat better calibrated (it treats empty seats as possible gaps rather than facts) but declines to set a hedgehog and gives the leader less strategic direction.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|A24|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A24",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16078,
+    "tokens_out": 1305,
+    "cost_usd": 0.309432,
+    "duration_s": 18.0,
+    "finished_at": 1795623543.8968303,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1305,
+        "costUSD": 0.309432
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "1",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on essentially the same mailroom-relationship hedgehog with profit per customer, the same exit from point-of-sale and head-on copiers, and the same brutal facts, with comparable flagging of assumptions and missing data. Analysis 2 alone names the long-run risk that business communication moves off physical mail, which is the key's decline mechanism, while Analysis 1 has the slightly crisper headline verdict with an explicit confidence statement.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|A17|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A17",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16294,
+    "tokens_out": 1400,
+    "cost_usd": 0.316688,
+    "duration_s": 16.8,
+    "finished_at": 1795621751.9972408,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1400,
+        "costUSD": 0.316688
+      }
+    }
+  }
+}

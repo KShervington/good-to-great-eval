@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "tie",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses match the key's hedgehog, connect the injured scanning shoulder to the higher volume and dropped disability cover, decline the travel contract, and flag the unknown specialist pay without inventing a figure. Analysis 1 edges ahead because it uses teaching and the lab-lead vacancy as leverage for a specialist seat rather than rejecting both outright, names Stage 3 denial of risk as already active, and opens with a sharper verdict.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|D06|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "D06",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 19800,
+    "tokens_out": 2000,
+    "cost_usd": 0.396784,
+    "duration_s": 23.0,
+    "finished_at": 1795628390.3945873,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2000,
+        "costUSD": 0.396784
+      }
+    }
+  }
+}

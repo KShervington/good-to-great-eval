@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both land on nearly the same reliability-not-hand-wiring hedgehog and the same stop-doing list, with Analysis 1 slightly closer to the key's quality-per-dollar and cost-competitiveness framing. Analysis 2 maps the decline path more faithfully (pay TV and the debt-funded color race in Stage 2, externalized blame in Stage 3, scattershot bets and acquisitions in Stage 4) and is slightly cleaner on figures, where Analysis 1 misstates the market return as about 10x.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|B08|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "B08",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 20321,
+    "tokens_out": 1448,
+    "cost_usd": 0.38304,
+    "duration_s": 19.8,
+    "finished_at": 1795625820.4352112,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1448,
+        "costUSD": 0.38304
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land the leakage fact, decline financing, pause the new states and flag decline stages 1-3; Analysis 1 matches the key's hedgehog slightly better by explicitly refusing to block contact ('earn the repeat, don't trap it'), where Analysis 2 gates phone-number reveal. Analysis 2 is better calibrated: it caveats the 82% fill figure as counting only owner declines, flags the ambiguity in the 34% repeat figure and states moderate-low confidence, whereas Analysis 1 presents 82% as the fill rate and bookings per machine as 'utilization' without qualification.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|D03|s3|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "D03",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 21029,
+    "tokens_out": 1248,
+    "cost_usd": 0.386368,
+    "duration_s": 16.6,
+    "finished_at": 1795627741.728775,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1248,
+        "costUSD": 0.386368
+      }
+    }
+  }
+}

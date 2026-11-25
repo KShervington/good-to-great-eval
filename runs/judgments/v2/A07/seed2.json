@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'best in the world at pricing, distributing and managing the interest-rate and credit risk of home mortgages, measured by profit per unit of mortgage risk', with home-ownership passion, and it rules out holding mortgages as a skill, matching all four key points."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Stop-doing item 1 is 'Stop funding long fixed-rate mortgages with short-term debt unless hedged or match-funded', but selling the legacy book is softened to 'set a rule' (item 8) and removing misfit executives is softened to 'retrain first' in the bus section."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1, rated Critical, is 'The core model was a rate bet that lost: long fixed-rate assets funded short', citing the negative margin and about $1M/day loss, with the consequence (possible market-value insolvency) stated in fact 2."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names 'undisciplined pursuit of more, fueled by cheap backstop funding' (guarantees and portfolio growing faster than capital) plus mission/political credit creep and opaque oversight, with concrete triggers, which matches the later leverage, credit-risk and accounting failures."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged throughout, missing data (market-value net worth, portfolio yield, credit-loss rates) is flagged and confidence is stated, but 'Greatness potential: 35/100' is an unmarked figure with no derivation."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (risk measurement), three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, all on one screen and actionable."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A07|s2|judge",
+    "stage": "judge",
+    "case_id": "A07",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12138,
+    "tokens_out": 2227,
+    "cost_usd": 0.2437878,
+    "duration_s": 26.4,
+    "finished_at": 1795620593.546721,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2227,
+        "costUSD": 0.2437878
+      }
+    }
+  }
+}

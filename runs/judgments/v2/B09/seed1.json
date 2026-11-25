@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'best bank in the world at serving the households and small businesses of our home state, as a low-cost, technology-led franchise', explicitly rejecting asset size and international volume lending, with profit per customer relationship as denominator and profit per employee as a check, which is compatible with the key's cost-discipline denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are asset growth as the measure, decentralized developing-country/farm/construction loan growth, and short-funded fixed-rate mortgages; the list also stops branch additions, and the 90-day plan and risk register reject a new-business or charismatic-outsider successor."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'the cheap-deposit engine is being repealed' first as Critical, with the consequence that record profit may be the peak of the old model, and also lists the rate mismatch, untested credit growth and branch fixed costs."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names Stage 2 decentralized, growth-rewarded lending sliding into Stage 3 denial, Stage 1 'world's largest bank' hubris, and Stage 4 'a charismatic outsider, a big acquisition or a new business line', each with specific early-warning signs such as country rescheduling talks and falling margin; only the bureaucracy mechanism is absent."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferred figures are tagged (ROA ≈0.6% as derived, thresholds and values as assumptions), all four dossier gaps are named as the numbers that would change the verdict, and confidence is stated as moderate on direction and low on magnitude; the 30/100 score is an unsupported but clearly judgmental figure."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (cheap, sticky deposits), the top three stops, the most urgent brutal fact, the missing numbers and a confidence statement, compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|B09|s1|judge",
+    "stage": "judge",
+    "case_id": "B09",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13691,
+    "tokens_out": 1537,
+    "cost_usd": 0.24103580000000002,
+    "duration_s": 18.9,
+    "finished_at": 1795625832.9865758,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1537,
+        "costUSD": 0.24103580000000002
+      }
+    }
+  }
+}

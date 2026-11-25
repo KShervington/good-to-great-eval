@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both propose the same hypothetical regional-density hedgehog rather than the key's 'none', and both surface the steel parent, the leadership discontinuities and the superstore rival. Analysis 2 goes further on stop-doing (price alone, parent appetite setting pace, doctrine-driven entry resets) and on decline risk, treating denial of the superstore threat and dependency on a non-retail owner as explicit risks with triggers, whereas Analysis 1 advises against reacting to the superstore format.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|A06|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A06",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14546,
+    "tokens_out": 1453,
+    "cost_usd": 0.29084,
+    "duration_s": 19.0,
+    "finished_at": 1795620416.8090892,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1453,
+        "costUSD": 0.29084
+      }
+    }
+  }
+}

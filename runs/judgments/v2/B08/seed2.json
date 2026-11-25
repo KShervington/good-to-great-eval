@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the TV that American families, dealers and repairmen trust most... using whatever technology best delivers that trust', with profit per set as denominator and unit share and 'beating Rival R' explicitly rejected, which matches the key's outcome-defined quality, solid-state adoption and profit-per-set points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's top three are refusing the debt-funded share race against Rival R, ending hand-wiring as identity and capping pay TV, with 'stop dismissing imports' as item 4 and also in the verdict's brutal fact; succession is covered in the bus and 90-day plan."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical, is leadership dismissing imports and integrated circuits, with the consequence stated ('erase Meridian's cost and quality edge'); late technology transition, boom-peak capacity and regulator-dependent pay TV are also in the register."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 1 hubris (imports dismissed, ICs 'not ready') and Stage 2 'debt-funded color capacity sized to pass Rival R at the peak of the boom', each with specific warning signs and thresholds, and also flags pay TV and the succession gap; only Stage 3 blame-externalising is absent."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently tagged, derived margins are correct and caveated, and missing data is flagged, but 'entered about five years late' is an unmarked inference and the 'Greatness potential: 25/100' score is unexplained and sits awkwardly beside 'Already great'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (reinvestment), three temptations to refuse, the most urgent brutal fact, the missing numbers and a confidence level, compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|B08|s2|judge",
+    "stage": "judge",
+    "case_id": "B08",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14658,
+    "tokens_out": 2031,
+    "cost_usd": 0.27626779999999995,
+    "duration_s": 23.2,
+    "finished_at": 1795625599.0000076,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2031,
+        "costUSD": 0.27626779999999995
+      }
+    }
+  }
+}

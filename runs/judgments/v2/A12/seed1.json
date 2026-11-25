@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The 'working hypothesis' hedgehog (dominant modern supermarket in a few dense regions, operating profit per store) matches the key's suggested core of larger stores and abandoning the small-store, price-cut formula, and it says the things it cannot be best at 'are the things it is currently trying to do' and diagnoses a doom loop, but it never states plainly that the company currently has no hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are chain-wide deep discounting, operating stores and regions it can't win, and paying out profit instead of rebuilding the store base, which is the key's decision, with closing sub-scale stores as item 4."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The top-ranked brutal fact is 'the store fleet can't support the strategy' (half the stores under 8,000 sq ft), followed by the self-inflicted price war and ~$51M loss, capital starvation, broken service, heavy labor costs and Rival L 'running the right playbook', with severity and consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 4 'grasping for salvation' with the specific mechanism of another chain-wide program or silver bullet, plus refusal to shrink, an eroding size lead and sale by default, each with concrete early-warning signs that fit the later program-to-program lurching, loss of the top position and eventual takeover."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, the −$13k per store figure is marked as derived, and the missing regional share, store-level profit and format-test data are flagged with low-to-moderate confidence; but 'debt-free balance sheet' is an unmarked inference from 'long avoided debt' and the 'Greatness potential: 8/100' figure is unexplained."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (turning capital into modern stores), the top three stop-doing items, the most urgent brutal fact, the missing numbers and a confidence level, so it can be acted on without reading further."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v2|A12|s1|judge",
+    "stage": "judge",
+    "case_id": "A12",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12738,
+    "tokens_out": 2183,
+    "cost_usd": 0.2516278,
+    "duration_s": 23.9,
+    "finished_at": 1795621343.069754,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2183,
+        "costUSD": 0.2516278
+      }
+    }
+  }
+}

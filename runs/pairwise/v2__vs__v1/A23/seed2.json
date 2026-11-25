@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both land on a bank/financial automation hedgehog, the stop-fighting-Rival-I call and all three key brutal facts, but Analysis 2 sits closer to the key by including accounting users and a profit-per-installed-account denominator. Analysis 2 also names the one-forceful-executive dependence more sharply (\"genius with a thousand helpers\", named successors, endurance beyond the EVP) and is more candid about the method's limits, though neither warns about cost cuts starving engineering and service.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v2",
+  "_meta": {
+    "job_id": "v2|A23|s2|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "A23",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18588,
+    "tokens_out": 1174,
+    "cost_usd": 0.344352,
+    "duration_s": 16.6,
+    "finished_at": 1795623321.496943,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1174,
+        "costUSD": 0.344352
+      }
+    }
+  }
+}

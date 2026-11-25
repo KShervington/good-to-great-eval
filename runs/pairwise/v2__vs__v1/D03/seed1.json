@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "2",
+  "D5": "tie",
+  "D7": "1",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2 puts off-platform leakage at the centre of its verdict, hedgehog and per-pairing denominator, which matches the key more closely than Analysis 1's per-county denominator and financing-math headline, and it adds a data-driven 'paid matchmaker' fallback. Analysis 1 is better calibrated on the missing fill-rate metric, calling its 18% decline figure a lower bound where Analysis 2 states an untagged ~82% fill rate, but both make the same core calls to decline financing, pause the new states and stop counting off-platform sharing as a win.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v2|D03|s1|pairwise|vs:v1",
+    "stage": "pairwise",
+    "case_id": "D03",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 21445,
+    "tokens_out": 1785,
+    "cost_usd": 0.414504,
+    "duration_s": 22.4,
+    "finished_at": 1795627586.1181853,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1785,
+        "costUSD": 0.414504
+      }
+    }
+  }
+}
