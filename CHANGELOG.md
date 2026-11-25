@@ -125,3 +125,14 @@ Every phase and every improvement round is logged here: what ran, scores, the ed
 - **Stopping rule triggered.** Round 1 gained +1.87, under 2.0. Round 2's CI includes 0. That is two rounds in a row. The dev loop ends with **v1 as the final candidate**.
   - Note for the report: E4 and E5 each fixed what they targeted, but the overall gain didn't clear noise on 26 clusters, so neither goes in under the rules.
 - Next: Phase 4, the held-out evaluation of v0 vs v1. It is 16 cases × 3 seeds, 240 calls (about $70: 96 runs, 96 judge calls, 48 pairwise), and needs the user's OK.
+
+## 2026-11-25: Final candidate v3 = v2 with E6 reverted (user decision, made before any held-out results)
+- The user asked whether v2, though rejected, should be kept. Points from the round-2 data:
+  - P(v2 > v1) is 0.93 by clustered bootstrap.
+  - E4's A24 fix is a deterministic gate check: 0/3 correct -> 3/3.
+  - E5's honesty gain is pairwise D7 69 vs 22 (sign test p < 1e-6).
+  - E6 missed its target: pairwise D5 favored v1 35 vs 29. It also accounts for v2's largest losses: A17 D5 4 -> 2 and 5 -> 2, A23 D5 5 -> 4 and 4 -> 3. The judge noted that v2 missed the decline mechanism the key expects. Leading with "the one or two most likely mechanisms" narrows the register and drops the expected one.
+- **User decision: drop E6 and send the result to the held-out evaluation without another dev round.** Removing E6 puts Gate 10 back to v1's wording, which round 1 tested. E4 and E5 keep the wording round 2 tested. The held-out run is the test of the combination.
+- This departs from the pre-set accept rule (v2's CI included 0). It is recorded here so the report states it plainly.
+- `skill_versions/v3/SKILL.md`: 2,766 words, +11.6% over v0 (v1 +8.4%, v2 +13.5%). Overfitting scan clean.
+- Phase 4 queued: v3 vs v0 on 16 held-out cases × 3 seeds (96 runs, 96 judge calls, 48 pairwise; about $70). Approved by the user.
