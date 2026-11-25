@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Analysis 1's hedgehog (expert selling plus the best-run store and distribution system, judged on profit per store with profit per region as the alternative, and a goal of beating Rival B) sits closer to the key's core-superstore flywheel, and it labels its derived figures and assumptions more carefully. Analysis 2 is sharper on the Stage 4 silver-bullet risks (mass cuts of experienced counselors, an outside savior, copying Rival B wholesale), but it narrows the core to a niche and uses profit per transaction, which moves away from the key.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|B01|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "B01",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 20445,
+    "tokens_out": 1940,
+    "cost_usd": 0.404704,
+    "duration_s": 25.7,
+    "finished_at": 1795588528.1979654,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1940,
+        "costUSD": 0.404704
+      }
+    }
+  }
+}

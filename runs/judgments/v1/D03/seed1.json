@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog ('a protected, nearby high-value machine in the week the weather opens, one dense county at a time') matches the key's time-critical high-value field, keeps repeats on-platform through value ('leave [masking] off and win rebooking on value'), and uses a per-county denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The stop-doing top three in the verdict are exactly the key's: decline input financing at the January board, drop the two-state spring launch, and stop reporting off-platform neighbor deals as a win."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical, is 'Repeat relationships leave the platform', citing 71% number swaps, 11% same-owner rebooking, masking off and Ostrander–Kemp, with the consequence stated as revenue leaving the platform; the 68%/12-county concentration is fact #4, though the verdict calls the financing math 'most urgent'."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names Stage 1 as 'community' persuading founders they have a moat (warning sign: leakage data waved off) and Stage 2 as 'live now: financing, two states and Pro', while the truth-climate note covers bad facts presented as wins; only its Stage 3 mechanism differs from the key."
+  },
+  "D7": {
+    "score": 3,
+    "why": "Most outside claims are tagged [ASSUMPTION] and the arithmetic checks out, but the missing fill rate is never requested and is instead proxied as 'about 18% of requests at minimum (1,140 ÷ 6,450)' without a tag; GMV per listed machine is labelled 'Utilization up 23%' and per-county net revenue is allocated by GMV share, both unmarked."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and actionable, with the hedgehog sentence, weakest link (repeat pairs leaving Ranvik), three stop-doing items, a most-urgent brutal fact and the numbers that would change the call."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|D03|s1|judge",
+    "stage": "judge",
+    "case_id": "D03",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15004,
+    "tokens_out": 2773,
+    "cost_usd": 0.3114838,
+    "duration_s": 30.3,
+    "finished_at": 1795589135.5882137,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2773,
+        "costUSD": 0.3114838
+      }
+    }
+  }
+}

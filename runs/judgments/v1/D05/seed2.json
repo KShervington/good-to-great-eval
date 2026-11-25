@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The analysis fails Gate 1 ('Not yet good'), states 'Hedgehog Concept: not drafted' as premature, and defines the path to good as stranger-circle retention plus a refill feature that runs without the founder's hands, matching the key."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict lists 'Hold until good: the employer pilot build list, a full Android app, and hiring', and the body says to park the employer build list and treat the 4.9 rating and 'I'd pay anything' as weak signals."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The top-ranked brutal facts are unproven retention beyond the founder's circle (7 of 41, one her own family), the hand-loaded single-pharmacy refill sync, 3 subscribers (~$21 MRR) and the aggregator dependency, with the ~17-month runway consequence stated."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The risk register names 'a new direction before the core works (early doom-loop)' with a fitting warning sign (roadmap time going to dashboard, SSO or concierge before M1), but the vanity-signals-as-traction denial mechanism is only partly covered and is absent from the register."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are tagged [ASSUMPTION], runway and MRR are computed from dossier figures, 7/41 is labelled share of circles rather than retention, non-network cohort retention is flagged as unmeasured and requested, and Graham's figures are marked unverified."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the Gate 1 fail, the hedgehog status, the weakest link, three hold items, the most urgent brutal fact and the missing numbers, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|D05|s2|judge",
+    "stage": "judge",
+    "case_id": "D05",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11035,
+    "tokens_out": 1820,
+    "cost_usd": 0.20985979999999999,
+    "duration_s": 21.2,
+    "finished_at": 1795589205.9426277,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1820,
+        "costUSD": 0.20985979999999999
+      }
+    }
+  }
+}

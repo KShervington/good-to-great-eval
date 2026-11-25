@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog narrows to modern large stores in a few dense regional markets and explicitly rules out the national footprint, chain-wide discounting and small-store formats, matching the key's suggested core; but it only implies (doom loop, 'retreat without a stated map') rather than plainly states that the company currently has no hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are stopping the chain-wide price war, stopping the high dividend payout, and exiting unwinnable markets and sub-8,000 sq ft stores, which is the key's decision almost item for item."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks as Critical the money-losing price war (~$51M loss), the obsolete store base and the dividend-starved stores, and also lists high labor costs, the service breakdown and Rival L adapting, with consequences stated (stock down 76%, tender offer)."
+  },
+  "D5": {
+    "score": 5,
+    "why": "It places the subject in Stage 4 'grasping for salvation' with program-to-program lurches, and flags Stage 5 as 'slow liquidation, or a sale after value has been destroyed' with the warning sign 'store count falls without new modern stores replacing them', which matches the closures, takeover and eventual liquidation."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked throughout, the missing data (regional share, store-level profit, large-format test results, the foundation's stake) is flagged, and the 10/100 score fits the evidence; but the verdict states 'the highest cost base in the industry' as fact and only marks it as an assumption later in the register."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening gives the hedgehog sentence, the weakest flywheel link (reinvestment capital), three stop-doing items, the most urgent brutal fact and the missing numbers, and is actionable; but with a long hedgehog sentence and the evidence note it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-retest|A12|s2|judge",
+    "stage": "judge",
+    "case_id": "A12",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14713,
+    "tokens_out": 1981,
+    "cost_usd": 0.314632,
+    "duration_s": 23.1,
+    "finished_at": 1795574811.804245,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1981,
+        "costUSD": 0.314632
+      }
+    }
+  }
+}

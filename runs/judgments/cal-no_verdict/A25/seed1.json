@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 2,
+    "why": "Hedgehog A is a 'focused communications-engineering company' with printing explicitly outside it and a candidate for separation; it shares only the communications element with the key, which joins printing and electronics, and the printing-plus-electronics idea survives only as contingent 'Hedgehog B'."
+  },
+  "D2": {
+    "score": 3,
+    "why": "'Stop acquiring' is item 1 and item 4 avoids head-on fights with conglomerates in terminals, but the list also starves printing of growth capital and reopens the headquarters location (item 7), both against the key, and succession that keeps the concept appears only as a bench-building item elsewhere."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks stalled earnings over about five years as #1 Critical, and lists integration overload (#3), government budget dependence (#4) and largely mechanical presses (#6) as High, each with evidence and an owner."
+  },
+  "D5": {
+    "score": 3,
+    "why": "Stage 4 names 'a large transformational merger or a new strategic theme' with the warning sign 'a sudden new identity announced', which is the right stage but generic; it never names a successor resetting direction, selling printing or moving headquarters, and the analysis itself leans toward the latter two."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged throughout, missing segment profit and return on capital are flagged as unknown, and the verdict is conditional; the one unmarked inference is calling the electronics head the 'founder' of the aerospace company, when the dossier says only that he was its president."
+  },
+  "D8": {
+    "score": 2,
+    "why": "The opening is a vision paragraph of 'the great version' that implies the hedgehog and denominator but gives no weakest flywheel link, no ranked top-three stop-doing items, no most urgent brutal fact and no missing numbers; those appear only in later sections."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-no_verdict|A25|s1|judge",
+    "stage": "judge",
+    "case_id": "A25",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12662,
+    "tokens_out": 2305,
+    "cost_usd": 0.2552918,
+    "duration_s": 26.3,
+    "finished_at": 1795575121.1825926,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2305,
+        "costUSD": 0.2552918
+      }
+    }
+  }
+}

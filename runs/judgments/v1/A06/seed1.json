@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It offers only a 'working hypothesis' hedgehog (regional-density big-ticket discounter, profit per market), says the current strategy 'runs opposite' to it and that there 'may be no real intersection', but never plainly states there is no hedgehog today and ignores the owner-driven strategy point."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Stop-doing #1 is the multi-store de novo blitz and #3 is parent-funded growth without proven unit economics, both in the opening verdict; price-as-strategy is softened to 'where Marlow can't reach scale' (#6), and strategy resets with each owner are only implied by the capital charter."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent fact in the verdict is price-only competition against a rival moving to superstores ('price without scale loses'), and the register also lists the non-retailer steel parent (High) and the founder's death and ownership change (#8)."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The decline register names 'Rival's superstores dismissed' and 'Parent stops funding, then sells or closes the subsidiary' with a 'strategic review' warning sign, but it does not single out repeated ownership changes plus staying in small formats as the central mechanism, and it rules out the superstore format for Marlow."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION], missing figures are marked 'Not in dossier', and stale baseline evidence is flagged; however Gates 7 and 9 are scored PASS on no dossier evidence, and the '8/100' score is unexplained."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (ad efficiency in new markets), three stop-doing items, the most urgent brutal fact and the missing numbers, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A06|s1|judge",
+    "stage": "judge",
+    "case_id": "A06",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11194,
+    "tokens_out": 2145,
+    "cost_usd": 0.2254038,
+    "duration_s": 24.7,
+    "finished_at": 1795584843.0791311,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2145,
+        "costUSD": 0.2254038
+      }
+    }
+  }
+}

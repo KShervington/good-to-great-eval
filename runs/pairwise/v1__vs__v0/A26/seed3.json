@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "1",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on the key's hedgehog (toys only, enduring classic and character brands, profit per brand-year, no electronics, pencils separated) and cover all four brutal facts plus the succession gap. Analysis 2 puts pruning the long tail directly in its stop-doing list and has a tighter, more actionable verdict, while Analysis 1 is slightly more cautious in its calibration.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|A26|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A26",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 21329,
+    "tokens_out": 1441,
+    "cost_usd": 0.39888799999999996,
+    "duration_s": 20.8,
+    "finished_at": 1795588453.4617949,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1441,
+        "costUSD": 0.39888799999999996
+      }
+    }
+  }
+}

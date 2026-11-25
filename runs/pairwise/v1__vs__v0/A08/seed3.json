@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both propose a focused home-lender hedgehog where the key says there was none, but Analysis 2 treats the diversification and size pull as a root problem, sets a firmer sell-or-wind-down call on the brokerage unit and on acquisitions for size, and flags the eventual absorption as an undifferentiated thrift. Analysis 1 is slightly better calibrated, spelling out how missing numbers would change the answer, but its 12-month prove-it-or-divest hedge and 'distraction, not design' reading are softer against the key.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|A08|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A08",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16431,
+    "tokens_out": 1487,
+    "cost_usd": 0.32236,
+    "duration_s": 22.2,
+    "finished_at": 1795585029.8524883,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1487,
+        "costUSD": 0.32236
+      }
+    }
+  }
+}

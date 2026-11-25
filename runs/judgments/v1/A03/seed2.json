@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog sentence is 'reliable, standardized products that make health care more cost-effective for hospitals and clinicians', measured by profit per employee, and it explicitly rules out the blockbuster discovery race and consumer brands, matching the key on field, sacrifice and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict's top three stop-doing items are exiting golf balls, gloves and creamer, stopping the blockbuster drug-discovery race, and stopping the spread of capital across five directions; the bus section adds a seat-by-seat review of weakened senior management."
+  },
+  "D3": {
+    "score": 4,
+    "why": "The register lists no breakthrough in sight with the antibiotic off patent (#3), the recall and the sweetener ban (#1, #4) and weakened management (#7), but ranks the recall deaths as most urgent, not the unwinnable research race, and leaves the hospital cost-control shift out of the register."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and its later history says 'No collapse', so there is no decline mechanism to grade against."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently marked and the missing division economics, market shares and total financials are flagged, but the 'Greatness potential: 32/100' score is unexplained and the claim that a new consumer push followed the sweetener ban is an unmarked inference."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (hospital trust in quality), three stop-doing items, the most urgent brutal fact and the missing numbers, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The key's track is A, not E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A03|s2|judge",
+    "stage": "judge",
+    "case_id": "A03",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12026,
+    "tokens_out": 1739,
+    "cost_usd": 0.2224758,
+    "duration_s": 21.4,
+    "finished_at": 1795584647.08361,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1739,
+        "costUSD": 0.2224758
+      }
+    }
+  }
+}

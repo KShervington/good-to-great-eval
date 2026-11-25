@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "2",
+  "D5": "2",
+  "D7": "1",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2 matches the key more closely: profit per set as the denominator, an explicit refusal to borrow for the color rank race, capital commitment to the old production model named as the top brutal fact, and a decline register that flags externalized blame and a panic price war. Analysis 1 is slightly better calibrated (Analysis 2 asserts an unsupported \"No. 2 in color\"), but its profit-per-dealer hedgehog and less specific decline warnings make it less useful to the leader.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|B08|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "B08",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18683,
+    "tokens_out": 1738,
+    "cost_usd": 0.368432,
+    "duration_s": 22.3,
+    "finished_at": 1795588795.2677715,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1738,
+        "costUSD": 0.368432
+      }
+    }
+  }
+}

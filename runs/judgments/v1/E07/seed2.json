@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is rigorous training and close coaching for struggling early readers, explicitly excluding math, apps and fast multi-state launches, with a compatible denominator of 'cost per additional child reaching benchmark'."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict and the top of the stop-doing list refuse the $40M grant on its current terms, the math pilot, ReadAlong and further training or coaching cuts, and restoring 30-hour training and filling the research director come before growth, with the core left intact."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical, is the new-school fall from 69% to 63% to 58% against mature schools flat at 74%, and the cut mechanisms (#2, #3) and dismantled measurement (#4) are also listed with consequences."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names Stage 1 hubris ('cracked the code') and Stage 2 undisciplined growth (five states, math, ReadAlong, reach goal) specifically, with fitting warning signs and a trip wire on a first district non-renewal or a weak replication effect."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Derived figures such as cost per additional reader are arithmetically correct from the dossier and assumptions are tagged, with missing data (module completion, results by coach load) flagged; the unexplained '72/100' score is the only minor blemish."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (training and coaching), three temptations to refuse, the most urgent brutal fact and the missing numbers."
+  },
+  "D9": {
+    "score": 4,
+    "why": "It plainly says 'already great' with evidence, confirms the existing hedgehog and gives subject-specific warnings, but the list is not short: eight stop-doing items, a new Chief Program Officer seat, a board quality committee, a new 20-year BHAG and a video-coaching 'pioneer opportunity'."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|E07|s2|judge",
+    "stage": "judge",
+    "case_id": "E07",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15021,
+    "tokens_out": 2068,
+    "cost_usd": 0.2835558,
+    "duration_s": 25.4,
+    "finished_at": 1795589880.7297382,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2068,
+        "costUSD": 0.2835558
+      }
+    }
+  }
+}

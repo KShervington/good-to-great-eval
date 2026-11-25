@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "tie",
+  "D3": "1",
+  "D5": "1",
+  "D7": "tie",
+  "D8": "2",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both land on the same bank and financial automation hedgehog and both say to stop fighting Rival I across the whole computer market, but Analysis 1 covers accounting users, lists the narrow, accounting-machine-dependent product line as a brutal fact, and explicitly warns that the company could drift when the single strong leader departs with no successor ready. Analysis 2 has the tighter one-screen verdict, but it is weaker on the leader-dependence decline mechanism and misses the narrow-line fact.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|A23|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A23",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18928,
+    "tokens_out": 1326,
+    "cost_usd": 0.35587199999999997,
+    "duration_s": 17.0,
+    "finished_at": 1795585609.477708,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1326,
+        "costUSD": 0.35587199999999997
+      }
+    }
+  }
+}

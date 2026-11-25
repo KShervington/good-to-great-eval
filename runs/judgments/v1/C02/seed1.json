@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 3,
+    "why": "The analysis centers its hedgehog on the stapling franchise ('turns surgeons from sutures to stapling... earns on every stapled procedure') and excludes non-stapling instruments, but it never says the company lacks a disciplined, bounded growth march and sets a maximal BHAG instead of a floor and ceiling."
+  },
+  "D2": {
+    "score": 3,
+    "why": "Curbing the high-pressure commission culture is only partly present and softened ('pay on cartridges consumed', 'stop firing new reps', 'commission-only churn model off the bus'), with no call to cap growth, and the list doubles down on single-technology dependence rather than reducing it."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks as Critical and most urgent that 'a large suture maker could enter with existing surgeon relationships', and also lists one-technology dependence, bought-but-not-used staplers, and the high-pressure commission-only culture, each with consequences."
+  },
+  "D5": {
+    "score": 5,
+    "why": "It names the actual mechanisms specifically: large suture-maker entry, and 'channel-stuffing risk' and 'revenue being pulled forward' under commission pressure, with fitting warning signs ('rising returns or channel inventory; aging receivables') and a missing CFO with independent controls."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently marked [ASSUMPTION] and missing profit, patent, usage and retention data are flagged, but 'Greatness potential: 25/100' is an unsupported figure and a 'VP Sales' is assumed to exist without being marked."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen compactly gives the hedgehog sentence, the weakest flywheel link (trained surgeon becoming a routine user), three stop-doing items, the most urgent brutal fact (unchecked moat) and the missing numbers, and can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track C, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|C02|s1|judge",
+    "stage": "judge",
+    "case_id": "C02",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11515,
+    "tokens_out": 2325,
+    "cost_usd": 0.2377398,
+    "duration_s": 25.6,
+    "finished_at": 1795588937.9062736,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2325,
+        "costUSD": 0.2377398
+      }
+    }
+  }
+}

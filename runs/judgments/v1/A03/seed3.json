@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('reliable, hard-to-copy products that make hospital and clinical care better and cheaper: IV therapy, clinical nutrition and diagnostics') matches the key's field and explicitly gives up blockbuster discovery and consumer brands, but its primary denominator is profit per hospital account, with the key's profit per employee only a 'secondary check'."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict's top three stop-doing items are exiting the consumer products (golf balls, gloves, creamer, sweetener) and 'Racing Rival U for blockbuster drugs', and the bus section adds a seat-by-seat review of weakened senior management."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the IV recall as Critical with its consequence stated ('no hospital strategy can work'), and also lists the lack of any research breakthrough with the antibiotic off-patent, the sweetener ban and weakened management; the hospital cost-control shift appears only outside the register."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and its later history says 'No collapse'; for the record, the analysis's warning about treating quality as 'fixed' and waiving audit findings does fit the 1999 FDA fine over diagnostic-kit quality."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Dossier figures are used accurately, assumptions are mostly tagged and the missing divisional economics are flagged prominently, but the 'Greatness potential: 58/100' score is unsupported and a few inferences are unmarked (Rival U as 'the research leader', 'no succession plan', the consumer group built to 'replace the sweetener')."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen concisely gives the verdict, the hedgehog sentence, the weakest flywheel link (hospital trust), the top three stop-doing items, the most urgent brutal fact and the missing numbers, and could be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A03|s3|judge",
+    "stage": "judge",
+    "case_id": "A03",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11706,
+    "tokens_out": 2277,
+    "cost_usd": 0.23887579999999997,
+    "duration_s": 25.0,
+    "finished_at": 1795584660.051363,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2277,
+        "costUSD": 0.23887579999999997
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "tie",
+  "D8": "2",
+  "D9": "2",
+  "overall": "2",
+  "why": "Both analyses land on the key's hedgehog, brutal facts and the refuse-the-merger/PBM-and-fix-quality decision, but Analysis 2 explicitly recognises Marbury as already great and frames its advice as stewardship and temptations to refuse, with a tighter one-screen verdict. Analysis 1 is slightly sharper on the streak-masking warning sign (EPS outpacing net earnings) but treats the company as merely good and prescribes more restructuring than the restraint the key calls for.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|E03|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "E03",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18104,
+    "tokens_out": 1388,
+    "cost_usd": 0.34516800000000003,
+    "duration_s": 21.0,
+    "finished_at": 1795589726.3037486,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1388,
+        "costUSD": 0.34516800000000003
+      }
+    }
+  }
+}

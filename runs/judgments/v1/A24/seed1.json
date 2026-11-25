@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 3,
+    "why": "It says plainly 'Hedgehog Concept: none yet' and gestures at a 'smaller and narrower', 'compact-led lineup' with break-even data needed, but it declines to commit to any segment focus or denominator and never ties the absence to dependence on a celebrity leader."
+  },
+  "D2": {
+    "score": 3,
+    "why": "'Stop building to plant capacity' is item 1 and 'publicity' or a 'celebrity launch' as the rescue is item 2, but the celebrity-distraction decision is only implied, succession appears only as a carry-forward note, and non-core diversification is absent."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks possible closure by year-end, closed private capital and accelerating losses as Critical at the top, and also lists highest inventory, repeated product-mix misses, poor quality and compacts a year away, with the consequence stated in the verdict."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The risk register names 'salvation through publicity: the CEO's selling strength stands in for operating repair' with the warning sign of CEO time going to media, which fits the celebrity mechanism, but overstaying, failure to build a successor and diversification are not flagged as decline risks."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Non-dossier figures (60-day supply target, break-even timing) are tagged [ASSUMPTION], all four missing data items are flagged as answer-changing, the 4.6% defense share is correctly derived, and the Gate 1 fail matches the evidence; 'a year late' for the compacts is a minor characterization."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict fits one screen and gives the top three stop items, the most urgent brutal fact and the missing numbers, but the hedgehog and weakest-link parts are refusals ('none yet', 'there is no flywheel') rather than actionable statements."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A24|s1|judge",
+    "stage": "judge",
+    "case_id": "A24",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 10281,
+    "tokens_out": 2503,
+    "cost_usd": 0.22511579999999998,
+    "duration_s": 31.7,
+    "finished_at": 1795585641.3644764,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2503,
+        "costUSD": 0.22511579999999998
+      }
+    }
+  }
+}

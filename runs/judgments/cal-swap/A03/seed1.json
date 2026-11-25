@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 1,
+    "why": "The analysis is about a different entity ('Keystone Mortgage Association') and its hedgehog is 'pricing, managing and passing on the risks of residential mortgages', which has nothing in common with the key's cost-effective hospital, nutritional and diagnostic products or profit per employee."
+  },
+  "D2": {
+    "score": 2,
+    "why": "The stop-doing list ('stop funding long fixed-rate mortgages with shorter-term debt', 'stop measuring success by purchase volume') never mentions exiting the blockbuster-drug race or consumer diversification, though nothing on it argues the opposite."
+  },
+  "D3": {
+    "score": 1,
+    "why": "The brutal-facts register covers a money-losing carry model, unknown solvency and unmeasured credit risk; none of the key's facts (no major drug in sight, the sweetener ban and recall exposing management, hospitals moving to cost control) appear."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and its later history records no collapse, so there is no decline mechanism to grade against."
+  },
+  "D7": {
+    "score": 1,
+    "why": "Nearly every factual claim is absent from the Brennard dossier ('losing about $1M a day', '$10B of loans sold', Treasury backstop, 'Rival G', presidential appointees), so measured against the only evidence provided the analysis is fabricated throughout and its verdict does not match the evidence."
+  },
+  "D8": {
+    "score": 2,
+    "why": "The opening verdict is structurally complete (hedgehog sentence, weakest link, three stop-doing items, urgent brutal fact, missing numbers) but concerns a mortgage company, so no one could act on it for the dossier's subject."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-swap|A03|s1|judge",
+    "stage": "judge",
+    "case_id": "A03",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12730,
+    "tokens_out": 1585,
+    "cost_usd": 0.2275798,
+    "duration_s": 19.4,
+    "finished_at": 1795574954.7709677,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1585,
+        "costUSD": 0.2275798
+      }
+    }
+  }
+}

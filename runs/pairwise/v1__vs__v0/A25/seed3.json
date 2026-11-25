@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses centre the hedgehog on communications electronics and demote printing, but Analysis 2 keeps electronic printing and composition as an explicit bridge, limits future deals to bolt-ons inside the concept, and admits the hedgehog may flip if printing proves the higher-return business. Analysis 1 miscounts the deals (\"five in about six years\") and more firmly pushes divesting or harvesting printing lines and moving headquarters, which are the moves the key warns against.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|A25|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A25",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18037,
+    "tokens_out": 1626,
+    "cost_usd": 0.353616,
+    "duration_s": 21.8,
+    "finished_at": 1795588383.8794475,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1626,
+        "costUSD": 0.353616
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "2",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Analysis 1 commits to a narrow front-drive, shared-platform hedgehog with a per-vehicle/per-platform profit denominator and break-even guardrail, and it flags the celebrity-savior CEO, succession gap and undisciplined-acquisition risks that the key identifies. Analysis 2 is more cautious and slightly better calibrated, but by stopping at Gate 1 it offers no hedgehog and a thinner treatment of the leader-dependence and succession risks.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|A24|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A24",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16462,
+    "tokens_out": 1243,
+    "cost_usd": 0.313096,
+    "duration_s": 16.8,
+    "finished_at": 1795585658.2625678,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1243,
+        "costUSD": 0.313096
+      }
+    }
+  }
+}

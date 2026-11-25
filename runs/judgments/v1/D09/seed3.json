@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'Corbridge's same-day cold chain' for perishables, with the denominator 'per pound of perishable food actually used by recipients' and upstream donor diversification, and it explicitly rules out the café, composting, backpacks and bread volume."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict and the stop-doing list lead with declining the café as a Larder Line program (including the $150K grant), then no third van now, then ending composting, backpacks and gleaning."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical and repeated in the verdict, combines the Eastside 412→263 (−36%) drop against flat other stores (398→391), the chainwide rollout and Freshway's 44% share, with the consequence quantified and Route 9 treated as an untested rival explanation."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names Stage 2 undisciplined pursuit (café, van and three programs at once) and Stage 3 denial, with the specific warning sign 'road reopens and Eastside yields stay near 263 lbs per pickup'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "The missing used-pounds and household metrics are flagged rather than guessed, with no meals conversion, and the exposure estimate and targets are marked [ASSUMPTION]; but the ~$206k reserves figure and 'about a third of reserves' are unmarked inferences, and 'funders now ask for outcomes' generalises from one county form."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (proof), three stop-doing items, the most urgent brutal fact with numbers, and the missing numbers, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track D, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|D09|s3|judge",
+    "stage": "judge",
+    "case_id": "D09",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16112,
+    "tokens_out": 1818,
+    "cost_usd": 0.2910118,
+    "duration_s": 21.9,
+    "finished_at": 1795589354.3776064,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1818,
+        "costUSD": 0.2910118
+      }
+    }
+  }
+}

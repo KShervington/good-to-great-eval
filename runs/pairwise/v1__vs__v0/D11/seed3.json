@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "1",
+  "D8": "2",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both surface the buried 90-day fade, the biased comparator and the Hospital at Home distraction, and both label their cost-per-avoided-readmission figures as naive; Analysis 2 has the tighter verdict and the per-enrolled-patient denominator that matches the key. Analysis 1 is better calibrated on the leader (CONDITIONAL with the promotion conflict named, where Analysis 2 passes her), puts the day-30 penalty-clock design in its top three stop-doing items, and anticipates the accreditation/finance exposure, so it is the one I would hand to the leader.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|D11|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D11",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 23192,
+    "tokens_out": 1813,
+    "cost_usd": 0.44357599999999997,
+    "duration_s": 22.2,
+    "finished_at": 1795589534.0362217,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1813,
+        "costUSD": 0.44357599999999997
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'products that make health care cheaper and better to deliver (diagnostics, nutrition, hospital products and focused drugs)... judged by profit per employee', and it explicitly excludes broad branded drugs, PBMs and scale mergers, matching the key on field, give-up and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three temptations to refuse, in both the verdict and the stop-doing list, are buying a PBM, merging for scale and the branded R&D arms race, with the diagnostics quality fix framed as preservation and the core left intact."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Unresolved regulator quality concerns at the diagnostics plants are ranked #1 and Critical, with the consequence tied to the IV-recall precedent and regulatory action crippling the franchise; pricing pressure, consolidation and sub-scale branded drugs are also listed."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key's decline_risks_expected is empty and later_history states there was no How-the-Mighty-Fall-style decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "All computed figures (profit per employee of $30,700, segment margins, growth rates, payout) follow from dossier data, assumptions are tagged and missing data is flagged, but a few inferences are unmarked (no succession bench, missing health-economics capability) and the 62/100 'greatness potential' sits oddly with the 'already great' verdict."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (manufacturing quality), three temptations to refuse, the most urgent brutal fact and the missing numbers, so it is actionable on its own."
+  },
+  "D9": {
+    "score": 4,
+    "why": "It states 'Marbury is already great. Steward it; don't reinvent it', confirms the existing hedgehog and gives specific warnings (unresolved quality findings, deals framed around scale), but adds a few changes the dossier does not clearly justify (health-economics capability, cutting assumed branded programs, a new BHAG) and hedges with a 62/100 score and a conditional Gate 1."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|E03|s3|judge",
+    "stage": "judge",
+    "case_id": "E03",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12258,
+    "tokens_out": 2428,
+    "cost_usd": 0.25374779999999997,
+    "duration_s": 26.9,
+    "finished_at": 1795589705.152501,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2428,
+        "costUSD": 0.25374779999999997
+      }
+    }
+  }
+}

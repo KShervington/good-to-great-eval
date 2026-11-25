@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('best in the world at standardizing, pricing and guaranteeing the credit risk of sustainable American home loans', paid 'per dollar of credit risk' after a capital charge, driven by home ownership) matches the key's risk-based denominator, passion and rejection of EPS/portfolio growth, but narrows the field to the credit guarantee and explicitly rules out the broader mortgage capital-markets and rate-risk role the key names."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are exactly the key's temptations: drop the EPS-doubling goal and EPS-linked pay, stop using the retained portfolio as the growth engine, and stop leading with 'operating earnings'; item 5 adds 'stop running capital near the legal minimum'."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All four key facts are in the register (capital 3.2% and $0.9B above minimum ranked Critical as #1, the -14-month duration gap and supervisory action, the ~15% target outrunning the market with pay tied to it, and dependence on implied backing), with the consequence stated ('a loss of about 0.1% of assets would erase the cushion')."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names the actual mechanisms by stage with fitting warning signs: the EPS pledge and portfolio growth, 'well hedged' claims and explaining away regulator findings, unverified amortization and hedge accounting, 'buying riskier loans or securities' if growth stalls, and 'losses on thin capital force government intervention'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures (31.6x leverage, ~17%/~18% growth, the $1.77B gap) check out against the dossier, assumptions are tagged and the key gaps (accounting policies, credit profile, fair value, guarantee economics) are flagged, but the claim that earnings are 'mostly balance-sheet expansion' earned 'mainly on the funding subsidy' is stated as fact and the '15/100' score has no stated basis."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has every required part (hedgehog sentence, weakest link, top three stop-doing, most urgent brutal fact, missing numbers) and is actionable, but with the greatness score, rationale and run notes it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": 2,
+    "why": "It never says the subject is already great ('Greatness potential: 15/100', current wheel 'closer to a doom loop') and prescribes a narrowed hedgehog, shrinking the portfolio to a 'liquidity-support role', a CFO split, four new seats and nine stop-doing items, though its warning signs are specific to this subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|B02|s1|judge",
+    "stage": "judge",
+    "case_id": "B02",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15342,
+    "tokens_out": 3446,
+    "cost_usd": 0.3444596,
+    "duration_s": 37.6,
+    "finished_at": 1795495010.2795749,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 3446,
+        "costUSD": 0.3444596
+      }
+    }
+  }
+}

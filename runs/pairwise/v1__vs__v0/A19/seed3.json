@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both land on the key's hedgehog (most convenient drugstores, profit per customer visit) and the same brutal facts, but Analysis 2 ties it more explicitly to dense clusters on the best corners and a pharmacy-centred format. Analysis 2 also commits harder to the key's stop-doing decision, with planned divestment of the free-standing restaurants, a timed sale of the discount stores and a firm phase-out of the lunch counters, where Analysis 1 mostly pauses and reviews.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|A19|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A19",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17077,
+    "tokens_out": 1586,
+    "cost_usd": 0.336656,
+    "duration_s": 20.0,
+    "finished_at": 1795585343.844561,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1586,
+        "costUSD": 0.336656
+      }
+    }
+  }
+}

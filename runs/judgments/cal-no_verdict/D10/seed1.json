@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is safe, fast, reversible deploys 'including changes to regulated, money-moving services', with the denominator 'Tier-1 services on Runway with drilled sub-5-minute rollback' and raw service count, Atlas and starters explicitly ruled out, which matches the key's risk-weighted critical-service focus."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing #1 is 'Don't take ownership of Atlas this year', #3 drops the '80% of services' headline goal, and #4 freezes new starters and template work until rollback ships, so all the key's decisions are explicit and near the top."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal facts #1 to #3, all rated High, cover 5 of 6 incidents on legacy including both Sev-1s and mostly Payments, the rollback epic carried over three quarters behind visible work, and Payments' unmet stated conditions; fact #4 adds that the service-count goal points at the wrong thing."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names both expected mechanisms specifically: denial and hubris ('celebrates count metrics while the Tier-1 number stays flat', 'not our services, not our budget') and undisciplined more ('Atlas, more starters, more templates'), each with a fitting early warning."
+  },
+  "D7": {
+    "score": 4,
+    "why": "It flags the missing per-pipeline safety metric (fact #6: legacy not instrumented, deploy split unknown, small sample) without computing a failure rate and marks most assumptions, but a few inferences are unmarked, such as calling all six incidents 'deploy-caused', 'about 30 were retired' and the portal being a 'commodity category'."
+  },
+  "D8": {
+    "score": 2,
+    "why": "The analysis opens with a 'great version' vision paragraph and then the hedgehog table rather than a verdict; the weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers only appear in later sections."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E case."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-no_verdict|D10|s1|judge",
+    "stage": "judge",
+    "case_id": "D10",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14922,
+    "tokens_out": 2583,
+    "cost_usd": 0.3025718,
+    "duration_s": 28.2,
+    "finished_at": 1795575100.245593,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2583,
+        "costUSD": 0.3025718
+      }
+    }
+  }
+}

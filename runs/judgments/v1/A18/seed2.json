@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's suggested core ('best in the world at equipping the short-run printer (the quick-print shop and the in-plant print room)') and rules out the electronic office, but only implies the current portfolio lacks a hedgehog ('five lines and 27 subsidiaries suggest it has already happened') and leaves credit-card embossing open as a possible alternative core."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1, in both the verdict and the full list, is 'Stop pursuing leadership in electronic office technology against much larger firms', followed by harvesting addressing, selling engineering graphics and consolidating the 27 subsidiaries."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register lists all three key facts: plain-paper copying replacing duplicating (ranked Critical and named most urgent in the verdict), computers displacing plate addressing, and growth stalled since the late 1960s, with consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "It names the actual mechanism specifically: 'a celebrity outsider may be brought in to transform the company' and Stage 4 'electronic-office leap, big acquisition, savior CEO', with the warning sign '\"Transformational\" announcement with no line-level numbers'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently tagged, missing line-level financials, share and leadership data are flagged, and the scorecard shows 'Unknown' instead of invented values; however, the dealer and service network is asserted as an owned asset without dossier support, and the '14/100' greatness score is unexplained."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (cost-per-page edge on short runs), the top three stop-doing items, the most urgent brutal fact and the numbers that would change the answer."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A18|s2|judge",
+    "stage": "judge",
+    "case_id": "A18",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 10979,
+    "tokens_out": 1654,
+    "cost_usd": 0.2023238,
+    "duration_s": 19.1,
+    "finished_at": 1795585240.27831,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1654,
+        "costUSD": 0.2023238
+      }
+    }
+  }
+}

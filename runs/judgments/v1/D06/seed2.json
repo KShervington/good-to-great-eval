@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the sonographer adults born with heart defects get sent to: scanning them, writing the protocols, teaching others, and being paid for depth rather than volume', with denominator 'income per sustainable scanning hour', which matches the key's core, trade-off and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "'Don't take the 13-week travel contract' is stop-doing item 1 in both the verdict and the list, followed by voluntary overtime at item 2 and re-enrolling in disability cover at item 4; the only divergence is a firm 'no' to lab lead where the key says reconsider."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The verdict's most urgent brutal fact is 'her income runs on one injured shoulder. Her daily scan volume rose about 45% this year, and she dropped her disability cover', and register rows 1 and 2 are both rated Critical with the thin savings and variable partner income spelled out."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Decline 3 names denial of the shoulder risk with fitting warnings ('more cushions, more painkillers, no assessment') and clears only with 'assessment done; cover in place'; the travel-pay lure is flagged under Decline 4 and the doom-loop check with a specific trigger and a pre-agreed rule."
+  },
+  "D7": {
+    "score": 5,
+    "why": "The university pay band is flagged as a missing number and never guessed, derived figures are either straight dossier arithmetic or tagged [ASSUMPTION], and the hedgehog is held as a working hypothesis pending pay and the shoulder assessment; the unexplained '46/100' score is the only loose item."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (specialist skill into specialist pay), the top three stop-doing items, the most urgent brutal fact and three missing numbers, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track D, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|D06|s2|judge",
+    "stage": "judge",
+    "case_id": "D06",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13368,
+    "tokens_out": 1674,
+    "cost_usd": 0.2413478,
+    "duration_s": 20.6,
+    "finished_at": 1795589275.5379922,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1674,
+        "costUSD": 0.2413478
+      }
+    }
+  }
+}

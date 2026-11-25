@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on the key's toys-only, enduring-brands hedgehog, with pencil separation, no electronic games, line pruning and all four brutal facts. Analysis 2 matches the key's \"profit per enduring brand\" denominator almost word for word, flags its assumptions and thresholds more carefully, and does slightly more to make the company outlast its chief executive (brand plans owned by teams, endurance beyond the son).",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|A26|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A26",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17899,
+    "tokens_out": 1288,
+    "cost_usd": 0.337888,
+    "duration_s": 19.6,
+    "finished_at": 1795588448.3398993,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1288,
+        "costUSD": 0.337888
+      }
+    }
+  }
+}

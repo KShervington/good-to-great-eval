@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "tie",
+  "why": "Both analyses lead with the off-platform leakage (11% vs 71%, masking removed), decline input financing, pause the two-state launch and stop counting off-platform relationships as wins, so they are hard to separate on substance. Analysis 2's per-county denominator and repeat-pairs-stay-on-platform framing match the key's hedgehog more closely, while Analysis 1 is better calibrated: it tags the 82% fill-rate proxy as an assumption, whereas Analysis 2 labels GMV per listed machine as 'utilization' without a tag.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|D03|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D03",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 21839,
+    "tokens_out": 2267,
+    "cost_usd": 0.440088,
+    "duration_s": 25.0,
+    "finished_at": 1795589165.0121787,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2267,
+        "costUSD": 0.440088
+      }
+    }
+  }
+}

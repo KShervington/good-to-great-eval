@@ -5,16 +5,16 @@
   "seed": 3,
   "model": "claude-fable-5-2",
   "effort": "high",
-  "tokens_in": 14890,
-  "tokens_out": 2747,
-  "cost_usd": 0.3092676,
-  "duration_s": 30.6,
-  "finished_at": 1795496001.1712122,
+  "tokens_in": 14936,
+  "tokens_out": 2092,
+  "cost_usd": 0.2831558,
+  "duration_s": 23.7,
+  "finished_at": 1795575512.456437,
   "models_used": {
     "claude-fable-5-2": {
       "inputTokens": 2,
-      "outputTokens": 2747,
-      "costUSD": 0.3092676
+      "outputTokens": 2092,
+      "costUSD": 0.2831558
     }
   }
 }

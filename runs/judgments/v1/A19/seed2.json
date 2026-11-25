@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the most convenient neighborhood drugstores in the markets we choose to dominate, run on profit per customer visit', with dense clustering and 'a drugstore company and nothing else', which matches the key's field, exclusions and denominator."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Restaurants and discount stores are stop-doing items 1 and 2, but softened: 'stop growing restaurants / freeze the 22 units' and 'explore exiting' discount stores, with full exit stated only in the great-version paragraph and in-store lunch counters left on a keep-if-profitable test."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1, rated Critical and repeated in the verdict, is 'growth isn't compounding into profit' (sales doubled, EPS flat, margin down from 2.2% to about 1.5%); capital spread across 5+ businesses and the weak discount stores are also listed as High."
+  },
+  "D5": {
+    "score": 3,
+    "why": "The five-stage register names 'undisciplined pursuit of more' and 'grasping for salvation' through acquisitions or non-drugstore deals, which is the right stage for the later mega-merger and non-core ventures, but the mechanism is generic and tied to near-term rivals."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences such as the LIFO-adjusted margin and division sales are marked [ASSUMPTION] and the missing division and per-visit data are flagged, but the 'Greatness potential: 42/100' score is unsupported and the estimated ~$1.25M per drugstore sits slightly below the dossier's 'over $1.3M'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link (visits to profit), three stop-doing items, the most urgent brutal fact and the missing numbers, compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A19|s2|judge",
+    "stage": "judge",
+    "case_id": "A19",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12513,
+    "tokens_out": 2394,
+    "cost_usd": 0.2564678,
+    "duration_s": 26.7,
+    "finished_at": 1795585301.5983708,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2394,
+        "costUSD": 0.2564678
+      }
+    }
+  }
+}

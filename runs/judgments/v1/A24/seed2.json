@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It says plainly 'Hedgehog Concept: none set yet', rules out full-line competition against Rival G in favour of a narrow domain and funding the front-wheel-drive platform first, but only lists candidate denominators (profit per platform, vehicle or dealer) without choosing one and does not tie the missing hedgehog to dependence on a celebrity leader."
+  },
+  "D2": {
+    "score": 3,
+    "why": "'Stop building to inventory' is item 1 and 'stop treating publicity and one aid request as the plan' touches the celebrity issue, but leader-celebrity distraction and succession appear only as risk and bus notes, and non-core diversification is absent from the stop-doing list."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'may close by year-end without aid; no private financing' as Critical and first, and also lists accelerating losses, the highest inventory, the product mismatch until fall of Year 1 and the quality damage, with consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names 'Stage 1, hubris after a rescue' with the warning signs 'early wins credited to the leader' and 'publicity rising faster than profits', plus CEO time going to sales and media and no named succession leaders, which is the mechanism that actually occurred."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions such as the 60-day inventory target are marked and all the missing data (cash and debt, break-even, line profitability, Q3) is flagged, but there are a few unmarked inferences: 'the board stands behind him', discounting and rushed programs in the doom loop, and an unexplained 'Greatness potential: 6/100'."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict is compact and gives the weakest link, top three stop-doing items, most urgent brutal fact and missing numbers, but the hedgehog part is only 'none set yet' with no direction offered."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A24|s2|judge",
+    "stage": "judge",
+    "case_id": "A24",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11583,
+    "tokens_out": 2278,
+    "cost_usd": 0.2369478,
+    "duration_s": 27.2,
+    "finished_at": 1795585637.396689,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2278,
+        "costUSD": 0.2369478
+      }
+    }
+  }
+}

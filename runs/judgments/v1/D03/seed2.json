@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the fastest, safest way for a farmer to use a neighbor's machine (the first time and every time after)', with the best-at circle set to fast first matches on high-value machines in a critical window, repeat kept on-platform by value rather than masking, financing excluded, and a leakage-sensitive denominator (net revenue per listed machine per season) compatible with the key's per-owner/per-county one."
+  },
+  "D2": {
+    "score": 5,
+    "why": "'Don't launch input financing this January' is stop #1 and the two-state launch is #2, both in the one-screen verdict; 'stop reporting relationship stories as proof of health without the matching leakage number' is #4."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Register fact #1, rated Critical, is 'Ranvik's best relationships leave the platform', citing 71% number-swapping, 11% same-owner rebooking, the May unmasking and the Ostrander/Kemp story, with the consequence that first-match-only economics are capped; the 68%/12-county concentration is fact #4. The opening verdict does name the financing engineering cost as 'most urgent' instead."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names Stage 1 ('community treated as a moat', updates leading with stories instead of cohort numbers), Stage 2 (financing, two states and Pro in one season) and Stage 3 (leakage missing from the board pack), each with a specific warning sign matching the key."
+  },
+  "D7": {
+    "score": 3,
+    "why": "Most derived figures are traceable and assumptions are tagged, but the key's missing metric was computed rather than flagged: 'a fill rate of about 82%' and 'About 18% of booking requests are declined' are stated untagged and used as the scorecard baseline, 'bookings per machine 2.73' appears, search/request fill rate is not among the missing numbers, and 'Greatness potential: 17/100' is unexplained."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest link (repeat rentals, 71% vs 11%), three concrete stops, a most-urgent brutal fact and four missing numbers, compactly enough to act on without reading further."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|D03|s2|judge",
+    "stage": "judge",
+    "case_id": "D03",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15427,
+    "tokens_out": 2306,
+    "cost_usd": 0.2995718,
+    "duration_s": 26.4,
+    "finished_at": 1795589139.903959,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2306,
+        "costUSD": 0.2995718
+      }
+    }
+  }
+}

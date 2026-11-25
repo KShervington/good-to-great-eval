@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "1",
+  "D5": "tie",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses reach nearly the same hedgehog, stop-doing list and decline risks, but Analysis 1 makes off-platform leakage the single most urgent brutal fact, while Analysis 2 leads its verdict with the financing/runway issue and softens leakage to 'partly'. Analysis 1 is also better calibrated: it tags the 82% fill rate's underlying assumption once, whereas Analysis 2 states 82% untagged and cites bookings-per-machine as 'rising utilization'.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|D03|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D03",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 20899,
+    "tokens_out": 1563,
+    "cost_usd": 0.39688799999999996,
+    "duration_s": 19.2,
+    "finished_at": 1795589184.5811663,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1563,
+        "costUSD": 0.39688799999999996
+      }
+    }
+  }
+}

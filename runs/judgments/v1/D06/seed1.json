@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the go-to sonographer for adults born with heart defects, and the one who teaches others to scan them, paid for expertise per study, not for volume', with pay per study under a studies ceiling as the denominator and travel, overtime and volume given up, which matches the key on all three points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items, repeated in the verdict, are going without disability insurance, the high-volume travel contract and voluntary overtime, which are exactly the key's three points; the travel item is worded 'not now, not never' but is still a clear decline."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal facts 1 and 2, both rated Critical, link the injured scanning shoulder, the roughly 50% volume rise, the dropped disability cover, the two-month emergency fund and the variable-income partner, and the verdict names this as the most urgent fact with its consequence."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 3 denial ('Uninsured, shoulder unassessed', warning sign: the re-enrollment deadline passes) and Stage 2 undisciplined pursuit of more (overtime plus a contract), and adds back-to-back travel contracts as a money grab, each with a specific early warning sign."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Derived figures carry [ASSUMPTION] tags (8-hour shift, university studies per day, biweekly pay), the university's pay is stated as unknown and listed among the numbers to obtain, and the Hedgehog gate stays CONDITIONAL because the engine is unproven; the only untagged inference is the hedged 'autumn is often open enrollment'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog, the weakest flywheel link (reputation not yet turning into a paid congenital role), the top three stop-doing items, the most urgent brutal fact and the missing numbers, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|D06|s1|judge",
+    "stage": "judge",
+    "case_id": "D06",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13833,
+    "tokens_out": 2354,
+    "cost_usd": 0.2759878,
+    "duration_s": 28.3,
+    "finished_at": 1795589279.707093,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2354,
+        "costUSD": 0.2759878
+      }
+    }
+  }
+}

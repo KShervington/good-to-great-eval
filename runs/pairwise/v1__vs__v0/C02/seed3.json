@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses build a similar stapling-plus-training hedgehog and surface all the key brutal facts, but neither sets the bounded growth march the key calls for. Analysis 2 comes closer to the key's decline mechanism by warning against booking success on channel shipments and placement-pushing to hit growth, and its verdict is tighter.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|C02|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "C02",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15820,
+    "tokens_out": 1348,
+    "cost_usd": 0.30702399999999996,
+    "duration_s": 19.4,
+    "finished_at": 1795588996.8334658,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1348,
+        "costUSD": 0.30702399999999996
+      }
+    }
+  }
+}

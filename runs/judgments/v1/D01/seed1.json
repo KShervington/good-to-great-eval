@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog 'distributor-neutral ordering brain for independent vet clinics' matches the key's inventory core for independents, explicitly rules out chains, dental and reminder work, and uses a per-clinic denominator (lifetime gross profit per clinic)."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1 is 'The dental pilot. Decline the LOI' and item 2 is 'Corporate-chain pilots', and both also appear in the one-screen verdict."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1, rated Critical, gives 38% of ARR, renewal in five months, the native inventory build and two unanswered emails, with the consequence stated (about $912K ARR at risk and shortened runway)."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register names 'Undisciplined pursuit of more' (dental and chains) and 'Denial of risk' (renewal silence treated as routine) as already visible, each with a specific warning sign and clearing evidence."
+  },
+  "D7": {
+    "score": 4,
+    "why": "CAC by channel is flagged as missing and the blended CAC, churn and runway figures are marked as assumptions, but 'about 118 clinics' via VetSource and the 'Greatness potential: 22/100' score are unmarked and unexplained."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact and the missing numbers, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|D01|s1|judge",
+    "stage": "judge",
+    "case_id": "D01",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13674,
+    "tokens_out": 1647,
+    "cost_usd": 0.2451638,
+    "duration_s": 20.1,
+    "finished_at": 1795588998.2024784,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1647,
+        "costUSD": 0.2451638
+      }
+    }
+  }
+}

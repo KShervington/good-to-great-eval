@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog (\"keeps independent restaurants' dish lines running, fast and for one monthly price\" through metro density) matches the key's field and exclusions, but the denominator is contribution per field technician and it explicitly rejects the key's per-machine denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict and stop-doing list put \"The third metro in spring\" first and \"Larchmont as offered\" second, with an explicit decline of the conveyor contract; the non-conveyor counter-offer is only a minor softening."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical, is the supply cliff (288 of 403 units via Delmar, 118 of 610 Harrow's locations left), and fact #2 states the consequence: landed cost roughly doubles and payback goes from ~12 to ~21–27 months."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 2 as \"Third metro, Larchmont and conveyors\" and Stage 3 as \"Supply cliff explained away\", each with a specific early warning sign such as non-restaurant technician hours above 10% or blended unit cost rising for two quarters."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Churn and lifetime are flagged as missing and not computed, and technician cost and other inferences carry [ASSUMPTION] tags, but the \"22/100\" greatness score and the \"12–18 months\" supply timeline are unmarked inferences."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link (low-cost machines), three stop-doing items, the most urgent brutal fact (supply cliff) and the missing numbers, concisely enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|D02|s1|judge",
+    "stage": "judge",
+    "case_id": "D02",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14687,
+    "tokens_out": 2218,
+    "cost_usd": 0.2842118,
+    "duration_s": 25.6,
+    "finished_at": 1795589064.5341744,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2218,
+        "costUSD": 0.2842118
+      }
+    }
+  }
+}

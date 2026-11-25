@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "tie",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses propose a focused home-lending hedgehog rather than recognising that the company had none, and both surface the rate squeeze, the deregulation temptation and the legacy fixed-rate book with missing data honestly flagged. Analysis 1 edges ahead because it frames the stop-doing as an explicit halt to all diversification and size-driven acquisitions, gives a direct 'take Option one' verdict, and weights single-state concentration and eventual sale to an acquirer more heavily as decline risks.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|A08|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A08",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18456,
+    "tokens_out": 1264,
+    "cost_usd": 0.34584000000000004,
+    "duration_s": 20.5,
+    "finished_at": 1795585007.206999,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1264,
+        "costUSD": 0.34584000000000004
+      }
+    }
+  }
+}

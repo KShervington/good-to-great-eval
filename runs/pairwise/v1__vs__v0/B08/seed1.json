@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "2",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2 ties its hedgehog to outcome-defined quality at import-competitive cost, makes dropping the color crown and debt its first stop-doing item, and is more soberly calibrated (18/100, endurance unproven, margins derived from dossier figures and caveated). Analysis 1 is comparably complete and better anticipates the Stage 3 blame-shifting onto import \"dumping\", but its verdict is less pointed and its score more generous for a company at the edge of decline.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|B08|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "B08",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 21006,
+    "tokens_out": 1897,
+    "cost_usd": 0.41196,
+    "duration_s": 21.4,
+    "finished_at": 1795588788.250818,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1897,
+        "costUSD": 0.41196
+      }
+    }
+  }
+}

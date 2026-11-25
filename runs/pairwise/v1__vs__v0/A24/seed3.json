@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Analysis 1 offers a flagged hedgehog hypothesis (few front-drive platforms, no full line, a per-platform profit denominator) that tracks the key, plus a more actionable verdict and explicit succession warnings. Analysis 2 is tighter and better calibrated, since it gets the loss-year count right and avoids the extrapolated burn figure, but it declines to give a hedgehog and hands the leader less to act on.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|A24|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A24",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13191,
+    "tokens_out": 1500,
+    "cost_usd": 0.27104,
+    "duration_s": 19.3,
+    "finished_at": 1795585686.9878623,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1500,
+        "costUSD": 0.27104
+      }
+    }
+  }
+}

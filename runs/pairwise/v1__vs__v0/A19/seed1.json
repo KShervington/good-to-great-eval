@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both land on the key's hedgehog (most convenient drugstores, profit per customer visit, density) and the same brutal facts, but Analysis 1 commits to exiting food service on a firm five-year deadline and exiting the discount stores outright, whereas Analysis 2 only stops expansion and phases or tests the exit. Analysis 2 is somewhat better calibrated, with explicit falsification tests and flagged derived figures, but Analysis 1's sharper, more decisive verdict is the one I would hand to the leader.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|A19|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A19",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18138,
+    "tokens_out": 1876,
+    "cost_usd": 0.365232,
+    "duration_s": 22.0,
+    "finished_at": 1795585323.7229493,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1876,
+        "costUSD": 0.365232
+      }
+    }
+  }
+}

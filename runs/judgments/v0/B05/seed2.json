@@ -1,31 +1,31 @@
 {
   "D1": {
     "score": 5,
-    "why": "The hedgehog is 'first and best at engineering each new generation of the radio link… even when that makes its own products obsolete', measured on profit per subscriber and explicitly not on sales doubling, which matches the key's wireless self-renewal core with growth as a by-product."
+    "why": "The hedgehog is 'first and best in the world at engineering each new generation of the radio link between people... even when that makes its own products obsolete', measured on profit per subscriber with sales volume explicitly ruled out as the engine, which matches the key's wireless, self-obsolescence and growth-as-outcome points."
   },
   "D2": {
     "score": 5,
-    "why": "The top three stop-doing items in the verdict are the doubling goal, the coercive distribution program, and no full-launch satellite commitment without independent demand evidence; ending analog-only flagships is item 4, and the wireless core is left intact."
+    "why": "The top three stop-doing items in the verdict are the doubling goal, the coercive premium distribution program, and any full-launch satellite commitment without independent demand evidence; the full list adds 'stop launching new flagship analog-only phones'."
   },
   "D3": {
     "score": 5,
-    "why": "The analog franchise facing a digital shift is ranked 'Critical' and named the most urgent brutal fact with its consequence; uncapped satellite exposure, pricing pressure on margins, and carrier alienation are all in the register with evidence."
+    "why": "The most urgent brutal fact is the ~45% handset share sitting on analog while carriers plan digital, rated Critical with the 'cannot be wrong' quote; the register also lists pricing pressure and margin slippage, the uncapped satellite downside, and carrier alienation."
   },
   "D5": {
     "score": 5,
-    "why": "The decline register names the actual mechanisms by stage: analog hubris, the doubling goal with parallel bets, unmeasured satellite liability and blaming pricing on the market, then savior acquisitions and reorganizations, each with a fitting early warning sign."
+    "why": "The decline register names the actual mechanisms by stage (analog hubris, the doubling goal with parallel satellite, PC-chip and emerging-market bets, unmeasured satellite liability with pricing pressure 'blamed on the market', then a large acquisition and sudden reorganizations), each with a fitting early warning sign."
   },
   "D7": {
     "score": 4,
-    "why": "Derived figures (21.6% vs 14.1%, 3.7× earnings, about $190 of sales per subscriber) check out against the dossier, assumptions are tagged and all four dossier gaps are flagged, but the 'Greatness potential: 30/100' score is unexplained and unmarked."
+    "why": "Derived figures check against the dossier, assumptions are tagged and the missing data is flagged, but the $6.5B of build-and-run contracts is treated as 'unconditional exposure' without marking that as an inference, and the 30/100 greatness score is unexplained."
   },
   "D8": {
-    "score": 4,
-    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, and is actionable, but with the run-notes process paragraph it runs somewhat past one phone screen."
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (the jump to the next radio standard, then carrier trust), three stop-doing items, the most urgent brutal fact and the four missing numbers in a compact, actionable form."
   },
   "D9": {
-    "score": 3,
-    "why": "It calls the company 'clearly good', keeps the existing renewal hedgehog and names subject-specific warning signs, but scores it 30/100 and prescribes a long list (seven stop-doings, four new seats, a seat move, exiting PC microprocessors, reviewing computing products for divestiture), treating it as good with gaps without attacking the core."
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
   },
   "hindsight_leak": false,
   "recognized_subject_by_name": false,
@@ -36,16 +36,16 @@
     "seed": 2,
     "model": "claude-fable-5-2",
     "effort": "high",
-    "tokens_in": 13740,
-    "tokens_out": 2637,
-    "cost_usd": 0.2864676,
-    "duration_s": 29.2,
-    "finished_at": 1795495607.2291133,
+    "tokens_in": 13780,
+    "tokens_out": 2051,
+    "cost_usd": 0.2630198,
+    "duration_s": 22.4,
+    "finished_at": 1795575462.8222861,
     "models_used": {
       "claude-fable-5-2": {
         "inputTokens": 2,
-        "outputTokens": 2637,
-        "costUSD": 0.2864676
+        "outputTokens": 2051,
+        "costUSD": 0.2630198
       }
     }
   }

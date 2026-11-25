@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The analysis fails the subject at Gate 0 ('no Hedgehog Concept to find, no flywheel that turns more than once'), considers the same reframes as the key (Bellmoor Days, the library archive, town capacity, the ED's career) and recommends project-planning methods instead."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The run ends at Gate 0, and the project-sense advice puts de-risking Calder first (written reconfirmation, loan extension, a minus-$160k scenario) and makes 'don't approve unbudgeted additions, the app included' stop-doing item 1, though slightly conditioned on Calder being resolved."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The verdict names the Calder $160k April installment as the most urgent brutal fact, and the register connects the 62.6% sponsorship share, the retired contact with no successor, the parent's 'under review' consolidation, the March tall-ship deposit and the May loan limit."
+  },
+  "D5": {
+    "score": null,
+    "why": "The answer key lists no decline risks and no later history for this one-off event."
+  },
+  "D7": {
+    "score": 4,
+    "why": "All computed percentages check out against the dossier, the audit-timing assumption is marked, and the baseless 180,000 target is flagged rather than derived; but it states as fact that the target 'drives' the ticket and merchandise projections and calls Farrow an 'executive', neither of which the dossier supports."
+  },
+  "D8": {
+    "score": 3,
+    "why": "The opening verdict is short and gives the Gate 0 fail, the absence of a hedgehog and flywheel, the most urgent brutal fact and what would change the answer, but it omits the missing numbers (the ungrounded attendance target) and the stop-doing items such as the app."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|D12|s1|judge",
+    "stage": "judge",
+    "case_id": "D12",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 9970,
+    "tokens_out": 2946,
+    "cost_usd": 0.2378598,
+    "duration_s": 33.0,
+    "finished_at": 1795589547.842135,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2946,
+        "costUSD": 0.2378598
+      }
+    }
+  }
+}

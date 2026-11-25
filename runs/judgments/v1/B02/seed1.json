@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('best in the world at pricing and guaranteeing American mortgage credit') shares the key's mortgage-risk core, the home-ownership passion and the rejection of EPS and portfolio size, but it narrows to the credit guarantee, rejects the capital-markets portfolio role, and uses 'net guarantee income per $ guaranteed' instead of profit per mortgage risk level."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are exactly the key's: stop paying on EPS targets (with the doubling goal taken 'off the bus'), stop growing the portfolio faster than the market, and stop leading with 'operating' earnings; item 4 adds stop running capital near the legal minimum."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks thin capital (3.2%, $0.9B cushion, about 31x leverage) and the -14-month duration gap with the first-ever supervisory action as Critical, and also lists EPS-linked pay, growth outrunning the market and the revocable government backing, with consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register marks Stage 2 as already visible (EPS-doubling goal, portfolio nearly doubled) and Stage 3 signals as present ('well hedged' asserted, operating metric excluding hedge losses, thin capital), with fitting warning signs such as smoothing accounting-policy changes, surprise restatements, riskier loan purchases and public rescue."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked, derived figures ($1.77B gap, 31x leverage, 2.4% remaining EPS growth) check out against the dossier, and missing data is flagged, but portfolio growth of 'about 14–18%/yr' is unmarked and slightly off the dossier's 13% and 16%, and the '20/100' greatness score is unsupported."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (capital and earned trust), the top three stop-doing items, the most urgent brutal fact ($1.77B hedge losses against a $0.9B cushion, plus the regulator's first action) and the missing numbers."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|B02|s1|judge",
+    "stage": "judge",
+    "case_id": "B02",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14972,
+    "tokens_out": 2405,
+    "cost_usd": 0.2962518,
+    "duration_s": 25.4,
+    "finished_at": 1795588553.7592566,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2405,
+        "costUSD": 0.2962518
+      }
+    }
+  }
+}

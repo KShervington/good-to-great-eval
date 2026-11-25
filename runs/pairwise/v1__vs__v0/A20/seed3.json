@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "2",
+  "D9": "na",
+  "overall": "tie",
+  "why": "Both land on the same regional-drugstore hedgehog, divest the three unrelated businesses and name all three key brutal facts; Analysis 1 goes further on stop-doing by also freezing drug-chain acquisitions, while Analysis 2 has the tighter verdict and flags founder dependence and a buyout or sale more explicitly. Calibration is a wash: Analysis 2 gives the lower score but overclaims in its faith statement and passes the flywheel and decline gates despite logged doom-loop signs, whereas Analysis 1's gate verdicts are more coherent.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|A20|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A20",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15699,
+    "tokens_out": 1946,
+    "cost_usd": 0.32900799999999997,
+    "duration_s": 23.9,
+    "finished_at": 1795585413.708859,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1946,
+        "costUSD": 0.32900799999999997
+      }
+    }
+  }
+}

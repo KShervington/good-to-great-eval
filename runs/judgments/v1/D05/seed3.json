@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The analysis fails Gate 1 ('Tessel is not yet good'), says the Hedgehog is 'not drafted yet. It needs proof of good first', and sets the path to good as stranger retention plus refill value without the founder's hands, with a compatible measure (weekly active circles with no tie to the founder)."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict's 'Hold for now' list leads with building SSO, dashboard and concierge for the HR pilot, then Android, then passive waiting on the aggregator; hiring is limited to milestone 2, though it never says to stop counting vanity signals as traction."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The verdict leads with 7 of 41 circles active, refill sync hand-loaded from one pharmacist, about $21 a month in revenue and network-sourced users (one active circle being her own family), and states the consequence as 'building on sand'."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The risk register names 'Building for the HR pilot before consumer retention is proven' with a specific warning sign (SSO or concierge work on the roadmap before milestone 1), but it does not flag vanity signals as denial and instead lists the prize and rating as 'evidence of good'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Targets and key inferences carry [ASSUMPTION] tags, the missing non-network cohort retention is named as the most important missing number, and unverified pricing is flagged; minor unmarked inferences remain ('most accounts never formed a circle', 'roughly a quarter of building', 17% shown without a tag)."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the Gate 1 fail, Hedgehog status, weakest link (retention among strangers), three holds, the most urgent brutal fact and the numbers that would change the call."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|D05|s3|judge",
+    "stage": "judge",
+    "case_id": "D05",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 10118,
+    "tokens_out": 2447,
+    "cost_usd": 0.22026779999999999,
+    "duration_s": 27.1,
+    "finished_at": 1795589233.1576853,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2447,
+        "costUSD": 0.22026779999999999
+      }
+    }
+  }
+}

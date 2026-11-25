@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "2",
+  "D5": "na",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on the key's hedgehog (paper-based consumer products, profit per consumer brand) and both call for selling the commodity mills, including the namesake mill, to fund the fight with Rival P. Analysis 2 is slightly better because its verdict pairs the 20-year underperformance with the forced choice, explains its score, lists more of the missing data, and gives more decisive 90-day actions.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|A01|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A01",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16023,
+    "tokens_out": 1138,
+    "cost_usd": 0.30187200000000003,
+    "duration_s": 15.8,
+    "finished_at": 1795584467.4847498,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1138,
+        "costUSD": 0.30187200000000003
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The analysis fails Gate 1 as 'not yet good', says the Hedgehog is 'not drafted' for lack of evidence outside the founder's network, points to refill status as the wedge, and sets the path to good as 'strangers stay' plus 'refills without your hands', matching all three key points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The first 'Hold off on' item in the verdict is 'Building the employer package (single sign-on, admin dashboard, staffed concierge)', followed by native Android, with 'build nothing for it' on the employer call and the hire dropped from use of funds; the only gap is that newsletter and discharge cards are still read as real pull."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The verdict ranks '7 of 41 care circles are active weekly, and one of them is your own family' as most urgent with the consequence 'your biggest risk is retention, not pharmacy access', and also names the hand-loaded single-pharmacy refill sync, the $21/month revenue and the uncontrolled aggregator dependency."
+  },
+  "D5": {
+    "score": 4,
+    "why": "Gate 10 was not run, but the risk register names 'Employer pull diverts scope before the core is proven' with the fitting warning sign 'building single sign-on or a dashboard before milestone 1' and cites the doom loop; the vanity-signal denial mechanism is only partly caught (ratings) while newsletter and discharge cards are treated as genuine pull."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, the missing cohort retention by source is requested, and 17% is labelled a 'cumulative proxy' with the true figure 'Unknown'; but the 'late February 2027' and 'Q1 2027' dates and the 'Greatness potential: 8/100' score appear unmarked and are not from the dossier."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the Hedgehog status (not drafted, with reason), the weakest link (hand-loaded refill sync), three hold-off items, the most urgent brutal fact and three missing numbers, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|D05|s1|judge",
+    "stage": "judge",
+    "case_id": "D05",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 10866,
+    "tokens_out": 2797,
+    "cost_usd": 0.2462358,
+    "duration_s": 31.0,
+    "finished_at": 1795589212.8707776,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2797,
+        "costUSD": 0.2462358
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('underwriting, standardizing and guaranteeing American mortgage credit', paid per 'dollar of capital at risk', passion for lasting homeownership) matches the key's risk-based denominator and its rejection of EPS and portfolio size, but it narrows the field to credit guarantee and explicitly rules out the capital-markets and rate-risk role the key names as the core."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are to stop using the retained portfolio as the growth engine, to stop paying on operating EPS and retire the public EPS targets and streak, and to stop large rate mismatches; the full list adds leading with GAAP over 'operating' earnings and not holding capital near the legal minimum."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Thin capital ('$0.9B above the legal minimum against $887B', about 31:1 leverage) is ranked the most urgent brutal fact with its consequence quantified, and the register also carries the EPS-linked pay, the −14-month duration gap with the first supervisory action, the 15% growth target in a slower market, and the borrowed government backing."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stages 1–3 with subject-specific mechanisms (streak as identity, portfolio outgrowing the market, 'GAAP results explained away', the $0.9B cushion) and fitting warning signs, flags earnings management and an independent accounting review, and anticipates 'buying riskier loans to protect share or goals' and 'absorption into government'."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are consistently tagged [ASSUMPTION], the computed figures (31:1 leverage, 22% GAAP fall, 26% share) derive correctly from the dossier, the missing hedging, accounting-policy, credit-profile and segment-earnings data are flagged as able to change the answer, and the mostly CONDITIONAL verdict fits the evidence."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict compactly gives the hedgehog sentence, the weakest flywheel link (investor trust), the top three stop-doing items, the most urgent brutal fact and the missing numbers, and a reader could act on it without going further."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-retest|B02|s2|judge",
+    "stage": "judge",
+    "case_id": "B02",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16300,
+    "tokens_out": 2286,
+    "cost_usd": 0.3127398,
+    "duration_s": 25.5,
+    "finished_at": 1795574935.2958717,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2286,
+        "costUSD": 0.3127398
+      }
+    }
+  }
+}

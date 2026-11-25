@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "1",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses match the key on the hedgehog (inventory brain for independent vet clinics, per-clinic gross profit), on stopping dental and chains, on the VetSource fact, and on both decline mechanisms. Analysis 2 is better calibrated: it uses ranges, labels derived figures, has an explicit evidence note, and catches the contract-date mismatch, whereas Analysis 1 has a tighter verdict screen but builds more point estimates (lifetime value, assumed burn, clinic counts) on thin data.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|D01|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D01",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 20863,
+    "tokens_out": 1432,
+    "cost_usd": 0.39107200000000003,
+    "duration_s": 17.6,
+    "finished_at": 1795589034.6002278,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1432,
+        "costUSD": 0.39107200000000003
+      }
+    }
+  }
+}

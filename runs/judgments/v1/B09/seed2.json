@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog sentence, 'The best-run, lowest-cost bank for our home state's households and small businesses, measured by profit per employee,' matches the key's field and denominator, and it explicitly gives up the 'world's largest bank' identity, asset growth, developing-country lending and venture capital."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items are asset growth as the measure, new developing-country lending and decentralized credit approval, with rate-mismatched mortgages and farm/construction growth at #4 and #7; it also rejects a diversifying change-agent CEO and prescribes a cost-to-serve program ahead of deregulation."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All four key brutal facts are in the register (deregulated deposits with money-fund drain, short-funded fixed-rate mortgages, untested developing-country/farm/construction credit, high fixed branch costs), with the deposit fact ranked first as Critical and its consequence stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register names hubris over 'world's largest', Stage 2 as 'probably already under way' via asset growth and risky loan categories, Stage 3 denial of rate and credit losses, and Stage 4 as a new CEO attempting a big acquisition or 'transformational' program before exposures are cleaned up, each with a specific warning sign."
+  },
+  "D7": {
+    "score": 4,
+    "why": "The 0.6% ROA is marked as derived, assumptions are tagged, and all four dossier gaps plus headcount are flagged, but 'Greatness potential: 25/100' is unexplained and the claim that the chief credit officer seat is missing is an unmarked inference."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict compactly gives the hedgehog sentence, the weakest flywheel link (cost-to-serve), three stop-doing items, the most urgent brutal fact and the missing numbers, and could be acted on without reading further."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|B09|s2|judge",
+    "stage": "judge",
+    "case_id": "B09",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13268,
+    "tokens_out": 1531,
+    "cost_usd": 0.2340278,
+    "duration_s": 19.2,
+    "finished_at": 1795588826.4977431,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1531,
+        "costUSD": 0.2340278
+      }
+    }
+  }
+}

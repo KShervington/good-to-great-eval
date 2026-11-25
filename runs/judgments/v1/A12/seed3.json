@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to modern large-format stores in regions it can lead, explicitly rules out national low price and 'largest', and calls the doom loop 'currently spinning', but it frames its hedgehog as a 'working hypothesis' without plainly saying the company has none today."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are chain-wide deep discounting, paying out most profit as dividends, and keeping small old stores in markets it can't lead, which matches the key's decision."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the $51M price-war loss, matched price cuts and the obsolete store base as Critical, with service breakdown, labor costs and Rival L adapting as High, and states the consequences."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 places the company in stage 4 and names a savior CEO, selling cheaply and 'slow irrelevance as stores age further' as the next steps, with specific warning signs such as forced regional retreats and citing national rank."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked throughout and the missing data is flagged, but 'the volume did not come back' and the foundation being the current largest holder are stated as fact in places without dossier support."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The compact opening verdict gives the hedgehog sentence, the weakest flywheel link (reinvestment), the top three stop-doing items, the most urgent brutal fact and the missing numbers, and could be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A12|s3|judge",
+    "stage": "judge",
+    "case_id": "A12",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12901,
+    "tokens_out": 1632,
+    "cost_usd": 0.2321958,
+    "duration_s": 19.1,
+    "finished_at": 1795585116.3600628,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1632,
+        "costUSD": 0.2321958
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the best big-ticket electronics and appliance superstore in every region where it builds a dense cluster, measured by profit per region', which matches the key's superstore model, disciplined cluster rollout and profit-per-region denominator, and it explicitly excludes leased departments, acquisitions and other formats."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are buying chains for tax credits or store count, running leased departments, and opening isolated stores, with 'no extra formats' and 'no new mid-sized stores' following, which is the key's decision to end the format and acquisition patchwork and concentrate on superstores."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'capital split across four formats with no declared winner' as Critical, and lists the bet-the-company superstore cost and the struggling big-city chain as High, with the loss-year pattern of entries and exits also noted; the verdict states the consequence of meeting Rival S with capital split four ways."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The risk register flags 'the format ages as categories and shopping habits shift', with the sign of traffic or ticket size declining while store count grows, and Stage 2 'undisciplined more' via new formats or 'adjacent opportunity'; this fits the later loss to a rival format and failed side ventures, but stays fairly generic and misses the erosion of the service and sales-staff model."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently tagged, the missing profit, ROE, format P&L and debt data are flagged and drive CONDITIONAL gates, and there is no hindsight; minor unmarked items include 'six or more exits since the loss year' and an unexplained 'Greatness potential: 30/100'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (store profit funding the next cluster), the top three stop-doing items, the most urgent brutal fact and the numbers that would change the call, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A05|s2|judge",
+    "stage": "judge",
+    "case_id": "A05",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12284,
+    "tokens_out": 2050,
+    "cost_usd": 0.2390438,
+    "duration_s": 23.6,
+    "finished_at": 1795584783.587501,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2050,
+        "costUSD": 0.2390438
+      }
+    }
+  }
+}

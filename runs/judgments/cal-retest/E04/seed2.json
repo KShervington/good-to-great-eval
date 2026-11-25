@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'creating and leading everyday tissue and absorbent-care categories' judged by 'profit per category-leading brand', which matches the key's consumer paper products, innovation against Rival P and profit per brand, and it explicitly rules out the airline, aviation services and commodity/tobacco papers."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top stop-doing items are to stop the airline's $120M expansion and separate aviation, and to stop reinvesting in newsprint and printing-paper mills, with tobacco papers third on the full list; the consumer core is left intact."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register contains all five key facts (Rival P's size and diaper lead, the airline being harder to stop because it is profitable, succession after 20 years, Europe's heavy unknown-return investment, commodity mills), and the verdict's most urgent fact combines the Rival P war with spending on three unrelated businesses."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and describes the later Scott Paper integration pain as not a decline, so there is no mechanism to grade against."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Calculated figures and inferences are mostly marked and the missing segment, brand, airline and Europe numbers are flagged, but the 'cannot see which businesses earn their capital' claim is stated as a Critical fact though the dossier only says the data is absent from the dossier, and the 55/100 score is unsupported."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (reinvestment), three stop-doing items, the most urgent brutal fact and the missing numbers concisely enough to act on."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It keeps the existing hedgehog and names specific warning signs, but never says the company is already great ('Clearly good', 'Greatness potential: 55/100') and prescribes a long improvement list including new hires, new brand P&Ls and a European plant freeze."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-retest|E04|s2|judge",
+    "stage": "judge",
+    "case_id": "E04",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12548,
+    "tokens_out": 1906,
+    "cost_usd": 0.2375078,
+    "duration_s": 22.6,
+    "finished_at": 1795574859.5141816,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1906,
+        "costUSD": 0.2375078
+      }
+    }
+  }
+}

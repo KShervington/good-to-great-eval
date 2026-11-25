@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'keeps heart-failure patients home for good, not just for 30 days', measured in 'hospital days avoided per patient at 90 days', and it explicitly rules out acute care at home, which matches the key's field, sacrifice and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1 in both the verdict and the list is 'Taking the lead on Hospital at Home in Year 1', followed by ending day-30 graduation and dropping the enrolled-vs-not-enrolled comparison as proof; the enrollment push is also held."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1, rated Critical, is that the 30-day advantage nearly disappears by day 90 (32.7% vs 33.9%) with the 'postponing rather than preventing' consequence; the non-comparable group is fact 2 and the missing dollar value is fact 3."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register marks stage 2 (Hospital at Home, +6 FTE, title, enrollment push) as 'already present' and stage 3 (the 90-day figure left in an accreditation checklist) as showing, each with a specific early warning; it also anticipates cutbacks in a lean year."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Most derived figures and targets are tagged as assumptions and the missing Finance cost is flagged, but it still computes about 68 readmissions avoided at about $21.5K each, labelled 'illustration only' rather than as an assumption; it also states the derived 16.8% vs 12.1% as fact in the verdict and gives Level 5 a generous PASS."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and contains the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact and the missing numbers, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|D11|s1|judge",
+    "stage": "judge",
+    "case_id": "D11",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15389,
+    "tokens_out": 2130,
+    "cost_usd": 0.2919238,
+    "duration_s": 23.9,
+    "finished_at": 1795589476.3316429,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2130,
+        "costUSD": 0.2919238
+      }
+    }
+  }
+}

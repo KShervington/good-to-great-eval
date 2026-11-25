@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the world's best personal wireless devices... in whichever standard customers and carriers choose', with self-obsolescence as the passion, profit per wireless subscriber as the denominator, and 'growth for its own sake' ruled out, which matches the key's wireless-plus-renewal core with growth as an outcome."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are the doubling goal, further satellite commitment before an independent demand review, and the coercive carrier program, with analog-only roadmaps at #4; Six Sigma, debate culture and the wireless core are preserved."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1 (Critical) is the analog franchise while carriers plan digital and leadership defends analog, with the consequence stated; the satellite exposure against spreading cellular, wireless pricing pressure and carrier resentment are all also in the register."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names the actual mechanisms by stage: pride in the analog phone, the size target with satellite, PC-chip and emerging-market bets, pricing pressure framed as temporary, and a Stage 4 rush to acquisition or reorganization, each with a fitting warning sign such as losing the No. 1 handset position."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures check out against the dossier, assumptions are marked and all four missing data items are flagged, but it says the analog remark was made 'publicly' by the 'head' of cellular when the dossier says a senior leader at an internal meeting, and the 'Greatness potential: 30/100' score is unsupported."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact and the missing numbers in a compact form someone could act on."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It keeps the lived hedgehog and names subject-specific risks, but never calls the company great ('clearly good', 30/100, six conditional gates) and prescribes a long list: seven stop-doing items, three new seats, seat moves and an exit from the PC-chip challenge."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|B05|s3|judge",
+    "stage": "judge",
+    "case_id": "B05",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15182,
+    "tokens_out": 2208,
+    "cost_usd": 0.2923796,
+    "duration_s": 29.7,
+    "finished_at": 1795495708.1334476,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2208,
+        "costUSD": 0.2923796
+      }
+    }
+  }
+}

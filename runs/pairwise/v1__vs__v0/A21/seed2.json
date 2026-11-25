@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "tie",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2's hedgehog matches the key more closely (run it like a business, lowest cost, focused on the American West, profit per employee), and its stop-doing list is more decisive on winding down overseas offices, closing bottom-tier branches and cutting executive perks from the top. Both are similarly well calibrated and cover the same brutal facts, but Analysis 2's one-screen verdict is tighter and more actionable.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|A21|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A21",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 19138,
+    "tokens_out": 1363,
+    "cost_usd": 0.36071200000000003,
+    "duration_s": 17.4,
+    "finished_at": 1795585469.3003454,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1363,
+        "costUSD": 0.36071200000000003
+      }
+    }
+  }
+}

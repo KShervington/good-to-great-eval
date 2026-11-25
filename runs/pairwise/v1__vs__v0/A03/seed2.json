@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses reach essentially the key's hedgehog (cost-effective hospital, nutritional and diagnostic products measured by profit per employee, leaving the blockbuster-drug race and consumer diversification) and name the same brutal facts with similar flagging of assumptions and missing data. Analysis 2 is marginally more useful to hand to the leader because it commits to exiting all four consumer lines, states what evidence would overturn its hedgehog, and adds a concrete action to redirect research.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|A03|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A03",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17644,
+    "tokens_out": 1933,
+    "cost_usd": 0.35960800000000004,
+    "duration_s": 24.2,
+    "finished_at": 1795584684.4141982,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1933,
+        "costUSD": 0.35960800000000004
+      }
+    }
+  }
+}

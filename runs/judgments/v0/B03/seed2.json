@@ -1,31 +1,31 @@
 {
   "D1": {
     "score": 5,
-    "why": "The hedgehog is 'the bank households and small businesses choose as their primary financial home, earning the most per actively used relationship', which matches the key's genuine community-banking relationships and profit-per-active-relationship denominator, and it explicitly rules out product count."
+    "why": "The hedgehog is 'the bank households and small businesses choose as their primary financial home, earning the most per actively used relationship', which matches the key's genuine community-banking relationships and its profit-per-active-relationship denominator, and it explicitly rejects product count."
   },
   "D2": {
     "score": 5,
-    "why": "The top three stop-doing items in the one-screen verdict are daily/monthly product quotas, per-product and cross-sell incentive pay, and the eight-products headline goal; item 4 moves risk and HR out of the business lines, and the retail core is preserved."
+    "why": "The top three stop-doing items in the verdict are daily/monthly sales quotas, product-count incentive pay and the eight-products headline goal, and item 4 moves risk and HR out of the business lines; only 'firings as fix' is not explicit."
   },
   "D3": {
     "score": 5,
-    "why": "The register ranks as Critical that the quota-and-incentive mechanism the regulator tied to subsidiary misconduct also runs the flagship retail bank, and that cross-sell may count unused products; decentralized risk/HR is rated High, with consequences stated."
+    "why": "The two Critical brutal facts are that the regulator-linked quota-and-incentive mechanism also runs the flagship retail bank and that cross-sell may count unfunded or unused products, followed by decentralized risk/HR as High, each with consequences stated."
   },
   "D5": {
     "score": 5,
-    "why": "The risk register names the actual mechanism by stage: crisis-success hubris, the push for eight products, and findings treated as isolated with hotline data kept in business lines, with fitting warning signs such as goals raised while funded rates are unmeasured and terminations not reported to the board."
+    "why": "The risk register names hubris from crisis success, the eight-products push, regulatory findings treated as isolated or 'industry-wide', and hotline and termination data staying inside the business lines, with fitting warning signs such as terminations not reported to the board."
   },
   "D7": {
     "score": 4,
-    "why": "Assumptions are marked, ROA is derived from dossier figures and labelled approximate, and all the missing data sets are flagged; however the 'Greatness potential: 35/100' figure is unexplained, and the 'asset cap' warning sign is suspiciously specific though framed as hypothetical."
+    "why": "Assumptions are marked, ROA is derived from dossier figures and labelled approximate, and the missing funded/active, termination, hotline and turnover data are flagged; however the 35/100 score is unexplained, several gates pass on the analyst's own proposals, and the 'asset cap' warning sign is suspiciously specific."
   },
   "D8": {
     "score": 4,
-    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, and is actionable, but with the score line and method note it runs somewhat past one phone screen."
+    "why": "The opening verdict contains the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers and is actionable, but it runs somewhat longer than one phone screen."
   },
   "D9": {
-    "score": 3,
-    "why": "It never says plainly that the subject is already great (Gate 1 passes as 'good', potential 35/100, five CONDITIONAL gates) and gives a long list of eight stop-doing items plus several new seats, though it keeps the community-banking core and names subject-specific warning signs."
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
   },
   "hindsight_leak": false,
   "recognized_subject_by_name": false,
@@ -36,16 +36,16 @@
     "seed": 2,
     "model": "claude-fable-5-2",
     "effort": "high",
-    "tokens_in": 14121,
-    "tokens_out": 2577,
-    "cost_usd": 0.29016359999999997,
-    "duration_s": 29.3,
-    "finished_at": 1795495393.8507388,
+    "tokens_in": 14158,
+    "tokens_out": 1911,
+    "cost_usd": 0.0876612,
+    "duration_s": 22.0,
+    "finished_at": 1795575440.1747804,
     "models_used": {
       "claude-fable-5-2": {
         "inputTokens": 2,
-        "outputTokens": 2577,
-        "costUSD": 0.29016359999999997
+        "outputTokens": 1911,
+        "costUSD": 0.0876612
       }
     }
   }

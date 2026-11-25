@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'lowest-cost, most trusted bank for the households, farms and small businesses of our home state' judged by 'risk-adjusted profit per employee', and it explicitly rejects asset growth, sovereign lending and venture capital, matching the key's field, give-ups and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are asset growth as the measure, decentralized developing-country lending and fixed-rate mortgages funded short; the successor call rejects 'entering new businesses', and cost reduction ahead of deregulation is the first flywheel push."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent brutal fact is that record profits rest on capped deposits 'now been legislated away' with money funds already draining them, ranked Critical, alongside the mortgage mismatch, untested developing-country, farm and construction credit, and branch fixed costs, with the consequence stated as a possible survival problem."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register says Stage 2 is 'already underway' through the simultaneous lending growth, and names Stage 4 as 'a change-agent CEO brings bold new businesses, a big acquisition or a technology moonshot' with specific early warning signs; it misses only the bureaucracy mechanism, which the dossier did not show."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are marked [ASSUMPTION], the roughly 0.6% return on assets is labelled as derived, and reserves, country exposure, maturity gap, expense ratio, headcount and capital ratios are all flagged as missing; however, the PASS verdicts on Gate 6 (discipline) and Gate 7 (technology) sit awkwardly with its own findings of 'freedom without a framework' and an ATM lag."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening gives the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers and is actionable, but with the successor call, score and italic notes it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-retest|B09|s2|judge",
+    "stage": "judge",
+    "case_id": "B09",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15348,
+    "tokens_out": 2059,
+    "cost_usd": 0.2884278,
+    "duration_s": 23.1,
+    "finished_at": 1795574881.2480097,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2059,
+        "costUSD": 0.2884278
+      }
+    }
+  }
+}

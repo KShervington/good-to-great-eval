@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "2",
+  "D5": "tie",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land the cold-chain hedgehog with a used-pounds-per-route-hour denominator, decline the café, defer the van, prune the add-ons and flag denial and undisciplined growth. Analysis 2 is sharper on the planted fact: it names the markdown app as the likely cause, explains why the road delay is the weaker explanation, and proposes a clean test against Eastside independents, whereas Analysis 1 says the data cannot separate the two causes.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|D09|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D09",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 21542,
+    "tokens_out": 1670,
+    "cost_usd": 0.411456,
+    "duration_s": 20.6,
+    "finished_at": 1795589375.1053178,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1670,
+        "costUSD": 0.411456
+      }
+    }
+  }
+}

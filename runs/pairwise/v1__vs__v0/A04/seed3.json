@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "1",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses propose the same hormone-and-inflammation hedgehog where the key says none, and both cover the key's stop-doing items and all three brutal facts, so they are nearly inseparable on substance. Analysis 2 edges ahead by naming the owned-pipeline and licence dependence as the weakest link and flagging lawyer-led safety responses and absorption into a larger company, while Analysis 1 has the tighter one-screen verdict.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|A04|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A04",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17720,
+    "tokens_out": 1617,
+    "cost_usd": 0.34818400000000005,
+    "duration_s": 20.5,
+    "finished_at": 1795584759.7407992,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1617,
+        "costUSD": 0.34818400000000005
+      }
+    }
+  }
+}

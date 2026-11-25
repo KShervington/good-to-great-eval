@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 1 matches the key's hedgehog more exactly by making profit per employee the primary denominator, while Analysis 2 uses profit per customer relationship with profit per employee only as a cost check. Analysis 2 edges ahead overall because its one-screen verdict answers the board's succession question directly and its decline warnings name the charismatic, boldness-chosen CEO and premature big deals; the two are otherwise close on stop-doing, brutal facts and calibration.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|B09|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "B09",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 20182,
+    "tokens_out": 2081,
+    "cost_usd": 0.406136,
+    "duration_s": 25.7,
+    "finished_at": 1795588870.7676497,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2081,
+        "costUSD": 0.406136
+      }
+    }
+  }
+}

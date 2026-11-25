@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's suggested core ('most convenient discount drugstore in the Southeast and Texas', ruling out the four non-drug businesses) and says the company is 'closer to a doom loop than a flywheel', but it never states plainly that the current portfolio lacks a hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict and the top of the stop-doing list both say 'Stop acquiring businesses outside drugstores' and stop owning the department stores, security company and food-service distributor, with item 4 also stopping drugstore acquisitions that add no cluster density."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register rates all three key facts High: Rival W in the home state (named most urgent), capital and attention split across five businesses, and the founder partly absent for five years and possibly leaving again, each with an owner and consequence."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The Gate 10 register names continued deal-driven expansion, the founder leaving, a 'transformational' merger and 'being sold or broken up as a struggling multi-line company' with warning signs, which fits the later history, though it follows a five-stage template and is not sharply specific."
+  },
+  "D7": {
+    "score": 4,
+    "why": "No figures are invented, missing data is flagged throughout and assumptions are marked, and the 15/100 verdict fits the evidence; minor unmarked inferences remain, such as discounting no longer being a moat and 'won the best sites in its region'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact and the missing numbers, and is short enough to act on without reading further."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A20|s1|judge",
+    "stage": "judge",
+    "case_id": "A20",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11871,
+    "tokens_out": 1817,
+    "cost_usd": 0.22311579999999998,
+    "duration_s": 21.4,
+    "finished_at": 1795585362.4492488,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1817,
+        "costUSD": 0.22311579999999998
+      }
+    }
+  }
+}

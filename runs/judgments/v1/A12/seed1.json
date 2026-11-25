@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog narrows to the key's suggested core ('modern, fully stocked supermarkets that lead their local markets... leaves every market it cannot lead') and rules out national price leadership and volume, but it only implies the current state lacks a hedgehog (doom-loop diagnosis, 'working hypothesis') and keeps own-brand manufacturing in the concept."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are chain-wide deep discounting, paying out most earnings as dividends, and running small stores in markets it can't lead, with 'stop defending every region' at #4, which matches the key's decision."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the price war and ~$51M loss as #1 Critical, the too-small, badly located store base as #2, the dividend starving the stores as #3, and also lists Rival L adapting, service failure and structurally high labor costs, each with a consequence."
+  },
+  "D5": {
+    "score": 4,
+    "why": "Gate 10 says the company is already in Stage 4 and flags program-to-program lurches, a savior CEO or white-knight rescue, and capitulation as a 'slow slide into irrelevance' with the warning sign 'repeated region exits with no lead-market renewal', which fits the later history but does not single out one mechanism sharply."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged and the key gaps (regional share, store-level profit, format tests) are flagged, but a few inferences are unmarked, such as 'highest-cost operator', the West Coast exit lacking a framework, and an unexplained '12/100' score."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (reinvestment), the top three stop-doing items, the most urgent brutal fact, and the numbers that would change the answer."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A12|s1|judge",
+    "stage": "judge",
+    "case_id": "A12",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12493,
+    "tokens_out": 2251,
+    "cost_usd": 0.2504278,
+    "duration_s": 25.3,
+    "finished_at": 1795585097.168519,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2251,
+        "costUSD": 0.2504278
+      }
+    }
+  }
+}

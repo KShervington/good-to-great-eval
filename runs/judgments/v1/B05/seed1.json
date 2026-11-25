@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is \"lead every generation of wireless communication by making our own products obsolete first\", with profit per wireless subscriber as the denominator and size explicitly rejected as the measure (\"not by doubling in size\"), which matches the key's wireless, self-obsolescence and growth-as-by-product points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict and the top of the stop-doing list name defending analog, coercing carriers and escalating the satellite commitment without demand data and a cap; \"managing to double every five years\" is item 4 and is also retired in the bus table and the 90-day plan."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The analog core as carriers plan digital is ranked Critical and named the most urgent brutal fact; the register also lists margin compression from pricing pressure, the satellite exposure with obligations that survive the venture's failure, and using market power on carriers."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names the actual mechanisms by stage: analog hubris, the doubling goal plus parallel bets, a satellite launch commitment made without demand data, and a savior hire or acquisition. Its warning signs are specific, for example \"major carriers launching digital networks with rivals as their lead supplier\"."
+  },
+  "D7": {
+    "score": 4,
+    "why": "The derived figures (growth rates, net margin 7.0% to 6.6%, R&D intensity, $560M) all check against the dossier, and the missing data and assumptions are flagged. However, it says the analog remark was made \"publicly\" when the dossier says an internal meeting, it assumes the analog advocate owns the digital roadmap, and the \"40/100\" score is unexplained."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (stalled self-obsolescence), three temptations to refuse, the most urgent brutal fact and the missing numbers, so it can be acted on without reading further."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|B05|s1|judge",
+    "stage": "judge",
+    "case_id": "B05",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13224,
+    "tokens_out": 2040,
+    "cost_usd": 0.2536838,
+    "duration_s": 23.1,
+    "finished_at": 1795588688.9589853,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2040,
+        "costUSD": 0.2536838
+      }
+    }
+  }
+}

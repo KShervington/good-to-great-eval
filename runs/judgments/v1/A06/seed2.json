@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The analysis states plainly that Marlow has 'no Hedgehog Concept' and that 'lowest price, opened fast, in many places' is a tactic, matching the key; its proposed replacement centres on local market density and profit per market, not on a proven repeatable store model and systems, and still leans on 'lowest-price'."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1, also first in the verdict, is 'multi-store blitz entries into new regions', followed by no openings before per-market profit is proven, with ad blitzes and price wars also on the list; the owner-driven strategy reset is covered only indirectly through the capital compact."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The verdict's most urgent brutal fact pairs the non-retail steel parent funding growth with Rival T's move to a bigger format, and the register adds price as the only advantage and the founder's death and succession, each with a stated consequence."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The register names the parent selling Marlow and 'a new owner as rescue' with the warning sign 'parent signals that retail is non-core', and brutal fact 4 notes the rival 'changing the format while Marlow multiplies the old one'; however, it frames adopting superstores as fear-driven grasping instead of flagging failure to change format as the decline mechanism."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are consistently tagged [ASSUMPTION], the scorecard lists current values as 'Unknown' with no invented figures, the missing per-market profit, share, same-store sales and parent commitment are flagged, and the hedgehog is presented as a working hypothesis with falsification tests."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (local density), the top three stop-doing items, the most urgent brutal fact and the missing numbers, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A06|s2|judge",
+    "stage": "judge",
+    "case_id": "A06",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 10947,
+    "tokens_out": 2200,
+    "cost_usd": 0.2236518,
+    "duration_s": 26.9,
+    "finished_at": 1795584858.9304883,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2200,
+        "costUSD": 0.2236518
+      }
+    }
+  }
+}

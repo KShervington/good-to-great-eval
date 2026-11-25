@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "1",
+  "D5": "na",
+  "D7": "tie",
+  "D8": "2",
+  "D9": "2",
+  "overall": "2",
+  "why": "Both analyses land on the key's hedgehog (convenient corner drugstores, profit per customer visit) and refuse the scale acquisition, but Analysis 2 explicitly recognises Ravenhill as already great, frames the plan as stewardship with a short list of temptations to refuse, and gives the key's own reason that acquired chains bring inferior sites. Analysis 1 covers the key's brutal facts slightly more completely by naming mail-order and payer intermediaries as direct competitors, but it treats the subject as a generic turnaround candidate with a longer, less restrained list.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|E02|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "E02",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18456,
+    "tokens_out": 1358,
+    "cost_usd": 0.3496,
+    "duration_s": 16.9,
+    "finished_at": 1795589658.8071234,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1358,
+        "costUSD": 0.3496
+      }
+    }
+  }
+}

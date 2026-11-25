@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "tie",
+  "D8": "1",
+  "D9": "1",
+  "overall": "1",
+  "why": "Both analyses land on the same convenience / profit-per-visit hedgehog and the key brutal facts, but Analysis 1 correctly recognises the subject as already great and limits its stop-doing list to the real temptations (scale acquisitions, a standalone PBM, re-diversification, marginal sites). Analysis 2 is sharp and adds useful derived arithmetic, but it rates the company merely \"good\" and prescribes more intervention (deferring new metros, eight stop-doing items), which shows less restraint toward a proven core.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|E02|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "E02",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18700,
+    "tokens_out": 1225,
+    "cost_usd": 0.348184,
+    "duration_s": 16.2,
+    "finished_at": 1795589651.1177676,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1225,
+        "costUSD": 0.348184
+      }
+    }
+  }
+}

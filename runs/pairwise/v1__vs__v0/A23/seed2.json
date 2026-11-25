@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on the same banking and accounting automation hedgehog, reject the head-on fight with Rival I, cover all three key brutal facts and read the new EVP as a Level 4 'genius with a thousand helpers', but neither warns against cost cuts that starve engineering and service. Analysis 2 edges ahead with a denominator closer to the key (profit per installed account), more explicit succession and field-support safeguards against one-man dependence, and a tighter, more actionable verdict.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|A23|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A23",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18212,
+    "tokens_out": 1571,
+    "cost_usd": 0.354216,
+    "duration_s": 19.4,
+    "finished_at": 1795585610.0791771,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1571,
+        "costUSD": 0.354216
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('best in the world at standardizing, pricing and guaranteeing American home-mortgage credit', returns 'per dollar of credit risk carried on its own capital', home-ownership passion, EPS rejected) matches the key's denominator and passion, but narrows the field to the credit guarantee and cuts the portfolio/capital-markets side as 'cannot be best at', where the key has a broader mortgage capital-markets player."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are exactly the key's: stop the public EPS target and EPS-tied pay and option grant, stop using retained-portfolio growth as the earnings lever, and stop leading with 'operating' earnings; item 5 adds holding capital above the minimum, and the guarantee core and mission are kept."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All four key brutal facts are in the register and ranked Critical or High with consequences: thin capital ($0.9B over the minimum, 3.2% of assets), the EPS goal and pay system, the -14 month duration gap with the first supervisory action, and dependence on assumed government backing."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register marks Stages 1-3 as 'Present' with the actual mechanisms (streak as identity, EPS goal and portfolio growth above the market, 'well hedged' denial, steering investors away from GAAP) and fitting warning signs, and elsewhere flags opaque amortization and hedge accounting, unpriced goal-qualifying credit and 'losses outrun capital'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures ($1.77B gap, about 31x leverage, 2.4% left to the target) are correct arithmetic from the dossier, inferences are mostly tagged [ASSUMPTION] and missing data is flagged prominently, but the tech triage asserts 'earnings-smoothing hedge structures... exist to manage the reported number' as fact without marking it as an inference."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers and is actionable, but with the caveat paragraph, score and run notes it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It never says the subject is already great (it gives 'Greatness potential: 25/100' with 7 of 11 gates CONDITIONAL) and prescribes a long list of changes including new roles and narrowed seats, but it preserves the guarantee franchise and mission, restores the original risk-based denominator, and names highly specific early-warning signs."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|B02|s3|judge",
+    "stage": "judge",
+    "case_id": "B02",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16146,
+    "tokens_out": 2792,
+    "cost_usd": 0.3311636,
+    "duration_s": 31.7,
+    "finished_at": 1795495231.9266083,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2792,
+        "costUSD": 0.3311636
+      }
+    }
+  }
+}

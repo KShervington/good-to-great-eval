@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is \"the best, most convenient pharmacy-led drugstores in America\" earning on \"rising profit per customer visit\", with corner, drive-through and dense sites, and it rules out acquisitions, non-drugstore businesses and standalone PBM/mail, matching the key on all three points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top stop-doing item and first verdict temptation is \"No large chain acquisition to keep pace\", followed by no standalone mail/benefit-manager business, no re-entry into non-drugstore businesses and no opening stores just to hit 3,000, and nothing dismantles the core."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1 (High, and the verdict's most urgent) is payers taking control of pharmacy pricing as Rx share rises, fact 2 is the rival combination of about 4,500 stores, and fact 4 is mail-order competition, each with evidence and consequence."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key's decline_risks_expected is empty and later_history records no decline within the window, only risks faced and handled."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, derived figures are disclosed as rough calculations, and missing metrics (profit per visit, same-store sales, shareholder return, mail/PBM profitability) are flagged with Gate 1 held conditional; but \"acquired chains bring mostly older strip and mall stores\" is stated as fact and the \"65/100\" score is unexplained."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The compact opening verdict gives the hedgehog sentence, the weakest link (profit per visit under payer squeeze), three temptations to refuse, the most urgent brutal fact and the numbers that would change the call, so it can be acted on alone."
+  },
+  "D9": {
+    "score": 5,
+    "why": "It declares \"Already great (provisionally), so this is a stewardship run\" with evidence (21 record years, 19.1% ROE, no debt, disciplined exits), confirms the hedgehog the company already lives by, limits actions to preservation mechanisms (payer floor, succession, measuring the denominator), and names subject-specific warning signs such as a defensive acquisition and the store-count chase."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|E02|s1|judge",
+    "stage": "judge",
+    "case_id": "E02",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13509,
+    "tokens_out": 2256,
+    "cost_usd": 0.2668838,
+    "duration_s": 24.7,
+    "finished_at": 1795589618.1724637,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2256,
+        "costUSD": 0.2668838
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "Narrows to the key's suggested core ('lowest-risk, rate-matched home lender in its home state') and rules out brokerage, real estate and roll-ups, but only frames it as a 'working hypothesis' the company 'has not stated' and 'has not yet chosen', short of saying plainly that the current portfolio lacks a hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing #1 is 'Stop investing in the brokerage and real-estate services business' and #2 is 'Stop buying other thrifts for size or rank', both in the one-screen verdict."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The legacy fixed-rate book funded by rate-sensitive deposits is ranked #1 and 'most urgent', with deregulated rivals' risky expansion and the company's own strategic drift also in the register at high severity."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names 'diversification, roll-ups, out-of-state moves' with the warning sign 'any new business line or state entered without a three-circle test', flags single-state residential real-estate concentration, and lists 'forced sale to a rival' under capitulation, which matches what happened."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, missing financials are flagged repeatedly and the computed $69M per office is labelled, but 'densest branch network in the state' and 'Rival K is structurally bigger' are unmarked inferences beyond the dossier."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict concisely gives the hedgehog sentence, the weakest flywheel link (deposits), three stop-doing items, the most urgent brutal fact and the missing numbers, and can be acted on as it stands."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A08|s1|judge",
+    "stage": "judge",
+    "case_id": "A08",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12206,
+    "tokens_out": 1616,
+    "cost_usd": 0.22043580000000002,
+    "duration_s": 19.0,
+    "finished_at": 1795584981.2310479,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1616,
+        "costUSD": 0.22043580000000002
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "tie",
+  "D8": "2",
+  "D9": "na",
+  "overall": "1",
+  "why": "Analysis 1's hedgehog names the capital-markets channel as well as risk pricing, profit per unit of risk and homeownership, which is closer to the key than Analysis 2's risk-only framing; its unhedged-rate-bet brutal fact and matched-funding actions are also slightly sharper. Analysis 2 has the tighter one-screen verdict, but the two are otherwise near-equal on stop-doing, decline risks and calibration.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|A07|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A07",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17338,
+    "tokens_out": 1911,
+    "cost_usd": 0.35383200000000004,
+    "duration_s": 22.0,
+    "finished_at": 1795584962.0465565,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1911,
+        "costUSD": 0.35383200000000004
+      }
+    }
+  }
+}

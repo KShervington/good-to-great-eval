@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "tie",
+  "D3": "1",
+  "D5": "na",
+  "D7": "tie",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Analysis 1 matches the key's hedgehog more exactly (one-stop food-and-drug stores with specialty departments, #1 or #2 in each local market, profit per local population) and makes the obsolete small-store format its most urgent brutal fact, where Analysis 2 leads with the price war and unknown profitability. Both carry the key's stop-doing decisions and flag missing data honestly, but Analysis 1's verdict is more actionable on how to fund the store replacement and states what would falsify the concept.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|A11|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A11",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15488,
+    "tokens_out": 1108,
+    "cost_usd": 0.292112,
+    "duration_s": 14.9,
+    "finished_at": 1795585071.60931,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1108,
+        "costUSD": 0.292112
+      }
+    }
+  }
+}

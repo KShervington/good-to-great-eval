@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 2,
+    "why": "The analysis narrows to a \"communications-technology company\" fed by government electronics and explicitly rules printing out (\"run for cash and separated\"), sharing only the communications element with the key, which keeps printing and electronics joined."
+  },
+  "D2": {
+    "score": 3,
+    "why": "\"Stop acquiring for 24 months\" is item 1 and covers the key's scattered-acquisitions point, but the list also starves printing of growth capital and shifts decision-making away from headquarters, which cuts against staying inside the printing-and-communications concept, and succession is not treated as protecting the concept."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All four key facts are in the register: weak earnings growth is ranked first and critical with its consequence (\"buying revenue, not returns\"), followed by integration overload, still-mechanical printing machines and government budget dependence."
+  },
+  "D5": {
+    "score": 3,
+    "why": "Gate 10 flags hubris about \"entering any electronics market\" and a \"transformational deal\", which gestures at the later office-automation leap, but it misses the successor resetting direction and the analysis itself recommends the headquarters shift and printing separation that were part of the decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently marked, missing segment data, return on capital, backlog and market share are flagged, and the verdict is hedged as a hypothesis; the slips are minor, such as \"five deals in about six years\" (the dossier supports four) and an unexplained 28/100 score."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact and the numbers that would change the answer."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A25|s3|judge",
+    "stage": "judge",
+    "case_id": "A25",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13314,
+    "tokens_out": 1976,
+    "cost_usd": 0.2525638,
+    "duration_s": 23.5,
+    "finished_at": 1795588343.7284174,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1976,
+        "costUSD": 0.2525638
+      }
+    }
+  }
+}

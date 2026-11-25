@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "2",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both correctly fail Gate 0, connect the Calder concentration, champion retirement and March/April/May cash timing, decline the unbudgeted app, and flag the ungrounded attendance target. Analysis 1 matches the key's reframes and project methods more fully (including the ED's career and a critical path) with a tighter verdict, while Analysis 2 is slightly more explicit about missing data.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|D12|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D12",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12866,
+    "tokens_out": 1769,
+    "cost_usd": 0.2766,
+    "duration_s": 24.1,
+    "finished_at": 1795589593.2520087,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1769,
+        "costUSD": 0.2766
+      }
+    }
+  }
+}

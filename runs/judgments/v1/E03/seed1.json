@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'science-based products that make health care more cost-effective' with profit per employee as denominator, and it explicitly says Marbury is 'not best at' broad branded-drug discovery against the largest drugmakers or running a PBM, matching all three key points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's top three temptations to refuse are buying a PBM, merging for scale, and an open-ended branded-drug R&D race; the diagnostics quality fix is the first 90-day action and is framed as preservation, with nothing dismantling the core."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Unresolved diagnostics quality concerns are ranked #1 and 'Critical', with the consequence tied to the earlier intravenous-solution recall; near-zero pricing power, consolidation, and sub-scale branded drugs follow as facts 2 to 4."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and its later history states there was no How-the-Mighty-Fall-style decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures (about $30,700 earnings per employee, segment margins, EPS growth) are correctly computed from the dossier, assumptions are tagged, and missing shareholder returns, regulator findings, product-line profit and JV economics are flagged with Gate 1 kept conditional; but calling the removed predecessor 'misaligned' and the board 'rigorous' is an unmarked inference, and the 74/100 score is unexplained."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (manufacturing quality at scale), three temptations to refuse, the most urgent brutal fact, and the missing numbers, so it is actionable on its own."
+  },
+  "D9": {
+    "score": 4,
+    "why": "It says plainly that Marbury is 'already great' with evidence, confirms the existing hedgehog, and gives subject-specific warnings, but it adds several changes the evidence only weakly supports (three new seats, moving diagnostics manufacturing leadership, a new BHAG), so the list is not few."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|E03|s1|judge",
+    "stage": "judge",
+    "case_id": "E03",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11939,
+    "tokens_out": 2175,
+    "cost_usd": 0.2385238,
+    "duration_s": 26.8,
+    "finished_at": 1795589678.1459894,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2175,
+        "costUSD": 0.2385238
+      }
+    }
+  }
+}

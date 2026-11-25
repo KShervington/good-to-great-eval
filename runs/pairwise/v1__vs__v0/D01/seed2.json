@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "1",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land the same hedgehog, stop dental and chains, lead with the VetSource fact and flag the same decline stages, so the key-matching dimensions are ties. Analysis 1 tags its blended CAC estimate explicitly as an assumption while Analysis 2 adds an unsupported 'direct CAC is probably worse', but Analysis 2 has the tighter verdict and adds the contract-date discrepancy and dental re-entry criteria, which makes it slightly more useful to the leader.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|D01|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D01",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 20986,
+    "tokens_out": 1615,
+    "cost_usd": 0.40036,
+    "duration_s": 20.2,
+    "finished_at": 1795589038.765358,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1615,
+        "costUSD": 0.40036
+      }
+    }
+  }
+}

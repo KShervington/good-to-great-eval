@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "2",
+  "D5": "tie",
+  "D7": "1",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses find the Delmar/Harrow's supply cliff, decline Larchmont, pause the third metro and use a per-technician rather than per-machine denominator, but Analysis 2 quantifies the payback shift (about 12, 21–27 and 46 months) in line with the key and leads with a decision-ready verdict covering all four offsite items. Analysis 1 is slightly better calibrated because it names unknown churn as a brutal fact to be measured, whereas Analysis 2 only lists it among the numbers that would change the answer.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|D02|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D02",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 22094,
+    "tokens_out": 1483,
+    "cost_usd": 0.412808,
+    "duration_s": 19.4,
+    "finished_at": 1795589113.4109755,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1483,
+        "costUSD": 0.412808
+      }
+    }
+  }
+}

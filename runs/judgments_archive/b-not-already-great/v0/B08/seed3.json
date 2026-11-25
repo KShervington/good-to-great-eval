@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('most dependable, easiest-to-service television', with hand-wiring demoted to a method and the 'No. 1 in color' volume goal ruled out) matches the key's customer-defined quality and solid-state shift, but the denominator is profit per dealer rather than profit per set, and it lists lowest-cost production as something Meridian cannot be best at."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are exactly the key's temptations (hand-wiring as the brand, the debt-funded 'No. 1 in color' capacity race, open-ended pay-TV spending), with 'stop dismissing imports' as item 6 and in the verdict's brutal fact, and the proven core of quality brand, dealers and inventory discipline is preserved."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Facts 1 and 2 are ranked Critical (quality tied to a production method the industry is abandoning, and leadership dismissing both integrated circuits and imports), the consequence is stated ('the loop breaks'), and pay TV and the color position are also in the register."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names the actual mechanisms: Stage 1 hubris in waving off imports and integrated circuits ('already visible'), Stage 2 the debt-funded 'No. 1 in color' capacity race plus pay TV, the succession gap, and Stage 4 grasping, with fitting warning signs such as 'capacity growth outpaces orders; debt appears to fund share goals'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked throughout, missing data is listed, and the margin figures are correctly derived from the dossier and caveated as a single-quarter comparison, but 'Greatness potential: 20/100' is an unmarked, underived figure and the Gate 6 PASS rests on the analyst's own stop-doing list."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has every required part (hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact, missing numbers) and is actionable, but with the gate summary, score and method note it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It calls Meridian 'clearly good, and arguably great under its founder' with 7 of 11 gates CONDITIONAL and 20/100 potential, and gives a long list of hires, seat moves and eight stop-doing items; it does not attack the quality-and-dealer core and its warning signs are specific, but it treats the subject as good with gaps."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|B08|s3|judge",
+    "stage": "judge",
+    "case_id": "B08",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14890,
+    "tokens_out": 2747,
+    "cost_usd": 0.3092676,
+    "duration_s": 30.6,
+    "finished_at": 1795496001.1712122,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2747,
+        "costUSD": 0.3092676
+      }
+    }
+  }
+}

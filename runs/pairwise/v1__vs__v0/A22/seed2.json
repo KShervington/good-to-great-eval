@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses reach nearly the same diagnosis (abandon growth-for-size, narrow to the home-state franchise, cut cost, stop energy/shipping/developing-country lending) and both list all four key brutal facts and the decline pattern. Analysis 1 edges ahead by naming cost as the weakest link, explicitly including executive perks in its stop-doing list and giving a tighter verdict, while Analysis 2 is slightly better calibrated because it explains its score and avoids placeholder numeric targets.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|A22|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A22",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 19444,
+    "tokens_out": 1250,
+    "cost_usd": 0.361088,
+    "duration_s": 15.7,
+    "finished_at": 1795585529.7463846,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1250,
+        "costUSD": 0.361088
+      }
+    }
+  }
+}

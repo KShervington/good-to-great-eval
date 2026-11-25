@@ -28,7 +28,7 @@ REQUIRED_SECTIONS = {
     "hedgehog": r"hedgehog",
     "flywheel": r"flywheel",
     "bus": r"\bbus\b|people|who",
-    "stop_doing": r"stop[- ]doing",
+    "stop_doing": r"stop[- ]doing|temptations?",  # stewardship mode lists "temptations to refuse" instead
     "brutal_facts": r"brutal facts?",
     "ideology_bhag": r"bhag|core ideology|core values|purpose",
     "scorecard": r"scorecard",
@@ -220,6 +220,13 @@ def check_all(md: str, dossier: str, waive: tuple | set = ()) -> dict:
     a_ok, a_list = check_assumptions(md, dossier)
     q_ok, q_list = check_no_long_quote(md, dossier)
     gp = greatness_potential(md)
+    # A run that FAILs Gate 0 or Gate 1 is told to stop there, so the later sections are rightly absent.
+    # Whether that FAIL was correct is scored separately (D6). Decision 2026-11-25, see CHANGELOG.
+    gv = gate_table_verdicts(md)
+    if gv.get(0) == "FAIL" or gv.get(1) == "FAIL":
+        s_missing = [m for m in s_missing if m in ("verdict", "gate_log")]
+        s_ok = not s_missing
+        waive = set(waive) | {"stop_doing_5", "hedgehog_1s"}
     checks = {
         "sections": s_ok, "gate_counts": g_ok, "stop_doing_5": sd_ok, "hedgehog_1s": h_ok,
         "assumptions": a_ok, "no_long_quote": q_ok, "gp_present": gp is not None,

@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "1",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both reach the same key-aligned answer: narrow to the quick-print niche, refuse the electronic-office bet, harvest addressing, and name all three brutal facts. Analysis 2 has the tighter verdict and flags the ego-driven 'savior' CEO and the cash drain to failure more directly, while Analysis 1 is slightly cleaner on calibration because it avoids placeholder numeric targets.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|A18|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A18",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15910,
+    "tokens_out": 1464,
+    "cost_usd": 0.313104,
+    "duration_s": 18.1,
+    "finished_at": 1795585258.577656,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1464,
+        "costUSD": 0.313104
+      }
+    }
+  }
+}

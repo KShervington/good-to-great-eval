@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "1",
+  "D5": "na",
+  "D7": "tie",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on specialist instrument selling, budgets and goals, and both wrongly rule out implants, but Analysis 2 puts ending flat-salary sales and founder-family control in its top three stop-doing items and sets an explicit annual net-earnings growth bar, which is closer to the key's march. Analysis 1's headline brutal fact (70% beds with no one selling) matches the key more directly, but its verdict is less tight and it buries the sales-pay fix lower in its list.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|C01|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "C01",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18376,
+    "tokens_out": 1184,
+    "cost_usd": 0.34136,
+    "duration_s": 18.2,
+    "finished_at": 1795588907.752206,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1184,
+        "costUSD": 0.34136
+      }
+    }
+  }
+}

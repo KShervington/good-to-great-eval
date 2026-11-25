@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is to 'grow only by deepening the relationships customers actually use' with 'profit per active primary household' as denominator, and it explicitly rejects products per household as a gameable input, matching the key's field, give-up and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's top three are stopping incentive pay on raw product counts, stopping daily product-sales goals, and moving risk and HR out of the business lines; dropping the eight-products goal is item 4 and reporting active/funded rates is item 5."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1 (Critical) ties retail quotas and per-product pay to the regulator's July finding at the sister unit, fact 2 (Critical) says cross-sell has never been checked against usage, and fact 3 covers self-policing under decentralization, with the consequence stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register names the actual mechanism by stage: hubris from crisis success, pursuit of 'eight' regardless of need, and treating the fine as legacy with 'anomalies handled one termination at a time', plus regulatory growth restrictions, each with a fitting warning sign."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are marked [ASSUMPTION], ROA is labelled as derived, and the missing usage, termination, hotline and turnover data are flagged rather than guessed, but the 'Greatness potential: 42/100' figure is unexplained and a few minor inferences (such as the strategy having 'run for decades') are unmarked."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence with denominator, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact and the missing numbers, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|B03|s2|judge",
+    "stage": "judge",
+    "case_id": "B03",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13665,
+    "tokens_out": 1549,
+    "cost_usd": 0.2410998,
+    "duration_s": 20.2,
+    "finished_at": 1795588630.078477,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1549,
+        "costUSD": 0.2410998
+      }
+    }
+  }
+}

@@ -1,31 +1,31 @@
 {
   "D1": {
     "score": 4,
-    "why": "The hedgehog ('sets dealers and repairmen trust most, using whatever technology makes them most dependable') matches the key's customer-defined quality and solid-state adoption and rejects the unit-share race, but it uses profit per dealer (profit per set only as a secondary check) and says Meridian 'cannot be best at' lowest-cost production against imports."
+    "why": "The hedgehog ('sets America's dealers and repairmen trust most, using whatever technology makes them most dependable') matches the key on outcome-defined quality, solid-state adoption and rejecting the unit-share race, but it uses profit per dealer as the denominator and says Meridian 'cannot be best at lowest-cost production against imports' where the key says match or beat Japanese cost."
   },
   "D2": {
     "score": 5,
-    "why": "The top three stop-doing items are hand-wiring as the definition of quality, the race to beat Rival R in color share, and open-ended pay-TV spending; dismissing imports/ICs and debt-funded capacity are items 4 and 5, and the dismissal is also the verdict's brutal fact."
+    "why": "The top three stop-doing items are hand-wiring as the definition of quality, the goal of beating Rival R in color share, and open-ended pay-TV spending, with items 4 and 5 adding 'stop dismissing imports or ICs' and no debt-funded color capacity."
   },
   "D3": {
     "score": 5,
-    "why": "The register ranks Japanese imports (#1) and the late shift to printed circuits/transistors/ICs (#2) as High, with pay TV at #7, and the verdict's most urgent fact states the consequence: the brand is tied to a method these forces make more expensive every year."
+    "why": "Brutal facts 1 and 2 are the dismissed Japanese imports and the lagging shift to printed circuits, transistors and ICs, both rated High and named as the most urgent fact in the verdict with the consequence stated; pay TV is fact 7, though the capital burden of the color race appears only in the stop-doing list and risk register."
   },
   "D5": {
     "score": 5,
-    "why": "The decline register names the actual mechanisms: hubris about imports ('imports are junk'), a 'debt-funded race to No. 1 in color; pay TV' with the early warning 'capital spending ahead of a cost case; debt rising', denial on imports and ICs, grasping for salvation, and the succession gap under Gates 2 and 3."
+    "why": "The decline register names Stage 1 hubris ('imports are junk'), Stage 2 'debt-funded race to No. 1 in color; pay TV' with the warning sign 'capital spending ahead of a cost case; debt rising', and the succession gap, though Stage 3 blame-shifting and Stage 4 scattershot diversification are only loosely covered."
   },
   "D7": {
     "score": 4,
-    "why": "Inferences are marked [ASSUMPTION], the margin figures are correctly computed from the dossier and flagged tentative, and missing data is named; but the 'Greatness potential: 30/100' score is unexplained and sits oddly with a Gate 1 PASS and 6 PASS / 5 CONDITIONAL."
+    "why": "The computed margins (5.1%, 4.4%, 6.0%) are correct and marked tentative, and missing data is flagged throughout, but the 'Greatness potential: 30/100' score is unexplained and the claim that No. 1 in black-and-white came from 'trade trust and distribution discipline' is an unmarked inference."
   },
   "D8": {
     "score": 5,
-    "why": "The opening verdict concisely gives the hedgehog sentence, the weakest flywheel link (engineering reinvestment in new technology), the top three stop-doing items, the most urgent brutal fact and the missing numbers, and could be acted on alone."
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (engineering reinvestment in new technology), three stop-doing items, the most urgent brutal fact and a list of missing numbers, compactly enough to act on."
   },
   "D9": {
-    "score": 3,
-    "why": "Gate 1 passes with evidence, the core (dealer network, inventory discipline, earnings-funded growth) is preserved and the warning signs are specific, but it never plainly calls the subject already great, rates it 30/100, and gives a long improvement list of seven stop-doing items, four seats to fill and six mechanisms."
+    "score": null,
+    "why": "The answer key is track B, so restraint is not scored."
   },
   "hindsight_leak": false,
   "recognized_subject_by_name": false,
@@ -36,16 +36,16 @@
     "seed": 2,
     "model": "claude-fable-5-2",
     "effort": "high",
-    "tokens_in": 13946,
-    "tokens_out": 2466,
-    "cost_usd": 0.2829236,
-    "duration_s": 27.7,
-    "finished_at": 1795495891.6978147,
+    "tokens_in": 13991,
+    "tokens_out": 2181,
+    "cost_usd": 0.2715958,
+    "duration_s": 24.6,
+    "finished_at": 1795575507.3033285,
     "models_used": {
       "claude-fable-5-2": {
         "inputTokens": 2,
-        "outputTokens": 2466,
-        "costUSD": 0.2829236
+        "outputTokens": 2181,
+        "costUSD": 0.2715958
       }
     }
   }

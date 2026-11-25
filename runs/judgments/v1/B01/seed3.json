@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog stays in electronics superstore retailing 'delivered by retail's best store-and-distribution machine', renews the store against Rival B and drops growth targets and ventures, but narrows the field to 'expert help' for complex electronics and uses profit per square foot, not profit per region."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing #1 in the verdict is 'Chasing 800 stores and $15B in revenue', followed by separating used cars to protect focus and no more proprietary-format bets, with a remodel test and an explicit warning against copying Rival B 'all at once'."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical and repeated in the verdict, is that Rival B leads in sales, earnings, profit per store and share; the register also lists the venture diversion, the aging stores and commission model, and the appliance attack."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 marks Stages 1 and 2 present and Stage 3 emerging, and names the Stage 4 warning sign as 'an overnight, chain-wide end to commissions... or a dramatic rebrand', plus counselor redeployment 'not a mass cut', which is the mechanism that happened."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, derived figures show their arithmetic and missing profit-per-square-foot, ROE and margin data are flagged, but 'about 20 years of more than 20% annual growth' overstates the dossier and the 'Greatness potential: 22/100' score is unexplained."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact and the numbers that would change the call."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|B01|s3|judge",
+    "stage": "judge",
+    "case_id": "B01",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15493,
+    "tokens_out": 2322,
+    "cost_usd": 0.3012678,
+    "duration_s": 26.4,
+    "finished_at": 1795588504.0695326,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2322,
+        "costUSD": 0.3012678
+      }
+    }
+  }
+}

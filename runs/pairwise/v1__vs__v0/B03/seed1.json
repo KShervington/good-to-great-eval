@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "2",
+  "D5": "1",
+  "D7": "tie",
+  "D8": "1",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both land on the key's hedgehog (profit per active primary relationship, not product count) and the same core stop-doing items, and Analysis 1 has the tighter verdict and the more explicit decline staging, including the 'bad apples' denial pattern. Analysis 2 is slightly sharper on the brutal fact that cross-sell counts accounts held rather than used, names the quota-driven loop as a doom loop, and moves to remove quotas rather than freeze them, so it is the one I would hand to the leader.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|B03|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "B03",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 20862,
+    "tokens_out": 1704,
+    "cost_usd": 0.401936,
+    "duration_s": 20.6,
+    "finished_at": 1795588650.7696414,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1704,
+        "costUSD": 0.401936
+      }
+    }
+  }
+}

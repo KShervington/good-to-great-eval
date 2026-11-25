@@ -1,31 +1,31 @@
 {
   "D1": {
     "score": 5,
-    "why": "The hedgehog is 'the trusted primary bank for American households and small businesses, measured by profit per actively used primary relationship, not by products sold', which matches the key's genuine community-banking relationships, its denominator and its rejection of product count."
+    "why": "The hedgehog is to be 'the trusted primary bank for American households and small businesses' on 'profit per actively used primary relationship, not by products sold', which matches the key's genuine community-banking relationships and its active-relationship denominator while explicitly demoting product count."
   },
   "D2": {
     "score": 5,
-    "why": "The top three stop-doing items in the verdict are product-count pay and daily sales goals, the 'eight products' headline target, and business lines policing their own sales conduct, which is the key's decision; the community-banking core is kept."
+    "why": "The top three stop-doing items in the verdict are to stop product-count pay and daily sales goals, stop the 'eight products' headline target, and stop business lines policing their own sales conduct; the fuller list adds counting only funded/active accounts and not treating fines as isolated legacy events."
   },
   "D3": {
     "score": 5,
-    "why": "The register ranks the $85M quota-driven subsidiary fine and the same mechanism in the largest business as Critical, followed by held-not-used cross-sell and risk/HR embedded in business lines, each with consequences stated."
+    "why": "The register ranks the $85M quota-driven subsidiary finding and the same mechanism running Community Banking as Critical, then lists cross-sell counting held rather than used accounts and risk/HR sitting inside business lines, with the consequence stated as a latent quota doom loop."
   },
   "D5": {
     "score": 5,
-    "why": "It names a 'quota doom loop' and maps stages 1-3 to the actual mechanism (praise-driven hubris, the eight-products goal, the subsidiary fine framed as legacy, decentralization trapping bad news), with fitting warning signs such as unreported unfunded-account rates and hotline volume."
+    "why": "It names the actual mechanism: hubris from record results and praise, the eight-products goal with quotas, the subsidiary fine 'framed as legacy', and decentralization keeping bad news inside units, with fitting warning signs such as an unreported unfunded-account rate and hotline volume, and it foresees regulatory growth limits."
   },
   "D7": {
     "score": 4,
-    "why": "Assumptions are mostly tagged and the missing usage, hotline, termination and turnover data are flagged up front, but it asserts unmarked that crisis outperformance came from 'deposits and credit discipline', which the dossier does not say, and gives an unexplained 40/100 score."
+    "why": "Assumptions are mostly tagged, the missing usage, hotline, termination and turnover data are flagged up front, and the verdict is conditional on them; however, it asserts without marking that crisis outperformance came from 'deposits and credit discipline' and a 'cheap, loyal deposit base', which the dossier does not state."
   },
   "D8": {
-    "score": 4,
-    "why": "The verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, and is actionable, but with the long brutal-fact paragraph and run notes it runs past one phone screen."
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (sale to actual use), the top three stop-doing items, the most urgent brutal fact and the missing numbers, and is actionable on its own, though slightly long."
   },
   "D9": {
-    "score": 3,
-    "why": "It never says plainly that the subject is already great ('Greatness potential: 40/100', six CONDITIONAL gates) and gives ten stop-doing items and many new seats, but it keeps the CEO, the stores and the community-banking core and names subject-specific warning signs."
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
   },
   "hindsight_leak": false,
   "recognized_subject_by_name": false,
@@ -36,16 +36,16 @@
     "seed": 3,
     "model": "claude-fable-5-2",
     "effort": "high",
-    "tokens_in": 14315,
-    "tokens_out": 2252,
-    "cost_usd": 0.2802676,
-    "duration_s": 27.0,
-    "finished_at": 1795495451.5320137,
+    "tokens_in": 14354,
+    "tokens_out": 1838,
+    "cost_usd": 0.2636838,
+    "duration_s": 21.3,
+    "finished_at": 1795575440.1817815,
     "models_used": {
       "claude-fable-5-2": {
         "inputTokens": 2,
-        "outputTokens": 2252,
-        "costUSD": 0.2802676
+        "outputTokens": 1838,
+        "costUSD": 0.2636838
       }
     }
   }

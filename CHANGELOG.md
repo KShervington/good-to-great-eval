@@ -82,3 +82,31 @@ Every phase and every improvement round is logged here: what ran, scores, the ed
   - Stop-doing removed: first pass 2/4. Both misses were a bug in the damage step, not the judge: a bold label (`**Top three stop-doing items:**`) was taken for a bullet, so the verdict's numbered "Stop…" items survived, and the judge rightly credited them. Fixed the label regex and re-ran those 2 (old judgments archived under `runs/judgments_archive/no_stop-transform-bug/`).
 - Track B baseline: 18 judge jobs reset and re-run under the Track-E-only D9 rule (`scripts/rejudge.py`; old judgments archived under `runs/judgments_archive/b-not-already-great/`). Because the rubric didn't change, the other 108 baseline judgments stand.
 - Round 1 queued: 126 v1 runs, 126 v1 judge calls, 126 v1-vs-v0 pairwise calls.
+
+## 2026-11-25: Round 1 result: v1 ACCEPTED
+- 378 jobs (126 v1 runs, 126 judge calls, 126 v1-vs-v0 pairwise), 0 failures, $114 API-equivalent (runs $37.36, judge $31.06, pairwise $45.56).
+- One limit pause: Fable at 00:48 (reset parsed as 01:30), auto-resumed at 01:32. Wall-clock paused so far: 8.2 h total across the project.
+- **Scorer fixes before the decision (they apply to v0 and v1 alike):**
+  - A run that FAILs Gate 0 or Gate 1 is told to stop there. `sections`, `stop_doing_5` and `hedgehog_1s` are now waived for such runs, since the later sections are rightly absent. Whether the FAIL was right is still scored by D6. Before this fix, D12 (v0 and v1) and D05 (v1) lost points for stopping correctly.
+  - In stewardship mode a "temptations to refuse" heading now counts as the stop-doing section.
+  - These fixes raised the round-1 diff from +1.47 [0.47, 2.35] to +1.87 [0.98, 2.79]. Both pass.
+- **Decision (`runs/decisions/r1.json`): ACCEPT.** Composite v1 92.88 vs v0 91.01. Diff +1.87, 95% CI [0.98, 2.79] (clustered bootstrap, 26 clusters). No dimension dropped more than 0.3. Growth +8.4%. Overfitting scan clean.
+  - **Stopping rule:** +1.87 is below 2% of max (2.0 points). This round counts as the first "small gain" round. If round 2 also gains under 2.0, or its CI includes 0, the loop stops.
+- **Per dimension (v0 → v1):** D8 verdict 4.48 → 4.96. D9 restraint (Track E) 3.53 → 4.33. D5 4.67 → 4.58. D7 4.19 → 4.17. D1, D2 and D3 flat.
+- **Per track (composite v0 → v1):** A 90.4 → 90.9, B 94.3 → 94.9, C 84.1 → 87.6, D 91.6 → 93.7, E synthetic 90.2 → 95.8, E real 89.6 → 93.7.
+  - AUROC 0.863 → 0.851 (within noise).
+  - Track E mean greatness potential 65.0 → 69.9.
+- **Hypotheses:**
+  - E1 confirmed: 14/15 Track E outputs say "already great", and D9 rose 0.8.
+  - E2 confirmed: D05 FAILs Gate 1 in 3/3 (v0 0/3).
+  - E3 confirmed: D8 = 5 in 122/126 (v0 61/126).
+- **Side effects found:**
+  - **Honesty in the verdict (pairwise D7: v0 won 58, v1 won 19, 49 ties).** The judge's reasons: v1's shorter verdict dropped confidence statements, missing-data lists and assumption tags. 41/58 reasons mention flagging or marking, 26 mention uncertainty. The absolute D7 barely moved (−0.02), but the A/B comparison sees it clearly. The cause is E3's "leave out … caveats".
+  - **Gate 1 false positive on a once-good company in crisis.** A24 (unsustained, key expects no gate fail) FAILs Gate 1 in 3/3 under v1 (2/3 under v0). The new "not yet good" wording catches a turnaround as if it were a startup that never worked.
+  - **Decline register still generic.** D5 = 3 in 12 outputs (v0 9). A-track D5 fell 4.37 → 4.24.
+  - B05/B08 (fallen companies at their peak) now open "already great, with early signs of decline". That is correct for those dossiers, and Track B composite rose.
+
+### Round 2: candidate v2 (3 edits; +13.5% words over v0; overfitting scan clean)
+- **E4, turnaround vs not-yet-good.** "Not yet good" is for a core that has never worked on its own. A once-good subject in crisis (mounting losses, lost share, funding squeeze) is run as a turnaround, with brutal facts and survival actions first. Hypothesis: fixes the A24 false FAIL (D6), and D05 still FAILs.
+- **E5, honesty kept in the short verdict.** Add one line on how confident the verdict is and what it rests on. Keep `[ASSUMPTION]` tags on verdict figures. Caveats are no longer on the "leave out" list. Hypothesis: wins back pairwise D7 and raises absolute D7, with D8 unchanged.
+- **E6, specific decline mechanisms first.** Gate 10 leads with the one or two mechanisms most likely to bring this subject down, from its own evidence, each with a warning sign and a trigger threshold. Then the remaining stages briefly. Hypothesis: D5 = 3 outputs fall, D5 mean rises.

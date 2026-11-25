@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog is fast uptime for independent restaurants on dense routes in existing metros, with owned machines as a boundary and hotels and the third metro ruled out, but its denominator is contribution per technician route, not the key's per-placed-machine measure."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict's top two stops are 'The third metro. Shelve it' and 'Larchmont as written. Decline it', and the full list adds no shop capacity before supply is secured and no service-only contracts on machines Corvane doesn't own."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1 (Critical) and the verdict's 'most urgent brutal fact' link 288 of 403 units via Delmar to Harrow's remodels ending (118 of 610 left), with capital per machine rising from about $2,130 to $4,140 and payback from about 12 to 24 months."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names 'chasing hotels, conveyors, service-only work' and a third metro before the east hits 92%, plus denial as 'ignoring the supply cliff', each with a specific early warning such as non-owned-machine revenue above 10%."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Churn and redeployment rate are flagged as missing and not computed, and the key inferences ($75k technician cost, 0.6 units per location) are tagged, but the Series B timing of 12–15 months, emergencies clustering on Friday nights and the unexplained 'Greatness potential: 20/100' are unmarked."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict gives the hedgehog sentence, weakest flywheel link, top three stops, most urgent brutal fact and missing numbers and is actionable, but with offsite answers, six missing-number bullets and run notes it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track D, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-retest|D02|s2|judge",
+    "stage": "judge",
+    "case_id": "D02",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15335,
+    "tokens_out": 2019,
+    "cost_usd": 0.2866198,
+    "duration_s": 24.6,
+    "finished_at": 1795574909.7280924,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2019,
+        "costUSD": 0.2866198
+      }
+    }
+  }
+}

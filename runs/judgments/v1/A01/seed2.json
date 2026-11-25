@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'best in the world at branded, fiber-based personal-care paper products, measured by profit per consumer brand', and it explicitly rules out commodity printing paper, newsprint and the mills, matching all three key points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1, in both the verdict and the full list, is 'Stop funding commodity printing-paper and newsprint mills. Sell them, the namesake mill included', with proceeds redirected to the consumer push."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register lists returns trailing the market (#1), mills that 'cannot be best in the world' on commodity pricing (#3) and Rival P as the opponent (#7), and ranks the mills-versus-Rival-P funding conflict as Critical with the consequence stated."
+  },
+  "D5": {
+    "score": null,
+    "why": "The answer key lists no expected decline risks and its later history records no decline, so there is no mechanism to grade against."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged and the missing segment returns, brand shares and growth rates are flagged with conditional gates, but it uses 'Rival S is larger and more profitable' (a sanitary-paper fact in the dossier) as unmarked evidence that the printing mills cannot be best."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (product innovation and nonwovens), three stop-doing items, the most urgent brutal fact and the missing numbers, all concisely enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A01|s2|judge",
+    "stage": "judge",
+    "case_id": "A01",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11001,
+    "tokens_out": 1258,
+    "cost_usd": 0.18683580000000002,
+    "duration_s": 17.1,
+    "finished_at": 1795584435.1617153,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1258,
+        "costUSD": 0.18683580000000002
+      }
+    }
+  }
+}

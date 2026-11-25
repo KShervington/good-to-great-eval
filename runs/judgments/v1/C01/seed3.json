@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog matches the key's core: specialist results-paid reps, powered orthopedic instruments over a bed base that 'is not the growth future', budgets and goals, and earnings that 'grow steadily every year'. Its denominator is 'gross profit per specialist sales rep', not annual net-income growth, and it rules out implants."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are 'Stop routing every decision through the founding family', 'Stop paying salespeople with no link to results', and deferring the IPO, which cover the key's sales-pay, centralized-control and restraint decisions."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register lists 'No effective sales force' as Critical in the first row, plus no budgets, the leadership shock, 70% of sales in beds and stretchers, and no implants at modest scale; the verdict names the broken sales channel as most urgent and the flywheel section states the consequence."
+  },
+  "D5": {
+    "score": null,
+    "why": "The answer key lists no expected decline risks and its later history records no decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are marked [ASSUMPTION] and the missing margins, earnings history and market share are flagged with conditional gates, but 'Greatness potential: 30/100' is given with no derivation and sits oddly with the evidence."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link ('the sales force. It barely exists'), three stop-doing items, the most urgent brutal fact and the missing numbers, all in one short screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key's track is C, not E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|C01|s3|judge",
+    "stage": "judge",
+    "case_id": "C01",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 10772,
+    "tokens_out": 1592,
+    "cost_usd": 0.1965318,
+    "duration_s": 20.1,
+    "finished_at": 1795588893.7457695,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1592,
+        "costUSD": 0.1965318
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "1",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Analysis 1 correctly stops at Gate 1 with no Hedgehog, says only that at most 6 active circles are outside the founder's network, and asks for cohort retention by source, whereas Analysis 2 passes 8 gates and builds a BHAG and flywheel on an unproven product. Analysis 2 has the stronger stop-doing list (vanity signals, aggregator dependency) and explicit decline-stage mapping, but its overall posture is less calibrated to the evidence.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|D05|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D05",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17938,
+    "tokens_out": 1709,
+    "cost_usd": 0.355352,
+    "duration_s": 20.0,
+    "finished_at": 1795589251.2710836,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1709,
+        "costUSD": 0.355352
+      }
+    }
+  }
+}

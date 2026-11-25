@@ -1,31 +1,31 @@
 {
   "D1": {
-    "score": 3,
-    "why": "The hedgehog ('expert help choosing and setting up complex home technology… best-run superstore system… profit per customer transaction') keeps the electronics superstore and operations core and renews the format against Rival B, but narrows it to an advised-selling niche, rejects the low-price leg and uses a different denominator from the key's profit per region."
+    "score": 4,
+    "why": "The hedgehog keeps the electronics superstore system as the core, renews the store against Rival B via the remodel experiment, and gives up ventures and store-count targets, but it narrows to an 'expert help for complex home technology' niche and uses profit per customer transaction rather than profit per region."
   },
   "D2": {
-    "score": 4,
-    "why": "The top three stop-doing items drop the 800-store goal and stop the used-car business drawing electronics management attention and capital, with 'no new ventures from the core' at #4 and a warning against sudden model switches; but it goes beyond the key by leading with an appliance exit and recommending a spin-off or sale of the used-car business, which the key says should have been kept."
+    "score": 5,
+    "why": "The top three stop-doing items include 'fully separate the used-car business from electronics management and capital' and 'drop the 800-store goal, fund remodels of existing stores before opening new ones', with a further item banning core-funded ventures and a Stage 4 warning against untested silver-bullet moves."
   },
   "D3": {
     "score": 5,
-    "why": "Brutal fact #1 (Critical) and the one-screen verdict state that Rival B leads in sales, earnings, profit per store and share using the model Kestrel rejected; the register also lists the venture losses, the ageing store base and commission model, and the appliance price attack."
+    "why": "Brutal fact #1, rated Critical and repeated in the verdict, is that Rival B leads on sales, earnings, profit per store and share using the self-service model Kestrel rejected; the register also covers the venture losses, the ageing store base and commission model, and the appliance price attack."
   },
   "D5": {
     "score": 5,
-    "why": "The risk register marks Stage 1 hubris ('great shape') and Stage 2 (ventures, 800-store goal) as already showing, flags Stage 3 denial, and gives Stage 4 warning signs that match what happened: 'a sudden total switch of selling model without test data… a splashy rebrand, or an outside savior CEO'."
+    "why": "The risk register names hubris ('great shape'), undisciplined pursuit of more (ventures, 800-store goal) and denial as already showing, and gives Stage 4 warning signs of 'a sudden total switch of selling model without test data... a splashy rebrand, or an outside savior CEO', which is the mechanism that actually occurred."
   },
   "D7": {
-    "score": 4,
-    "why": "Inferences are consistently marked [ASSUMPTION] and the missing ROE, profit-per-store, margin and store-age data are flagged rather than guessed, but the 'Greatness potential: 25/100' score is an unanchored figure with no stated basis."
+    "score": 5,
+    "why": "Figures are drawn from the dossier or marked [ASSUMPTION], the missing ROE, profit-per-store, margin and store-age data are flagged as answer-changing, and the hedgehog is presented as a hypothesis with confirmation tests; the only unmarked number is the judgmental 'Greatness potential: 25/100'."
   },
   "D8": {
     "score": 5,
-    "why": "The opening verdict compactly gives the hedgehog sentence, the weakest flywheel link (advice → customers pay more), three concrete stop-doing items, the most urgent brutal fact (Rival B's lead) and the missing numbers, and can be acted on without reading further."
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact and the missing numbers in a compact form that could be acted on without reading further."
   },
   "D9": {
-    "score": 2,
-    "why": "It calls the subject 'good but no longer great' at 25/100 and prescribes a new narrowed Hedgehog Concept, a commission rewrite, an appliance exit, a used-car separation and five new seats, rather than restrained renewal of the existing superstore hedgehog; it does keep the operations core and names specific warning signs."
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
   },
   "hindsight_leak": false,
   "recognized_subject_by_name": false,
@@ -36,16 +36,16 @@
     "seed": 3,
     "model": "claude-fable-5-2",
     "effort": "high",
-    "tokens_in": 14932,
-    "tokens_out": 2332,
-    "cost_usd": 0.29333960000000003,
-    "duration_s": 27.8,
-    "finished_at": 1795494921.566934,
+    "tokens_in": 14974,
+    "tokens_out": 2695,
+    "cost_usd": 0.3078838,
+    "duration_s": 29.9,
+    "finished_at": 1795575375.1020906,
     "models_used": {
       "claude-fable-5-2": {
         "inputTokens": 2,
-        "outputTokens": 2332,
-        "costUSD": 0.29333960000000003
+        "outputTokens": 2695,
+        "costUSD": 0.3078838
       }
     }
   }

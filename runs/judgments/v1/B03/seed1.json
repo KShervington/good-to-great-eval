@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'primary, trusted everyday bank for households and small businesses' with 'profit per active primary relationship, not per product sold', explicitly ruling out products per household, which matches the key's field, give-up and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen top three are stopping pay on product counts and daily quotas, stopping 'eight products' as a target, and stopping risk and HR being run inside the business lines, which are the key's decisions; later items add an active/funded measure."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical, ties the central bank's quota-driven misconduct finding to today's store incentive design; #2 flags cross-sell as unverified for active/funded use and #5 flags decentralization hiding problems, with the consequence stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register names eight-products pressure (Stage 2), 'misconduct treated as individual bad apples; data kept inside lines' (Stage 3) and regulators restricting growth, with fitting warning signs such as rising sales-integrity terminations and unfunded new accounts."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions such as the 80% active rate and the three-year acquisition pause are tagged, and the missing data (active/funded rate, terminations, hotline, turnover, goal-setting) is flagged and not guessed; but the claim that crisis resilience came from a deposit-funded, relationship-heavy balance sheet is an unmarked inference, and the 42/100 score is unsupported."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the verdict, the hedgehog sentence, the weakest flywheel link (sales to real primary relationships), the top three stop-doing items, the most urgent brutal fact and the numbers that would change the view, concisely enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|B03|s1|judge",
+    "stage": "judge",
+    "case_id": "B03",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14718,
+    "tokens_out": 1643,
+    "cost_usd": 0.2617078,
+    "duration_s": 18.3,
+    "finished_at": 1795588620.5311058,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1643,
+        "costUSD": 0.2617078
+      }
+    }
+  }
+}

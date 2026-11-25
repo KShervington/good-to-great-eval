@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "1",
+  "D3": "2",
+  "D5": "1",
+  "D7": "2",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2 matches the key by failing Gate 1, declining to draft a Hedgehog, and naming the hand-operated refill sync and unproven non-network retention as the core problem, while Analysis 1 claims a \"working core\" and passes seven gates. Analysis 1 has the fuller stop-doing list (employer pivot, Android, hiring, vanity metrics) and explicitly maps the decline stages, but its confidence is not supported by the evidence.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|D05|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D05",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18660,
+    "tokens_out": 1376,
+    "cost_usd": 0.353584,
+    "duration_s": 18.1,
+    "finished_at": 1795589231.1295755,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1376,
+        "costUSD": 0.353584
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "2",
+  "D5": "1",
+  "D7": "tie",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2 states outright that Marlow has no Hedgehog Concept and that price-and-blitz is a tactic, and it leads with the key's brutal facts: a steel parent funding growth while the rival changes the format. Analysis 1 is comparably calibrated and better flags the small-format-versus-superstore decline risk, but its verdict centres on missing unit economics rather than the absence of a coherent concept and the non-retail ownership.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|A06|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A06",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14848,
+    "tokens_out": 1667,
+    "cost_usd": 0.304232,
+    "duration_s": 21.3,
+    "finished_at": 1795584891.8319266,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1667,
+        "costUSD": 0.304232
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'best in the world at making wireless communication smaller, more reliable and more widely available, and at being first to obsolete its own products', with profit per wireless subscriber as denominator and 'pure revenue size' explicitly excluded, which matches the key's wireless, self-obsolescence and growth-as-outcome points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "All three key decisions are explicit and at the top: the verdict lists the doubling goal, the open-ended satellite full-launch commitment and coercive premium distribution, and the stop-doing list adds 'stop treating the analog installed base as a moat' as item 2."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'the world is moving to digital, and Varden's handset line and flagship launch are analog' as Critical #1, and also lists pricing pressure and margin slip (#3), satellite exposure (#4) and terrestrial cellular shrinking the satellite market (#5); carrier control appears only in the stop-doing list as 'carriers decide the future'."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names the actual mechanisms by stage — the 'analog customers can't be wrong' hubris, the doubling goal with four parallel bets, satellite launch without demand data and pricing pressure framed as temporary, and a Stage 4 savior acquisition or reorganization — each with a specific warning sign such as 'full-launch approval before an independent forecast'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures (margin 7.0% to 6.6%, R&D 8.6% to 8.1%, $560M satellite exposure, 54% subscriber growth) check out against the dossier, inferences are tagged [ASSUMPTION] and all four missing data sets are flagged, but it says leadership 'publicly denies' digital when the dossier describes an internal meeting, and it gives unmarked invented core values and an unexplained '34/100' score."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the verdict, the hedgehog sentence, the weakest flywheel link (self-obsolescence), three temptations to refuse, the most urgent brutal fact and the numbers that would change the view, concisely enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|B05|s3|judge",
+    "stage": "judge",
+    "case_id": "B05",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13971,
+    "tokens_out": 2140,
+    "cost_usd": 0.2696358,
+    "duration_s": 25.7,
+    "finished_at": 1795588714.752866,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2140,
+        "costUSD": 0.2696358
+      }
+    }
+  }
+}

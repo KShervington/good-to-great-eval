@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "1",
+  "D3": "1",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "1",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2's hedgehog is closer to the key because it pairs mortgage capital-markets distribution with managing both rate and credit risk, and it is more explicit about its evidence limits and which missing numbers would change the answer. Analysis 1 has the tighter verdict, puts the $1M-a-day loss in its brutal facts and says non-adapting executives come off, but it narrows the hedgehog to credit-risk pricing alone.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|A07|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A07",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17944,
+    "tokens_out": 1845,
+    "cost_usd": 0.360888,
+    "duration_s": 22.5,
+    "finished_at": 1795584966.7066467,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1845,
+        "costUSD": 0.360888
+      }
+    }
+  }
+}

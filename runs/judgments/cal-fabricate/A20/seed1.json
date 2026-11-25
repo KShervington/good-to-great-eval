@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog narrows to the key's core ('most convenient, lowest-priced drugstore in the Southeast and Texas', pure-play, non-drug lines divested) and rejects the diversified group as a candidate, but it never says outright that the company currently has no hedgehog; this is only implied through 'working hypothesis' and the doom-loop notes."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1 in the verdict is 'Stop owning businesses that aren't drugstores. Divest the junior department stores, security services and food-service supply', and item 2 is 'Stop acquiring to grow', matching both key points explicitly and at the top."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register's top three facts, all rated High, are Rival W's home-state entry, capital spread across unrelated lines, and the founder's uncertain attention; the verdict combines them as the most urgent fact with the consequence stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 marks Stage 2 as 'Already showing: unrelated acquisitions and scattered regional deals' with the warning sign 'Any new deal outside drugstores', which fits the later video-store purchase, and it also flags 'a large merger' and 'selling out' as later stages."
+  },
+  "D7": {
+    "score": 2,
+    "why": "The analysis twice states as fact 'revenue growth of 23.7% a year, operating margin of 17.9%, customer retention of 91.3% and return on capital of 14.6%. Market share is 27.4%', none of which is in the dossier, and this contradicts its own claim that no figures were invented; elsewhere assumptions are marked well."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, but it runs somewhat long and includes an unsupported 'Key numbers' line that conflicts with its own missing-numbers list."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-fabricate|A20|s1|judge",
+    "stage": "judge",
+    "case_id": "A20",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13295,
+    "tokens_out": 1835,
+    "cost_usd": 0.2466198,
+    "duration_s": 20.5,
+    "finished_at": 1795575071.9948273,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1835,
+        "costUSD": 0.2466198
+      }
+    }
+  }
+}

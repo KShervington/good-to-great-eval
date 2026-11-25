@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "It narrows to the key's core ('a few everyday household paper staples (towels and bathroom tissue)') with profit per ton as denominator, and says plainly the current state lacks it: 'The company has stopped following it', portfolio management 'is disproven', and the hedgehog 'reverses the company's stated strategy'."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The first stop-doing item in the verdict is 'Stop buying businesses outside household paper, and sell the four already bought', and the full list adds stopping 'no coupons, no deals' as doctrine and flags reliance on past dominance."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks Rival P's national softness-led launch with 'no answer' as #1 Critical, followed by the failed ~$200M diversification and ROE falling from 12% to 9.5% with earnings down 18%, each with an owner and consequence."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names continued share loss to Rival P on softness with specific warning signs ('blind-test losses explained away'), plus stage 4 'celebrity outside CEO promising a turnaround' and stage 5 'selling the brands', which match the actual path, though the later capacity expansion is not anticipated."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently tagged and the missing share, softness research and acquisition profitability are flagged, but 'Rival P wins at retail with tools Corwin refuses to test' and 'Corwin doesn't know its own current share' are unmarked inferences beyond the dossier."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (product preference), three stop-doing items, the most urgent brutal fact and the numbers that would change the view, so it is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A02|s2|judge",
+    "stage": "judge",
+    "case_id": "A02",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12149,
+    "tokens_out": 2157,
+    "cost_usd": 0.24116379999999998,
+    "duration_s": 25.0,
+    "finished_at": 1795584554.5837595,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2157,
+        "costUSD": 0.24116379999999998
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "1",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both land on the key's superstore-by-region hedgehog with profit per region, the format and acquisition stop-doing items, and the capital-bet and struggling-chain brutal facts; Analysis 2 adds the full-service and operating-systems elements and decline warnings closer to the key (diversifying out of electronics, expansion outrunning the manager bench). Analysis 1 has the tighter one-screen verdict and a potential score closer to the outcome, but Analysis 2 gives the leader more specific, testable actions with an explicit condition that would falsify the hedgehog.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|A05|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A05",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15794,
+    "tokens_out": 1629,
+    "cost_usd": 0.317848,
+    "duration_s": 24.0,
+    "finished_at": 1795584831.753381,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1629,
+        "costUSD": 0.317848
+      }
+    }
+  }
+}

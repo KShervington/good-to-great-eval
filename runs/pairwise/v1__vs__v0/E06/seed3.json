@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "2",
+  "D5": "na",
+  "D7": "tie",
+  "D8": "2",
+  "D9": "2",
+  "overall": "2",
+  "why": "Both analyses recognise Halvard as already great, refuse Halvard Six and the student brand, and protect the shop channel, pricing and Listening Room, but Analysis 2 matches the key's per-player profit denominator and names both key-person transitions (CEO at 61, winding head retiring) as brutal facts. Analysis 2 also has the tighter verdict and shows more restraint in an explicit stewardship mode, whereas Analysis 1 adds more new seats, an unsupported East Asia expansion, a capital-return policy and a machine-hour denominator the key does not use.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|E06|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "E06",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18140,
+    "tokens_out": 1248,
+    "cost_usd": 0.340144,
+    "duration_s": 17.0,
+    "finished_at": 1795589855.1764793,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1248,
+        "costUSD": 0.340144
+      }
+    }
+  }
+}

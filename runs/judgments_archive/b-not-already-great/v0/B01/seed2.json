@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('choose, buy and set up complex home electronics through expert people and the best-run store and distribution system') matches the key's electronics-superstore core and rules out ventures and growth targets, but it uses profit per store as the denominator and offers the key's profit per region only as an 'alternative to test'."
+  },
+  "D2": {
+    "score": 4,
+    "why": "The stop-doing list targets the key's temptations (no ventures outside electronics, retire the $15B and 800-store targets, test rather than reactively copy Rival B) and keeps the core, but its top item is full separation of the used-car business, which the key says should have been kept."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Rival B leading on 'sales, earnings, profit per store and share' is ranked Critical #1 and named the most urgent fact in the verdict, and the register also lists the venture diversion, the unproven commission model, the ageing stores and the appliance price attack."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names hubris ('great shape' language), undisciplined more (ventures, $15B and 800-store targets), denial of Rival B's lead, and grasping for salvation ('dramatic format overhaul, acquisition or new star leader'), each with a specific early warning such as a 'transformational' program announced without test data."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures are labelled and check out, and the missing profit-per-store, ROE and store-age data are flagged, but it names the disc venture 'DIVX' from outside the dossier without marking it and gives an unexplained 'Greatness potential: 20/100'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (expert help to profit per store), the top three stop-doing items, the most urgent brutal fact and the missing numbers in a compact form someone could act on."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It declares 'Kestrel is good. It is not great, and it is drifting' and prescribes a long list (seven stop-doing items, used-car separation, new seats, a new BHAG), but it keeps the electronics core and sales force and gives subject-specific warning signs."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": true,
+  "_meta": {
+    "job_id": "v0|B01|s2|judge",
+    "stage": "judge",
+    "case_id": "B01",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14920,
+    "tokens_out": 3484,
+    "cost_usd": 0.3392276,
+    "duration_s": 37.3,
+    "finished_at": 1795494814.9575958,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 3484,
+        "costUSD": 0.3392276
+      }
+    }
+  }
+}

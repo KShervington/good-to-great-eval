@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "Names adult congenital echo as the best-in-region field, explicitly rules out routine TTE, high-volume throughput, travel, overtime and lab lead, and sets the denominator as 'income per study' with shoulder load falling, matching the key on all three points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items are exactly the key's: 'Don't sign the 13-week high-volume outpatient contract', 'Stop volunteering for overtime and extra routine studies', and 'Stop going without income protection'."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical, says 'Her entire income depends on an already-injured shoulder, and nothing protects it', citing the 9 to 13-14 volume rise, impingement, dropped LTD, two months of savings and Marcus's variable income, with the consequence carried into the doom loop and Decline 5."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 3 as 'Normalizing the pain' with subject-specific warning signs (new symptoms, stalled physio, more reliance on the cushion), and covers the travel-pay chase under Stage 2, Stage 4 and the Gate 3 conflict with the household money plan."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Derived figures (8-hour shift, ~$28.50 per study, ~260 studies a month, $12,900 travel delta, commute hours) carry [ASSUMPTION] tags, no specialist pay figure is invented, and the unknown university pay and safe shoulder load are flagged as the two numbers the plan depends on, with the hedgehog held as a hypothesis."
+  },
+  "D8": {
+    "score": 2,
+    "why": "The analysis opens with a 'great version in one paragraph' vision narrative that implies the hedgehog but gives no weakest flywheel link, top-three stop-doing items, most urgent brutal fact or missing numbers; those appear only in later sections and the gate log."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-no_verdict|D06|s1|judge",
+    "stage": "judge",
+    "case_id": "D06",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12883,
+    "tokens_out": 2220,
+    "cost_usd": 0.2554278,
+    "duration_s": 24.5,
+    "finished_at": 1795575124.8895388,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2220,
+        "costUSD": 0.2554278
+      }
+    }
+  }
+}

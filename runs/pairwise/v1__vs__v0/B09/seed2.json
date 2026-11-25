@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses land on the same hedgehog (home-state retail and small-business banking, profit per employee) and cover all four key brutal facts, so they are hard to separate on substance. Analysis 1 edges ahead by putting the rate-mismatched mortgages and the successor call in its headline verdict, flagging a big-bang technology program and acquisitions as stage-4 moves, and treating earnings quality as unverified rather than passing the baseline gate.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|B09|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "B09",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 19908,
+    "tokens_out": 1174,
+    "cost_usd": 0.365472,
+    "duration_s": 15.9,
+    "finished_at": 1795588849.6836712,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1174,
+        "costUSD": 0.365472
+      }
+    }
+  }
+}

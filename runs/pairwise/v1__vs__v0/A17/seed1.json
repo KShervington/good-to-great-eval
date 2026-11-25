@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "1",
+  "D8": "2",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both land on the key's mailing-systems-plus-installed-base hedgehog, the point-of-sale exit and the same brutal facts, but Analysis 1 uses the exact profit-per-customer denominator and explicitly flags falling mail volume from electronic communication as the decline path. Analysis 2 has the punchier, more concrete verdict screen, but leans on a few more unflagged inferences and misses the mail-volume fade.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|A17|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A17",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16832,
+    "tokens_out": 1738,
+    "cost_usd": 0.338816,
+    "duration_s": 20.8,
+    "finished_at": 1795585200.9656553,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1738,
+        "costUSD": 0.338816
+      }
+    }
+  }
+}

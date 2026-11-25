@@ -11,3 +11,9 @@
 2026-11-24 08:37:37	resume	fable limit lifted; resuming 16 remaining jobs
 2026-11-24 08:55:08	round_done	round r0-baseline: every job is done; ready for the accept/reject decision
 2026-11-24 08:55:08	finish	harness idle; counts={'done': 310}
+2026-11-24 21:44:37	start	harness run started; 157 jobs remaining
+2026-11-24 21:52:58	round_done	round judge-validity: every job is done; ready for the accept/reject decision
+2026-11-25 00:48:10	pause	fable limit hit on v1|A25|s2|judge: reset time given; resuming at 01:32:00
+2026-11-25 01:32:00	resume	fable limit lifted; resuming 143 remaining jobs
+2026-11-25 01:58:43	round_done	round r1: every job is done; ready for the accept/reject decision
+2026-11-25 01:58:43	finish	harness idle; counts={'done': 719}

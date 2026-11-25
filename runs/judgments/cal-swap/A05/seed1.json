@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 1,
+    "why": "The analysis is about a different company ('Lindqvist', a grocery chain) and proposes a hedgehog of '#1 or #2 combination-store operator (food, drug and specialty)', which is unrelated to the key's consumer-electronics superstore model rolled out nationally; the per-local-population denominator resembles the key's profit per region only by coincidence."
+  },
+  "D2": {
+    "score": 2,
+    "why": "The stop-doing list (exit non-#1/#2 metros, stop small conventional supermarkets, stop plant capital) never mentions leased departments, format-hopping, the acquired big-city chain or committing to superstores; the real decision is missing, though nothing recommends the opposite."
+  },
+  "D3": {
+    "score": 1,
+    "why": "The brutal-facts register lists grocery-chain facts (market exits, a rival's price war, dairy plant capital, a meat-inspection finding) and contains none of the key's facts: the loss year exposing the mixed-format model, the superstore bet relative to net worth, or the struggling acquired chain."
+  },
+  "D5": {
+    "score": 1,
+    "why": "The decline register covers a grocery chain (scanner hubris, re-expanding into general merchandise, matching deep discounts) and says nothing about the subject's actual mechanism of losing ground to a stronger electronics rival, straying into unrelated ventures and cutting experienced sales staff."
+  },
+  "D7": {
+    "score": 1,
+    "why": "Almost every factual claim (drugstore division, scanners, world's largest dairy plant, antitrust settlement, $2B+ sales, 56-store West Coast purchase) is absent from the Tolliver dossier, so the analysis is fabricated relative to the evidence despite its [ASSUMPTION] tags and a missing-numbers list."
+  },
+  "D8": {
+    "score": 3,
+    "why": "The opening verdict is concise and has every required part (hedgehog sentence, weakest flywheel link, top three stop-doing, most urgent brutal fact, missing numbers), but it describes a different company, so no one could act on it for the subject."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-swap|A05|s1|judge",
+    "stage": "judge",
+    "case_id": "A05",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13121,
+    "tokens_out": 2097,
+    "cost_usd": 0.2543158,
+    "duration_s": 25.1,
+    "finished_at": 1795574979.98533,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2097,
+        "costUSD": 0.2543158
+      }
+    }
+  }
+}

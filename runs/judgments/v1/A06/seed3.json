@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 3,
+    "why": "It proposes a 'densest, lowest-price regional discounter' hedgehog as a working hypothesis and notes 'the growth strategy was chosen before the Hedgehog Concept', but never plainly says Marlow lacks a hedgehog, and its concept is still built on the price-led discounting the key says is not one."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Stop items 1 and 2 (multi-store de novo launches, ad blitzes in markets without density) are the key's main decision and sit at the top, but stopping reliance on price promotion as the strategy and stopping owner-driven strategy resets are not on the list."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent brutal fact is price-only competition with no advantage while Rival T builds superstores, with the consequence stated; the steel parent (fact 5) and the founder's death and ownership change (fact 7) are also in the register."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The decline register names ignoring Rival T's superstores (stage 3) and the parent selling or closing the chain (stage 5), which is the actual mechanism of format lag plus ownership change, but the early warning signs are fairly generic."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, derived figures are labelled, and missing data is flagged throughout, but the Gate 7 pass on point-of-sale, inventory and ad-tracking systems and the 'good' baseline rest on no dossier evidence."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact and the missing numbers, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A06|s3|judge",
+    "stage": "judge",
+    "case_id": "A06",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11217,
+    "tokens_out": 2058,
+    "cost_usd": 0.22229179999999998,
+    "duration_s": 26.9,
+    "finished_at": 1795584870.1223662,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2058,
+        "costUSD": 0.22229179999999998
+      }
+    }
+  }
+}

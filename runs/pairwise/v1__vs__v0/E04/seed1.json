@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "tie",
+  "D8": "1",
+  "D9": "1",
+  "overall": "1",
+  "why": "Both land on essentially the same hedgehog (branded absorbent consumer products, profit per consumer brand) and cover all the key brutal facts, with Analysis 2 slightly closer on stop-doing because it exits the whole paper class including tobacco papers plus aviation services. Analysis 1 is the better hand-off for an already-great subject: it explicitly names the company as already great, runs in stewardship mode with a short list of real temptations, and gives a tighter one-screen verdict, whereas Analysis 2 never recognises the greatness and piles on eight stop-doing items.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|E04|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "E04",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16771,
+    "tokens_out": 1454,
+    "cost_usd": 0.32648,
+    "duration_s": 17.8,
+    "finished_at": 1795589768.0220082,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1454,
+        "costUSD": 0.32648
+      }
+    }
+  }
+}

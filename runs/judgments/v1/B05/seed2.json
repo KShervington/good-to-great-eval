@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog 'Lead each new generation of wireless communication first, build it to Six Sigma quality, and earn on every subscriber it connects' matches the key's wireless-plus-self-obsolescence core, explicitly rejects the size goal, and uses a compatible denominator (profit per wireless subscriber, flagged as unverified)."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict lists defending analog, the doubling goal and the ungated satellite launch commitment as the top three, and stop-doing item 4 adds the coercive distribution program, so all the key's decisions are explicit and near the top."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1 (Critical) is the analog franchise facing carriers' move to digital while a cellular leader dismisses it, with satellite exposure also Critical and pricing pressure and carrier alienation listed; the only gap is that cellular coverage eroding the satellite case is not named."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names the actual mechanisms by stage (analog hubris, the doubling goal and parallel bets, a satellite launch commitment before a demand gate, blaming pricing pressure, then a large acquisition, an outside saviour and shrinking handsets), each with a fitting early warning sign, and places the company at 'late Stage 1, inside Stage 2, at the edge of Stage 3'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures (margins, about 15% a year, $560M) follow from the dossier, assumptions are tagged and missing data is flagged, but it says the cellular leader is 'publicly dismissing' digital when the dossier says an internal meeting, and it calls that leader 'the person running 60% of the company' without marking the inference."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link ('Lead the next generation'), three temptations to refuse, the most urgent brutal fact and the missing numbers, concisely enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|B05|s2|judge",
+    "stage": "judge",
+    "case_id": "B05",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14323,
+    "tokens_out": 1891,
+    "cost_usd": 0.2653078,
+    "duration_s": 21.0,
+    "finished_at": 1795588694.4536593,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1891,
+        "costUSD": 0.2653078
+      }
+    }
+  }
+}

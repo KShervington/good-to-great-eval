@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on essentially the same hedgehog, stop-doing list and brutal facts as the key, and both flag assumptions and missing data honestly. Analysis 2 is slightly sharper on the decline mechanism (accounting discretion able to move EPS past the pay-linked target, unexplained earnings acceleration, new credit products and government takeover as later stages) and its verdict is tighter and more directly actionable.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|B02|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "B02",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 23305,
+    "tokens_out": 1738,
+    "cost_usd": 0.442384,
+    "duration_s": 20.4,
+    "finished_at": 1795588609.7395077,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1738,
+        "costUSD": 0.442384
+      }
+    }
+  }
+}

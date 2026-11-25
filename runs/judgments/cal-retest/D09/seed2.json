@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('Corbridge's same-day cold chain' for perishable protein and dairy, denominator 'perishable pounds that agencies actually distribute, per refrigerated route-hour') matches the key's field, exclusions and denominator, but it omits donor diversification, leaning on formalising Freshway instead, and narrows away from produce."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict's top three stop-doing items are exactly the key's: don't apply for the café grant, hand off composting, backpacks and gleaning, and don't buy the third van this year."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Ranked as the most urgent brutal fact and marked Critical: Freshway is 44% of pounds, Eastside fell 36% (412 to 263) while the other eight stores held flat, the app goes chainwide next year, and the road explanation is untested, with the consequence quantified."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names both actual mechanisms specifically: stage 3 denial ('The Eastside dip explained away', with the warning sign of explanations offered without tests) and stage 2 undisciplined pursuit ('Café, third van, new programs')."
+  },
+  "D7": {
+    "score": 4,
+    "why": "It flags the missing use-rate and households data, never converts pounds to meals, and marks extrapolations as [ASSUMPTION], but a few minor inferences are unmarked, such as 'foundations increasingly ask for outcomes' and attributing the road explanation to 'the board' rather than the treasurer."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (agency hand-off), the top three stop-doing items, the most urgent brutal fact with numbers, the missing numbers, and direct answers to the board's three questions, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-retest|D09|s2|judge",
+    "stage": "judge",
+    "case_id": "D09",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16943,
+    "tokens_out": 2298,
+    "cost_usd": 0.3235078,
+    "duration_s": 25.4,
+    "finished_at": 1795574885.067869,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2298,
+        "costUSD": 0.3235078
+      }
+    }
+  }
+}

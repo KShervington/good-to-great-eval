@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('TV sets that dealers and repairmen trust to work and to be fixable', with hand-wiring demoted to 'a method' and solid-state adopted) matches the key's customer-defined quality and rejects the share race, but it uses profit per dealer rather than profit per set and says Meridian cannot be best at cost against Japanese makers."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three temptations in the verdict are hand-wiring as the brand, a debt-funded race for No. 1 in color, and open-ended pay-TV spending, with 'stop dismissing imports without data' at #4 and also named as the most urgent brutal fact."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks imports dismissed by leadership (#1, High), the late shift to printed circuits, transistors and ICs (#2, High), and boom-driven capacity risk (#3, High) at the top, and lists pay TV's regulatory dependence (#6), with consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 table names the actual mechanisms: hubris toward imports as 'cheap junk', a debt-funded color capacity race against Rival R plus pay TV, blaming outside factors, and Stage 4 offshore moves, acquisitions and big bets, each with a specific early warning sign such as borrowing or capex sized to share goals."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are tagged [ASSUMPTION], scorecard baselines are marked unknown rather than guessed, the missing cost, import, color-share and debt figures are flagged up front, and the 'great on the record, early signs of decline' verdict fits the evidence."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link (reinvestment), three temptations to refuse, the most urgent brutal fact and the numbers that would change the verdict, compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|B08|s3|judge",
+    "stage": "judge",
+    "case_id": "B08",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13907,
+    "tokens_out": 1736,
+    "cost_usd": 0.2524518,
+    "duration_s": 20.4,
+    "finished_at": 1795588772.7900796,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1736,
+        "costUSD": 0.2524518
+      }
+    }
+  }
+}

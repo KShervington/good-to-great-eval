@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses reach nearly the same diagnosis as the key: growth-for-size with no real hedgehog, the same four brutal facts, and a stop-doing list covering size, new ventures, branches and energy/shipping/developing-country lending, though neither mentions executive perks. Analysis 2 is slightly better calibrated: it labels the bank \"good, in early decline\" rather than \"great-at-risk-of-falling\", marks missing data without inventing numeric targets, and gives a tighter verdict.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|A22|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A22",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 19089,
+    "tokens_out": 1483,
+    "cost_usd": 0.364728,
+    "duration_s": 21.3,
+    "finished_at": 1795585537.337404,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1483,
+        "costUSD": 0.364728
+      }
+    }
+  }
+}

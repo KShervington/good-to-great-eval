@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "1",
+  "overall": "1",
+  "why": "Both confirm the same hedgehog and brutal facts, but Analysis 1 refuses Halvard Six and the student brand cleanly and keeps the Listening Room scoped to violin-family strings, while Analysis 2 leaves open a capped guitar 'bullet' and piles on more stop-doing items and new seats. Analysis 1 is also more accurate on the margin record (ten of eleven years in band, where Analysis 2's summary says all eleven) and shows more stewardship restraint for an already-great company.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|E06|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "E06",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 19268,
+    "tokens_out": 1244,
+    "cost_usd": 0.35803199999999996,
+    "duration_s": 16.5,
+    "finished_at": 1795589849.5881393,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1244,
+        "costUSD": 0.35803199999999996
+      }
+    }
+  }
+}

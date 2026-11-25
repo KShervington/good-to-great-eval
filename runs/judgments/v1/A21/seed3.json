@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the lowest-cost, best-run major bank in its home state and region', judged by profit per employee, with global banking, consumer leadership against Rival B and the financial supermarket all ruled out, which matches the key's cost discipline, western focus and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1 and the verdict lead with stopping overseas expansion and winding down or selling foreign offices and stakes, followed by closing and consolidating branches, cutting overhead and executive perks, and dropping deregulation-era ventures."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1, also named most urgent in the verdict, is the end of the cheap-deposit subsidy with overhead 'still built for the old world'; the register also lists the regulated-era cost structure, value-destroying international ventures and the inability to out-compete the larger rival."
+  },
+  "D5": {
+    "score": 3,
+    "why": "Decline stage 2 names 'acquisitions beyond the bank's cost-integration capacity' with a fitting warning sign, which matches the troubled First Interstate integration, but the sales-pressure mechanism behind the later accounts scandal is absent beyond a generic 'another control failure'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences and scorecard targets are marked [ASSUMPTION] and the missing line profit, profit per employee, cost ratio and Latin American exposure are all flagged, but the 'Greatness potential: 30/100' figure is given with no basis or marking."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact and the numbers that would change the answer, compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A21|s3|judge",
+    "stage": "judge",
+    "case_id": "A21",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13178,
+    "tokens_out": 2074,
+    "cost_usd": 0.2543078,
+    "duration_s": 24.1,
+    "finished_at": 1795585451.6939197,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2074,
+        "costUSD": 0.2543078
+      }
+    }
+  }
+}

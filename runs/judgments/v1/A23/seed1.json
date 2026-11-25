@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'automating how banks and accounting departments process money and records', measured by profit per financial customer, and it explicitly gives up the whole-market race with Rival I; it also calls the company 'drifting' with direction 'changed repeatedly', which matches the key's narrow field, denominator and lack of a current hedgehog."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Stopping the whole-market computer race against Rival I is item 1 and in the verdict, but across-the-board cost cuts are buried at item 8 and one-leader dependence is handled only in the truth-climate, bench and mechanism sections, not on the stop-doing list."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the margin collapse (13% to 2%, sales up 4x while earnings fell) and Rival I's unbeatable scale as Critical items 1 and 2 with consequences, and item 4 cites the narrow line still too dependent on accounting machines."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names the EVP's dominance driving 'Level 4, genius-led behavior', an undocumented bench, cost cuts that 'quietly erode service' (watch: rising bank complaints) and a rescue merger for scale, which closely match what later happened."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Targets and inferences are marked [ASSUMPTION] and the missing data (profit by line, recent earnings, R&D dollars, share) is flagged, but the derived earnings of about $12M and $8M are unmarked and 'pioneer' and 'no rival makes their work simpler' slightly overstate the dossier."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact and the numbers that would change the answer."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A23|s1|judge",
+    "stage": "judge",
+    "case_id": "A23",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11619,
+    "tokens_out": 2512,
+    "cost_usd": 0.2468838,
+    "duration_s": 31.0,
+    "finished_at": 1795585560.9628286,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2512,
+        "costUSD": 0.2468838
+      }
+    }
+  }
+}

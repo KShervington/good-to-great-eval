@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 1,
+    "why": "The analysis's hedgehog is \"paper-based products people reach for every day at home\" with profit per consumer brand, for a paper manufacturer called Halvorsen-Pike; it has nothing in common with the key's cost-disciplined western U.S. bank and profit per employee."
+  },
+  "D2": {
+    "score": 2,
+    "why": "The stop-doing list covers paper mills, air charter, specialty papers and timberland; exiting international banking and cutting branches, staff and perks are absent, though nothing on the list recommends the opposite."
+  },
+  "D3": {
+    "score": 1,
+    "why": "The brutal-facts register lists diaper leakage, nonwovens, Rival P and the CEO's prognosis; deregulation ending cheap deposits, the excessive cost base and the repeated overseas losses are not found anywhere."
+  },
+  "D5": {
+    "score": 1,
+    "why": "The Gate 10 register describes a paper company's risks (facial-tissue complacency, buying back into mills); it does not name sales-pressure misconduct or troubled bank acquisition integration, and its generic acquisition warning concerns a different subject."
+  },
+  "D7": {
+    "score": 1,
+    "why": "Almost every factual claim is absent from the dossier yet cited as \"Dossier\" evidence (20-year market underperformance, diaper complaints, 300k+ acres of timberland, the CEO's diagnosis), and the dossier's real gaps such as Latin American exposure and line-of-business profit are never flagged."
+  },
+  "D8": {
+    "score": 2,
+    "why": "The opening verdict has every required part in one-screen form, but it describes a different company, so no one could act on it for Harlan Pacific."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-swap|A21|s1|judge",
+    "stage": "judge",
+    "case_id": "A21",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12280,
+    "tokens_out": 1567,
+    "cost_usd": 0.2196598,
+    "duration_s": 19.7,
+    "finished_at": 1795574956.6003213,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1567,
+        "costUSD": 0.2196598
+      }
+    }
+  }
+}

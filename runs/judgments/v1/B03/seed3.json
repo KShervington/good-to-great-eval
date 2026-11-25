@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'primary everyday bank for American households and small businesses, earning more profit per primary relationship because customers chose to deepen it', which matches the key's genuine community-banking relationships, explicitly rules out cross-selling and product count, and uses a compatible denominator (economic profit per primary, active household)."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are daily/monthly product-count goals, incentive pay on products sold, and the eight-products goal; items 4 and 5 add counting only active/funded accounts and ending business-unit ownership of risk and HR data, with a central CRO proposed."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All four key facts sit at the top of the register: #1 the regulator's quota-driven misconduct finding and the same mechanism in the core bank (Critical), #2 cross-sell unverified for active/funded accounts (Critical), #3 pressure from the 5.92-to-8 goal, #4 decentralized risk/HR hiding conduct problems, each with a stated consequence."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register names the actual mechanism by stage: hubris from crisis success and investor praise, chasing eight products, treating the subprime fine as a legacy event with red-flag data kept inside business lines, then trust collapse after a systemic conduct failure; warning signs fit, such as goals rising faster than active usage and no root-cause review of incentives."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, the missing usage, termination, turnover and goal-setting data are flagged as unknown, and the 35% figure is correctly derived; but 'low-cost core deposits' and 'credit discipline' are asserted as strengths without dossier support or an assumption mark, the 55/100 score is unexplained, and mortgage is miscalled the 'largest business line'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (need-based advice to products actually used), the top three stop-doing items, the most urgent brutal fact and the missing numbers, so it can be acted on without reading further."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|B03|s3|judge",
+    "stage": "judge",
+    "case_id": "B03",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13954,
+    "tokens_out": 1859,
+    "cost_usd": 0.2581238,
+    "duration_s": 21.3,
+    "finished_at": 1795588641.9188828,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1859,
+        "costUSD": 0.2581238
+      }
+    }
+  }
+}

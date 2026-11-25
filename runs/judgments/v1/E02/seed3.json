@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the most convenient pharmacy-led drugstore, on the best corner in every market we serve, and grow profit per customer visit', which matches the key's convenience, corner-site, pharmacy-core and profit-per-visit points, and it is explicitly framed as confirmed, not invented."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three temptations to refuse, in both the verdict and the stop-doing list, are no transformative chain acquisition, no growing mail/PBM into a second business, and no weaker sites to hit 3,000 stores; the proven core is left intact."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The payer-driven prescription margin squeeze is ranked first and most urgent, with its consequence quantified (about $42M of gross profit), and rival consolidation is listed third as high severity; discounter and mail competition appears elsewhere in the analysis."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks, and later history shows sustained greatness, with only a growth slowdown beyond the 10-year window."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are consistently tagged [ASSUMPTION], added figures are transparent arithmetic from dossier numbers, and profit per customer visit is flagged as unreported instead of guessed; the 'already great' verdict is kept conditional on unverified shareholder returns and succession."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The compact opening gives the hedgehog sentence, the weakest flywheel link (prescription profit per visit), three temptations to refuse, the most urgent brutal fact and the missing numbers, so it can be acted on without reading further."
+  },
+  "D9": {
+    "score": 5,
+    "why": "It states 'already great, so this is a stewardship plan' with evidence, confirms the existing hedgehog, and limits recommendations to preserving mechanisms (site standard, payer profit floor, succession, per-visit scorecard), with subject-specific warning signs such as a reactive acquisition and count-driven weak sites."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|E02|s3|judge",
+    "stage": "judge",
+    "case_id": "E02",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13256,
+    "tokens_out": 2246,
+    "cost_usd": 0.2624358,
+    "duration_s": 25.1,
+    "finished_at": 1795589641.7797196,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2246,
+        "costUSD": 0.2624358
+      }
+    }
+  }
+}

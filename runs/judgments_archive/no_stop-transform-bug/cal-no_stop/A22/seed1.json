@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's core (\"lowest-cost... bank for the households and middle-market businesses of our home state\", profit per employee) and calls asset growth \"the old denominator\" and the strategy \"still 'more'\", but never says outright that the bank currently has no hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's top three are stop measuring by asset size, stop and run down international/large-corporate lending, and stop \"growing out of problems\" with no new states or lines and the brokerage reviewed for sale; overhead cutting is the first flywheel push, though the dedicated stop-doing section is empty and perks go unmentioned."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All four key brutal facts (bad energy/shipping/farm/developing-country loans, loss of cheap deposits, highest overhead, low-rate mortgage drag) are in the register ranked Critical or High, with the consequence stated (\"capital and credibility are at risk\")."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names the actual mechanisms with fitting warning signs: \"any new acquisition or new state before the cost program lands\", \"NPLs rising faster than reserves\", a \"transformational\" deal under earnings pressure, and capital erosion forcing a sale or rescue."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are marked [ASSUMPTION], all missing metrics are flagged as unknown, and the 15/100 verdict fits the evidence, but Gate 6 Culture of Discipline is scored PASS while the text says the bank has \"no cost culture\", and \"has never been run for cost\" is an unmarked inference."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link (cost to serve), three numbered stop-doing items, the most urgent brutal fact (unmeasured bad loans) and the missing numbers, and can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-no_stop|A22|s1|judge",
+    "stage": "judge",
+    "case_id": "A22",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11540,
+    "tokens_out": 2442,
+    "cost_usd": 0.2428198,
+    "duration_s": 26.1,
+    "finished_at": 1795575000.8230066,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2442,
+        "costUSD": 0.2428198
+      }
+    }
+  }
+}

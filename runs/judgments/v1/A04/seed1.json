@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It rejects broad research-based pharma and seeds as 'No' and narrows to hormone and anti-inflammatory medicines on profit per research dollar, but it calls this a 'working hypothesis' and never says plainly that the current portfolio has no hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top two stop-doing items are exiting seeds and agriculture and stopping benchmarking research against the largest firms, and item 6 caps reliance on any single licensed product."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The top four register rows are the research-scale gap, the licensed growth product, the diabetes drug's heart-disease link and the antibiotic removal, and the verdict states the consequence as 'replacing damaged franchises it owns with one it borrows'."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names betting the company on the licensed compound (warning sign: one product over about 30% of profit with no follow-on), denial over safety data, and a sale or merger driven by lack of options, which matches what later happened."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, missing financials are flagged and Gate 1 is CONDITIONAL, but a few inferences are unmarked, such as the 'flagship' diabetes drug, antibiotics 'at its peak' and the 20/100 score."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link (owned molecules), three stop-doing items, the most urgent brutal fact and the missing numbers, compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A04|s1|judge",
+    "stage": "judge",
+    "case_id": "A04",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11328,
+    "tokens_out": 1907,
+    "cost_usd": 0.2180278,
+    "duration_s": 21.7,
+    "finished_at": 1795584706.3499713,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1907,
+        "costUSD": 0.2180278
+      }
+    }
+  }
+}

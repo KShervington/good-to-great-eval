@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "tie",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses land on the same hedgehog (wireless leadership through self-obsolescence, not size), the same stop-doing items (doubling goal, ungated satellite launch, analog defense, coercive distribution) and the same brutal facts. Analysis 1 places the company more precisely at late Stage 1, inside Stage 2 and on the edge of Stage 3, names the outside-saviour and pricing-pressure-blame risks, and gives a tighter verdict, while Analysis 2 passes its own Discipline gate despite the drift it documents.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|B05|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "B05",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 19143,
+    "tokens_out": 1494,
+    "cost_usd": 0.36603199999999997,
+    "duration_s": 18.7,
+    "finished_at": 1795588733.6202087,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1494,
+        "costUSD": 0.36603199999999997
+      }
+    }
+  }
+}

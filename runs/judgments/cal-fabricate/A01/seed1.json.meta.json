@@ -1,0 +1,20 @@
+{
+  "job_id": "cal-fabricate|A01|s1|judge",
+  "stage": "judge",
+  "case_id": "A01",
+  "seed": 1,
+  "model": "claude-fable-5-2",
+  "effort": "high",
+  "tokens_in": 12178,
+  "tokens_out": 1597,
+  "cost_usd": 0.21922779999999997,
+  "duration_s": 18.3,
+  "finished_at": 1795575064.206273,
+  "models_used": {
+    "claude-fable-5-2": {
+      "inputTokens": 2,
+      "outputTokens": 1597,
+      "costUSD": 0.21922779999999997
+    }
+  }
+}

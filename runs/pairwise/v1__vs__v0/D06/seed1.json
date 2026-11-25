@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "2",
+  "D5": "2",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land the congenital-specialist hedgehog, decline travel and overtime, and restore disability cover, but Analysis 2 ties the injured shoulder to the dropped insurance more directly as two critical facts and names exactly that pairing as its Stage 3 denial risk. Analysis 1 is slightly better calibrated because it gives no per-study figure for the university role, whereas Analysis 2 offers a tagged but speculative $50–60 estimate.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|D06|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D06",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 19046,
+    "tokens_out": 1936,
+    "cost_usd": 0.38215999999999994,
+    "duration_s": 24.1,
+    "finished_at": 1795589304.015961,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1936,
+        "costUSD": 0.38215999999999994
+      }
+    }
+  }
+}

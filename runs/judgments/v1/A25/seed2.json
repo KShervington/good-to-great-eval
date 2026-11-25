@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 3,
+    "why": "The hedgehog ('turn government-proven communications and information technology into the best commercial communications equipment') matches the key's technology-applied-to-communications idea, but it places mechanical printing outside the concept and sets a 12–18 month gate to separate it, where the key keeps printing and electronics joined."
+  },
+  "D2": {
+    "score": 3,
+    "why": "'Stop acquiring until the current integrations pay' is item 1 and general computing is ruled out, which overlaps the key's acquisition discipline; but a succession that preserves the concept is only implied by a 'named successor bench', and the analysis itself contemplates separating printing and reviewing headquarters location, which the key says to refuse."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks five years of weak earnings as fact 1 and the most urgent ('growth is being bought, not earned'), and also lists mechanical printing, integration overload and government-budget dependence as high or medium-high severity."
+  },
+  "D5": {
+    "score": 3,
+    "why": "Decline stage 4 names 'a transformative merger to fix earnings' with a warning sign of a deal above about 20% of market value, which fits the later large acquisition; but it never flags a successor resetting direction, and it leans toward the actual mechanisms by proposing a headquarters review and a possible printing separation."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION], dossier figures are used accurately, and missing segment profit, return on capital, backlog and market share are flagged; the one overreach is treating the dossier's own data gaps as a 'red flag for the truth climate' at the company."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact and the numbers that would change the answer."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A25|s2|judge",
+    "stage": "judge",
+    "case_id": "A25",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12805,
+    "tokens_out": 2391,
+    "cost_usd": 0.2610198,
+    "duration_s": 28.6,
+    "finished_at": 1795588348.63178,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2391,
+        "costUSD": 0.2610198
+      }
+    }
+  }
+}

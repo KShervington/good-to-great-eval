@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "2",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2 comes closer to the key's hedgehog (a narrow front-drive segment focus, a profit-per-platform denominator, break-even discipline) and has a sharper, more actionable verdict, with assumptions carefully flagged, whereas Analysis 1 states unsupported board backing. Analysis 1 better flags the key's decline mechanism (post-rescue hubris, leader-credited wins, publicity outpacing profits, thin bench and succession), but both cover the brutal facts and the stop-doing items about equally.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|A24|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A24",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14046,
+    "tokens_out": 1303,
+    "cost_usd": 0.27684,
+    "duration_s": 18.5,
+    "finished_at": 1795585676.8432093,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1303,
+        "costUSD": 0.27684
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'everyday consumer brands made from absorbent fiber, in tissue and personal care, measured by profit per consumer brand', won by 'out-inventing Rival P', and it explicitly rules out the airline and commodity, printing and tobacco papers, matching the key on field, what to give up and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top stop-doing items are 'Stop funding the airline's $120M expansion, and separate the airline', stop reinvesting in newsprint and printing-paper mills, and plan separation of tobacco papers, plus a rule against new non-hedgehog businesses, all without touching the consumer core."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks CEO succession first, then Rival P's size and overall diaper lead, capital split across the airline and commodity mills, and Europe's heavy investment with unknown returns, each with severity and owner, covering all of the key's brutal facts."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and describes the later history as integration pain, not a decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION] and all four data gaps are flagged, but the 'Greatness potential: 64/100' score is unsupported and the 'good, not yet great' verdict undersells 20 years of evidence in the dossier."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (reinvestment), three stop-doing items, the most urgent brutal fact (succession) and the missing numbers, so it can be acted on alone."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It says 'Narrow it; don't reinvent it' and keeps the existing hedgehog with specific warning signs, but Gate 1 states the subject is 'Good, not yet great... not already great' and it adds a long improvement list (seven stop-doing items, three seats to fill, new BHAG and values)."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|E04|s2|judge",
+    "stage": "judge",
+    "case_id": "E04",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12055,
+    "tokens_out": 2116,
+    "cost_usd": 0.2380198,
+    "duration_s": 23.4,
+    "finished_at": 1795589749.8965058,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2116,
+        "costUSD": 0.2380198
+      }
+    }
+  }
+}

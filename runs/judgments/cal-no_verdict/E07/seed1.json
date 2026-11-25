@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog sentence ('deeply trained, closely coached daily tutors who get struggling six-year-olds reading, and it grows only as fast as it can keep that true') matches the key's K-2 tutoring core, explicitly rules out math, the app and funder-set pace, and uses 'additional readers per dollar' as the denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing items 1-4 are the key's decisions: decline the $40M grant on current terms and counter with fidelity-gated phasing and one seat, restore 30-hour training, cap the coach ratio, and end the math pilot and ReadAlong; the research director hire is item 6, and the proven core is left intact."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The brutal-facts register ranks as Critical the new-school decline (69% to 63% to 58%, 'ramp-up doesn't explain it'), the cuts to training and coaching (30h to 18h, 12 to 19), and the dismantled evidence machinery, and states consequences such as cost per additional reader rising and five new states being 100% new schools."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names Stage 1 hubris ('cracked the code') and Stage 2 undisciplined pursuit (five states, math, app, funder-set pace) as already visible, with fitting early warnings: new schools at or below 55% and a first district non-renewal; it also flags the COO seat change, CEO visibility and funder board seats elsewhere."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged throughout, derived figures are labelled as proxies and gaps such as board size, headcounts and module completion are flagged, but a few inferences are unmarked or inconsistent, for example 'the trials he commissioned' and '100× reach' against '40×' elsewhere."
+  },
+  "D8": {
+    "score": 2,
+    "why": "The analysis opens with an aspirational 'great version in one paragraph' and then goes into the hedgehog table; there is no up-front verdict giving the weakest flywheel link, top three stop-doing items, most urgent brutal fact or missing numbers."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It preserves the core, restores the fidelity mechanisms and names subject-specific warning signs, but it frames Calloway as 'genuinely good' on a good-to-great path, not plainly already great, and gives a long list: nine stop-doing items, several new hires, a reorganisation, a new committee and a redefined BHAG."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-no_verdict|E07|s1|judge",
+    "stage": "judge",
+    "case_id": "E07",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16734,
+    "tokens_out": 2881,
+    "cost_usd": 0.3434838,
+    "duration_s": 30.5,
+    "finished_at": 1795575094.7765772,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2881,
+        "costUSD": 0.3434838
+      }
+    }
+  }
+}

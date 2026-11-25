@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'make changing Brightwater's money-moving software boringly safe', it explicitly rules out service count, templates and the portal, and its denominator is 'money-moving (Tier-1) services covered by Runway with sub-five-minute rollback', which is compatible with the key's risk-weighted denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict's top three stop-doing items are 'Building and owning Atlas', 'Starting new templates or starters before rollback ships' and 'Measuring success as % of services on Runway', which are the key's three decisions."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The brutal-facts register ranks as Critical '5 of 6 Sev-1/2 on legacy; both Sev-1s in Payments' and 'Rollback slipped three quarters behind template v3 and Kotlin', and adds 'Growth may be almost all greenfield', the Payments conditions and the Bartek single point of failure, with consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names both expected mechanisms specifically: 'Decline 2: More' (Atlas, new starters, scope sprawl) and 'Decline 3: Denial' (uninstrumented legacy, 'not our budget'), each with a fitting early warning such as 'Incidents attributed to their pipeline'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "It computes no change failure rate from total deploys, flags the uninstrumented legacy pipelines and Runway's unmeasured rollback time, and marks assumptions; but it never names change failure rate by pipeline as the gap, and it has minor unmarked inferences (all six incidents called 'deploy-caused', two members 'pushed for rollback over Atlas', an unexplained '42/100')."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link (sub-five-minute rollback, slipped three quarters), three stop-doing items, the most urgent brutal fact and four missing numbers, and is concise enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track D, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|D10|s2|judge",
+    "stage": "judge",
+    "case_id": "D10",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14779,
+    "tokens_out": 2076,
+    "cost_usd": 0.2800038,
+    "duration_s": 22.5,
+    "finished_at": 1795589415.9440148,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2076,
+        "costUSD": 0.2800038
+      }
+    }
+  }
+}

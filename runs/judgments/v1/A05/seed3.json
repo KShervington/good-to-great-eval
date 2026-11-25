@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog sentence is 'the dominant consumer-electronics superstore in each region it chooses... judges itself by profit per geographic region', with a national BHAG and other formats explicitly given up, matching the key's field, sacrifice and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are buying chains for tax credits, running four formats side by side (commit to the superstore) and the big-city chain, with the leased-department exit at #4, which is the key's decision stated explicitly."
+  },
+  "D3": {
+    "score": 4,
+    "why": "The register lists the superstore capital burden and the struggling big-city chain as High and format churn as Medium, but the verdict ranks Rival S as most urgent and never frames the loss year as proof the mixed-format model failed."
+  },
+  "D5": {
+    "score": 3,
+    "why": "The Gate 10 table maps all five stages, touching competitor denial ('regional share slipping and explained away') and a 'new format or category leap', but these are template-level mechanisms, not the specific diversification and people-cutting path that occurred."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently tagged and the missing profit, ROE, debt and format-level data are flagged as the root cause of the conditional gates, but Gate 7 passes on store-level systems and regional distribution that the dossier never mentions and that are not marked as assumptions."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A05|s3|judge",
+    "stage": "judge",
+    "case_id": "A05",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 10846,
+    "tokens_out": 1963,
+    "cost_usd": 0.2125558,
+    "duration_s": 23.5,
+    "finished_at": 1795584796.453834,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1963,
+        "costUSD": 0.2125558
+      }
+    }
+  }
+}

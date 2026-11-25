@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It proposes a narrow hormone-and-inflammation hedgehog as a 'working hypothesis' and explicitly rules out both failure modes in the key (being 'a small copy of the largest research-based drug companies' and seeds), with a research-productivity denominator; it only implies ('identity in question', 'searching for momentum outside its core') rather than states plainly that the current company has no hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict's top two stop-doing items are 'trying to match the biggest firms' research budgets' and 'buying non-drug businesses such as seeds and agriculture' (with a divestiture review), and the single-bet reliance is covered by the profit-share cap on any one licensed product."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All three key facts are in the register at High severity: the borrowed profit driver is ranked #1 and named most urgent in the verdict, the antibiotic withdrawal and diabetes-drug safety cloud are #2 and #3, and 'cannot win a research-spending race' is #4, each with a consequence."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names the actual mechanisms: 'betting the company on the licensed compound or a rescue merger' with the warning sign 'one product above the profit-share cap', denial by 'explaining away safety signals', and capitulation by 'sale of the company'; it also urges securing the licence's exclusivity."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged throughout, the missing financials are flagged repeatedly and the hedgehog is framed as a hypothesis with tests that could refute it, but 'Greatness potential: 12/100' is an unexplained, unmarked figure."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the state, the hedgehog sentence, the weakest flywheel link (regulator-grade evidence), three stop-doing items, the most urgent brutal fact and the numbers that would change the answer."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A04|s3|judge",
+    "stage": "judge",
+    "case_id": "A04",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11984,
+    "tokens_out": 2329,
+    "cost_usd": 0.2454038,
+    "duration_s": 26.3,
+    "finished_at": 1795584732.7592845,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2329,
+        "costUSD": 0.2454038
+      }
+    }
+  }
+}

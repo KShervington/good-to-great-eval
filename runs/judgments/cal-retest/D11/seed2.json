@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog ('find and fix the medication and home failures that bring the highest-risk heart-failure patients back, and stay until they stop coming back') keeps the post-discharge transitions core, rules out Hospital at Home, and uses a compatible denominator ('hospital days avoided through day 90, per program dollar')."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1, also in the verdict, is 'Don't lead the Hospital at Home launch now'; items 2-4, 7 and 8 cover the 30-day comparison, the day-30 graduation, the 75% enrollment push, satisfaction as proof, and the penalty window setting the protocol."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1, rated Critical and repeated in the verdict, is the 90-day 32.7% vs 33.9% gap with the consequence 'may be delaying readmissions, not preventing them'; facts 2 and 4 add the non-comparable group and the protocol ending at the penalty window."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names both actual mechanisms with specific warning signs: denial of risk ('90-day data kept in accreditation files') and undisciplined pursuit of more ('Hospital at Home, 75% enrollment, combined department'), and it also anticipates a budget cut if the value question stays unanswered."
+  },
+  "D7": {
+    "score": 4,
+    "why": "It flags the missing cost per readmission and marks most inferences, but it computes about 68 readmissions avoided and about $21,500 each as a back-of-envelope figure, hedged only by 'if fully caused' and 'unadjusted' and not marked as an assumption; the derived day 31-90 rates are also unmarked."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact with numbers, and the missing numbers in a compact, actionable block, though it is slightly long for one phone screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-retest|D11|s2|judge",
+    "stage": "judge",
+    "case_id": "D11",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14363,
+    "tokens_out": 1997,
+    "cost_usd": 0.2701878,
+    "duration_s": 23.5,
+    "finished_at": 1795574936.7391908,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1997,
+        "costUSD": 0.2701878
+      }
+    }
+  }
+}

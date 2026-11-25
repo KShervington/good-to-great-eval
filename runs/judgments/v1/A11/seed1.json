@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog sentence, 'large one-stop food-and-drug stores driven by shopper data, only in markets where we can be first or second, measured by profit per local household', matches the key's combination superstores, #1/#2 market rule and profit-per-local-population denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing items 1 and 2, repeated in the opening verdict, are to stop remodeling and defending small conventional stores and to exit metros with no path to #1 or #2, and the 'great version' has nearly every store converted to the combination format."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The most urgent brutal fact is that 'its main asset base, small conventional supermarkets, is becoming obsolete', ranked Critical with the consequence stated, and the register also lists repeated market losses and exits."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and its later history records no collapse, so there is no decline mechanism to grade against."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked, the missing economics are flagged and the gates are left conditional, but 'Greatness potential: 30/100' has no stated basis and 'a rival twice its size' and 'few grocers own a drugstore division' are small unmarked inferences."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (conversion capital), three stop-doing items, the most urgent brutal fact and the missing numbers, so a reader could act on it alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The key's track is A, not E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A11|s1|judge",
+    "stage": "judge",
+    "case_id": "A11",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 10991,
+    "tokens_out": 1361,
+    "cost_usd": 0.1907958,
+    "duration_s": 16.9,
+    "finished_at": 1795585038.4763427,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1361,
+        "costUSD": 0.1907958
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both land on the key's hedgehog (consumer-electronics superstores, profit per region) and surface the capital-bet and struggling-acquisition facts, but Analysis 1 more explicitly says to stop running four formats as equal bets and to put growth capital into superstores, and it is more careful about what is unproven and adds fewer made-up targets. Analysis 2 better anticipates the eventual decline (assuming superstores are permanent, ceding ground to newer formats, the role of knowledgeable sales staff), but invents numeric targets such as ROE of at least 15% and 13% share.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|A05|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A05",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15053,
+    "tokens_out": 1839,
+    "cost_usd": 0.314392,
+    "duration_s": 23.8,
+    "finished_at": 1795584807.5615342,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1839,
+        "costUSD": 0.314392
+      }
+    }
+  }
+}

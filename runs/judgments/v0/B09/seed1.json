@@ -1,31 +1,31 @@
 {
   "D1": {
-    "score": 5,
-    "why": "The hedgehog is 'the best and lowest-cost bank... for the ordinary households and small businesses of its home state, measured by profit per customer relationship', which matches the key's home-state retail and small-business core, gives up 'world's largest' and asset growth, and uses a cost-disciplined denominator compatible with (though not identical to) profit per employee."
+    "score": 4,
+    "why": "The hedgehog is 'best and lowest-cost bank for ordinary households and small businesses of its home state', explicitly giving up 'world's largest', international, LDC lending and VC, which matches the key's field and sacrifice; but it chooses profit per customer relationship and explicitly rejects profit per employee as 'blind to the franchise'."
   },
   "D2": {
     "score": 5,
-    "why": "The top three stop-doing items are asset growth as the measure of success, developing-country lending and short-funded fixed-rate mortgages, and decentralized approval without central limits; the verdict also names cost to serve as the weakest link and calls a change agent hired to enter new businesses 'the riskiest option available', without dismantling the home-state core."
+    "why": "The top three stop-doing items in the verdict are asset growth as the measure of success, new LDC loans and short-funded fixed-rate mortgages, and decentralized approval without central limits; it also freezes fixed cost and calls a change agent hired to enter new businesses 'the riskiest option available'."
   },
   "D3": {
     "score": 5,
-    "why": "The most urgent brutal fact is the cheap-deposit advantage being 'legislated away over six years' with money funds already draining deposits, and the register ranks the rate mismatch, untested developing-country, farm and construction credit, and the high-cost branch network as Critical or High with consequences stated."
+    "why": "All four key facts are in the register, with the top three rated Critical or High-to-Critical: the cheap-deposit advantage disappearing with money funds draining deposits, short-funded fixed-rate mortgages, and fast LDC/farm/construction growth under decentralized approval; the high-cost branch network is #6, and the verdict states the consequence of rising funding costs against fixed yields and unmeasured credit risk."
   },
   "D5": {
     "score": 5,
-    "why": "Gate 10 marks Stage 2 as 'already visible' (15% growth, 90+ overseas branches, venture capital, new loan categories), Stage 3 denial as 'the current danger', and gives the Stage 4 warning sign as 'a new CEO answers losses with a large acquisition, a new-business blitz or a dramatic restructuring program', which is the mechanism that occurred; it misses only the bureaucracy strand."
+    "why": "Gate 10 names hubris ('world's largest'), stage 2 as already visible (15% growth, 90+ overseas branches, VC, new loan categories), stage 3 denial as the current danger, and stage 4 with the warning sign 'a new CEO answers losses with a large acquisition, a new-business blitz or a dramatic restructuring program'; it only weakly touches the bureaucracy mechanism."
   },
   "D7": {
-    "score": 4,
-    "why": "Inferences are marked [ASSUMPTION], the ROA of about 0.6% is labelled as derived, and all four missing datasets are flagged, but 'Greatness potential: 25/100' is given with no basis and 'the bank's problem is too little framework, not too much' is asserted beyond what the dossier supports."
+    "score": 5,
+    "why": "Inferences are tagged [ASSUMPTION], the roughly 0.6% ROA is labelled as derived from approximate dossier figures, all four dossier gaps plus segment profitability are flagged as answer-changing, and the Hedgehog is held as a conditional working hypothesis with no invented metrics."
   },
   "D8": {
     "score": 4,
-    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact and the missing numbers, and is actionable, but with the added board answer and score it runs somewhat past one phone screen."
+    "why": "The opening verdict contains the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact, missing numbers and an actionable answer to the board's question, but it runs somewhat past one phone screen."
   },
   "D9": {
-    "score": 3,
-    "why": "It treats the bank as 'clearly good' with unverified earnings quality (Gate 1 CONDITIONAL, 25/100) rather than plainly great, and prescribes a long list (nine stop-doing items, three new seats, a leader who 'changes nearly everything around it'), though it protects the home-state core and names specific early-warning signs."
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
   },
   "hindsight_leak": false,
   "recognized_subject_by_name": false,
@@ -36,16 +36,16 @@
     "seed": 1,
     "model": "claude-fable-5-2",
     "effort": "high",
-    "tokens_in": 14751,
-    "tokens_out": 2594,
-    "cost_usd": 0.30092359999999996,
-    "duration_s": 28.9,
-    "finished_at": 1795496083.516297,
+    "tokens_in": 14789,
+    "tokens_out": 2071,
+    "cost_usd": 0.2799638,
+    "duration_s": 23.3,
+    "finished_at": 1795575530.7684808,
     "models_used": {
       "claude-fable-5-2": {
         "inputTokens": 2,
-        "outputTokens": 2594,
-        "costUSD": 0.30092359999999996
+        "outputTokens": 2071,
+        "costUSD": 0.2799638
       }
     }
   }

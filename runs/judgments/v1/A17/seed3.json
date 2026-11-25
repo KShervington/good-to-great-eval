@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'meter-centered business mailroom systems plus the service network' earning 'rising profit per customer site', which matches the key's back-office mailing field, installed-base leverage and profit-per-customer denominator, and it explicitly gives up POS, copiers against the giant and general office electronics; it is slightly narrower than the key's 'messaging'."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are 'all retail point-of-sale work', 'price-fighting the copier giant for general office share' and buying growth where Stanwick doesn't own the customer relationship, and item 7 stops calling meters 'mature'."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the failed $42M POS diversification and continuing diversification pressure as Critical and most urgent, and also lists copiers against a giant, the free-license decree removing the patent moat, and regulatory dependence, each with a consequence."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Decline 5 names 'the mail stream itself shrinks long term and Stanwick has no plan beyond it' with the warning sign 'business mail volume plateaus', and Decline 3 flags 'electronics changing how offices communicate', which is the mechanism that actually happened."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, derived figures (about 11% of revenue, about 7x growth, about 80% meter mix) follow from the dossier, and missing line profit, copier share and per-site profit are flagged; but 'Management cannot see profit by line' treats a dossier gap as a company fact without marking it as an inference."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link (service visits to adjacent placements), the top three stop-doing items, the most urgent brutal fact and the numbers that would change the answer, concisely enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A17|s3|judge",
+    "stage": "judge",
+    "case_id": "A17",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11817,
+    "tokens_out": 1860,
+    "cost_usd": 0.2239718,
+    "duration_s": 21.2,
+    "finished_at": 1795585182.2639146,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1860,
+        "costUSD": 0.2239718
+      }
+    }
+  }
+}

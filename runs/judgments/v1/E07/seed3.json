@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'getting struggling six-year-olds reading through a well-trained, closely coached tutor and thirty minutes a day' with a 'cost per additional reader' denominator, explicitly excluding math and parent apps and naming training and coaching as the engine, which matches the key."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's top three temptations to refuse are the $40M grant on current terms (five states, three funder seats), the math pilot and ReadAlong, and further training or coaching cuts; the body adds reversing the 30-to-18 cut, restoring the coach ratio and filling the research director now, without touching the core."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks as Critical the new-school decline (69% to 63% to 58%, 'ramp-up doesn't explain it'), the cut mechanisms (training, coach ratio, retention), and the absence of any current evaluation, with the first named most urgent in the verdict."
+  },
+  "D5": {
+    "score": 5,
+    "why": "It names Stage 1 hubris ('cracked the code'), Stage 2 undisciplined growth, the dismantled training and coaching 'clock', the empty model-owner and research seats, funder-set pace and CEO visibility, with specific warning signs including 'a district declines to renew'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures such as cost per additional reader are shown and flagged as assumptions and the key missing data are named, but a few minor items are unmarked: 'no successor', a 'contingency budget', an unanchored '62/100', and 'roughly 20 times current scale'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict compactly gives the hedgehog sentence, the weakest flywheel link (training and coaching), three temptations to refuse, the most urgent brutal fact and the missing numbers, plus a clear 'do not adopt the plan as written'."
+  },
+  "D9": {
+    "score": 4,
+    "why": "It says plainly 'already great, and it is starting to slide' with evidence, confirms the existing hedgehog and gives specific warnings, but the recommendation set is fairly long and adds extras such as a new CPO seat, a new board committee, a pioneer tech trial and a district-adoption BHAG path."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|E07|s3|judge",
+    "stage": "judge",
+    "case_id": "E07",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14629,
+    "tokens_out": 2042,
+    "cost_usd": 0.2762438,
+    "duration_s": 23.3,
+    "finished_at": 1795589899.2902853,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2042,
+        "costUSD": 0.2762438
+      }
+    }
+  }
+}

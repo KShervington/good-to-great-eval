@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses miss the key's \"no hedgehog\" verdict by proposing nearly the same narrow hormone/inflammation concept, and both cover the key's stop-doing items, all three brutal facts and the licensed-product and absorption decline risks about equally well. Analysis 2 is slightly better calibrated: it offers a runner-up hypothesis with switching evidence, explains its score, counts licensing costs in the research ratio so it cannot be gamed, and closes with an explicit caveat on the method.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|A04|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A04",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17196,
+    "tokens_out": 1359,
+    "cost_usd": 0.32948,
+    "duration_s": 17.5,
+    "finished_at": 1795584750.4771261,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1359,
+        "costUSD": 0.32948
+      }
+    }
+  }
+}

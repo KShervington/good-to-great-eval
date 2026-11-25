@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('best in the world at pricing and standardizing U.S. conforming-mortgage credit risk... risk-adjusted profit per dollar of credit risk guaranteed', passion for sustainable home ownership) matches the key's risk-based denominator, passion and rejection of EPS and portfolio size, but narrows the field to credit-risk guarantee and puts the capital-markets portfolio role outside the hedgehog, where the key's field is broader ('anything that pertains to mortgages')."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the opening verdict are 'managing to the $6.46 EPS goal and paying on it', 'growing the retained portfolio faster than capital' and 'leading with operating earnings', which are the key's three decisions, and the fuller list adds holding capital above the legal minimum."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register lists all four key facts (contested implicit backstop and thin capital as Critical, the −14-month duration gap with first supervisory action, EPS-linked pay and 15% growth against a slower market), and the verdict names '$0.9B of capital above the legal minimum on an $887B balance sheet' as most urgent."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register marks Stage 2 as present (EPS-doubling goal, portfolio up 13–16% a year) with Stage 3 signals (capital near minimum, duration gap, 'metrics redefined so bad numbers don't count'), separately flags smooth operating earnings as a reason to examine amortization and hedge policies, and names a capital shortfall forcing outside intervention."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures check out against the dossier, assumptions are tagged, and the missing data (segment split, hedge values, amortization policies, credit profile) is flagged, but a few minor claims are unmarked, such as 'underwriting standards set across the market', automated underwriting, and a 14–21% growth range stretched over sixteen years from four years of data."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening gives a clear verdict, the hedgehog sentence, the weakest flywheel link ('trust in Homestead's numbers'), the top three stop-doing items, the most urgent brutal fact and the numbers that would change the view, all compactly and actionably."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|B02|s2|judge",
+    "stage": "judge",
+    "case_id": "B02",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14836,
+    "tokens_out": 2585,
+    "cost_usd": 0.3012758,
+    "duration_s": 29.0,
+    "finished_at": 1795588564.5483382,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2585,
+        "costUSD": 0.3012758
+      }
+    }
+  }
+}

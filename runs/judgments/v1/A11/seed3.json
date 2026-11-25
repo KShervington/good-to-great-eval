@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog sentence, 'Be the #1 or #2 food-and-drug superstore in every regional market we serve... judge every move by profit per household in that market', matches the key's combination superstore, #1 or #2 local position and profit-per-local-population denominator, and it explicitly rules out family centers, manufacturing growth and weak markets."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top two stop-doing items in the verdict are 'Stop putting capital into small conventional stores' (maintained for cash 'until each is converted or closed') and 'Stop staying in markets where Lindqvist cannot reach #1 or #2', which are the key's real decisions."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical and repeated in the verdict, is 'The core format, small conventional stores, is being outgrown', with the price war punishing that format as the consequence; fact #3 covers the repeated losses in regional markets."
+  },
+  "D5": {
+    "score": null,
+    "why": "The answer key lists no expected decline risks and its later history records no collapse."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged, all the dossier's missing data is flagged, and gates are left CONDITIONAL, but the claim that consumer-research 'results never show up in strategy' is an unmarked inference from dossier silence and the 'Greatness potential: 50/100' score is unsupported."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (unproven combination-store economics), the top three stop-doing items, the most urgent brutal fact and the missing numbers, so a reader could act on it alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A11|s3|judge",
+    "stage": "judge",
+    "case_id": "A11",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11501,
+    "tokens_out": 1496,
+    "cost_usd": 0.20435579999999998,
+    "duration_s": 17.7,
+    "finished_at": 1795585056.5024757,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1496,
+        "costUSD": 0.20435579999999998
+      }
+    }
+  }
+}

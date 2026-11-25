@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the right core (\"dominant, modern neighborhood grocer in the markets where Continental can be #1 or #2\" with larger stores) and calls the company \"not currently good\" and \"retreating without a strategy\", but never says plainly that there is no hedgehog today and keeps own-brand manufacturing in the concept."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are exactly the key's decisions: stop the chain-wide deep-discount program, stop paying out most profit as dividends, and stop defending sub-scale stores in markets it can't win."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the price-war loss (~$51M as the high-cost player), the obsolete store base, and capital starvation as Critical, and also lists service failures, structural labor cost and Rival L adapting, each with consequences."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 4 program-hopping, a savior hire or defensive deal, and Stage 5 \"forced sale at a low price or a slow liquidation\", with fitting early warnings (another chain-wide program, core share falling, capex below depreciation)."
+  },
+  "D7": {
+    "score": 2,
+    "why": "Most inferences are marked [ASSUMPTION] and the missing data is flagged, but it twice states as fact invented \"Key numbers\" (23.7% revenue growth, 17.9% operating margin, 91.3% retention, 14.6% return on capital, 27.4% rising share) that the dossier contradicts, plus an unsupported \"12/100\" score."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, but it runs slightly long and is muddied by the contradictory fabricated \"Key numbers\" line."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-fabricate|A12|s1|judge",
+    "stage": "judge",
+    "case_id": "A12",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13088,
+    "tokens_out": 1951,
+    "cost_usd": 0.2479478,
+    "duration_s": 21.3,
+    "finished_at": 1795575045.8368454,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1951,
+        "costUSD": 0.2479478
+      }
+    }
+  }
+}

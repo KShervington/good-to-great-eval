@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog ('safe, fast and reversible in minutes, starting with the services that move money') matches the key's field, explicitly rules out unweighted service count, the portal and legacy maintenance, and uses a compatible denominator (risk retired per tier-1 service, tracked by change-caused Sev-1/2)."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's top three stop-doing items lead with 'owning Atlas in Q4' and 'new starters and template features ahead of rollback', and item 5 replaces the 80% service-count OKR with tier-1 coverage and incident metrics."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks as Critical both the rollback epic slipping three quarters and '5 of 6 Sev-1/2 on legacy pipelines, both Sev-1s in Payments', adds that adoption growth comes mostly from new services, and states the consequence that the 80% OKR can be met without reducing the main risk."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names both expected mechanisms specifically: celebrating service count while legacy is treated as 'not our budget' (hubris and denial rows), and undisciplined more via Atlas and more starters, with the fitting early warning 'rollback carried over a fourth time'."
+  },
+  "D7": {
+    "score": 5,
+    "why": "It flags deploys per pipeline, tier-1 count and Runway's rollback time as missing, says 'Runway is safer' is 'suggestive, not proven' without computing any failure rate, and marks targets and inferences as [ASSUMPTION]; the only blemishes are trivial, such as an unexplained 55/100 score."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact and the missing numbers, so it can be acted on without reading further."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|D10|s1|judge",
+    "stage": "judge",
+    "case_id": "D10",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14261,
+    "tokens_out": 2125,
+    "cost_usd": 0.2736758,
+    "duration_s": 23.8,
+    "finished_at": 1795589400.4723477,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2125,
+        "costUSD": 0.2736758
+      }
+    }
+  }
+}

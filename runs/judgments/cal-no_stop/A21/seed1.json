@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the lowest-cost, highest-return bank in the American West: run it like a business, keep it on home ground, and measure everything by profit per employee', which matches the key's field, its give-up (international, out-branching Rival B) and its denominator."
+  },
+  "D2": {
+    "score": 3,
+    "why": "The stop-doing section reads '(No stop-doing items.)' and the verdict lists none; the international exit, branch closures and executive-floor cuts appear only in the flywheel push and 90-day actions, softened to 'Decide the international exit'."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical and repeated in the verdict, is that the cost structure was built for capped deposit rates that are ending, with the consequence stated; repeated international losses (#4) and the inability to out-branch Rival B (#6) are also listed."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The decline register names 'acquisitions outrun integration' with the warning sign 'a deal announced before the prior one is integrated', plus mega-merger, absorption and erosion of controls, but it does not name the sales-pressure mechanism behind the later scandal."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked, the missing financials and Latin American exposure are flagged, and the 35/100 verdict is hedged; however the gate log gives Gate 6 a PASS for 'Stop-doing list and boundaries set' when the list is empty, and a few inferences (ATMs, executive perks) are unmarked."
+  },
+  "D8": {
+    "score": 3,
+    "why": "The opening verdict is concise and gives the hedgehog, the weakest flywheel link, the most urgent brutal fact and the missing numbers, but it has no top-three stop-doing items."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-no_stop|A21|s1|judge",
+    "stage": "judge",
+    "case_id": "A21",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12411,
+    "tokens_out": 2064,
+    "cost_usd": 0.2416358,
+    "duration_s": 23.6,
+    "finished_at": 1795575024.4478686,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2064,
+        "costUSD": 0.2416358
+      }
+    }
+  }
+}

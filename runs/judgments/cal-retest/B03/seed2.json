@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the bank households and small businesses choose as their primary financial home, earning the most per actively used relationship', with products per household explicitly rejected as 'a count, not a capability', which matches the key's genuine-relationship field and profit-per-active-relationship denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the one-screen verdict are daily/monthly product-sales quotas, per-product and cross-sell incentive pay, and the eight-products headline goal, with item 4 moving risk and HR out of the business lines; only 'firing as fix' is absent, and the dossier gave no basis for it."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks as Critical that the quota-and-incentive mechanism the regulator tied to subsidiary misconduct also runs the flagship retail bank and that cross-sell may count unfunded or unused products, then ranks decentralized risk and HR as High, with the trust and conduct consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The register names hubris from crisis success, the eight-products push with 'goals raised while funded rates are unmeasured', and denial via findings treated as isolated or industry-wide with hotline data kept in the business lines, and gives fitting warning signs such as rising terminations not reported to the board."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked, the ROA is derived from dossier figures and labelled approximate, and funded/active rates, terminations, hotline volume and turnover are flagged as missing rather than guessed; the lapses are an unsupported 'Greatness potential: 35/100' and a suspiciously specific 'asset cap' warning sign, though that is framed as hypothetical and the term was in public debate at the dossier date."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link ('customer adds a product they actually use'), three explicit stop-doing items, the most urgent brutal fact and a list of missing numbers with how they would change the answer, compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-retest|B03|s2|judge",
+    "stage": "judge",
+    "case_id": "B03",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14159,
+    "tokens_out": 2788,
+    "cost_usd": 0.2985638,
+    "duration_s": 31.8,
+    "finished_at": 1795574913.1208289,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2788,
+        "costUSD": 0.2985638
+      }
+    }
+  }
+}

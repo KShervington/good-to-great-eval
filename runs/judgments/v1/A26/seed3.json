@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'a small set of simple, affordable play brands (classics, licensed characters and figures) selling and growing for decades, judged by cash profit per brand-year', with pencils separated and electronics ruled out, which matches the key's field, sacrifice and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing items 1 and 2 are electronic games and all ventures outside toys, the verdict headline says 'separate pencils on fair terms', and item 5 cuts the long tail; the successor bench appears in the bus section and mechanisms, not on the list itself."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks as Critical the banker-controlled cash, heavy debt and suspended dividend, and the family feud, and it also lists the discontinued hit and the decade of failed diversification, each with evidence and an owner."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The risk register flags 'no succession bench' with the early warning 'no #2 named' and defines endurance as 'independent of the son', and it also flags debt-funded acquisitions, but the key-person mechanism is stated generically and sits outside the decline stages."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked throughout, all four missing dossier items are flagged and scorecard baselines are left as 'Unknown', but a few small inferences are unmarked, such as Rival M leading in electronic games and toys being 'the son's whole career'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (brand renewal), the top three stop-doing items, the most urgent brutal fact and the missing numbers, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A26|s3|judge",
+    "stage": "judge",
+    "case_id": "A26",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13121,
+    "tokens_out": 2118,
+    "cost_usd": 0.2551558,
+    "duration_s": 23.8,
+    "finished_at": 1795588428.602495,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2118,
+        "costUSD": 0.2551558
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "job_id": "cal-retest|C01|s2|judge",
+  "stage": "judge",
+  "case_id": "C01",
+  "seed": 2,
+  "model": "claude-fable-5-2",
+  "effort": "high",
+  "tokens_in": 12422,
+  "tokens_out": 1601,
+  "cost_usd": 0.22329179999999998,
+  "duration_s": 19.4,
+  "finished_at": 1795574834.595645,
+  "models_used": {
+    "claude-fable-5-2": {
+      "inputTokens": 2,
+      "outputTokens": 1601,
+      "costUSD": 0.22329179999999998
+    }
+  }
+}

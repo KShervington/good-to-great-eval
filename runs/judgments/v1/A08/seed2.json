@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's suggested core ('lowest-cost, lowest-risk adjustable-rate home lender in our home state', profit per dollar of assets) and rules out brokerage and real estate, but it only says the company is 'drifting toward the wrong fork' with a 'working hypothesis' hedgehog, never plainly that the current portfolio lacks one."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict's top stop-doing items are '(1) building the brokerage and real-estate services business; (2) growing by acquisition and measuring success by size rank', which match both key points."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, also the verdict's most urgent, is the legacy fixed-rate book funded by repricing deposits with its threat to capital, and #3 covers deregulated rivals funding risky growth."
+  },
+  "D5": {
+    "score": 5,
+    "why": "It flags undisciplined diversification and thrift buying sprees, single-state real-estate concentration, and a 'forced sale or failure after a regional real-estate bust', each with specific early warnings such as asset growth outpacing ROA and new lines pitched as natural extensions."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are marked [ASSUMPTION], all missing financials are flagged as unknown with no figures invented, and five gates are left CONDITIONAL on that missing data; the unexplained '24/100' potential score is the only loose number."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The compact opening verdict gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact and the missing numbers, and can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The subject is Track A, not Track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A08|s2|judge",
+    "stage": "judge",
+    "case_id": "A08",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12281,
+    "tokens_out": 1698,
+    "cost_usd": 0.2249158,
+    "duration_s": 19.4,
+    "finished_at": 1795584986.522084,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1698,
+        "costUSD": 0.2249158
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "job_id": "cal-overprescribe|E03|s1|judge",
+  "stage": "judge",
+  "case_id": "E03",
+  "seed": 1,
+  "model": "claude-fable-5-2",
+  "effort": "high",
+  "tokens_in": 14825,
+  "tokens_out": 2575,
+  "cost_usd": 0.3006998,
+  "duration_s": 28.4,
+  "finished_at": 1795575153.3558574,
+  "models_used": {
+    "claude-fable-5-2": {
+      "inputTokens": 2,
+      "outputTokens": 2575,
+      "costUSD": 0.3006998
+    }
+  }
+}

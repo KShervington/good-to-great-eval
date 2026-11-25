@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses connect the Delmar/Harrow's supply cliff, decline Larchmont as offered, pause the third metro, flag churn as missing without inventing it, and name Stage 2 and Stage 3 decline risks; both also choose a per-technician rather than per-machine denominator. Analysis 2 edges ahead because its hedgehog includes the rebuilt-machine bundle, its verdict screen answers all four offsite questions with the payback doubling stated, and it lists more missing data plus a disconfirming test.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|D02|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D02",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 21555,
+    "tokens_out": 1566,
+    "cost_usd": 0.407504,
+    "duration_s": 19.0,
+    "finished_at": 1795589093.8642735,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1566,
+        "costUSD": 0.407504
+      }
+    }
+  }
+}

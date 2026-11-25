@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both land on a lowest-cost, home-region bank measured by profit per employee, but Analysis 1 is closer to the key: \"run it like a business\", an American West ambition, a full international wind-down, and perk and overhead cuts starting at the top. Analysis 2 better anticipates the later decline, flagging cost cuts that hollow out controls and acquisitions beyond integration capacity, but it is slightly softer on the international exit and its BHAG drifts to a national scope.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|A21|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A21",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18584,
+    "tokens_out": 1559,
+    "cost_usd": 0.359688,
+    "duration_s": 20.3,
+    "finished_at": 1795585475.8704076,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1559,
+        "costUSD": 0.359688
+      }
+    }
+  }
+}

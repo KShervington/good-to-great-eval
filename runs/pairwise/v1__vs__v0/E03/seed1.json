@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "tie",
+  "D8": "2",
+  "D9": "2",
+  "overall": "2",
+  "why": "Both match the key's hedgehog (cost-effective health-care portfolio, profit per employee, no big-pharma research race), refuse the merger/PBM wave and put the unresolved diagnostics quality findings first; Analysis 1 goes slightly further on early warnings by flagging joint-venture governance and decelerating, buyback-assisted earnings growth. Analysis 2 shows better restraint for an already-great company, framing the plan as temptations to refuse and preserving the portfolio, whereas Analysis 1 adds interventions such as a #1/#2 pruning review, walking away from price-only bids and halting diagnostics launches.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|E03|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "E03",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18428,
+    "tokens_out": 1383,
+    "cost_usd": 0.350152,
+    "duration_s": 18.5,
+    "finished_at": 1795589704.3606105,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1383,
+        "costUSD": 0.350152
+      }
+    }
+  }
+}

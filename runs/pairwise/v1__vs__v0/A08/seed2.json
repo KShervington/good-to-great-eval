@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "2",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses prescribe a focused home-lending hedgehog, flag the brokerage/real-estate diversification and size-driven acquisitions as stop-doing items, and name the rate squeeze, risk-chasing peers and the legacy fixed-rate book. Analysis 2 is preferred because it rates single-state real-estate concentration and a regional bust leading to forced sale as high-severity decline risks (closer to what happened), is slightly more cautious in its gate verdicts, and gives a tighter verdict that opens with the drift toward the wrong fork.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|A08|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A08",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16845,
+    "tokens_out": 1426,
+    "cost_usd": 0.326544,
+    "duration_s": 18.3,
+    "finished_at": 1795585021.2916079,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1426,
+        "costUSD": 0.326544
+      }
+    }
+  }
+}

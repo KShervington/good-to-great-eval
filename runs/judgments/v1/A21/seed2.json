@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is \"the best-run, lowest-cost bank in the American West... judge everything by profit per employee\", and it explicitly rules out international and out-branching Rival B, matching all three key points including the denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1 and the verdict's first item are to stop overseas expansion and wind down offices, followed by selling the West German stake, closing bottom-tier branches and cutting executive perks \"starting at the top\"; the only softening is keeping offices that serve home-region clients, which fits the key's \"exit most\"."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1, rated Critical and repeated in the verdict, is \"deposit costs are going to market rates; the cost base was built for the regulated era\", and the international loss record and the inability to beat the larger rival are also listed with consequences."
+  },
+  "D5": {
+    "score": 3,
+    "why": "Decline stage 2 flags \"acquisitions for size\" and deals that don't lower unit cost, and the control gap is noted, but the top long-run risk named is real estate concentration; the sales-pressure and misconduct mechanism and the troubled large-merger integration are not specifically identified."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Targets, the denominator, the culture inference and the overhead scale are all tagged [ASSUMPTION]; the missing line profitability, Latin American exposure and peer ratios are flagged as able to change the verdict; gates are marked CONDITIONAL where data is absent, and no figures are invented."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The compact opening verdict gives the hedgehog sentence, the weakest flywheel link (credit discipline), the top three stop-doing items, the most urgent brutal fact and the missing numbers, and can be acted on without reading further."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is Track A, not Track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A21|s2|judge",
+    "stage": "judge",
+    "case_id": "A21",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12573,
+    "tokens_out": 1859,
+    "cost_usd": 0.23602779999999998,
+    "duration_s": 21.9,
+    "finished_at": 1795585435.8374462,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1859,
+        "costUSD": 0.23602779999999998
+      }
+    }
+  }
+}

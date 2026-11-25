@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'best in the world at getting business mail out the door... through a lease-and-service relationship with every mailer, measured by profit per customer', which matches the key's mailing-systems field, installed-base leverage and profit-per-customer denominator, and it explicitly rules out copiers, POS and general office electronics."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are no more retail or point-of-sale ventures, stop fighting the copier giant head-on, and no acquisitions outside the mailroom; the flywheel also moves the business beyond meters alone to full mailing systems."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the $42M POS write-off first with its consequence, and also lists the patent moat lost to the consent decree (#3), the stronger copier rival (#5) and the regulated, uncertain postal environment (#6)."
+  },
+  "D5": {
+    "score": 4,
+    "why": "Brutal fact #9 and Decline 3 name the actual mechanism ('the whole engine rests on physical mail... if business communication moves to electronic channels', 'long-run mail volume'), but the warning signs given (flat engineering spend, no Postal Service contact plan) do not track mail volume."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures (about 11% of revenue, 6.7x growth, about 80% meter share) follow from the dossier, assumptions are tagged and missing data is flagged, but it states that 'no line-level profit data exists today' and that management cannot show line returns, when the dossier only says the data is absent from the dossier."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (product engine and electronics), the top three stop-doing items, the most urgent brutal fact and the missing numbers, all concisely enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A17|s2|judge",
+    "stage": "judge",
+    "case_id": "A17",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11111,
+    "tokens_out": 1991,
+    "cost_usd": 0.2179158,
+    "duration_s": 22.4,
+    "finished_at": 1795585179.926236,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1991,
+        "costUSD": 0.2179158
+      }
+    }
+  }
+}

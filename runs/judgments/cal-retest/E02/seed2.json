@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the most convenient pharmacy-anchored drugstore in every market it chooses to saturate: the best corner, the fastest prescription, the easiest refill', measured by profit per customer visit, which matches the key's field, exclusions and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1, also in the opening verdict, is 'Buying chains to match a rival's store count'; the list also refuses marginal sites, the 3,000-store target as a goal and the PBM as a standalone business, and leaves the organic core intact."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The top-ranked brutal fact is the payer squeeze on prescription margins as the prescription share rises (38.2% to 43.4%, gross margin 28.4% to 28.0%), followed by the rival merger at number 2 and mail-order/PBM diversion at number 6, each with a stated consequence."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key's decline_risks_expected is empty and later_history records no decline mechanism within the window."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived arithmetic is shown, inferences are marked as assumptions and the missing profit-per-visit and same-store metrics are flagged rather than guessed; but the 'good, with a credible path to great' and 70/100 verdict undersells the evidence, and the continuing ~88 closings a year is an unmarked assumption."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict gives the hedgehog, the weakest link (visits to profit), three stop-doing items, the urgent brutal fact and the missing numbers, but runs somewhat long with the gate summary and run notes added."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It states the hedgehog the subject already lives by and names subject-specific warning signs, but labels the company 'good, with a credible path to great' (70/100, three CONDITIONAL gates) and adds eight stop-doing items, new hires and seat moves instead of plainly saying it is already great."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-retest|E02|s2|judge",
+    "stage": "judge",
+    "case_id": "E02",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13307,
+    "tokens_out": 2035,
+    "cost_usd": 0.2548118,
+    "duration_s": 23.4,
+    "finished_at": 1795574858.0508194,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2035,
+        "costUSD": 0.2548118
+      }
+    }
+  }
+}

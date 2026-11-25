@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'Corbridge's same-day cold chain for donated perishables', it rules out the café and all three add-ons, uses the denominator 'perishable pounds delivered and used, per route-hour', and adds donor diversification ('no single donor above 25%'), matching all three key points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict says 'Stop: the café grant, the third van (fix van #2 instead), and the composting van route', and the stop-doing list puts the café first, the van second, then composting, backpacks, gleaning and pounds-at-pickup as the impact measure."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The top brutal fact, rated Critical and repeated in the verdict, combines the 36% Eastside drop (412 to 263), flat other Freshway stores, the chainwide rollout next year and the 44% supply share, and it quantifies the consequence as total pounds falling below Year -1."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names both actual mechanisms specifically: 'Denial of risk: the dip blamed on construction', with the warning that the dip persists after Route 9 reopens, and 'Undisciplined more: already present (café, van, three pilots)'."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Projections, targets and thresholds carry [ASSUMPTION] tags, derived figures such as the ~$206,000 reserves follow arithmetically from the dossier, and food used and households reached are flagged as unknown with no meals conversion; it also admits the store comparison cannot separate app from construction, and the only unsupported number is the '30/100' greatness score."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the most urgent brutal fact, the weakest flywheel link (proof of use), three stop items and the numbers that would change the call, so a board member could act on it alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|D09|s2|judge",
+    "stage": "judge",
+    "case_id": "D09",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14714,
+    "tokens_out": 2297,
+    "cost_usd": 0.2878038,
+    "duration_s": 26.2,
+    "finished_at": 1795589357.3500834,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2297,
+        "costUSD": 0.2878038
+      }
+    }
+  }
+}

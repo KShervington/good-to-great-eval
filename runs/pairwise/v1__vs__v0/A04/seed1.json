@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "tie",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses propose the same hormone/inflammation hedgehog where the key says there was none, and both cover the key's three brutal facts and the decline path of single-product dependence ending in a merger. Analysis 1 is slightly more decisive on the key's stop-doing items, with an outright sale or spin-off of seeds and an explicit cap on single-product profit, and its verdict opens with a clearer bottom line.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|A04|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A04",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15635,
+    "tokens_out": 1487,
+    "cost_usd": 0.309624,
+    "duration_s": 19.9,
+    "finished_at": 1795584739.0284195,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1487,
+        "costUSD": 0.309624
+      }
+    }
+  }
+}

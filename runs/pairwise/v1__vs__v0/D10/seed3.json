@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses match the key on the hedgehog (safe, reversible change for money-moving services), on the stop-doing list (decline Atlas, drop the 80% OKR, stop putting templates ahead of rollback) and on the brutal facts and decline risks, and neither invents a change failure rate from total deploys. Analysis 1 edges ahead because it explicitly names deploys and change-failure rate by pipeline as the missing metric and puts the Atlas counter-offer in the verdict, while Analysis 2 is slightly tighter but does not name that gap as directly.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|D10|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D10",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 22206,
+    "tokens_out": 1958,
+    "cost_usd": 0.43360000000000004,
+    "duration_s": 25.7,
+    "finished_at": 1795589463.3734362,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1958,
+        "costUSD": 0.43360000000000004
+      }
+    }
+  }
+}

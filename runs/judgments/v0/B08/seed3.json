@@ -1,31 +1,31 @@
 {
   "D1": {
     "score": 4,
-    "why": "The hedgehog ('most dependable, easiest-to-service television', with hand-wiring demoted to a method and the 'No. 1 in color' volume goal ruled out) matches the key's customer-defined quality and solid-state shift, but the denominator is profit per dealer rather than profit per set, and it lists lowest-cost production as something Meridian cannot be best at."
+    "why": "The hedgehog ('most dependable, easiest-to-service television', with hand-wiring demoted to a method and the color volume race ruled out) matches the key's customer-defined quality and solid-state shift, but the denominator is profit per dealer rather than profit per set, and it concedes low-cost production rather than aiming to match Japanese cost."
   },
   "D2": {
     "score": 5,
-    "why": "The top three stop-doing items in the verdict are exactly the key's temptations (hand-wiring as the brand, the debt-funded 'No. 1 in color' capacity race, open-ended pay-TV spending), with 'stop dismissing imports' as item 6 and in the verdict's brutal fact, and the proven core of quality brand, dealers and inventory discipline is preserved."
+    "why": "The top three stop-doing items in the verdict are hand-wiring as the brand, the debt-funded 'No. 1 in color' capacity race, and open-ended pay-TV spending; 'stop dismissing imports' is item 6 and also appears in the verdict's brutal fact, and succession is handled in the bus section and 90-day plan."
   },
   "D3": {
     "score": 5,
-    "why": "Facts 1 and 2 are ranked Critical (quality tied to a production method the industry is abandoning, and leadership dismissing both integrated circuits and imports), the consequence is stated ('the loop breaks'), and pay TV and the color position are also in the register."
+    "why": "The register ranks as Critical the quality identity tied to an abandoned production method and leadership's dismissal of integrated circuits and imports, and also lists the color capacity race, pay TV's regulatory dependence and the succession gap, with consequences stated."
   },
   "D5": {
     "score": 5,
-    "why": "The decline register names the actual mechanisms: Stage 1 hubris in waving off imports and integrated circuits ('already visible'), Stage 2 the debt-funded 'No. 1 in color' capacity race plus pay TV, the succession gap, and Stage 4 grasping, with fitting warning signs such as 'capacity growth outpaces orders; debt appears to fund share goals'."
+    "why": "The decline register names Stage 1 hubris (imports and integrated circuits waved off, 'already visible') and Stage 2 as the debt-funded 'No. 1 in color' capacity race plus pay-TV spending, with fitting warning signs such as capacity outpacing orders and debt funding share goals; its Stage 3 and 4 mechanisms are less exact."
   },
   "D7": {
-    "score": 4,
-    "why": "Assumptions are marked throughout, missing data is listed, and the margin figures are correctly derived from the dossier and caveated as a single-quarter comparison, but 'Greatness potential: 20/100' is an unmarked, underived figure and the Gate 6 PASS rests on the analyst's own stop-doing list."
+    "score": 5,
+    "why": "Inferences are tagged [ASSUMPTION], the margin figures are correctly computed from dossier numbers and caveated as a single-quarter comparison, the missing data (cost comparison, import volumes, color share, full-year results, debt) is flagged, and the verdict of 'good, with conditional gates' fits the evidence; the unexplained 'Greatness potential: 20/100' is a minor blemish."
   },
   "D8": {
     "score": 4,
-    "why": "The opening verdict has every required part (hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact, missing numbers) and is actionable, but with the gate summary, score and method note it runs somewhat past one phone screen."
+    "why": "The opening verdict contains the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers and can be acted on, but it runs somewhat longer than one phone screen."
   },
   "D9": {
-    "score": 3,
-    "why": "It calls Meridian 'clearly good, and arguably great under its founder' with 7 of 11 gates CONDITIONAL and 20/100 potential, and gives a long list of hires, seat moves and eight stop-doing items; it does not attack the quality-and-dealer core and its warning signs are specific, but it treats the subject as good with gaps."
+    "score": null,
+    "why": "The answer key is track B, so restraint is not scored."
   },
   "hindsight_leak": false,
   "recognized_subject_by_name": false,
@@ -36,16 +36,16 @@
     "seed": 3,
     "model": "claude-fable-5-2",
     "effort": "high",
-    "tokens_in": 14890,
-    "tokens_out": 2747,
-    "cost_usd": 0.3092676,
-    "duration_s": 30.6,
-    "finished_at": 1795496001.1712122,
+    "tokens_in": 14936,
+    "tokens_out": 2092,
+    "cost_usd": 0.2831558,
+    "duration_s": 23.7,
+    "finished_at": 1795575512.456437,
     "models_used": {
       "claude-fable-5-2": {
         "inputTokens": 2,
-        "outputTokens": 2747,
-        "costUSD": 0.3092676
+        "outputTokens": 2092,
+        "costUSD": 0.2831558
       }
     }
   }

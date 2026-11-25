@@ -1,0 +1,99 @@
+{
+  "round": "r1",
+  "candidate": "v1",
+  "baseline": "v0",
+  "decision": "ACCEPT",
+  "n_pairs": 126,
+  "n_clusters": 26,
+  "mean_composite": {
+    "candidate": 92.88,
+    "baseline": 91.01
+  },
+  "diff": {
+    "mean": 1.873,
+    "ci95": [
+      0.979,
+      2.793
+    ]
+  },
+  "dimension_means": {
+    "candidate": {
+      "D1": 4.563492063492063,
+      "D2": 4.785714285714286,
+      "D3": 4.968253968253968,
+      "D5": 4.575757575757576,
+      "D7": 4.166666666666667,
+      "D8": 4.9603174603174605,
+      "D9": 4.333333333333333
+    },
+    "baseline": {
+      "D1": 4.531746031746032,
+      "D2": 4.777777777777778,
+      "D3": 4.968253968253968,
+      "D5": 4.666666666666667,
+      "D7": 4.190476190476191,
+      "D8": 4.484126984126984,
+      "D9": 3.533333333333333
+    }
+  },
+  "dimension_drops": {
+    "D1": -0.032,
+    "D2": -0.008,
+    "D3": 0.0,
+    "D5": 0.091,
+    "D7": 0.024,
+    "D8": -0.476,
+    "D9": -0.8
+  },
+  "skill_growth_vs_v0": 0.084,
+  "overfit_hits": [],
+  "overfit_review_manually": [],
+  "checks": {
+    "improves_beyond_noise": true,
+    "no_dimension_drop_gt_0.3": true,
+    "growth_le_20pct_vs_v0": true,
+    "no_overfitting_content": true
+  },
+  "pairwise": {
+    "D1": {
+      "tie": 69,
+      "baseline": 31,
+      "candidate": 26
+    },
+    "D2": {
+      "tie": 78,
+      "baseline": 27,
+      "candidate": 21
+    },
+    "D3": {
+      "baseline": 20,
+      "tie": 92,
+      "candidate": 14
+    },
+    "D5": {
+      "na": 25,
+      "tie": 43,
+      "baseline": 26,
+      "candidate": 32
+    },
+    "D7": {
+      "baseline": 58,
+      "candidate": 19,
+      "tie": 49
+    },
+    "D8": {
+      "tie": 40,
+      "candidate": 69,
+      "baseline": 17
+    },
+    "D9": {
+      "na": 111,
+      "candidate": 15
+    },
+    "overall": {
+      "baseline": 60,
+      "candidate": 64,
+      "tie": 2
+    }
+  }
+}

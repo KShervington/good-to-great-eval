@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is to 'run the West's lowest-cost, best-disciplined bank' concentrated on the home state, explicitly ruling out global banking and measured by profit per employee, which matches all three key points."
+  },
+  "D2": {
+    "score": 4,
+    "why": "International is item 1 on the list and in the verdict, but softened to 'no new overseas offices' and 'review every existing overseas office for exit' rather than a clear exit; branch closures (item 3) and executive perks (item 6) are present."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1, rated Critical and named most urgent in the verdict, is the end of deposit-rate ceilings with the margin squeeze on a high-cost bank stated; repeated international losses and the branch cost burden are also listed."
+  },
+  "D5": {
+    "score": 3,
+    "why": "The cross-cutting risk says cost cutting could erode 'controls or customer integrity' with rising audit findings as the warning sign, and acquisition integration is flagged as untested, but the actual sales-pressure mechanism is not named."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION], no figures are invented, and missing line-of-business, exposure and cost-ratio data are flagged; however, the chief credit officer and cost-owner seats are asserted as 'Missing' without dossier support or an assumption tag."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict compactly gives the hedgehog sentence, weakest flywheel link (credit discipline), top three stop-doing items, the most urgent brutal fact and the missing numbers, and is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A21|s1|judge",
+    "stage": "judge",
+    "case_id": "A21",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11496,
+    "tokens_out": 1821,
+    "cost_usd": 0.2172758,
+    "duration_s": 23.1,
+    "finished_at": 1795585427.4812949,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1821,
+        "costUSD": 0.2172758
+      }
+    }
+  }
+}

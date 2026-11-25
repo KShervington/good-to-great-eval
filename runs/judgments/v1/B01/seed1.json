@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The analysis centres on renewing the electronics superstore against Rival B, 'powered by' the operations system and excluding cars, formats and store-count chasing, but it narrows the field to 'expert-assisted selling of complex, high-ticket electronics' and uses operating profit per store where the key uses profit per region."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are to separate the used-car business, 'stop chasing 800 stores and stop promising 20%+ growth' and exit appliances; it adds 'measure against Rival B' and warns against an overnight commission rip-out, covering the key's attention, targets and no-silver-bullets points, though a full spin-off goes further than Collins's view that the car business should be kept."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks Rival B's lead in sales, earnings, profit per store and share as #1 Critical and names it the most urgent fact in the verdict, followed by the commission model as a structural handicap, value-destroying ventures and the appliance price attack, with consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 and the risk register name Stage 1 hubris ('great shape'), Stage 2 targets and ventures, Stage 3 explaining away Rival B, and Stage 4 'overnight sales-model rip-out, mass replacement of experienced counselors... a splashy rebrand', each with a specific early warning sign."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are marked [ASSUMPTION], derived figures (about $2.0B cars, about $19M sales per store) are shown as calculations, and missing profit-per-store, margin and trust data are flagged; but it states Rival B has led on all four measures 'for four years' when the dossier dates only the sales overtake, and the 25/100 score is unsupported."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (commissioned counselors eroding trust), the top three stop-doing items, the most urgent brutal fact and the numbers that would change the call, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|B01|s1|judge",
+    "stage": "judge",
+    "case_id": "B01",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15143,
+    "tokens_out": 2631,
+    "cost_usd": 0.3080278,
+    "duration_s": 29.1,
+    "finished_at": 1795588477.5762105,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2631,
+        "costUSD": 0.3080278
+      }
+    }
+  }
+}

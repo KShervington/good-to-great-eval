@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 1,
+    "why": "The analysis is about a different subject entirely ('Marlowe Drug Co.', a drugstore chain); its hedgehog ('most convenient, pharmacy-led drugstore... profit per customer visit') has nothing in common with the key's back-office mailing/messaging equipment hedgehog built on the meter customer base."
+  },
+  "D2": {
+    "score": 2,
+    "why": "The stop-doing list (restaurants, discount department stores, travel agency, coffee roasting) never mentions exiting the point-of-sale venture or avoiding general office automation against giants; the real decision is missing, though nothing on the list recommends the opposite."
+  },
+  "D3": {
+    "score": 1,
+    "why": "The brutal-facts register covers EPS stagnation, LIFO-masked margin erosion and discount-store shrinkage; none of the key's facts (meter monopoly eroding under the consent decree, mature regulated meters, the $42M point-of-sale write-off, copiers against a giant) appear anywhere."
+  },
+  "D5": {
+    "score": 1,
+    "why": "The decline register addresses drugstore-chain risks (acquisition race with Rival E, Sun Belt share loss) and never touches the actual mechanism of mail volume being displaced or the core meter business fading."
+  },
+  "D7": {
+    "score": 1,
+    "why": "Nearly every figure cited (616 stores, $1B sales, EPS $1.30 to $1.15, 22 restaurant openings, 25 discount stores) is absent from the Stanwick dossier, so the whole analysis is unsupported by the evidence it was meant to use, and the dossier's stated gaps (profit by business line, copier share, customers and revenue per customer) are never flagged for this subject."
+  },
+  "D8": {
+    "score": 2,
+    "why": "The opening verdict has all the required parts in a compact format (hedgehog sentence, weakest link, top three stop-doing items, urgent brutal fact, missing numbers), but every one concerns the wrong company, so nobody could act on it for Stanwick."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-swap|A17|s1|judge",
+    "stage": "judge",
+    "case_id": "A17",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13654,
+    "tokens_out": 1462,
+    "cost_usd": 0.23744379999999998,
+    "duration_s": 17.9,
+    "finished_at": 1795574974.5693157,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1462,
+        "costUSD": 0.23744379999999998
+      }
+    }
+  }
+}

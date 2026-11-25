@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "tie",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses land on the key's wireless self-renewal hedgehog, the same stop-doing items (doubling goal, ungated satellite launch, analog stance, carrier coercion) and the same brutal facts, with similar flagging of missing data. Analysis 1 edges ahead because it frames the company as already great but in Stage 1-2 decline with Stage 3 imminent, ties Stage 3 to the satellite launch decision as the key does, and gives a tighter one-screen verdict.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|B05|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "B05",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 20243,
+    "tokens_out": 1970,
+    "cost_usd": 0.402672,
+    "duration_s": 22.4,
+    "finished_at": 1795588742.5453157,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1970,
+        "costUSD": 0.402672
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's core ('lowest-cost, most convenient bank for the households and businesses of its home state', profit per employee) and rejects total assets as the 'current implicit denominator', but never says outright that the bank currently has no hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen top three are 'growing assets for the sake of size', 'new energy, shipping and developing-country loans' and 'buying or building new businesses... to grow out of trouble'; overhead, branch and executive-perk cuts appear in the list and the 90-day plan."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All four key facts are in the register (bad loans in four sectors ranked Critical and most urgent, deregulation of cheap deposits, highest overhead, low-rate mortgage book), with consequences for capital stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names stage 4 'buying businesses or expanding into new states to grow out of the problems' with the warning sign 'acquisitions... announced before the credit review is complete', and stage 5 losses leading to takeover, asset sales and leadership turnover, which matches what happened."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferences are consistently marked [ASSUMPTION], scorecard values are given as 'Not in dossier; measure first', the missing metrics are named as answer-changing, and the conditional verdict fits the evidence."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, weakest flywheel link (low cost), top three stop-doing items, most urgent brutal fact and the missing numbers, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A22|s2|judge",
+    "stage": "judge",
+    "case_id": "A22",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12968,
+    "tokens_out": 1611,
+    "cost_usd": 0.23242780000000002,
+    "duration_s": 19.2,
+    "finished_at": 1795585495.1659245,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1611,
+        "costUSD": 0.23242780000000002
+      }
+    }
+  }
+}

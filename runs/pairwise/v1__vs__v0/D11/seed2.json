@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses surface the 90-day convergence, the non-comparable control group and the Hospital at Home distraction, and both run the same hedged but untagged cost-per-avoided-readmission arithmetic. Analysis 2's hedgehog matches the key more closely (explicit 90-day window, per-patient inpatient-days denominator) and its 90-day plan is more actionable with due dates and a comparison-design pilot, while Analysis 1's stop-doing list is slightly more complete on the penalty-window and satisfaction points.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|D11|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D11",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 21471,
+    "tokens_out": 1423,
+    "cost_usd": 0.40043999999999996,
+    "duration_s": 17.6,
+    "finished_at": 1795589514.622574,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1423,
+        "costUSD": 0.40043999999999996
+      }
+    }
+  }
+}

@@ -1,31 +1,31 @@
 {
   "D1": {
     "score": 4,
-    "why": "The hedgehog ('underwriting, standardizing and guaranteeing American mortgage credit', paid per dollar of capital at risk, passion for lasting homeownership) matches the key's rejection of EPS and portfolio size and its risk-based denominator, but it narrows the field to a credit-guarantee utility and rules out the capital-markets and rate-risk competence the key puts at the centre."
+    "why": "The hedgehog ('best in the world at underwriting, standardizing and guaranteeing American mortgage credit', paid per dollar of capital at risk, with passion for lasting homeownership) matches the key's passion, risk-based denominator and rejection of EPS and portfolio size, but it narrows the field to credit guarantee and rules out interest-rate risk management, where the key has a broader mortgage capital-markets player."
   },
   "D2": {
     "score": 5,
-    "why": "The top three stop-doing items in the verdict are to stop using the retained portfolio as the growth engine, stop paying on 'operating' EPS and retire the public EPS targets and streak, and stop large rate mismatches; the full list adds leading with GAAP and holding capital well above the minimum."
+    "why": "The top three stop-doing items in the verdict are to stop using the retained portfolio as the growth engine, to stop paying on operating EPS and retire the public EPS targets and streak, and to stop large rate mismatches; the full list adds leading with GAAP over 'operating' earnings and holding capital well above the minimum."
   },
   "D3": {
     "score": 5,
-    "why": "Thin capital ('$0.9B above the legal minimum against $887B of assets', about 31:1 leverage) is ranked the most urgent fact with its consequence quantified, and the register also covers the -14-month duration gap, EPS-linked pay, the 15% growth maths and the borrowed government backing."
+    "why": "The register ranks thin capital first as Critical ('$0.9B above the minimum', about 31x leverage, a 1% portfolio fall costing about 29% of core capital) and also lists the -14-month duration gap with the regulator's first action, the EPS-linked pay and 15% growth math, and the borrowed government backing."
   },
   "D5": {
     "score": 5,
-    "why": "The decline register names hubris, portfolio growth outpacing the market, and denial of risk ('GAAP results explained away'), each with a fitting warning sign, and it anticipates 'buying riskier loans to protect share or goals' and earnings management, though it does not call out the leverage-driven jump from Stage 3 to Stage 5."
+    "why": "The decline register names hubris around the streak, portfolio growth outpacing the market, denial of risk through 'GAAP results explained away' and the thin cushion, then 'buying riskier loans to protect share or goals' and 'absorption into government', each with a fitting warning sign; it also calls for an accounting review of amortization and hedge accounting."
   },
   "D7": {
     "score": 5,
-    "why": "Inferences are marked [ASSUMPTION], computed figures (31.6x leverage, GAAP down 22%, 2.4% left to the target) derive correctly from the dossier, the missing hedge, accounting-policy, credit-mix and segment data are flagged, and every gate verdict is conditional on that data."
+    "why": "Inferences are consistently tagged [ASSUMPTION], derived figures (31:1 leverage, 22% GAAP decline, 92% portfolio growth) follow correctly from the dossier, the missing hedge, accounting-policy, credit-mix and segment data are flagged, and the mostly CONDITIONAL verdict matches the evidence."
   },
   "D8": {
     "score": 5,
-    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (investor trust), three stop-doing items, the most urgent brutal fact and the missing numbers in a compact form someone could act on."
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (investor trust), three stop-doing items, the most urgent brutal fact with numbers, and the missing numbers in a compact form someone could act on, though the run notes add a little length."
   },
   "D9": {
-    "score": 2,
-    "why": "It never recognises the subject as already great (15/100, baseline re-run to CONDITIONAL) and prescribes a new 'credit utility' hedgehog, a shrinking portfolio, restructured CFO seat and three new executive roles, though its subject-specific warnings are sharp."
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
   },
   "hindsight_leak": false,
   "recognized_subject_by_name": false,
@@ -36,16 +36,16 @@
     "seed": 2,
     "model": "claude-fable-5-2",
     "effort": "high",
-    "tokens_in": 16257,
-    "tokens_out": 2298,
-    "cost_usd": 0.3131796,
-    "duration_s": 26.9,
-    "finished_at": 1795495132.78772,
+    "tokens_in": 16297,
+    "tokens_out": 2124,
+    "cost_usd": 0.09657740000000001,
+    "duration_s": 23.9,
+    "finished_at": 1795575399.0821092,
     "models_used": {
       "claude-fable-5-2": {
         "inputTokens": 2,
-        "outputTokens": 2298,
-        "costUSD": 0.3131796
+        "outputTokens": 2124,
+        "costUSD": 0.09657740000000001
       }
     }
   }

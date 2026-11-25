@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('surgeon-designed tools... competes only in niches it can lead', powered instruments over commodity beds, results-paid sales force, budgets) matches the key's move beyond beds with rebuilt selling and formal discipline, but its denominator is 'profit per niche' rather than annual net-income growth, and it rules out implants, which the key includes as a later growth path."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict include 'paying salespeople flat salaries unconnected to results' and 'routing every decision through the founding family', and the list adds restraint items (freeze IPO, acquisitions and international build-out)."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'effectively no sales force' as Critical at #2 and also lists the missing budget, ~70% bed/stretcher concentration, the fragile leadership transition and the implant shift, with the consequence stated ('the loop exists only on paper')."
+  },
+  "D5": {
+    "score": null,
+    "why": "The answer key lists no decline risks and the later history shows no decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged and missing margins, share and earnings history are flagged with conditional gates, but the '35/100' greatness score and the Gate 6 discipline PASS for a company with no budget are unsupported, and 'products sell without the founder's personal selling' is an unmarked inference."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (results-paid sales force), the top three stop-doing items, the most urgent brutal fact and the missing numbers, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track C, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|C01|s1|judge",
+    "stage": "judge",
+    "case_id": "C01",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12665,
+    "tokens_out": 2015,
+    "cost_usd": 0.24373979999999998,
+    "duration_s": 23.5,
+    "finished_at": 1795588873.526927,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2015,
+        "costUSD": 0.24373979999999998
+      }
+    }
+  }
+}

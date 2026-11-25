@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'best bank in the world at serving the households, farms and small businesses of its home state', judged by 'profit per customer relationship rather than by size' with profit per employee as a cost check, and it explicitly gives up 'world's largest', developing-country lending and venture capital, which matches the key's field, sacrifice and a compatible denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are the key's decisions (stop asset growth as the measure, freeze developing-country/construction/agricultural loan growth, stop fixed-rate mortgages funded short), and the verdict also rejects a 'change agent who enters new businesses' while cutting cost to serve without dismantling the home-state core."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All four of the key's brutal facts are in the register, with deposit deregulation and money-fund drain, the rate mismatch and decentralized credit growth ranked Critical and the branch cost base High, and the verdict states the consequence as an earnings squeeze from both funding cost and credit."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register says Stage 2 is 'likely already under way' through simultaneous high-risk loan growth, venture capital and international expansion, and names the Stage 4 mechanism as 'a charismatic outsider, a transformative acquisition, or a big technology program presented as the cure' with fitting warning signs such as 'a CEO chosen on boldness; large deals announced before the book is cleaned up'."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION], the 0.6% ROA is labelled as computed, and all missing dossier data plus capital ratios are flagged, but the 'Greatness potential: 25/100' figure is given with no basis or assumption marker."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening verdict contains the hedgehog sentence, the weakest flywheel link (cost to serve), the top three stop-doing items, the most urgent brutal fact, the missing numbers and an answer to the board's question, but with the score and run notes it runs somewhat past one phone screen."
+  },
+  "D9": {
+    "score": 3,
+    "why": "It never says the subject is already great (Gate 1 is CONDITIONAL and it scores 'Greatness potential: 25/100') and gives a long list of nine stop-doing items and several new seats, though it preserves the founding home-state franchise, rejects a revolution and names subject-specific decline warning signs."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|B09|s3|judge",
+    "stage": "judge",
+    "case_id": "B09",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14568,
+    "tokens_out": 2335,
+    "cost_usd": 0.2876356,
+    "duration_s": 27.6,
+    "finished_at": 1795496264.758388,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2335,
+        "costUSD": 0.2876356
+      }
+    }
+  }
+}

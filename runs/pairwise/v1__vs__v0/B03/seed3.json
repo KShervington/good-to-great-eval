@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "2",
+  "D3": "1",
+  "D5": "2",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both land on the key's hedgehog (profit per active primary relationship, not product count) and both drop the eight-products goal, quotas and product-count pay, but Analysis 2 puts centralized risk/HR control in its top three, suspends daily goals firm-wide rather than in two pilot regions, and says decline stages 1-3 are already visible. Analysis 1 is slightly more careful (it keeps 'allegedly', avoids the 25x scale guess, and names the unrealistic size of the eight-products goal as a brutal fact), but Analysis 2 is the more decisive and useful document for the leader.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|B03|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "B03",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 19493,
+    "tokens_out": 1590,
+    "cost_usd": 0.37547200000000003,
+    "duration_s": 22.5,
+    "finished_at": 1795588673.3702185,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1590,
+        "costUSD": 0.37547200000000003
+      }
+    }
+  }
+}

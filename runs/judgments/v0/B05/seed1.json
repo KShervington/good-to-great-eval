@@ -1,31 +1,31 @@
 {
   "D1": {
     "score": 5,
-    "why": "The hedgehog is 'the world's most reliable wireless devices and networks on whichever standard carriers adopt next', with self-renewal ('obsoletes its own analog phones'), the size goal explicitly replaced, and a compatible profit-per-subscriber denominator."
+    "why": "The hedgehog is wireless devices and networks 'on whichever standard carriers adopt next', built on self-renewal ('obsoletes its own analog phones'), with the size goal replaced by profit per wireless subscriber, which matches the key's wireless, renewal and growth-as-outcome points."
   },
   "D2": {
     "score": 5,
-    "why": "The top three stop-doing items in the verdict are the doubling goal, satellite full-launch commitments without demand evidence, and the premium distribution program, with analog-only flagships at #4; the wireless core is left intact."
+    "why": "The top three stop-doing items in the verdict are the doubling goal, satellite full-launch commitments without demand evidence, and the premium distribution program, with 'stop launching new analog-only flagship platforms' at #4, covering all of the key's decisions."
   },
   "D3": {
     "score": 5,
-    "why": "Analog-versus-digital is the 'most urgent brutal fact' and ranked #1 Critical, with satellite exposure (Critical), wireless pricing pressure and carrier alienation also in the register."
+    "why": "Analog franchise versus carriers going digital is ranked #1 Critical and named the most urgent brutal fact, and the register also lists satellite exposure (Critical), pricing pressure and the carrier-alienation risk."
   },
   "D5": {
     "score": 5,
-    "why": "The decline register names the actual mechanisms by stage: analog pride and 'can't be wrong' (Stage 1), the doubling goal plus satellite, microprocessors and China (Stage 2), satellite approved without demand data and pricing pressure called temporary (Stage 3), and savior acquisition, abrupt reorganizations and sudden leadership change (Stage 4), each with a specific warning sign."
+    "why": "The decline register names the actual mechanisms by stage (analog pride and 'can't be wrong', the doubling goal with parallel bets, satellite approved without demand data, pricing pressure blamed as external, savior acquisition and sudden leadership change) and gives fitting warning signs such as 'carrier digital orders going to competitors'."
   },
   "D7": {
     "score": 4,
-    "why": "Inferences are marked [ASSUMPTION], derived figures check out against the dossier, and all four missing data items are flagged; the one slip is the verdict saying the cellular leader is 'publicly dismissing' digital when the dossier says it was an internal meeting."
+    "why": "Assumptions are marked, derived figures (margins, growth rates, about $560M) check against the dossier and all four missing data items are flagged, but it says the cellular leader is 'publicly dismissing' digital when the dossier says an internal meeting, and the 'Greatness potential: 30/100' has no stated basis."
   },
   "D8": {
     "score": 5,
-    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact and the missing numbers compactly enough to act on."
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact and the missing numbers in a compact form that could be acted on alone."
   },
   "D9": {
-    "score": 3,
-    "why": "It never says the subject is already great ('clearly good', 'Greatness potential: 30/100', 7 of 11 gates CONDITIONAL) and gives a long list of changes (seven stop-doing items, new roles, seat moves, a microprocessor refocus or exit), though it preserves the wireless core and names subject-specific warning signs."
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
   },
   "hindsight_leak": false,
   "recognized_subject_by_name": false,
@@ -36,16 +36,16 @@
     "seed": 1,
     "model": "claude-fable-5-2",
     "effort": "high",
-    "tokens_in": 13934,
-    "tokens_out": 2408,
-    "cost_usd": 0.2804116,
-    "duration_s": 28.7,
-    "finished_at": 1795495548.6430712,
+    "tokens_in": 13975,
+    "tokens_out": 1847,
+    "cost_usd": 0.2579798,
+    "duration_s": 21.1,
+    "finished_at": 1795575461.4726183,
     "models_used": {
       "claude-fable-5-2": {
         "inputTokens": 2,
-        "outputTokens": 2408,
-        "costUSD": 0.2804116
+        "outputTokens": 1847,
+        "costUSD": 0.2579798
       }
     }
   }

@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses miss the key's \"no hedgehog\" verdict in the same way, proposing the same dense-market hypothesis, and both cover the key's stop-doing items, brutal facts and Stage 4 program-to-program decline almost identically. Analysis 2 is slightly better calibrated: it rates the weak truth climate as conditional rather than a pass, notes that the larger-format link is unproven, avoids derived per-store sales figures, and tracks the small-store share directly.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|A12|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A12",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17918,
+    "tokens_out": 1873,
+    "cost_usd": 0.361592,
+    "duration_s": 23.5,
+    "finished_at": 1795585138.2934868,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1873,
+        "costUSD": 0.361592
+      }
+    }
+  }
+}

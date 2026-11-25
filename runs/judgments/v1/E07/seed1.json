@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'daily one-to-one tutoring by well-trained, closely coached tutors that gets struggling early readers to benchmark', it explicitly excludes math, parent apps and fast multi-state launch, and its denominator is 'cost per additional reader at benchmark', which is compatible with the key's benchmark-per-dollar."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three temptations to refuse, in both the verdict and the stop-doing list, are the $40M grant on its current terms (five states and three board seats), the math pilot and ReadAlong, with restoring 30-hour training and ~12:1 coaching and filling the research director now also explicit; the proven core is left intact."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1 (Critical) is the new-school decline of 69% to 63% to 58% hidden by the aggregate, #2 is the training and coaching cuts, #3 is retention, and #4 is the vacant research seat and cancelled outcome study, each with a stated consequence via the doom loop."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register marks Stage 1 hubris ('cracked the code', 'proven in every setting') and Stage 2 undisciplined growth (five states in 30 months, math, app, training cut to deploy faster) as active, with specific warning signs including falling new-school benchmark rates and a first district non-renewal, and elsewhere flags the COO's departure and the funder board seats."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Derived figures (cost per additional reader, about 55% of budget, the $9,630 new-school cost) are computed from dossier numbers and inferred ones are tagged [ASSUMPTION]; it notes the district comparison is descriptive rather than causal, flags missing module-completion, dosage and fidelity data, and the verdict fits the evidence."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (training and coaching, with numbers), three temptations to refuse, the most urgent brutal fact, and the numbers that would change the call, so a board member could act on it alone."
+  },
+  "D9": {
+    "score": 5,
+    "why": "It declares the subject 'already great' with the RCTs, renewals and cost evidence, confirms the founding hedgehog instead of inventing one, limits recommendations to restoring fidelity mechanisms and refusing named temptations, and names Calloway-specific warning signs; the added Chief Program Officer seat and quality committee are person-independent mechanisms that protect the core."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|E07|s1|judge",
+    "stage": "judge",
+    "case_id": "E07",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15627,
+    "tokens_out": 2334,
+    "cost_usd": 0.3038918,
+    "duration_s": 26.2,
+    "finished_at": 1795589875.8846781,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2334,
+        "costUSD": 0.3038918
+      }
+    }
+  }
+}

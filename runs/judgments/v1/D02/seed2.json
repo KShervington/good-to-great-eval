@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('keeps independent restaurants' dish lines running by owning both the machine and its care... only where route density lets it answer inside four hours') matches the key's field and exclusions, but the denominator is contribution per field technician rather than the key's per-machine measure."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict and list are the third metro, 'Signing Larchmont as structured', and quoting 63% margin without field labor; an all-in cost ceiling and supply-months discipline cover not planning on Delmar-priced units."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The 'Supply cliff' is brutal fact #1, rated Critical and named most urgent in the verdict, linking 288 of 403 units via Delmar to the Harrow's program ending (118 of 610 left), with payback moving from about 12 to 21-27 months."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names Stage 2 as 'Third metro, hotels, conveyor units, scattered accounts' and Stage 3 as 'Supply cliff ignored; 63% margin quoted', each with specific warning signs such as no supply-months metric and a new customer type entering the pipeline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Churn is flagged as unknown and not computed, and the $70k technician cost, $3,000 ceiling and 70-120 remaining units are tagged as assumptions, but 'Greatness potential: 17/100' is unexplained and 'several properties sit in the weaker East territory' is an unmarked inference."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The compact opening verdict gives the hedgehog sentence, the weakest flywheel link (cheap machine supply), the top three stop-doing items, the most urgent brutal fact with an action, and three missing numbers including logo churn."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|D02|s2|judge",
+    "stage": "judge",
+    "case_id": "D02",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15009,
+    "tokens_out": 1708,
+    "cost_usd": 0.2689638,
+    "duration_s": 20.0,
+    "finished_at": 1795589074.7856627,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1708,
+        "costUSD": 0.2689638
+      }
+    }
+  }
+}

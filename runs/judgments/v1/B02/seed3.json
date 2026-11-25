@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'best in the world at pricing and managing the credit risk of American home mortgages', with passion for sustainable home ownership and 'economic profit per dollar of mortgage credit risk managed', explicitly rejecting EPS and portfolio size; this matches the key, though it narrows slightly to credit risk."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are the EPS-doubling goal and EPS-linked pay, portfolio growth faster than the market, and capital only $0.9B above minimum; leading with 'operating earnings' is also on the list at #5."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks thin capital (3.2% of assets, $0.9B cushion) as #1 Critical and the -14-month duration gap with the regulator's first action as #2 Critical, and also lists the EPS-linked pay and the revocable implied guarantee, with consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register marks Stages 1-3 as present with the actual mechanisms (streak hubris, portfolio growth to hit EPS, 'operating' earnings and amortization/hedge-accounting discretion, thin capital) and specific warning signs, and anticipates Stage 4 'aggressive new credit products' and Stage 5 government takeover made possible by thin capital."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures are correctly computed from the dossier, inferences are mostly tagged [ASSUMPTION] and the missing data is flagged, but a few inferences are unmarked, such as 'automated underwriting' technology and the claim that refinancing 'usually squeezes portfolio spreads'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict compactly gives the hedgehog sentence, the weakest flywheel link (trust resting on the implied guarantee), the top three stop-doing items, the most urgent brutal fact (capital cushion plus duration gap) and the missing numbers, and is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is Track B, not Track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|B02|s3|judge",
+    "stage": "judge",
+    "case_id": "B02",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 16085,
+    "tokens_out": 2145,
+    "cost_usd": 0.30365980000000004,
+    "duration_s": 24.7,
+    "finished_at": 1795588578.6060069,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2145,
+        "costUSD": 0.30365980000000004
+      }
+    }
+  }
+}

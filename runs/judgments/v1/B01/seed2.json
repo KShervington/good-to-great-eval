@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog centres on the electronics store core ('helping people choose, buy and get working the complex home electronics', carried by distribution and store operations) and on renewing the format against Rival B, but it narrows to assisted selling of complex products and uses profit per customer transaction, not profit per region."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Stopping ventures outside electronics retail is item 1, redirecting new-store capital to remodels is item 4, and retiring the $15B and 800-store targets is item 5, with explicit warnings against silver bullets; however the targets item sits outside the top three and it recommends fully separating the used-car business, which the key says should have been kept."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Rival B's lead on sales, earnings, profit per store and share is fact 1, rated Critical and named the most urgent in the verdict, and the commission model, dated store base, venture losses and appliance price war are all listed with evidence."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names the actual mechanisms by stage: 'great shape' hubris, ventures and the 800-store target, denial over the commission model and dated base, and Stage 4 grasping via 'mass cuts of experienced counselors' or 'a charismatic outside savior', each with a specific warning sign."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are mostly tagged and the missing margins, per-store gap, store age and satisfaction data are flagged, but 'Greatness potential: 18/100' is an unexplained number and a few inferences are unmarked (counselors as 'most of the 60,000+ staff', Rival B leading on earnings and profit per store 'for four years')."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (trust in the commissioned counselor), the top three stop-doing items, the most urgent brutal fact and the numbers that would change the view."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|B01|s2|judge",
+    "stage": "judge",
+    "case_id": "B01",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14470,
+    "tokens_out": 2741,
+    "cost_usd": 0.30165980000000003,
+    "duration_s": 29.8,
+    "finished_at": 1795588483.498925,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2741,
+        "costUSD": 0.30165980000000003
+      }
+    }
+  }
+}

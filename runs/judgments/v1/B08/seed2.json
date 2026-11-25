@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is the serviceman-trusted, reliable home TV 'in whatever circuit technology delivers that', earning a premium per set, with hand-wiring and 'being No. 1' explicitly excluded and profit per set as denominator; the only slight divergence is 'cannot be the cheapest' versus the key's match-Japanese-cost point."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items, repeated in the verdict, are no debt-funded race to No. 1 in color, stop treating hand-wiring as the brand, and cap pay TV; item 4 is stop dismissing imports and ICs, and succession is handled in the bus section."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks capital going into the hand-wired tube model as Critical, with dismissal of imports and the repeated 'not ready' technology stance as High, and also lists the color-boom capacity and pay-TV regulatory dependence, with consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register names hubris about 'junk' imports, a debt-funded color rank race plus pay TV with 'capital spending growing faster than profit per set; new borrowing' as the warning sign, blaming outside causes, a panic price war, and the succession gap; only scattershot diversification is not named specifically."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Missing data is flagged and the margin figures are derived from the dossier and caveated, but 'No. 2 in color' and the unexplained 'Greatness potential: 30/100' are unmarked inferences."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link, three temptations to refuse, the most urgent brutal fact and the numbers that would change it, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|B08|s2|judge",
+    "stage": "judge",
+    "case_id": "B08",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13389,
+    "tokens_out": 2076,
+    "cost_usd": 0.2577638,
+    "duration_s": 24.1,
+    "finished_at": 1795588766.726726,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2076,
+        "costUSD": 0.2577638
+      }
+    }
+  }
+}

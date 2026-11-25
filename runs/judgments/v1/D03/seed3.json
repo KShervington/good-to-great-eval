@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog ('fastest, safest way for a farmer to put a stranger's high-value machine to work in a critical window, built one dense county at a time') matches the key's time-critical high-value field, keeps repeats on-platform by adding value ('earn the repeat booking; don't trap it'), and uses a compatible denominator (net revenue per county-season, with per-pair as the leakage metric)."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's top three stop-doing items are exactly the key's: decline input financing at the January board, drop the two-new-states launch in favour of densifying adjacent counties, and stop counting phone swaps and off-app sharing as wins."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical, is 'the community story is partly a leakage story', citing 71% number swaps, 11% same-owner rebooking, masking turned off and the off-platform shared baler, with 68% concentration as fact #4 and the 'lead-generation directory' consequence stated; the verdict does label the financing engineering freeze as most urgent, but leakage is named there as the weakest flywheel link."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names Stage 2 (financing, new states and Pro in one winter) and Stage 3 ('phone swaps read as community success') with specific warning signs such as leakage absent from board decks and over 25% of engineering time outside the core turns; Stage 1 hubris is flagged but framed around expansion rather than community stories."
+  },
+  "D7": {
+    "score": 3,
+    "why": "Most inferences are tagged and the 11% ambiguity is flagged, but the key's missing metric was computed rather than flagged: the scorecard gives 'peak-window fill rate about 82% (5,310 ÷ 6,450)' and Gate 1 cites 'utilization (2.73 bookings per machine)' with no [ASSUMPTION] tag, and search-to-booking data is never requested."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (repeat pairs leaving the platform), three stop-doing items, a most urgent brutal fact and four missing numbers, so someone could act on it for the January board without reading further."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|D03|s3|judge",
+    "stage": "judge",
+    "case_id": "D03",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14572,
+    "tokens_out": 2009,
+    "cost_usd": 0.2740118,
+    "duration_s": 22.3,
+    "finished_at": 1795589158.0804477,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2009,
+        "costUSD": 0.2740118
+      }
+    }
+  }
+}

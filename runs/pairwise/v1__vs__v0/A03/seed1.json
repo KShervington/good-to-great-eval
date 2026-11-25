@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "tie",
+  "D3": "2",
+  "D5": "na",
+  "D7": "2",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Analysis 1 matches the key's hedgehog more exactly, choosing profit per employee as the denominator where Analysis 2 picks profit per hospital customer, and its verdict is tighter; both make the same stop-doing calls on blockbuster drugs and consumer diversification. Analysis 2 is slightly stronger on brutal facts (it names the research-led rival explicitly) and on flagging assumptions, but not enough to offset the closer strategic match.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|A03|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A03",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18435,
+    "tokens_out": 1721,
+    "cost_usd": 0.363784,
+    "duration_s": 24.3,
+    "finished_at": 1795584671.5149586,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1721,
+        "costUSD": 0.363784
+      }
+    }
+  }
+}

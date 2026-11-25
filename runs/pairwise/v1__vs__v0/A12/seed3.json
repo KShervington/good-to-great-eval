@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "tie",
+  "D8": "2",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both miss the key's 'no hedgehog' reading in the same way, proposing a near-identical regional #1/#2 concept, and both cover the obsolete stores, the price-war loss, capital starvation and the adapting rival about equally. Analysis 1 has the fuller stop-doing list (adding insider-only promotion and reflexive bid opposition) and stricter gate verdicts, while Analysis 2 has the tighter one-screen verdict.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|A12|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A12",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18186,
+    "tokens_out": 1719,
+    "cost_usd": 0.35972,
+    "duration_s": 21.5,
+    "finished_at": 1795585157.3382676,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1719,
+        "costUSD": 0.35972
+      }
+    }
+  }
+}

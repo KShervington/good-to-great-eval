@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "2",
+  "D9": "1",
+  "overall": "1",
+  "why": "Both analyses match the key's hedgehog, stop-doing decisions, brutal facts and Stage 1-2 decline mechanisms almost point for point; Analysis 2 is somewhat better calibrated (it flags the cost-times-students versus budget mismatch, a composition explanation and disconfirming evidence) and its verdict answers the three board decisions directly. Analysis 1 wins overall because it explicitly recognizes Calloway as already great, confirms the existing hedgehog instead of drafting a new one, and frames its advice as stewardship of the proven core, whereas Analysis 2 calls the subject merely 'good' and carries a longer list of changes.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|E07|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "E07",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 24674,
+    "tokens_out": 1819,
+    "cost_usd": 0.467528,
+    "duration_s": 22.6,
+    "finished_at": 1795589903.4769642,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1819,
+        "costUSD": 0.467528
+      }
+    }
+  }
+}

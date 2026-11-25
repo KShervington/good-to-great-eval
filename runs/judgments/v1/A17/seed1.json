@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog ('best in the world at equipping and servicing the mailing operations of businesses... more profit from every customer site our field force already serves') matches the key's mailing equipment and services field, its use of the installed base, and its profit-per-customer denominator, and it explicitly rules out copiers, POS and general office electronics."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's top three stop-doing items are closing retail POS 'for good', ending the head-on fight with the copier giant, and no acquisitions or joint ventures outside the mailroom, while the business is reframed from meters to full mailing systems."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1 (High) pairs the $42M POS loss with copiers facing the inventor of plain-paper copying, and the register also lists regulator dependence (#3) and the consent decree's free licences (#5), though meter maturity is not stated outright."
+  },
+  "D5": {
+    "score": 3,
+    "why": "Decline 3 flags 'electronics or a Postal Service rule change undercuts the meter' with a warning sign about dismissing electronic entrants, but it frames the threat as electronic metering replacing mechanical meters, not electronic substitution shrinking mail volume itself."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked throughout, the derived figures (6.8x, about 16% a year, about 11% of revenue) check out, and the missing data is flagged; but 'the meter was the engine of that growth' and price-marking as 'the path into the POS loss' are unmarked inferences, and the verdict states 'management cannot see profit by business line' as fact."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact and the missing numbers, so a reader could act on it alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A17|s1|judge",
+    "stage": "judge",
+    "case_id": "A17",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11981,
+    "tokens_out": 1946,
+    "cost_usd": 0.2300358,
+    "duration_s": 22.5,
+    "finished_at": 1795585160.9430027,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1946,
+        "costUSD": 0.2300358
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "2",
+  "overall": "2",
+  "why": "Both analyses match the key's hedgehog, stop-doing decisions and brutal facts almost identically, and Analysis 1 is slightly more careful about flagging missing data (for example the cost-times-students versus budget discrepancy). Analysis 2 explicitly treats Calloway as already great, frames its advice as confirming and protecting the proven core, and gives a sharper decline register with concrete trip wires, so it is the better hand-off to the leader.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|E07|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "E07",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 23472,
+    "tokens_out": 1696,
+    "cost_usd": 0.443376,
+    "duration_s": 19.5,
+    "finished_at": 1795589918.9561477,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1696,
+        "costUSD": 0.443376
+      }
+    }
+  }
+}

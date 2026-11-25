@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'violin-family strings professional players choose in blind tests, sold at a protected premium through specialist shops', explicitly excluding guitar, student and mass retail, with denominator 'operating profit per professional/advanced violin-family player retained'."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict's top three temptations to refuse are Halvard Six, the PE group's student brand, and marketplace or sub-MAP pricing, while the Listening Room veto, MAP and shop channel are kept as non-negotiables."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register lists shop consolidation as High (structural), growth slowing toward a ceiling in a ~2% market, and the CEO-at-61 and winding-head transitions, each with evidence and an owner, though its top-ranked item is the agenda itself."
+  },
+  "D5": {
+    "score": null,
+    "why": "The answer key lists no expected decline risks and the later history shows no decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures (blended margin ~54%, cash ≈ $25M, BHAG, thresholds) are marked [ASSUMPTION] and the missing numbers are named, but 'shrinking about 3% a year' extrapolates from a single year and 'competitors could not fill the gap quickly' is unmarked."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The compact opening gives the hedgehog sentence, the weakest flywheel link (shop channel), three temptations to refuse, the most urgent brutal fact and the numbers that would change the call."
+  },
+  "D9": {
+    "score": 5,
+    "why": "It declares Halvard 'already great' with evidence against three tests, confirms the existing hedgehog rather than inventing one, limits itself to five preserving actions (charter the panel, written new-category rule, capacity, channel dashboard), and names subject-specific warning signs."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|E06|s3|judge",
+    "stage": "judge",
+    "case_id": "E06",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13409,
+    "tokens_out": 1852,
+    "cost_usd": 0.24912379999999998,
+    "duration_s": 20.8,
+    "finished_at": 1795589832.941803,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1852,
+        "costUSD": 0.24912379999999998
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the region's go-to adult congenital echo specialist, and the one who teaches it, by earning more per scan instead of doing more scans', which matches the key's core field, its shift from volume to expertise, and its income-per-study denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's top three stop-doing items are voluntary overtime, going without disability cover, and the high-volume travel contract, and the headline says 'Don't take the travel contract'."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical and named most urgent, links the injured scanning arm, the rise from 9 to 13–14 studies a day, and the dropped LTD cover, and states that her income depends on that arm."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 marks Stage 3 denial of risk as 'already active' (scanning through the shoulder without insurance; signs: more cushion use, night pain, no LTD by open enrollment) and Stage 2 as saying yes to travel, overtime and the rest at once."
+  },
+  "D7": {
+    "score": 5,
+    "why": "The university pay band is flagged as the top missing number and no specialist pay figure is invented; derived figures carry [ASSUMPTION] tags, with only the 40-hour week behind the $24,128 comparison left implicit."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (no protected specialist seat), three stop-doing items, the most urgent brutal fact and the missing numbers."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track D, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|D06|s3|judge",
+    "stage": "judge",
+    "case_id": "D06",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14350,
+    "tokens_out": 1751,
+    "cost_usd": 0.2601398,
+    "duration_s": 21.2,
+    "finished_at": 1795589296.868868,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1751,
+        "costUSD": 0.2601398
+      }
+    }
+  }
+}

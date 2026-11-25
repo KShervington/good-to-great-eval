@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "tie",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses land on the same regional drugstore-focus hedgehog, call for divesting the unrelated businesses, and surface all three key brutal facts (founder in politics, diversification, Rival W in the home state) with assumptions flagged and missing data acknowledged. Analysis 1 edges ahead because its one-screen verdict ties all three facts together with concrete sale actions and states what would soften the recommendation, while Analysis 2 has small slips such as \"five regions\" and an unsupported claim that the core runs without the founder.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|A20|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A20",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17501,
+    "tokens_out": 1551,
+    "cost_usd": 0.34204,
+    "duration_s": 19.5,
+    "finished_at": 1795585404.1277192,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1551,
+        "costUSD": 0.34204
+      }
+    }
+  }
+}

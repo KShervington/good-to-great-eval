@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses catch the off-platform leakage, decline input financing, pause the two-state launch and stop counting community stories as wins, so they are close on the key's substance. Analysis 2 edges ahead because its hedgehog names high-value, time-critical rentals with a per-county denominator, and it tags the 82% fill rate as an assumption and asks for the missing request funnel, whereas Analysis 1 states 82% as a fill rate untagged.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|D03|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D03",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 21918,
+    "tokens_out": 1977,
+    "cost_usd": 0.429752,
+    "duration_s": 23.2,
+    "finished_at": 1795589181.6562757,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1977,
+        "costUSD": 0.429752
+      }
+    }
+  }
+}

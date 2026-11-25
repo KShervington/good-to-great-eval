@@ -1,31 +1,31 @@
 {
   "D1": {
     "score": 5,
-    "why": "The hedgehog is 'lowest-cost, most trusted bank for the households, farms and small businesses of our home state' judged by 'risk-adjusted profit per employee', explicitly rejecting asset growth, sovereign lending and venture capital, which matches the key's field, sacrifice and denominator."
+    "why": "The hedgehog is 'the lowest-cost, most trusted bank for the households, farms and small businesses of our home state' judged by 'risk-adjusted profit per employee', and it explicitly rejects asset growth, sovereign lending and venture capital, which matches the key's field, sacrifice and denominator."
   },
   "D2": {
     "score": 5,
-    "why": "The top three stop-doing items in the opening verdict are asset growth as the measure, decentralized developing-country lending and short-funded fixed-rate mortgages; the successor call and Stage 4 register also reject a change-agent who enters new businesses, and the home-state core is preserved."
+    "why": "The top three stop-doing items in the opening verdict are asset growth as the measure of success, decentralized developing-country lending growth, and fixed-rate mortgages funded short; cost cuts ahead of deregulation and a successor who narrows the business 'instead of entering new ones' are also explicit."
   },
   "D3": {
     "score": 5,
-    "why": "The register ranks the deposit-ceiling phase-out and money-fund drain as fact 1 (Critical), with the rate mismatch, untested developing-country/farm/construction credit and high branch costs as facts 2, 3 and 5, and the verdict states the consequence that record profits rest on a subsidy already legislated away."
+    "why": "The most urgent brutal fact is that record profits rest on capped deposits now 'legislated away', with money funds already draining deposits; the register ranks this, the mortgage mismatch and the untested developing-country, farm and construction credit as Critical and branch fixed costs as High, each with its consequence."
   },
   "D5": {
     "score": 5,
-    "why": "The Gate 10 register names Stage 2 as already underway in the exact loan categories and Stage 4 as 'a change-agent CEO brings bold new businesses, a big acquisition or a technology moonshot', with fitting warning signs; it misses only the bureaucracy mechanism, which the dossier did not show."
+    "why": "The decline register says Stage 2 is 'already underway' and names Stage 4 as 'a change-agent CEO brings bold new businesses, a big acquisition or a technology moonshot', with fitting warning signs such as successor criteria stressing new businesses and acquisition talk within two years; it misses only the bureaucracy mechanism, which the dossier did not show."
   },
   "D7": {
     "score": 4,
-    "why": "Inferences are mostly tagged [ASSUMPTION], the 0.6% return on assets is marked as derived, and all missing data is flagged, but a few inferences are unmarked (a board 'too large for real debate', lifetime employment making costs rigid) and the Gate 6 and 7 PASS verdicts sit awkwardly with decentralized lending and the ATM lag."
+    "why": "Inferences are marked [ASSUMPTION], the 0.6% return on assets is labelled as derived, and the missing reserve, exposure, gap, expense and headcount figures are flagged; however, Gate 6 Discipline is scored PASS while the text describes 'freedom without a framework' in international lending, so that verdict does not match the evidence."
   },
   "D8": {
     "score": 4,
-    "why": "The opening gives the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers and is actionable, but with the successor call, score and rationale it runs somewhat past one phone screen."
+    "why": "The opening gives the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact, missing numbers and a successor call, all actionable, but with the 25/100 rationale it runs somewhat past one phone screen."
   },
   "D9": {
-    "score": 4,
-    "why": "It calls the franchise 'exceptional', keeps the founding hedgehog, warns against a revolution and gives subject-specific warning signs, but it frames the bank as conditionally good (25/100, Gate 1 CONDITIONAL) and its change list is long rather than few."
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
   },
   "hindsight_leak": false,
   "recognized_subject_by_name": false,
@@ -36,16 +36,16 @@
     "seed": 2,
     "model": "claude-fable-5-2",
     "effort": "high",
-    "tokens_in": 15310,
-    "tokens_out": 2656,
-    "cost_usd": 0.3123476,
-    "duration_s": 30.3,
-    "finished_at": 1795496208.2482002,
+    "tokens_in": 15349,
+    "tokens_out": 1839,
+    "cost_usd": 0.0850036,
+    "duration_s": 20.8,
+    "finished_at": 1795575533.35507,
     "models_used": {
       "claude-fable-5-2": {
         "inputTokens": 2,
-        "outputTokens": 2656,
-        "costUSD": 0.3123476
+        "outputTokens": 1839,
+        "costUSD": 0.0850036
       }
     }
   }

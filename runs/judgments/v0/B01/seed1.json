@@ -1,31 +1,31 @@
 {
   "D1": {
-    "score": 3,
-    "why": "The hedgehog ('the store Americans trust when home technology is complicated… profit per square foot from expert-assisted sales') stays in the electronics core and drops ventures and size targets, but it narrows to an expert-selling niche that concedes the superstore volume model, and uses profit per square foot, not profit per region."
+    "score": 4,
+    "why": "The hedgehog keeps the electronics store core, renews it against Rival B through the remodel test, and gives up ventures and size targets, but it narrows to 'expert-assisted sales' of complex technology and uses profit per square foot, not the key's profit per region."
   },
   "D2": {
-    "score": 4,
-    "why": "The top three stop-doing items are 'Stop chasing 800 stores and $15B' and 'Stop funding ventures outside electronics', and the register warns against stage 4 salvation moves; but it also pushes full separation and eventual spin-off of the used-car business, which the key says should have been kept, and redesigns commission pay."
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are 'Stop chasing 800 stores and $15B' and 'Stop funding ventures outside electronics', plus cancelling the appliance stores, and the Stage 4 row warns against a 'salvation move' before test data."
   },
   "D3": {
     "score": 5,
-    "why": "The most urgent brutal fact is that Rival B 'has led on sales, earnings, profit per store and national share for about four years', rated Critical with its consequence stated; the register also lists the venture losses, the appliance price attack, the unvalidated commission model and the ageing store base."
+    "why": "Rival B's four-year lead on sales, earnings, profit per store and share is ranked #1 and Critical with its consequence stated, and the register also lists the venture losses, the appliance price attack, the unvalidated commission model and the ageing store base."
   },
   "D5": {
     "score": 5,
-    "why": "Gate 10 marks stage 1 hubris ('great shape'), stage 2 ventures and targets, and stage 3 denial as present, then names stage 4 ('new CEO copies Rival B wholesale… dramatic program launched before test results') and stage 5 (buybacks, ageing stores, counselors leaving), each with a fitting early warning sign."
+    "why": "Gate 10 names Stage 1 hubris ('great shape'), Stage 2 ventures and targets, Stage 3 denial behind the record year, and a Stage 4 'wholesale copy of Rival B' or dramatic program before test results, with buybacks and counselor attrition as Stage 5 warnings."
   },
   "D7": {
-    "score": 5,
-    "why": "Derived figures (about $2.0B used-car revenue, $198.5M disc losses, 19% growth needed for $15B, about $18.6M sales per store) check out against the dossier and are labelled as derived; assumptions are tagged, and missing ROE, profit per store, satisfaction and remodel cost are flagged as able to overturn the hedgehog."
+    "score": 4,
+    "why": "Assumptions are tagged, derived figures (about $2.0B used-car revenue, $198.5M disc losses) are labelled and check out, and missing ROE and profit per store are flagged, but a few inferences are unmarked, such as commodity media as 'price-war traffic' and the chains' 'structural traffic advantages'."
   },
   "D8": {
     "score": 4,
-    "why": "The opening verdict gives the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, and is actionable, but with the score rationale and evidence note it runs past one phone screen."
+    "why": "The opening verdict has the hedgehog sentence, weakest flywheel link, top three stop-doing items, most urgent brutal fact and missing numbers, but the score rationale and evidence note push it past one phone screen."
   },
   "D9": {
-    "score": 3,
-    "why": "It says 'Kestrel is good. It was great, and it is now sliding', keeps the electronics core and ops systems, and gives specific early-warning signs, but it offers a narrower new hedgehog as a hypothesis, an eight-item stop-doing list, a pay redesign and governance changes, not a restrained renewal of the hedgehog the company already had."
+    "score": null,
+    "why": "The answer key is track B, not track E, so restraint is not scored."
   },
   "hindsight_leak": false,
   "recognized_subject_by_name": false,
@@ -36,16 +36,16 @@
     "seed": 1,
     "model": "claude-fable-5-2",
     "effort": "high",
-    "tokens_in": 15287,
-    "tokens_out": 4385,
-    "cost_usd": 0.3811396,
-    "duration_s": 48.5,
-    "finished_at": 1795494720.4776423,
+    "tokens_in": 15327,
+    "tokens_out": 2742,
+    "cost_usd": 0.3154118,
+    "duration_s": 29.8,
+    "finished_at": 1795575345.1153324,
     "models_used": {
       "claude-fable-5-2": {
         "inputTokens": 2,
-        "outputTokens": 4385,
-        "costUSD": 0.3811396
+        "outputTokens": 2742,
+        "costUSD": 0.3154118
       }
     }
   }

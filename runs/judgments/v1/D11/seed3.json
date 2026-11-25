@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'keeps St. Aldric's highest-risk heart-failure patients home for 90 days, not 30', it rules out Hospital at Home as 'cannot be best at', and its denominator is 'hospital days avoided per enrolled patient at 90 days', all matching the key."
+  },
+  "D2": {
+    "score": 5,
+    "why": "'Leading the Hospital at Home launch' is stop-doing item 1 in both the verdict and the full list, with the 75% enrollment push, the day-30 graduation and reliance on 30-day rates and satisfaction also listed."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1, rated Critical and named most urgent in the verdict, is the 90-day convergence (32.7% vs 33.9%) with the consequence 'delaying readmissions rather than preventing them'; fact 2 is the biased comparator and the day-30 graduation is tied to the catch-up."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names undisciplined more (Hospital at Home, director title, enrollment target, 'early signs already present') and denial of risk ('90-day data stays in attachments', budget cycle arrives without a finance number), and even anticipates absorption into Hospital at Home."
+  },
+  "D7": {
+    "score": 4,
+    "why": "The finance price is flagged as missing and most inferences are marked, but the analysis still computes a 'naive cost per readmission avoided' of about $21.6k and $106k without an [ASSUMPTION] tag, and passes Gate 2 Level 5 on thin evidence."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (day-30 graduation to no one), three stop-doing items, the most urgent brutal fact and the missing numbers, compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|D11|s3|judge",
+    "stage": "judge",
+    "case_id": "D11",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13484,
+    "tokens_out": 1772,
+    "cost_usd": 0.2471238,
+    "duration_s": 20.4,
+    "finished_at": 1795589496.8364615,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1772,
+        "costUSD": 0.2471238
+      }
+    }
+  }
+}

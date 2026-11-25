@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "2",
+  "D5": "na",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 2 comes closer to the key's hedgehog by pairing specialist incentive-paid selling and decentralized budgeted units with a consistent annual earnings-growth goal as the lead scorecard metric, and its brutal facts also cover small scale against pharma-backed rivals and the absence of implants. Both analyses hit the sales-pay, centralization and budget stop-doing items with comparable calibration and verdict quality, so Analysis 2 wins on the closer match to the key's earnings-growth discipline and fuller fact base.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|C01|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "C01",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15889,
+    "tokens_out": 1334,
+    "cost_usd": 0.30756799999999995,
+    "duration_s": 18.2,
+    "finished_at": 1795588912.1047027,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1334,
+        "costUSD": 0.30756799999999995
+      }
+    }
+  }
+}

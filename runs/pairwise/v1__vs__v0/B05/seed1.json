@@ -1,0 +1,33 @@
+{
+  "D1": "1",
+  "D2": "tie",
+  "D3": "2",
+  "D5": "tie",
+  "D7": "tie",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Analysis 1's hedgehog puts self-obsolescence in wireless at the centre, which is closest to the key, and its verdict is tighter, while Analysis 2 is slightly better on brutal facts by naming wireless pricing pressure as its own fact. Both cover all four key stop-doing items and the Stage 1-4 decline risks with correctly derived figures and flagged gaps, so the overall margin is narrow.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|B05|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "B05",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18234,
+    "tokens_out": 2087,
+    "cost_usd": 0.37520800000000004,
+    "duration_s": 25.5,
+    "finished_at": 1795588720.029489,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2087,
+        "costUSD": 0.37520800000000004
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to a smaller chain of modern stores in dense regions measured by 'profit per regional market' and calls the current course a 'doom loop', but it never plainly says the company has no hedgehog today and it keeps store-brand manufacturing from the old formula as the 'best at' circle."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are the chainwide deep-discount price war, paying out most profit as dividends while stores age, and running small old stores in markets where it isn't #1 or #2, which is the key's decision."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the unwinnable price war and ~$51M loss first and the 'structurally obsolete' store base second, both Critical, and also lists capital starvation, broken service, high labor costs and Rival L adapting, each with evidence."
+  },
+  "D5": {
+    "score": 4,
+    "why": "It places the company in Stage 4 and names program-to-program silver bullets ('price war, savior CEO, merger') with a fitting warning sign, plus Stage 5 'selling cheaply, or a slow drift into irrelevance', but the other stage rows are templated and the register itself does not tie decline to continued store obsolescence and share loss."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferred figures are marked [ASSUMPTION] and the missing store, regional and format-test data are flagged, but it treats the foundation as a current >1/3 owner that 'relies on those dividends' and calls the company 'the country's best-known grocery name' without marking either as inference."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (reinvestment in modern stores), three stop-doing items, the most urgent brutal fact and the missing numbers, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A12|s2|judge",
+    "stage": "judge",
+    "case_id": "A12",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13386,
+    "tokens_out": 2464,
+    "cost_usd": 0.27323580000000003,
+    "duration_s": 28.9,
+    "finished_at": 1795585114.672297,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2464,
+        "costUSD": 0.27323580000000003
+      }
+    }
+  }
+}

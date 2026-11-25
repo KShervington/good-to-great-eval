@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "1",
+  "D9": "na",
+  "overall": "2",
+  "why": "Analysis 1 matches the key's stop-doing decision more fully by explicitly stopping list-price cuts, and has the tighter verdict, but it presents the dossier's missing share data as a fact that Corwin itself does not know its share. Analysis 2 is better calibrated and more candid that the hedgehog may fail or need to narrow if the softness gap against Rival P cannot be closed, which makes it marginally the better document to hand the incoming chairman.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|A02|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A02",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18233,
+    "tokens_out": 2007,
+    "cost_usd": 0.371992,
+    "duration_s": 27.6,
+    "finished_at": 1795584604.2883189,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2007,
+        "costUSD": 0.371992
+      }
+    }
+  }
+}

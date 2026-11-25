@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The analysis narrows to low-cost in-state retail and middle-market banking judged by profit per employee, and rejects asset growth as 'the old denominator', which matches the key's 'cut costs and narrow' core; but it never says plainly that the bank currently has no hedgehog."
+  },
+  "D2": {
+    "score": 3,
+    "why": "The stop-doing section reads '(No stop-doing items.)' and the verdict omits it, so the real decision is only inferable from the 90-day freeze on acquisitions, new-state entry and international commitments, the brokerage review, and the bus table's 'off' calls."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All four key brutal facts are ranked 1 to 4 in the register (bad loans of unknown size as Critical, deposit advantage legislated away, highest overhead, low-rate mortgage drag), and the verdict states the consequence that 'capital and credibility are at risk'."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The register places the bank in Stage 2 with Stage 3 emerging and names the mechanisms that occurred, with fitting warnings: 'any new acquisition or new state before the cost program lands', 'NPLs rising faster than reserves', a rescue deal under earnings pressure, and capital erosion."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged and every missing metric is flagged rather than guessed, but 'has never been run for cost' is an unmarked inference, the 15/100 score is unexplained, and the Gate 6 Culture of Discipline PASS sits oddly with its own 'no cost culture' finding."
+  },
+  "D8": {
+    "score": 3,
+    "why": "The opening verdict gives the hedgehog sentence, weakest flywheel link, most urgent brutal fact and missing numbers concisely, but the top three stop-doing items are absent."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-no_stop|A22|s1|judge",
+    "stage": "judge",
+    "case_id": "A22",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11442,
+    "tokens_out": 1888,
+    "cost_usd": 0.2190918,
+    "duration_s": 22.2,
+    "finished_at": 1795575555.6617222,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1888,
+        "costUSD": 0.2190918
+      }
+    }
+  }
+}

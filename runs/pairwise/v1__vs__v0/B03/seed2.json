@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "2",
+  "D8": "1",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both analyses land on the key's hedgehog (profit per active relationship, not product count), the full stop-doing set (quotas, per-product pay, the eight-products goal, decentralized risk and HR) and all four brutal facts, so they are hard to separate on substance. Analysis 1 has the crisper verdict and a decline read closer to the key (Stage 1-2 with Stage 3 signs, the fine treated as a legacy matter, anomalies handled one termination at a time), while Analysis 2 is slightly better on calibration and on stating what would change its answer.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|B03|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "B03",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 19010,
+    "tokens_out": 1740,
+    "cost_usd": 0.373744,
+    "duration_s": 23.7,
+    "finished_at": 1795588665.7667446,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1740,
+        "costUSD": 0.373744
+      }
+    }
+  }
+}

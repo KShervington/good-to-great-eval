@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "It narrows to own-brand towels and bath tissue with profit per household-paper brand, rules out all acquisitions as having 'no connection to any circle', rejects 'diversify to offset a mature core', and says the hedgehog must be revisited if the softness gap with Rival P can't be closed."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict's top stops are (1) owning businesses outside household paper, selling all acquisitions, and (3) across-the-board list-price cuts; the full list adds an acquisition moratorium and dropping the diversification strategy."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Rival P's national, heavily advertised softer tissue with no Corwin answer is ranked #1 Critical; collapsing ROE and earnings (#4) and the ~$200M of unprofitable acquisitions (#5) are also listed with consequences."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The register names continued share loss to Rival P and denial, a 'savior' chairman with a bold one-shot program, and capitulation by 'selling the company to a larger rival', each with a specific warning sign; the later capacity-expansion blunder is not named explicitly."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are mostly tagged and the missing share, blind-test and unit-profit data are flagged prominently, but a few small items are unmarked: 'rejected 80 years ago', the 'five acquisitions' count, and the 25/100 greatness score."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The compact opening verdict gives the hedgehog sentence, weakest flywheel link (product superiority/softness), top three stops, most urgent brutal fact and the missing numbers, and can be acted on as it stands."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A02|s1|judge",
+    "stage": "judge",
+    "case_id": "A02",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12242,
+    "tokens_out": 1966,
+    "cost_usd": 0.2350118,
+    "duration_s": 22.5,
+    "finished_at": 1795584529.414507,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1966,
+        "costUSD": 0.2350118
+      }
+    }
+  }
+}

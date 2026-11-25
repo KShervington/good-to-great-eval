@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The stated hedgehog ('deeply trained, closely coached daily tutors who get struggling six-year-olds reading', excluding math and the app, denominator 'additional readers per dollar') matches the key on all three points, but the top-line verdict contradicts it by calling for 'a new Hedgehog Concept built around the new market'."
+  },
+  "D2": {
+    "score": 3,
+    "why": "The one-screen top three match the key exactly (decline the grant on its current terms, stop 18-hour training and 19:1 coaching, stop math and ReadAlong), but the opening lines say 'Exit the core business within 18 months' and name 'stop operating the core business' as the top stop-doing item, which is the opposite of restraint."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the new-school decline (69% to 63% to 58%, 'ramp-up doesn't explain it'), the training and coaching cuts, and the dismantled evaluation machinery as Critical, and states the consequence that a five-state launch would be 100% new schools."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names Stage 1 hubris ('cracked the code') and Stage 2 funder-paced expansion, with drift and outrun coaching flagged elsewhere, and gives fitting early warnings: new schools at or below 55% and the first district non-renewal in 12 years."
+  },
+  "D7": {
+    "score": 3,
+    "why": "The body marks assumptions, shows its arithmetic and flags missing data, but the top-line verdict that the 'current model has run its course' is contradicted by the dossier and by the analysis itself, and there are an unexplained '58/100' score and inconsistent 40x versus 100x reach figures."
+  },
+  "D8": {
+    "score": 3,
+    "why": "The one-screen section has every required part, but it runs long and is preceded by a contradictory 'Verdict' telling the reader to exit the core and replace leadership, so a reader could not act on the opening without confusion."
+  },
+  "D9": {
+    "score": 2,
+    "why": "The body preserves the core and gives specific warning signs, but it calls the subject merely 'good' (58/100) with a long change list, and the opening verdict says it is 'only good' and prescribes exit, pivot, leadership replacement and a new hedgehog."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-overprescribe|E07|s1|judge",
+    "stage": "judge",
+    "case_id": "E07",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17775,
+    "tokens_out": 2412,
+    "cost_usd": 0.3413798,
+    "duration_s": 27.9,
+    "finished_at": 1795575178.7442856,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2412,
+        "costUSD": 0.3413798
+      }
+    }
+  }
+}

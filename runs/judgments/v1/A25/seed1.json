@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 3,
+    "why": "The hedgehog (space/defense communications technology moved into commercial markets, 'including electronic printing systems') overlaps the key's technology-applied-to-printing-and-communications idea, but it 'demotes the founding business' and contemplates separating printing where the key says to keep printing and electronics joined."
+  },
+  "D2": {
+    "score": 3,
+    "why": "An acquisition moratorium is item 1 and a successor bench is called for, but the moratorium is not framed as staying inside the printing-and-communications concept, succession is not about preserving the concept, and the analysis itself recommends moving headquarters and possibly separating printing, which the key says to refuse."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All four key facts are in the register (weak earnings for five years ranked #1 High, mechanical printing #4, government dependence #5, simultaneous integrations #6), and the verdict states the consequence that nobody can show which business earns its capital."
+  },
+  "D5": {
+    "score": 3,
+    "why": "Gate 10 flags 'Grasping: a large transformational merger to fix earnings' and Gate 2 notes no visible successor, but it never names a successor resetting direction or a leap into an unrelated market, and it endorses parts of the actual decline path (headquarters move, printing separation)."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION] and the missing segment profit, return on capital, market share and backlog are flagged, but there are small unmarked slips such as 'five acquisitions' (the dossier lists six), the chairman having 'run things for 17 years', and the cost-plus habits claim."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact and the missing numbers, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A25|s1|judge",
+    "stage": "judge",
+    "case_id": "A25",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12406,
+    "tokens_out": 2240,
+    "cost_usd": 0.24859579999999998,
+    "duration_s": 23.8,
+    "finished_at": 1795585700.9034684,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2240,
+        "costUSD": 0.24859579999999998
+      }
+    }
+  }
+}

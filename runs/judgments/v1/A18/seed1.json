@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog narrows to the key's suggested core ('short-run offset printing systems to quick-print shops and in-plant print rooms') and rules out electronic office, but it only implies the current portfolio lacks a hedgehog ('Hedgehog unconfirmed', 'three competing strategic options') and leaves card systems open as a second candidate."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top stop-doing item in the opening verdict is 'Don't try to become an electronic-office leader against much larger firms', followed by harvesting addressing and selling or closing typesetting and engineering graphics, which matches both key points."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks copier displacement of duplicating (Critical), computer substitution of plate addressing, and the sales peak with slowed growth as facts 1 to 3, and the verdict states the consequence that only a smaller, narrower company is credible."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 Stage 4 is marked 'Highest risk. Electronic-office bet, outsider savior, big acquisition', with fitting warnings ('New CEO announces a transformational vision before the facts are in', 'Borrowing to fund losses in the new venture') and Stage 5 forced breakup or failure, which is the mechanism that actually occurred."
+  },
+  "D7": {
+    "score": 5,
+    "why": "Inferred items (consumables as profit core, excess capacity, thresholds, card-market growth, values) are tagged as assumptions, scorecard currents are marked Unknown, and missing line economics, market share, leadership and substitution pace are flagged; the only unanchored figure is the '14/100' judgment score."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the hedgehog sentence, the weakest flywheel link (shop economics versus copiers), three stop-doing items, the most urgent brutal fact and the numbers that would change the answer, concisely enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A18|s1|judge",
+    "stage": "judge",
+    "case_id": "A18",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 10619,
+    "tokens_out": 1874,
+    "cost_usd": 0.20536379999999999,
+    "duration_s": 21.4,
+    "finished_at": 1795585226.645942,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1874,
+        "costUSD": 0.20536379999999999
+      }
+    }
+  }
+}

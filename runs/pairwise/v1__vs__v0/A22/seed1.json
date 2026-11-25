@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses propose nearly the same home-state, low-cost hedgehog where the key says there is none, and both cover the key's stop-doing items and all four brutal facts with missing data honestly flagged. Analysis 2 opens with a crisper verdict (\"already sliding; stop growing and start narrowing\") and its decline warnings are slightly more specific (extend-and-pretend, volume-based lender pay, takeover approaches and forced asset sales).",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|A22|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A22",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17093,
+    "tokens_out": 1345,
+    "cost_usd": 0.327272,
+    "duration_s": 18.6,
+    "finished_at": 1795585513.8911617,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1345,
+        "costUSD": 0.327272
+      }
+    }
+  }
+}

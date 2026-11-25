@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses narrow Corwin to branded household paper, divest the unrelated acquisitions and surface all three key brutal facts, but Analysis 2 comes closer to the key by stating that the hedgehog fails if the softness gap or cost lead cannot be confirmed, and by naming list-price cuts as doctrine to stop. Analysis 2 is also better calibrated, marking the decline gate as conditional and offering a fallback position, whereas Analysis 1 asserts that the founding formula still works and passes the decline gate despite describing active decline.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|A02|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A02",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17368,
+    "tokens_out": 1667,
+    "cost_usd": 0.34455199999999997,
+    "duration_s": 22.7,
+    "finished_at": 1795584600.500177,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1667,
+        "costUSD": 0.34455199999999997
+      }
+    }
+  }
+}

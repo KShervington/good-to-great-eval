@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's core ('a drugstore company and nothing else', the Southeast/Texas self-service drugstore on profit per customer visit) and says the concept rules out five lines of business and means 'unwinding about a decade of diversification', but it never says outright that the current portfolio has no hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict's top three are 'Divest the security, food-service supply and junior department store businesses' and 'Make no acquisitions outside the drugstore core', which is the key's decision, stated explicitly and first."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All three key facts sit at the top of the register rated High (Rival W's 29 stores in the home state, the founder's attention divided by politics, capital spread across unrelated businesses), and the verdict names the first two as most urgent."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Gate 10 names the mechanisms that actually occurred: stage 2 'undisciplined pursuit of more: diversification' with the sign 'capital spent outside the drugstore core', stage 4 'a large merger, a buyout', and stage 5 'sale of the company', alongside the founder-dependence risk under G9."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked and the missing data is flagged, but the faith statement asserts unmarked claims ('invented self-service drugstores in this region', 'owns the best sites') and the 'Greatness potential: 14/100' score is given without any basis."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link (reinvestment), the top three stop-doing items, the most urgent brutal fact and the missing numbers, compactly enough to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A20|s3|judge",
+    "stage": "judge",
+    "case_id": "A20",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 10984,
+    "tokens_out": 1862,
+    "cost_usd": 0.21072379999999996,
+    "duration_s": 21.8,
+    "finished_at": 1795585384.4286802,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1862,
+        "costUSD": 0.21072379999999996
+      }
+    }
+  }
+}

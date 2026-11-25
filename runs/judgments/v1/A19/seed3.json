@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog sentence is 'the closest, most convenient drugstore for everyday health and beauty needs' measured by 'profit per customer visit', with a dense store network and every non-drug business ruled out, which matches the key's field, sacrifice and denominator."
+  },
+  "D2": {
+    "score": 4,
+    "why": "The discount-store exit is explicit at #2 ('prepare an exit'), but food service is softened to 'stop opening restaurants / pause the 22 planned units', with the in-store lunch counter phase-down buried at #8 and made contingent on data, not a full exit."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1 (Critical) is 'Growth has not produced earnings', with sales up 2.3x against flat EPS and eroding margins; capital spread across businesses (#4) and the discount stores as weakest unit (#5) are also listed, and the consequence is stated."
+  },
+  "D5": {
+    "score": 4,
+    "why": "Gate 10 names 'store count chased for its own sake', 'a new diversification after the exits' and 'a large acquisition' without a density rationale, which fits the later mega-merger and over-expansion, but generically and without the partnership or pharmacy-liability mechanisms."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Derived figures (margins, share count, growth rates) check against the dossier, assumptions are tagged and missing divisional and per-visit data are flagged; however, the verdict's 'about $2.2 before the LIFO change' EPS rests on an assumed 48% tax rate that is only marked later, and the Gate 7 technology claims go beyond the dossier (though tagged)."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict compactly gives the hedgehog sentence, the weakest flywheel link (visits to profit per visit), the top three stop-doing items, the most urgent brutal fact and the missing numbers, and is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A19|s3|judge",
+    "stage": "judge",
+    "case_id": "A19",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11971,
+    "tokens_out": 2337,
+    "cost_usd": 0.2455158,
+    "duration_s": 27.0,
+    "finished_at": 1795585319.6572766,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2337,
+        "costUSD": 0.2455158
+      }
+    }
+  }
+}

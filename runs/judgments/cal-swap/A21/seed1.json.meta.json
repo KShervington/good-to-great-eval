@@ -1,0 +1,20 @@
+{
+  "job_id": "cal-swap|A21|s1|judge",
+  "stage": "judge",
+  "case_id": "A21",
+  "seed": 1,
+  "model": "claude-fable-5-2",
+  "effort": "high",
+  "tokens_in": 12280,
+  "tokens_out": 1567,
+  "cost_usd": 0.2196598,
+  "duration_s": 19.7,
+  "finished_at": 1795574956.6003213,
+  "models_used": {
+    "claude-fable-5-2": {
+      "inputTokens": 2,
+      "outputTokens": 1567,
+      "costUSD": 0.2196598
+    }
+  }
+}

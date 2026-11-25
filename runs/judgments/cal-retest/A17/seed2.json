@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is running 'the business mail room: the meters, mailing machines, service and financing' built on the installed base and field force, measured by profit per business customer, with copiers, POS and broad 'office equipment' excluded, which matches the key's field, give-up and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top stop-doing items in the verdict are 'No more ventures in markets led by bigger, better-funded firms' (POS, with 'finish the exit cleanly') and no copier growth capital, and it rejects profit per meter as too narrow, so all three key points are covered."
+  },
+  "D3": {
+    "score": 4,
+    "why": "The register lists the $42M POS failure (#2), the free-license decree removing the patent moat (#3), the regulated rate-setter (#4) and capped share (#8) at high severity, but ranks 'no profit data' as the critical fact and leaves the copier incumbent out of the register."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Decline stages 3 and 5 name 'long-run electronic substitution for mail' and 'mail volume decays structurally', with the warning signs of flat mail volume or metered share and falling service revenue per customer, which is the mechanism behind the later long fade."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION], derived figures (11% of revenue, ~16% CAGR, 47% non-meter) follow from the dossier, and missing ROC, profit per customer and CEO background are flagged; but 'Greatness potential: 62/100' has no stated basis and 'four new directions in six years' assumes POS timing the dossier does not give."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact and the missing numbers in a compact form that can be acted on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-retest|A17|s2|judge",
+    "stage": "judge",
+    "case_id": "A17",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11782,
+    "tokens_out": 2247,
+    "cost_usd": 0.2388918,
+    "duration_s": 24.9,
+    "finished_at": 1795574836.8350837,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2247,
+        "costUSD": 0.2388918
+      }
+    }
+  }
+}

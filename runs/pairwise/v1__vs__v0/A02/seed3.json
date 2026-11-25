@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses reach nearly the same core conclusions: narrow to household paper, divest the unrelated acquisitions, stop list-price cuts, confront Rival P's softness lead, and beware an outside savior chairman. Analysis 2 is slightly tighter and better calibrated, since it counts the acquisitions correctly, marks the decline gate as conditional rather than a pass, and gives a concrete fallback if the softness gap cannot be closed, while Analysis 1 miscounts the units and overstates Rival P's advertising.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|A02|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A02",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18260,
+    "tokens_out": 1957,
+    "cost_usd": 0.370424,
+    "duration_s": 24.8,
+    "finished_at": 1795584625.4787242,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1957,
+        "costUSD": 0.370424
+      }
+    }
+  }
+}

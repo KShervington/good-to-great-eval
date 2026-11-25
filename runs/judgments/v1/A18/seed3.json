@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's suggested core ('short-run professional printing systems' for quick-print shops, earning on profit per installed press) and rules out the electronic office, but only implies the current portfolio lacks a hedgehog (sprawl and 'direction-seeking' red flags) without saying so plainly."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1 is 'Stop considering a large bet to lead the electronic office against much larger firms', and item 3 harvests or sells addressing and engineering graphics; both are in the opening verdict."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks plain-paper substitution of the core as Critical, lists the sales peak and stalled growth and computers replacing plate addressing as High, and the verdict states the consequence ('the most tempting response is the one most likely to sink it')."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Stage 4 names the actual mechanism ('A big electronic-office bet, a transformational outsider CEO, or a large acquisition') with a fitting warning sign ('Rhetoric about transformation'), and stage 5 flags running out of cash."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently tagged, the missing line-level financials, share, R&D and leadership data are flagged, and most gates are left CONDITIONAL; but the 'Greatness potential: 12/100' score is unexplained and the six-year-old count of 27 subsidiaries is treated as current."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link, the top three stop-doing items, the most urgent brutal fact and the missing numbers, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A18|s3|judge",
+    "stage": "judge",
+    "case_id": "A18",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 10327,
+    "tokens_out": 1685,
+    "cost_usd": 0.1931318,
+    "duration_s": 18.8,
+    "finished_at": 1795585245.5536013,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1685,
+        "costUSD": 0.1931318
+      }
+    }
+  }
+}

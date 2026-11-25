@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "2",
+  "D3": "tie",
+  "D5": "tie",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both land on a mail-room hedgehog with profit per customer, flag the POS write-off, the free-license decree and long-run electronic substitution for mail, but Analysis 2 sits closer to the key by rejecting profit per meter, framing the stop-doing rule as not chasing markets led by bigger firms, and leaving room to widen to the business back office. Analysis 2 is also slightly better calibrated, stating what evidence would overturn its copier and price-marking calls and admitting it could not schedule the re-check, while Analysis 1 has a marginally fuller brutal-facts table (it lists copiers explicitly).",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|A17|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A17",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15526,
+    "tokens_out": 1793,
+    "cost_usd": 0.32012,
+    "duration_s": 22.3,
+    "finished_at": 1795585204.9734426,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1793,
+        "costUSD": 0.32012
+      }
+    }
+  }
+}

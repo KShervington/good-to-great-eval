@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "2",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses find the 90-day parity, the selection-biased comparator and the missing financial value, both decline Hospital at Home and day-30 graduation, and both caveat the naive readmissions-avoided arithmetic. Analysis 2 has the tighter, more decisive verdict, uses a hospital-days-per-patient denominator, flags decline stages 2 and 3 as already present, and leaves the unvalidated value metric as unknown, though Analysis 1 reads the leader's Level 5 status more accurately.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|D11|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D11",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 22433,
+    "tokens_out": 1849,
+    "cost_usd": 0.432872,
+    "duration_s": 21.6,
+    "finished_at": 1795589511.718208,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1849,
+        "costUSD": 0.432872
+      }
+    }
+  }
+}

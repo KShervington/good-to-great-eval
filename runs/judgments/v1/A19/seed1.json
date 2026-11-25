@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog 'Be the most convenient drugstore in every community we serve, and earn the highest profit per customer visit in the industry' matches the key on field, denominator, dense clustering and 'a drugstore company and nothing else'."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing items 1 and 2, repeated in the opening verdict, are to open no new restaurants with a firm deadline to exit food service and to exit the discount department stores, redeploying capital to drugstores."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1 and the verdict state that sales rose 66% while EPS barely moved and margin fell from 2.2% to 1.5%, with the discount stores (fact 3) and attention spread across about ten businesses (fact 7) also rated high severity."
+  },
+  "D5": {
+    "score": 3,
+    "why": "Gate 10 names the right stages (undisciplined pursuit of more, a big footprint-driven acquisition as 'grasping for salvation'), but the mechanisms are tied to the near-term Rival E situation and stay generic against the later mega-merger, failed partnership and legal liabilities."
+  },
+  "D7": {
+    "score": 4,
+    "why": "All figures derive correctly from the dossier, the hedgehog is labelled a working hypothesis, and missing division and per-visit data are flagged, but a few inferences are unmarked, such as Rival E 'overlapping Marlowe's Southwest base' and the Mexico stake counted as an acquisition, despite the claim that every inference is marked."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict compactly gives the hedgehog sentence, the weakest flywheel link (profit per customer visit), three stop-doing items, the most urgent brutal fact and the missing numbers, and is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A19|s1|judge",
+    "stage": "judge",
+    "case_id": "A19",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11851,
+    "tokens_out": 2612,
+    "cost_usd": 0.25459580000000004,
+    "duration_s": 27.7,
+    "finished_at": 1795585292.516709,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2612,
+        "costUSD": 0.25459580000000004
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is \"products that make hospital care cheaper and more reliable (clinical nutrition, IV therapy, diagnostics, hospital drugs), measured by profit per employee\", and it explicitly rules out drug discovery and consumer brands, matching the key's field, sacrifice and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict lists exiting the unrelated consumer brands first and \"competing for blockbuster drugs against research-led rivals\" second, and the bus section adds a review of founding-family influence so leaders are chosen \"on fit, not lineage\"."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks the IV recall and lost hospital trust as Critical and first, then \"no growth engine in prescription drugs\" (off-patent antibiotic, no breakthrough in sight), the sweetener ban and weakened senior management, with consequences stated; the hospital cost-control shift appears only as an assumption outside the register."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no decline_risks_expected and its later history ends in \"no collapse\", so there is no decline to grade; the analysis did nonetheless flag quality complacency after trust returns and a dominant successor who fails to build a bench, which resemble the 1999 quality fine and the 1989 ouster."
+  },
+  "D7": {
+    "score": 4,
+    "why": "All figures come from the dossier, assumptions are tagged, and missing division economics, market shares and research spend are flagged with a conditional verdict; but \"Greatness potential: 38/100\" is given with no basis, and a few inferences are unmarked (\"each crisis has been followed by more diversification\", \"humility signals present\")."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict compactly gives the hedgehog sentence, the weakest flywheel link (hospital trust in quality), three stop-doing items, the most urgent brutal fact and the missing numbers, and could be acted on without reading further."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A03|s1|judge",
+    "stage": "judge",
+    "case_id": "A03",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11988,
+    "tokens_out": 2714,
+    "cost_usd": 0.2608678,
+    "duration_s": 30.3,
+    "finished_at": 1795584634.8655846,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2714,
+        "costUSD": 0.2608678
+      }
+    }
+  }
+}

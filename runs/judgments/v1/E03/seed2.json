@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'products that lower the total cost of care for cost-pressed buyers', explicitly 'not best at broad branded-drug discovery against the largest drugmakers', with profit per employee as the denominator, matching all three key points."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict and stop-doing list lead with 'Don't buy a pharmacy benefit manager', 'Don't merge for scale' and 'Don't match the largest drugmakers' R&D dollar for dollar', and the diagnostics quality fix is framed as preservation, with no dismantling of the core."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Unresolved diagnostics quality findings are ranked Critical and named the most urgent brutal fact, with the consequence tied to the IV-recall precedent; near-zero pricing power, buyer and rival consolidation, and the branded-drug scale gap are also listed."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key has an empty decline_risks_expected and its later_history states there was no How-the-Mighty-Fall-style decline, so this dimension does not apply."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Computed figures (profit per employee ~$30.7K, margins, implied share count) check out against the dossier, and the shareholder-return gap is flagged as an assumption, but 'oral antibiotics', diagnostics as 'fastest-growing' franchise, the buyback inference and the unexplained 'Greatness potential: 70/100' are unmarked."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (quality manufacturing), three temptations to refuse, the most urgent brutal fact and the missing numbers, so it is actionable on its own."
+  },
+  "D9": {
+    "score": 4,
+    "why": "It plainly declares 'Already great. Run in stewardship mode' with evidence, confirms the existing hedgehog and gives subject-specific warning signs, but adds a few changes beyond the evidence (re-ranking the pharma R&D portfolio, a health-economics team, new seats) and marks four gates conditional with a 70/100 score."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|E03|s2|judge",
+    "stage": "judge",
+    "case_id": "E03",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13200,
+    "tokens_out": 2430,
+    "cost_usd": 0.2688998,
+    "duration_s": 26.8,
+    "finished_at": 1795589685.722784,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2430,
+        "costUSD": 0.2688998
+      }
+    }
+  }
+}

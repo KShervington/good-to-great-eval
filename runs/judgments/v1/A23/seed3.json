@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog is end-to-end transaction automation for banks and financial institutions, with profit per financial-institution customer as the denominator and general-purpose competition with Rival I ruled out; this matches the key's core and denominator, but the analysis only implies (via doom-loop signs) that the current diversified portfolio has no hedgehog and never notes the dependence on one leader."
+  },
+  "D2": {
+    "score": 4,
+    "why": "Stop-doing item 1 is 'Stop competing across the whole general-purpose computer market against Rival I', but one-leader dependence appears only in the bus and leadership sections (speaks last, name successors), and the warning against cost cuts that starve engineering and quality is absent, though not contradicted."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The margin collapse from about 13% to about 2% is ranked as the critical, most urgent fact with its consequence ('growing without earning'), Rival I's unassailable lead is fact 3, and the shrinking accounting-machine core is fact 6."
+  },
+  "D5": {
+    "score": 4,
+    "why": "The risk register flags the EVP's dominance suppressing dissent and the successor bench, with specific warning signs (council minutes, named successors), plus savior-leader and rescue-merger risks; it misses cost-cutting that starves engineering and reliability."
+  },
+  "D7": {
+    "score": 5,
+    "why": "The derived profit figures ($12M, $8M) follow from dossier numbers and are marked approximate, targets and inferences carry [ASSUMPTION] tags, missing profit-by-line and Year −3 to −1 earnings are flagged as able to overturn the hedgehog, and the hedgehog is presented as a hypothesis."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest flywheel link, three stop-doing items, the most urgent brutal fact and the missing numbers in a compact, actionable screen."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A23|s3|judge",
+    "stage": "judge",
+    "case_id": "A23",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13132,
+    "tokens_out": 2613,
+    "cost_usd": 0.2751318,
+    "duration_s": 29.3,
+    "finished_at": 1795585590.5132346,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2613,
+        "costUSD": 0.2751318
+      }
+    }
+  }
+}

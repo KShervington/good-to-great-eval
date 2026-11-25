@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's suggested core ('lowest-cost, lowest-risk home lender and savings bank in our home state') with a compatible denominator and rules out brokerage and real estate, but it flags the diversification only as doom-loop signs and never says plainly that the company currently lacks a hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's top three stop-doing items are to freeze and sell or wind down the brokerage and real-estate services business, to avoid the new deregulated asset classes, and to stop growth by acquisition and out-of-state expansion."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The legacy fixed-rate book is ranked #1 and Critical with its consequence stated (possible market-value impairment), the industry rate squeeze is cited as its evidence, and deregulated competitors pulling the company to follow is ranked #3."
+  },
+  "D5": {
+    "score": 5,
+    "why": "Decline stage 2 names following deregulated rivals into commercial real estate, development and brokerage, with the warning sign of a rising share of non-residential assets, and stage 5 names being 'sold or absorbed as an undifferentiated large thrift'; it does not flag home-state recession credit risk."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are mostly tagged and the missing financials are flagged prominently, but a few inferences are unmarked: 'through the late-1970s rate shock it kept earning', 'less damaged by the squeeze than its peers', a 'growing' state, and an unexplained 24/100 score."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (operating cost), three stop-doing items, the most urgent brutal fact and the missing numbers, so it can be acted on without reading further."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A08|s3|judge",
+    "stage": "judge",
+    "case_id": "A08",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11858,
+    "tokens_out": 1815,
+    "cost_usd": 0.22282780000000002,
+    "duration_s": 21.3,
+    "finished_at": 1795585002.6603405,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1815,
+        "costUSD": 0.22282780000000002
+      }
+    }
+  }
+}

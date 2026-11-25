@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog ('sets dealers and repairmen trust most, using whatever technology makes them most dependable') matches the key's customer-defined quality and solid-state adoption and rejects the unit-share race, but it uses profit per dealer (profit per set only as a secondary check) and says Meridian 'cannot be best at' lowest-cost production against imports."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items are hand-wiring as the definition of quality, the race to beat Rival R in color share, and open-ended pay-TV spending; dismissing imports/ICs and debt-funded capacity are items 4 and 5, and the dismissal is also the verdict's brutal fact."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks Japanese imports (#1) and the late shift to printed circuits/transistors/ICs (#2) as High, with pay TV at #7, and the verdict's most urgent fact states the consequence: the brand is tied to a method these forces make more expensive every year."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names the actual mechanisms: hubris about imports ('imports are junk'), a 'debt-funded race to No. 1 in color; pay TV' with the early warning 'capital spending ahead of a cost case; debt rising', denial on imports and ICs, grasping for salvation, and the succession gap under Gates 2 and 3."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are marked [ASSUMPTION], the margin figures are correctly computed from the dossier and flagged tentative, and missing data is named; but the 'Greatness potential: 30/100' score is unexplained and sits oddly with a Gate 1 PASS and 6 PASS / 5 CONDITIONAL."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict concisely gives the hedgehog sentence, the weakest flywheel link (engineering reinvestment in new technology), the top three stop-doing items, the most urgent brutal fact and the missing numbers, and could be acted on alone."
+  },
+  "D9": {
+    "score": 3,
+    "why": "Gate 1 passes with evidence, the core (dealer network, inventory discipline, earnings-funded growth) is preserved and the warning signs are specific, but it never plainly calls the subject already great, rates it 30/100, and gives a long improvement list of seven stop-doing items, four seats to fill and six mechanisms."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v0|B08|s2|judge",
+    "stage": "judge",
+    "case_id": "B08",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13946,
+    "tokens_out": 2466,
+    "cost_usd": 0.2829236,
+    "duration_s": 27.7,
+    "finished_at": 1795495891.6978147,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2466,
+        "costUSD": 0.2829236
+      }
+    }
+  }
+}

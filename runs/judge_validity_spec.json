@@ -1,0 +1,351 @@
+[
+ {
+  "kind": "retest",
+  "version": "cal-retest",
+  "case": "A12",
+  "seed": 2,
+  "source": "A12:s2",
+  "target": [
+   "all"
+  ],
+  "expect": "within 1 of original"
+ },
+ {
+  "kind": "retest",
+  "version": "cal-retest",
+  "case": "A04",
+  "seed": 2,
+  "source": "A04:s2",
+  "target": [
+   "all"
+  ],
+  "expect": "within 1 of original"
+ },
+ {
+  "kind": "retest",
+  "version": "cal-retest",
+  "case": "A17",
+  "seed": 2,
+  "source": "A17:s2",
+  "target": [
+   "all"
+  ],
+  "expect": "within 1 of original"
+ },
+ {
+  "kind": "retest",
+  "version": "cal-retest",
+  "case": "C01",
+  "seed": 2,
+  "source": "C01:s2",
+  "target": [
+   "all"
+  ],
+  "expect": "within 1 of original"
+ },
+ {
+  "kind": "retest",
+  "version": "cal-retest",
+  "case": "E02",
+  "seed": 2,
+  "source": "E02:s2",
+  "target": [
+   "all"
+  ],
+  "expect": "within 1 of original"
+ },
+ {
+  "kind": "retest",
+  "version": "cal-retest",
+  "case": "E04",
+  "seed": 2,
+  "source": "E04:s2",
+  "target": [
+   "all"
+  ],
+  "expect": "within 1 of original"
+ },
+ {
+  "kind": "retest",
+  "version": "cal-retest",
+  "case": "B09",
+  "seed": 2,
+  "source": "B09:s2",
+  "target": [
+   "all"
+  ],
+  "expect": "within 1 of original"
+ },
+ {
+  "kind": "retest",
+  "version": "cal-retest",
+  "case": "D09",
+  "seed": 2,
+  "source": "D09:s2",
+  "target": [
+   "all"
+  ],
+  "expect": "within 1 of original"
+ },
+ {
+  "kind": "retest",
+  "version": "cal-retest",
+  "case": "B03",
+  "seed": 2,
+  "source": "B03:s2",
+  "target": [
+   "all"
+  ],
+  "expect": "within 1 of original"
+ },
+ {
+  "kind": "retest",
+  "version": "cal-retest",
+  "case": "D02",
+  "seed": 2,
+  "source": "D02:s2",
+  "target": [
+   "all"
+  ],
+  "expect": "within 1 of original"
+ },
+ {
+  "kind": "retest",
+  "version": "cal-retest",
+  "case": "B02",
+  "seed": 2,
+  "source": "B02:s2",
+  "target": [
+   "all"
+  ],
+  "expect": "within 1 of original"
+ },
+ {
+  "kind": "retest",
+  "version": "cal-retest",
+  "case": "D11",
+  "seed": 2,
+  "source": "D11:s2",
+  "target": [
+   "all"
+  ],
+  "expect": "within 1 of original"
+ },
+ {
+  "kind": "swap",
+  "version": "cal-swap",
+  "case": "A03",
+  "seed": 1,
+  "source": "A07:s1 graded as A03",
+  "target": [
+   "D1",
+   "D2",
+   "D3"
+  ],
+  "expect": "each <= 2"
+ },
+ {
+  "kind": "swap",
+  "version": "cal-swap",
+  "case": "A21",
+  "seed": 1,
+  "source": "A01:s1 graded as A21",
+  "target": [
+   "D1",
+   "D2",
+   "D3"
+  ],
+  "expect": "each <= 2"
+ },
+ {
+  "kind": "swap",
+  "version": "cal-swap",
+  "case": "A05",
+  "seed": 1,
+  "source": "A11:s1 graded as A05",
+  "target": [
+   "D1",
+   "D2",
+   "D3"
+  ],
+  "expect": "each <= 2"
+ },
+ {
+  "kind": "swap",
+  "version": "cal-swap",
+  "case": "A17",
+  "seed": 1,
+  "source": "A19:s1 graded as A17",
+  "target": [
+   "D1",
+   "D2",
+   "D3"
+  ],
+  "expect": "each <= 2"
+ },
+ {
+  "kind": "no_stop",
+  "version": "cal-no_stop",
+  "case": "A22",
+  "seed": 1,
+  "source": "A22:s1",
+  "target": [
+   "D2"
+  ],
+  "expect": "<= 3"
+ },
+ {
+  "kind": "no_stop",
+  "version": "cal-no_stop",
+  "case": "A26",
+  "seed": 1,
+  "source": "A26:s1",
+  "target": [
+   "D2"
+  ],
+  "expect": "<= 3"
+ },
+ {
+  "kind": "no_stop",
+  "version": "cal-no_stop",
+  "case": "A21",
+  "seed": 1,
+  "source": "A21:s1",
+  "target": [
+   "D2"
+  ],
+  "expect": "<= 3"
+ },
+ {
+  "kind": "no_stop",
+  "version": "cal-no_stop",
+  "case": "A01",
+  "seed": 1,
+  "source": "A01:s1",
+  "target": [
+   "D2"
+  ],
+  "expect": "<= 3"
+ },
+ {
+  "kind": "fabricate",
+  "version": "cal-fabricate",
+  "case": "A12",
+  "seed": 1,
+  "source": "A12:s1",
+  "target": [
+   "D7"
+  ],
+  "expect": "drops by >= 1 and <= 3"
+ },
+ {
+  "kind": "fabricate",
+  "version": "cal-fabricate",
+  "case": "A08",
+  "seed": 1,
+  "source": "A08:s1",
+  "target": [
+   "D7"
+  ],
+  "expect": "drops by >= 1 and <= 3"
+ },
+ {
+  "kind": "fabricate",
+  "version": "cal-fabricate",
+  "case": "A01",
+  "seed": 1,
+  "source": "A01:s1",
+  "target": [
+   "D7"
+  ],
+  "expect": "drops by >= 1 and <= 3"
+ },
+ {
+  "kind": "fabricate",
+  "version": "cal-fabricate",
+  "case": "A20",
+  "seed": 1,
+  "source": "A20:s1",
+  "target": [
+   "D7"
+  ],
+  "expect": "drops by >= 1 and <= 3"
+ },
+ {
+  "kind": "no_verdict",
+  "version": "cal-no_verdict",
+  "case": "E07",
+  "seed": 1,
+  "source": "E07:s1",
+  "target": [
+   "D8"
+  ],
+  "expect": "<= 2"
+ },
+ {
+  "kind": "no_verdict",
+  "version": "cal-no_verdict",
+  "case": "D10",
+  "seed": 1,
+  "source": "D10:s1",
+  "target": [
+   "D8"
+  ],
+  "expect": "<= 2"
+ },
+ {
+  "kind": "no_verdict",
+  "version": "cal-no_verdict",
+  "case": "A25",
+  "seed": 1,
+  "source": "A25:s1",
+  "target": [
+   "D8"
+  ],
+  "expect": "<= 2"
+ },
+ {
+  "kind": "no_verdict",
+  "version": "cal-no_verdict",
+  "case": "D06",
+  "seed": 1,
+  "source": "D06:s1",
+  "target": [
+   "D8"
+  ],
+  "expect": "<= 2"
+ },
+ {
+  "kind": "overprescribe",
+  "version": "cal-overprescribe",
+  "case": "E04",
+  "seed": 1,
+  "source": "E04:s1",
+  "target": [
+   "D9"
+  ],
+  "expect": "<= 2"
+ },
+ {
+  "kind": "overprescribe",
+  "version": "cal-overprescribe",
+  "case": "E03",
+  "seed": 1,
+  "source": "E03:s1",
+  "target": [
+   "D9"
+  ],
+  "expect": "<= 2"
+ },
+ {
+  "kind": "overprescribe",
+  "version": "cal-overprescribe",
+  "case": "E07",
+  "seed": 1,
+  "source": "E07:s1",
+  "target": [
+   "D9"
+  ],
+  "expect": "<= 2"
+ }
+]

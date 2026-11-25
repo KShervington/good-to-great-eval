@@ -1,0 +1,33 @@
+{
+  "D1": "2",
+  "D2": "tie",
+  "D3": "2",
+  "D5": "na",
+  "D7": "2",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on the same core: rebuild a specialist, results-paid sales force, install budgets and goals, end founder-centric control and shift toward instruments, and both wrongly rule out implants. Analysis 2 comes closer to the key with an explicit sustained earnings-growth target and a commission-heavy sales rebuild, states the small-scale fact more fully, and flags missing data and assumptions more thoroughly.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|C01|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "C01",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15824,
+    "tokens_out": 1348,
+    "cost_usd": 0.30708799999999997,
+    "duration_s": 17.7,
+    "finished_at": 1795588925.587502,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1348,
+        "costUSD": 0.30708799999999997
+      }
+    }
+  }
+}

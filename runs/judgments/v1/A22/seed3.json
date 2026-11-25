@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's suggested core ('lowest-cost, most credit-disciplined consumer and middle-market bank in our home state', profit per employee) and rejects size ('(b) is size, not excellence'; 'growth as a substitute for understanding'), but it never states outright that the bank currently has no hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items in the verdict are stop growing assets for size, stop new international/energy/shipping/developing-country lending, and stop adding businesses, states and countries; branch and overhead cuts appear in item 6 and the 90-day plan, though executive perks are not mentioned."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All four key facts sit at the top of the register (deposit advantage ending and bad loans both Critical, highest overhead and the low-rate mortgage book both High), each with evidence, an owner and a stated consequence."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names the actual mechanisms: 'grasping for salvation' through a bold acquisition or new-state entry during losses, denial with reserves lagging on the souring loans, and capital impairment with a dividend cut, each with a fitting early warning sign, plus selling the brokerage if capital is needed."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions and missing data are consistently tagged and every missing metric is flagged rather than guessed, but the 'Greatness potential: 18/100' score has no stated basis and the verdict drops the dossier's 'by some accounts' hedge on highest overhead."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the state, the hedgehog sentence, the weakest flywheel link (cost-to-serve), the top three stop-doing items, the most urgent brutal fact and the numbers that would change the answer."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A22|s3|judge",
+    "stage": "judge",
+    "case_id": "A22",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12829,
+    "tokens_out": 2021,
+    "cost_usd": 0.24660379999999998,
+    "duration_s": 25.2,
+    "finished_at": 1795585515.9257617,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2021,
+        "costUSD": 0.24660379999999998
+      }
+    }
+  }
+}

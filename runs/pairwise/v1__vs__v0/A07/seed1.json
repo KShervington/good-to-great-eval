@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on essentially the key's hedgehog (mortgage risk through the capital markets, profit per unit of risk, homeownership passion) and the same brutal facts, with Analysis 1 slightly closer on the stop-doing decision because it explicitly says to sell the fixed-rate book and move old-model executives off. Analysis 2 is sharper on the decline mechanism the key describes (backstop-fuelled portfolio growth, single-asset exposure to a national housing downturn, EPS-tied pay, restatements, government takeover), which makes it marginally the better document to hand to the leader.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|A07|s1|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A07",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17658,
+    "tokens_out": 1825,
+    "cost_usd": 0.35551200000000005,
+    "duration_s": 23.6,
+    "finished_at": 1795584944.0391543,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1825,
+        "costUSD": 0.35551200000000005
+      }
+    }
+  }
+}

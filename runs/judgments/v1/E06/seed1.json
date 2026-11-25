@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog sentence ('strings professional violin-family players choose when they listen blind', sold 'through the specialist shops those players trust') matches the key, explicitly excludes student, guitar and mass retail, and uses 'profit per loyal professional player' as the denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The one-screen verdict's temptations to refuse lead with 'Halvard Six as proposed' and 'Buying the student brand', and the analysis keeps the shop channel, price discipline and Listening Room gate; the only softening is a low-priority licensing option."
+  },
+  "D3": {
+    "score": 4,
+    "why": "All three key facts are in the register (growth ceiling in a ~2% market, shops down ~3%, CEO 61 and winding head retiring), but each is ranked Medium beneath the board-reversal and capacity facts."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and the later history shows no decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are tagged and missing numbers named, and derived figures are traceable to the dossier, but 'no competitor runs comparable blind testing' is unmarked, the '11–12% compound growth' is slightly overstated (about 10.8%), and 'Greatness potential: 74/100' is unexplained."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the already-great verdict, the hedgehog sentence, the weakest flywheel link (winding capacity and know-how), three temptations to refuse, the most urgent brutal fact and the missing numbers, concisely enough to act on."
+  },
+  "D9": {
+    "score": 5,
+    "why": "It states 'Halvard is already great' with evidence, confirms the existing hedgehog, limits recommendations to preservation (codify the Listening Room veto, secure cello and bass capacity, test the successor), and names subject-specific warnings such as lead times over three weeks and the commercial director's mass-market pull."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|E06|s1|judge",
+    "stage": "judge",
+    "case_id": "E06",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 13297,
+    "tokens_out": 1902,
+    "cost_usd": 0.2493318,
+    "duration_s": 22.6,
+    "finished_at": 1795589812.0547566,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1902,
+        "costUSD": 0.2493318
+      }
+    }
+  }
+}

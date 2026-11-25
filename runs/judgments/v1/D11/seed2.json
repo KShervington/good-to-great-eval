@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog ('keep St. Aldric's highest-risk heart-failure patients safely home for 90 days, not 30, by fixing their medicines and showing up at their door') matches the key's field, rules out leading Hospital at Home, and uses a compatible denominator (90-day inpatient days avoided per high-risk patient enrolled)."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing item 1, repeated in the verdict, is 'stop pursuing the Hospital at Home lead role this year', followed by stopping day-30 graduation and the 75% enrollment chase, with the non-control comparison and stories-as-proof also listed."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact 1, rated Critical and named most urgent in the verdict, is the 90-day convergence (32.7% vs 33.9%); facts 2 and 3 add deferral tied to day-30 graduation at the penalty-window edge and the non-comparable control group."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register names both mechanisms specifically: undisciplined more (Hospital at Home, combined department, 75% target before the effect is proven) and denial (90-day data stays in compliance files, surfacing via surveyors), with fitting warning signs and even the budget cut in a lean year."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Most inferences are marked [ASSUMPTION] and the missing financial value is flagged as 'not priced', but brutal fact 4 still computes about 68 readmissions averted and about $21.5K each (and 14 / $104K at 90 days), labelled only 'naive' rather than as an assumption, and the derived 16.8% vs 12.1% day-31-to-90 figures are also unmarked."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict fits one screen and gives the hedgehog sentence, the weakest flywheel link (proof), the top three stop-doing items, the most urgent brutal fact with figures, and the numbers that would change the verdict."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not applicable: the answer key is track D, not track E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|D11|s2|judge",
+    "stage": "judge",
+    "case_id": "D11",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15719,
+    "tokens_out": 2305,
+    "cost_usd": 0.3042038,
+    "duration_s": 26.4,
+    "finished_at": 1795589489.9214933,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2305,
+        "costUSD": 0.3042038
+      }
+    }
+  }
+}

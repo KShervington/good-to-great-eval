@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 3,
+    "why": "It proposes a reasonable hedgehog centred on the stapling franchise ('stapling instruments, and teaching surgical teams to use them... profit per stapled procedure') and rules out general instruments, but never says the company lacks a disciplined hedgehog or growth march and sets no bounded floor-and-ceiling growth target."
+  },
+  "D2": {
+    "score": 3,
+    "why": "Related items exist (pay on cartridge pull-through not placements, stop booking success on channel shipments, stop using rep churn as a management tool), but they redirect incentives and never say to curb growth-at-all-costs selling or avoid overextending in good years; single-franchise dependence is flagged as a fact, not a stop-doing item."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All four key facts are in the register: contestable monopoly ranked Critical and named most urgent in the verdict, the idle-instrument loss year and usage dependence, single-technology concentration, and high-pressure commission-only culture 'invites placement pushing and suppresses bad news'."
+  },
+  "D5": {
+    "score": 5,
+    "why": "It names both actual mechanisms specifically: large suture-maker entry ('assume one will', with a 24-month entry plan) and sell-in over sell-through ('stop booking success on shipments into the channel'), with fitting warning signs ('placements grow faster than procedures; distributor inventory climbs')."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are consistently tagged and missing financials, patents and usage data are flagged as unknown, but the 'Greatness potential: 32/100' score is unexplained and the dossier's $1M loss year is once miscast as a 'near-loss year'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (placement to routine use), three stop-doing items, the most urgent brutal fact and the missing numbers, so it is actionable on its own."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|C02|s3|judge",
+    "stage": "judge",
+    "case_id": "C02",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11570,
+    "tokens_out": 2034,
+    "cost_usd": 0.2269798,
+    "duration_s": 23.1,
+    "finished_at": 1795588961.0963442,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2034,
+        "costUSD": 0.2269798
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "2",
+  "D5": "na",
+  "D7": "1",
+  "D8": "2",
+  "D9": "2",
+  "overall": "2",
+  "why": "Both analyses land on the key's hedgehog (paper-based consumer brands, profit per consumer brand) and the key's stop-doing decisions (exit the airline and aviation services, no capital for commodity and tobacco papers, stay inside the core), with Analysis 1 slightly more careful about not asserting that management lacks segment data. Analysis 2 has the tighter, more actionable verdict, says outright that the airline's profitability is the reason to exit, comes closer to recognising the core as already great with a Level 5 leader and insider successor, and gives sharper warnings on a transformative acquisition and private label.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|E04|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "E04",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 18055,
+    "tokens_out": 1855,
+    "cost_usd": 0.363064,
+    "duration_s": 22.2,
+    "finished_at": 1795589793.760736,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1855,
+        "costUSD": 0.363064
+      }
+    }
+  }
+}

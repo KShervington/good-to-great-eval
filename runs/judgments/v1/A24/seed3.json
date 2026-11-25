@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 3,
+    "why": "The analysis declines to issue a Hedgehog Concept ('Not issued'), but it says plainly that none exists, that a real one 'will probably be much narrower' than a full-line automaker, and puts 'operating profit per vehicle, through the cycle' on the scorecard; it never names the segments or a low break-even as the concept."
+  },
+  "D2": {
+    "score": 3,
+    "why": "'Stop building cars to stock' is the top item, but the key's main decisions are only implied: celebrity distraction through 'stop relying on sales and publicity to cover a quality problem', non-core diversification through the defense-business caution, and succession appears only as an 'Unknown' seat, not as a stop-doing item."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The verdict leads with 'may close by year-end without aid', and the register rates no private capital and accelerating losses as Critical, then lists highest inventory, product-demand mismatch, quality damage and the compacts being a year away, with consequences stated."
+  },
+  "D5": {
+    "score": 3,
+    "why": "Gate 10 was not run; the risk register flags only a CEO sales-and-publicity mismatch and 'visibility filters out bad news', while the nearer mechanism (ambition aimed at self, results that 'don't depend on this CEO', undocumented succession) is scattered elsewhere without an early-warning sign for celebrity distraction or staying too long."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Missing cash, debt, break-even, profit by line and Q3 results are all flagged and most inferences carry an [ASSUMPTION] tag, but 'discounting' in the doom loop, the compact program being 'already funded', and the '6/100' score are unmarked and unsupported by the dossier."
+  },
+  "D8": {
+    "score": 4,
+    "why": "The opening fits one screen and gives the doom loop as weakest link, three stops, the most urgent brutal fact and the missing numbers, but the hedgehog slot is 'Not issued', so that part gives the reader nothing to act on."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track A, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A24|s3|judge",
+    "stage": "judge",
+    "case_id": "A24",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 9858,
+    "tokens_out": 2714,
+    "cost_usd": 0.22678779999999998,
+    "duration_s": 30.1,
+    "finished_at": 1795585667.5842474,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2714,
+        "costUSD": 0.22678779999999998
+      }
+    }
+  }
+}

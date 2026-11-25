@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "2",
+  "D7": "tie",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both analyses land on the key's hedgehog (safe change for money-moving services), decline Atlas, drop the 80% OKR, surface the legacy-incident and three-quarter rollback slip facts, and avoid inventing a per-pipeline failure rate. Analysis 2 edges ahead by naming the decline mechanism more exactly (celebrating the service-count milestone while Sev-1s sit on legacy) and by giving the leader a slightly more usable VP counter-offer and offsite script, despite a minor miscount of distinct Payments incident services.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|D10|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "D10",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 21591,
+    "tokens_out": 2443,
+    "cost_usd": 0.44316,
+    "duration_s": 26.7,
+    "finished_at": 1795589452.3049498,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2443,
+        "costUSD": 0.44316
+      }
+    }
+  }
+}

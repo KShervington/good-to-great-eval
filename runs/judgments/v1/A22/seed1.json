@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "It narrows to the key's suggested core (lowest-cost home-state retail and middle-market banking, profit per employee) and rejects size as 'a result, not a capability', but it never states outright that the bank currently has no hedgehog."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top three stop-doing items are managing for asset size, new energy/shipping/developing-country lending, and acquisitions or new ventures to grow out of trouble, with branch consolidation at item 5; only executive perks are absent."
+  },
+  "D3": {
+    "score": 5,
+    "why": "All four key brutal facts are in the register, with unquantified bad loans and the loss of cheap deposits ranked Critical, overhead and the mortgage book ranked High, and consequences stated."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The risk register names the actual mechanisms with fitting warning signs: any new acquisition announced, reserves below identified problem loans, a dramatic merger as the fix, and falling capital with forced asset sales and takeover approaches."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Missing data is flagged, no financial figures are invented and most inferences are marked [ASSUMPTION], but volume-based lender pay and the missing credit seats are asserted without dossier support and not marked."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (cost to serve), the top three stop-doing items, the most urgent brutal fact and the missing numbers."
+  },
+  "D9": {
+    "score": null,
+    "why": "Not a track E subject."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|A22|s1|judge",
+    "stage": "judge",
+    "case_id": "A22",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12377,
+    "tokens_out": 1746,
+    "cost_usd": 0.22837179999999999,
+    "duration_s": 20.6,
+    "finished_at": 1795585490.1988254,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1746,
+        "costUSD": 0.22837179999999999
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'create and lead branded absorbent personal-care categories (tissue, diapers, training pants, feminine and adult care) and win them brand by brand against the best competitor in the world' with profit per consumer brand as denominator, matching the key on field, exclusions (airline, commodity paper) and denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The top stop-doing items are 'stop funding the airline expansion' (with sale or spin-off) and 'stop reinvesting in newsprint and printing-paper mills', both also in the one-screen verdict, with Europe gated and the consumer core left intact; tobacco papers are only softened to 'decide within 12 months'."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The brutal-facts register contains all five of the key's facts (succession ranked Critical, Rival P's size and diaper lead, airline capital with no strategic link, commodity mills draining capital, Europe with no disclosed returns), each with severity and owner."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and describes the later history as integration pain rather than a decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION], ROE and margin are computed from dossier figures, and missing brand/segment profit, shares, Europe returns and airline profit are all flagged; however the 'Greatness potential: 70/100' score is an unexplained, unmarked figure that sits oddly with the 'already great' verdict."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening screen gives the verdict, the hedgehog sentence, the weakest flywheel link (capital leaking to airline and commodity paper), three temptations to refuse, the most urgent brutal fact (succession) and the numbers that would change the call, concisely enough to act on."
+  },
+  "D9": {
+    "score": 4,
+    "why": "It states 'Already great' in stewardship mode with evidence, keeps the existing hedgehog, limits stop-doing to real temptations and names subject-specific warning signs (non-core share of capital spending rising, talk of a transformational acquisition, private-label erosion), but adds three 'missing seats' and a fairly long action list the dossier does not clearly justify."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|E04|s1|judge",
+    "stage": "judge",
+    "case_id": "E04",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 12176,
+    "tokens_out": 2025,
+    "cost_usd": 0.23631579999999996,
+    "duration_s": 23.0,
+    "finished_at": 1795589747.8736796,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2025,
+        "costUSD": 0.23631579999999996
+      }
+    }
+  }
+}

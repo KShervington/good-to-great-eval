@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The stated hedgehog ('#1 or #2 in health-care products that measurably lower the total cost of care', rejecting the blockbuster race and PBMs, profit per employee) matches the key on all three points, but the opening verdict contradicts it by calling for 'a new Hedgehog Concept built around the new market'."
+  },
+  "D2": {
+    "score": 2,
+    "why": "Section 5 targets the right temptations (no merger or PBM, no broad branded-drug discovery, fix diagnostics first), but the headline verdict names the 'top stop-doing item' as 'stop operating the core business as it is run today' and says to exit the core within 18 months, which is the opposite of the restraint decision."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The unresolved diagnostics quality findings are ranked #1 and 'Critical', with the IV-recall precedent given as the consequence; lost pricing power, buyer cost containment, rival consolidation and subscale branded drugs are all in the register."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and its later history records no How-the-Mighty-Fall-style decline."
+  },
+  "D7": {
+    "score": 3,
+    "why": "Derived figures are correctly computed from the dossier, assumptions are marked and missing data is flagged, but the opening verdict ('only good', 'model has run its course', exit the core) is a confident claim that the dossier and the analysis's own evidence contradict."
+  },
+  "D8": {
+    "score": 3,
+    "why": "The one-screen section has the hedgehog, weakest link, top three stop-doing items, most urgent brutal fact and missing numbers, but it is preceded by a contradictory verdict to exit the core and replace leadership, so a reader could not act on the first screen without confusion."
+  },
+  "D9": {
+    "score": 2,
+    "why": "The body says 'already great' with evidence, preserves the portfolio and names specific early warnings, but the headline verdict prescribes exiting the core, pivoting to a new market, replacing leadership and adopting a new hedgehog, and the body adds a fairly long list of changes."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "cal-overprescribe|E03|s1|judge",
+    "stage": "judge",
+    "case_id": "E03",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14825,
+    "tokens_out": 2575,
+    "cost_usd": 0.3006998,
+    "duration_s": 28.4,
+    "finished_at": 1795575153.3558574,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 2575,
+        "costUSD": 0.3006998
+      }
+    }
+  }
+}

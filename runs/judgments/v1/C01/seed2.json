@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 3,
+    "why": "The hedgehog ('clinician-driven specialty devices in niches it can lead', profit per niche) shares the commission sales rebuild, budgets and the move from beds toward orthopedic instruments, but it has no earnings-growth march as denominator and explicitly rules out implants and acquisitions, which the key includes."
+  },
+  "D2": {
+    "score": 5,
+    "why": "Stop-doing items 1 to 3 are 'salary-only sales pay', 'routing every decision through the founding family' and running without a budget or goals, and the first two appear in the opening verdict, matching the key's decisions."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The register ranks 'No effective sales force' and 'No budget process' as Critical, and also lists the leadership shock, 70% bed concentration and the implant shift with no Wexley implants, with consequences and owners."
+  },
+  "D5": {
+    "score": null,
+    "why": "The key lists no expected decline risks and its later history shows sustained success, not a decline."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Inferences are consistently tagged [ASSUMPTION] and missing margins, sales trend and market share are flagged, but 'Greatness potential: 30/100' is an unexplained, unmarked figure."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (no sales force), three stop-doing items, the most urgent brutal fact and the missing numbers."
+  },
+  "D9": {
+    "score": null,
+    "why": "The key's track is C, not E."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|C01|s2|judge",
+    "stage": "judge",
+    "case_id": "C01",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 11184,
+    "tokens_out": 1541,
+    "cost_usd": 0.2010838,
+    "duration_s": 18.5,
+    "finished_at": 1795588889.4356723,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1541,
+        "costUSD": 0.2010838
+      }
+    }
+  }
+}

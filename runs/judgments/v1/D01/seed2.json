@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 5,
+    "why": "The hedgehog is 'the distributor-neutral inventory brain for independent vet clinics' growing by 'lifetime gross profit per clinic', which matches the key's field, its exclusions (dental, chains, reminders) and its per-clinic denominator."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The stop-doing list opens with '(1) the dental pilot, (2) corporate-chain pilots', both explicit in the one-screen verdict and repeated in section 5 with the two engineers freed."
+  },
+  "D3": {
+    "score": 5,
+    "why": "Brutal fact #1, rated Critical and repeated in the verdict, has all three key points: 38% of ARR (~$0.91M), renewal in five months, and VetSource building a competing tool while silent, with the consequence stated and the 'housekeeping' filing called out."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The Gate 10 register names Stage 2 as 'already underway: dental plus chains' and Stage 3 as 'VetSource silence treated as normal', each with a specific early warning sign (over 10% of engineering on non-hedgehog work; any single channel above 25% of ARR)."
+  },
+  "D7": {
+    "score": 4,
+    "why": "CAC and new clinics by channel is flagged as missing and most thresholds carry [ASSUMPTION], but a blended CAC of about $10k with 20-month payback is computed and shown as 'derived' without that tag, and 'Direct CAC is probably worse' is unmarked speculation."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict is compact and gives the hedgehog sentence, the weakest flywheel link (winning new clinics via VetSource and Maya's demos), the top three stop-doing items, the most urgent brutal fact and the three missing numbers, so it can be acted on alone."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track D, not track E, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|D01|s2|judge",
+    "stage": "judge",
+    "case_id": "D01",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14039,
+    "tokens_out": 1729,
+    "cost_usd": 0.2542838,
+    "duration_s": 19.8,
+    "finished_at": 1795589016.8175838,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1729,
+        "costUSD": 0.2542838
+      }
+    }
+  }
+}

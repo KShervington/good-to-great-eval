@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "tie",
+  "D5": "1",
+  "D7": "1",
+  "D8": "1",
+  "D9": "2",
+  "overall": "2",
+  "why": "Both match the key's hedgehog, stop-doing decisions and brutal facts almost equally; Analysis 1 is better calibrated (it flags the cost-per-student versus budget mismatch and unknown board size, where Analysis 2 cites a contingency budget not in the dossier) and its verdict rules directly on the three board decisions. Analysis 2 wins overall on a close call because it explicitly names Calloway as already great, runs in stewardship mode, and keeps its list to a few real temptations that preserve the proven core, which is the restraint this track rewards.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|E07|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "E07",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 22821,
+    "tokens_out": 1536,
+    "cost_usd": 0.42656,
+    "duration_s": 20.0,
+    "finished_at": 1795589923.5711744,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1536,
+        "costUSD": 0.42656
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "D1": {
+    "score": 4,
+    "why": "The hedgehog treats quality as an outcome ('most reliable, most serviceable television', not hand-wiring), embraces solid-state and automation, and rejects the unit-share race with Rival R, but it picks profit per dealer and explicitly rejects the key's profit per set."
+  },
+  "D2": {
+    "score": 5,
+    "why": "The verdict's 'temptations to refuse' and stop-doing items 1-4 explicitly cover the hand-crafted identity, the debt-funded color race, capping pay TV and dismissing imports, with succession handled as a board action."
+  },
+  "D3": {
+    "score": 5,
+    "why": "The top-ranked Critical facts are the method-based quality identity against the solid-state shift and leadership's dismissal of ICs and imports, with imports moving upmarket, boom-top capacity and pay TV also listed with consequences."
+  },
+  "D5": {
+    "score": 5,
+    "why": "The decline register names the actual mechanisms: Stage 1 dismissal of imports, a Stage 2 debt-funded color capacity race plus pay TV with the warning sign 'debt appears on a balance sheet that had none', and Stage 3 blaming imports' 'dumping'; succession is flagged separately."
+  },
+  "D7": {
+    "score": 4,
+    "why": "Assumptions are marked, scorecard values are left 'Unknown' and missing data is named, but the verdict states 'it has no debt' as current fact when the dossier only supports Year -6, and it misreads the inspector ratio as 'inspecting one set in six'."
+  },
+  "D8": {
+    "score": 5,
+    "why": "The opening verdict gives the hedgehog sentence, the weakest link, three temptations to refuse, the most urgent fact and the missing numbers in a compact, actionable block."
+  },
+  "D9": {
+    "score": null,
+    "why": "The answer key is track B, so restraint is not scored."
+  },
+  "hindsight_leak": false,
+  "recognized_subject_by_name": false,
+  "_meta": {
+    "job_id": "v1|B08|s1|judge",
+    "stage": "judge",
+    "case_id": "B08",
+    "seed": 1,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 14292,
+    "tokens_out": 1534,
+    "cost_usd": 0.25053179999999997,
+    "duration_s": 18.5,
+    "finished_at": 1795588752.28261,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1534,
+        "costUSD": 0.25053179999999997
+      }
+    }
+  }
+}

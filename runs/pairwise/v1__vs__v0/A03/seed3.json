@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "tie",
+  "D3": "2",
+  "D5": "na",
+  "D7": "2",
+  "D8": "1",
+  "D9": "na",
+  "overall": "2",
+  "why": "Both reach nearly the same hedgehog as the key (cost-effective hospital, nutrition and diagnostic products, exit consumer and the blockbuster race, profit per employee only as a backup denominator), so D1 and D2 are ties. Analysis 2 names being out-researched by Rival U as a brutal fact and is more careful about missing data, while Analysis 1 has the tighter one-screen verdict but asserts a few unsupported points such as 'no succession plan' and capital share 'well under half'.",
+  "_order_flipped": false,
+  "_analysis_1_is": "v1",
+  "_meta": {
+    "job_id": "v1|A03|s3|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A03",
+    "seed": 3,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 17983,
+    "tokens_out": 1762,
+    "cost_usd": 0.358192,
+    "duration_s": 20.8,
+    "finished_at": 1795584692.4310625,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1762,
+        "costUSD": 0.358192
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "D1": "tie",
+  "D2": "1",
+  "D3": "tie",
+  "D5": "na",
+  "D7": "1",
+  "D8": "tie",
+  "D9": "na",
+  "overall": "1",
+  "why": "Both reach the same hedgehog (branded paper-based consumer products, profit per consumer brand) and surface both key brutal facts, but Analysis 1 commits unequivocally to selling the mills including the namesake and the specialty papers, whereas Analysis 2 hedges the namesake mill and only says divest or harvest specialty papers later. Analysis 1 is also slightly better calibrated: its gate tally is correct while Analysis 2 miscounts its own (states 6 PASS / 5 CONDITIONAL when its log shows 7 / 4), and it says explicitly what evidence would weaken the mill-sale case.",
+  "_order_flipped": true,
+  "_analysis_1_is": "v0",
+  "_meta": {
+    "job_id": "v1|A01|s2|pairwise|vs:v0",
+    "stage": "pairwise",
+    "case_id": "A01",
+    "seed": 2,
+    "model": "claude-fable-5-2",
+    "effort": "high",
+    "tokens_in": 15048,
+    "tokens_out": 1756,
+    "cost_usd": 0.310992,
+    "duration_s": 20.3,
+    "finished_at": 1795584487.9736726,
+    "models_used": {
+      "claude-fable-5-2": {
+        "inputTokens": 2,
+        "outputTokens": 1756,
+        "costUSD": 0.310992
+      }
+    }
+  }
+}
