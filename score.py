@@ -149,13 +149,18 @@ def _norm(n: str) -> str:
 
 
 def check_assumptions(md: str, dossier: str) -> tuple[bool, list[str]]:
-    """Numbers that aren't in the dossier must sit on a line (or table row) tagged [ASSUMPTION]."""
+    """Numbers that aren't in the dossier must sit on a line (or table row) that marks them: tagged
+    [ASSUMPTION], or visibly approximate or derived from dossier figures (≈, ~, about, roughly, derived,
+    calculated, implied, or shown arithmetic). Whether a *missing* metric was improperly computed is the
+    judge's call (D7), not this check's."""
     gp = greatness_potential(md)
     dnums = {_norm(m) for m in _NUM.findall(dossier)}
     dnums |= {re.sub(r"[^\d.]", "", x) for x in dnums}
     flagged = []
+    marked = re.compile(r"\[ASSUMPTION|assum|estimate|target|bhag|≈|~\s*\$?\d|\babout\b|\broughly\b|\bderived\b|"
+                        r"\bcalculated\b|\bcomputed\b|\bimpl(?:ied|ies)\b|\bapprox|\d\s*[÷/×x*]\s*\$?\d|=\s*\$?\d", re.I)
     for line in md.splitlines():
-        if re.search(r"\[ASSUMPTION|assum|estimate|target|bhag", line, re.I):
+        if marked.search(line):
             continue
         if re.match(r"^\s*#", line) or re.search(r"greatness potential", line, re.I):
             continue
@@ -204,6 +209,9 @@ def greatness_potential(md: str) -> int | None:
     return int(m.group(1)) if m else None
 
 
+REPORT_ONLY = {"assumptions"}
+
+
 def check_all(md: str, dossier: str, waive: tuple | set = ()) -> dict:
     s_ok, s_missing = check_sections(md)
     g_ok, g_msg = check_gate_counts(md)
@@ -218,7 +226,9 @@ def check_all(md: str, dossier: str, waive: tuple | set = ()) -> dict:
     }
     for w in waive:  # e.g. Track E (already great) waives stop_doing_5: restraint is the right answer there
         checks[w] = None
-    scored = [v for v in checks.values() if v is not None]
+    # `assumptions` is reported but not scored: a regex can't tell invented numbers from honest derived ones
+    # (judge dimension D7 makes that call). Decision 2026-11-24, see CHANGELOG.
+    scored = [v for k, v in checks.items() if v is not None and k not in REPORT_ONLY]
     return {
         "checks": checks,
         "pass_rate": sum(1 for v in scored if v) / len(scored),
@@ -276,7 +286,8 @@ def composite(rec: dict) -> float | None:
     jmean = (sum(js) / len(js) - 1) / 4
     det = rec["det_pass_rate"]
     if rec.get("D6") is not None:
-        det = (det * 7 + (1.0 if rec["D6"] else 0.0)) / 8
+        n_scored = sum(1 for k, v in rec["checks"].items() if v is not None and k not in REPORT_ONLY)
+        det = (det * n_scored + (1.0 if rec["D6"] else 0.0)) / (n_scored + 1)
     return round(100 * (0.8 * jmean + 0.2 * det), 2)
 
 

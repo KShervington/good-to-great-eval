@@ -53,3 +53,21 @@ Every phase and every improvement round is logged here: what ran, scores, the ed
   - The long-quote check paired quotes from different quotations, giving 23 false positives. It now flags only 15+-word quotations attributed to Collins or his books. Limitation: unattributed Collins quotes can't be detected without the books' text.
   - D9 (restraint) is now scored on Track E only, in the scorer and the prompts. The Track B keys carry `already_great`, so the judge had been scoring D9 there.
 - **Calibration:** 6 sheets built in `calibration/` (A03, A25, B05, C01, D03, E06) for the user to score blind.
+
+## 2026-11-24: Policy changes and round 1 proposal
+- Human calibration dropped (user decision). Replaced by the automated judge check, `scripts/judge_validity.py` (31 judge calls).
+- The skill may change its fundamental principles where the evidence shows an obvious improvement (user decision).
+- The `[ASSUMPTION]` check is now reported only. Derived or approximate figures count as honestly marked.
+- Composite after these scoring fixes: v0 dev mean 90.7. Track B judgments must be re-run, because they were judged while D2 and D9 treated B as "already great".
+
+### Round 1: failure clusters (v0, dev)
+1. **Already-great blindness:** D9 is 3 or below in 7 of 15 Track E outputs. The skill never says "already great", rates these companies 55–70, gives 3–4 CONDITIONAL gates, and writes 7–9 stop-doing items.
+2. **Gate 1 never fails:** D05 (not yet good) gets CONDITIONAL in 3/3 seeds. CONDITIONAL is used as a hedge.
+3. **Verdict too long:** D8 = 4 in 69 of 126 outputs. The judge's reasons: greatness-potential rationale, gate tallies and run notes in the verdict.
+4. (Queued for round 2) **Boilerplate decline register:** D5 = 3 in 9 outputs. It walks all 5 stages instead of naming the subject's own mechanism.
+5. (Queued) **Hedgehog over one sentence:** 18 of 126 outputs.
+
+### Round 1: candidate v1 (3 edits; +8.4% words over v0; overfitting scan clean)
+- **E1, a three-state Gate 1 with stewardship mode.** Hypothesis: giving the skill an explicit "already great" outcome (confirm the existing hedgehog, list only real temptations, no minimum stop-doing count, Gate 10 at the center) lifts D9 and E-track D1/D2 without hurting other tracks. The principle line gets an "already great" exception, and Gate 6's five-item minimum is waived in this mode.
+- **E2, firm FAIL for not-yet-good.** Hypothesis: concrete signs of "not yet good" (dependence on the steward's network, unproven retention, hand-operated core) plus "don't soften to CONDITIONAL" make Gate 1 fail D05, raising D6, while good subjects still pass.
+- **E3, verdict under about 150 words, with rationale, tallies and notes moved out.** Hypothesis: raises D8 with no loss elsewhere.

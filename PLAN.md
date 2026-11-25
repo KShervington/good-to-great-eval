@@ -107,6 +107,23 @@ v0 on dev, 42 cases × 3 seeds:
 
 **Next:** I'll show you 6 baseline outputs with their judge scores for calibration. If calibration changes the rubric, the baseline gets re-judged, which costs about $32.
 
+## Changes decided 2026-11-24 (user)
+1. **No human calibration.** The user judged that the model is better placed than they are to compare outputs with the answer keys. It's replaced by an automated judge check (`scripts/judge_validity.py`) with two parts:
+   - **Consistency:** 12 unmodified outputs are judged a second time, and should agree with their first judgment within 1 point.
+   - **Validity:** good outputs are deliberately damaged, and the judge must mark down the dimension each kind of damage targets:
+
+     | Damage | Judge must mark down |
+     |---|---|
+     | Swap in another case's output | D1–D3 |
+     | Delete the stop-doing list | D2 |
+     | Insert untagged invented metrics | D7 |
+     | Delete the verdict | D8 |
+     | Tell an already-great subject to exit its core | D9 |
+
+   If the judge misses one of these, the rubric gets fixed before round 1.
+2. **The skill may depart from Collins.** It can change its fundamental principles where the evidence shows an obvious improvement, not just tune how it applies Collins. Track A and C answer keys still encode Collins's view, so a principle that departs from Collins can lose points there while helping on Tracks B, D and E. Every decision reports per-track deltas, so this stays visible.
+3. **Derived figures.** A figure computed from dossier numbers is acceptable when it's visibly marked as derived or approximate. Computing a metric the dossier says is *missing* is still a D7 fault (judge). The regex `[ASSUMPTION]` check couldn't tell the two apart (it passed only 36–59 of 126 v0 outputs, mostly on honest derived numbers), so it's now reported only and left out of the composite.
+
 ## Decisions I need from you
 1. **Edit evaluation.** I recommend that each round test one candidate (up to 3 edits bundled), accepted or rejected as a whole. When a bundle fails but one edit looks promising, the next round re-tests that edit alone. Testing every edit separately costs about 3×.
 2. **Approve the next batch.** Build the full roster (Phase 1 proper) and run about 50 contamination probes (about $1). After that, the baseline round: 222 calls, about $67. I'll show you 6 baseline outputs alongside their judge scores for calibration before round 1.
