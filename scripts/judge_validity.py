@@ -80,7 +80,7 @@ def remove_stop_doing(md: str) -> str:
     kept, dropping, label_is_item = [], False, False
     for line in verdict.splitlines():
         if re.search(r"stop[- ]doing", line, re.I):
-            dropping, label_is_item = True, bool(re.match(r"^\s*[-*]", line))
+            dropping, label_is_item = True, bool(re.match(r"^\s*[-*]\s", line))
             continue
         if dropping:
             child = (re.match(r"^\s{2,}\S", line) if label_is_item

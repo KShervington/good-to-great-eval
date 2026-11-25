@@ -71,3 +71,14 @@ Every phase and every improvement round is logged here: what ran, scores, the ed
 - **E1, a three-state Gate 1 with stewardship mode.** Hypothesis: giving the skill an explicit "already great" outcome (confirm the existing hedgehog, list only real temptations, no minimum stop-doing count, Gate 10 at the center) lifts D9 and E-track D1/D2 without hurting other tracks. The principle line gets an "already great" exception, and Gate 6's five-item minimum is waived in this mode.
 - **E2, firm FAIL for not-yet-good.** Hypothesis: concrete signs of "not yet good" (dependence on the steward's network, unproven retention, hand-operated core) plus "don't soften to CONDITIONAL" make Gate 1 fail D05, raising D6, while good subjects still pass.
 - **E3, verdict under about 150 words, with rationale, tallies and notes moved out.** Hypothesis: raises D8 with no loss elsewhere.
+
+## 2026-11-24: Judge check (user approved the judge check, the Track B re-judge and round 1)
+- `scripts/judge_validity.py`: 31 Fable calls, plus 2 re-runs. **The judge passed every test; no rubric change.**
+  - Retest (12 untouched outputs judged again): 71 dimension scores, 89% identical, 100% within 1 point.
+  - Swap (another case's output graded against this key): 4/4, D1 = 1, D2 = 2, D3 = 1 every time.
+  - Fabricated untagged metrics: 4/4, D7 fell to 2 each time (from 4–5).
+  - Verdict removed: 4/4, D8 fell to 2.
+  - Track E told to exit its core: 3/3, D9 fell to 1–2.
+  - Stop-doing removed: first pass 2/4. Both misses were a bug in the damage step, not the judge: a bold label (`**Top three stop-doing items:**`) was taken for a bullet, so the verdict's numbered "Stop…" items survived, and the judge rightly credited them. Fixed the label regex and re-ran those 2 (old judgments archived under `runs/judgments_archive/no_stop-transform-bug/`).
+- Track B baseline: 18 judge jobs reset and re-run under the Track-E-only D9 rule (`scripts/rejudge.py`; old judgments archived under `runs/judgments_archive/b-not-already-great/`). Because the rubric didn't change, the other 108 baseline judgments stand.
+- Round 1 queued: 126 v1 runs, 126 v1 judge calls, 126 v1-vs-v0 pairwise calls.
