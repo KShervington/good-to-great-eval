@@ -124,4 +124,4 @@ Every phase and every improvement round is logged here: what ran, scores, the ed
 - Biggest losers: A17 -5.6, A23 -4.4, D06 -3.3, B08 -3.2. Spread across tracks, consistent with seed noise.
 - **Stopping rule triggered.** Round 1 gained +1.87, under 2.0. Round 2's CI includes 0. That is two rounds in a row. The dev loop ends with **v1 as the final candidate**.
   - Note for the report: E4 and E5 each fixed what they targeted, but the overall gain didn't clear noise on 26 clusters, so neither goes in under the rules.
-- Next: Phase 4, the held-out evaluation of v0 vs v1. It is 16 cases × 3 seeds, 240 calls (about $43), and needs the user's OK.
+- Next: Phase 4, the held-out evaluation of v0 vs v1. It is 16 cases × 3 seeds, 240 calls (about $70: 96 runs, 96 judge calls, 48 pairwise), and needs the user's OK.
