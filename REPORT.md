@@ -1,6 +1,6 @@
 # Report: evaluating and improving `good-to-great-anything`
 
-The final skill is [deliverable/SKILL.md](deliverable/SKILL.md), and its diff against your installed copy is [deliverable/SKILL.diff](deliverable/SKILL.diff). Your installed skill was not touched. All numbers below come from `runs/decisions/*.json`, which `scripts/final_eval.py` and `analyze.py` produce.
+The final skill is [deliverable/SKILL.md](deliverable/SKILL.md), and its diff against the original is [deliverable/SKILL.diff](deliverable/SKILL.diff). It is published separately in **[good-to-great-anything](https://github.com/KShervington/good-to-great-anything)**. All numbers below come from `runs/decisions/*.json`, which `scripts/final_eval.py` and `analyze.py` produce.
 
 ## Bottom line
 

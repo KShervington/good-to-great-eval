@@ -1,5 +1,7 @@
 # Judge calibration: 6 baseline outputs
 
+> **Superseded (2026-11-24).** Human calibration was dropped in favor of an automated judge check (`scripts/judge_validity.py`; results in CHANGELOG.md and REPORT.md). These sheets were never scored and are kept only for the record.
+
 Score these six analyses yourself before opening the judge's scores, so you aren't anchored by them.
 
 | Sheet | Case | What it is |

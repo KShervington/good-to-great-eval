@@ -148,3 +148,7 @@ Every phase and every improvement round is logged here: what ran, scores, the ed
   - E05 is still "good, close to great" in 3/3.
 - `scripts/final_eval.py` writes `runs/decisions/final.json` and the charts in `report/`. It was tested on dev data before any held-out file was read.
 - Wrote `REPORT.md`. The deliverable is `deliverable/SKILL.md` (= v3) plus `deliverable/SKILL.diff` against the installed skill, which was not modified.
+
+## 2026-11-25: Release
+- The final skill (v3) was installed at the user's request over the claude.ai-synced copy in `~/.claude/skills/synced/.../good-to-great-anything/SKILL.md`. A later sync from claude.ai may overwrite it until the new version is uploaded there too.
+- The skill now lives in its own public-ready repo, `good-to-great-anything` (plugin manifests, MIT license, a README and a worked example on fictional case D04 Linewright). This repo is now documentation of the evaluation: added README.md, removed `.claude-plugin/plugin.json` so the repo isn't taken for the plugin, and marked `calibration/` as superseded.
