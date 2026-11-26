@@ -6,3 +6,11 @@ state/*.db-*
 state/*.lock
 state/tmp/
 tests/_sandbox*/
+# local runtime logs and drafts (may contain machine-specific details)
+state/*.log
+state/*.json
+*.local.*
+.claude/
+LINKEDIN_POST.md
+deliverable/*.zip
+.env

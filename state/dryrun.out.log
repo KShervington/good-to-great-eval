@@ -1,3 +1,0 @@
-2026-11-23 21:07:50	start	harness run started; 9 jobs remaining
-2026-11-23 21:14:02	round_done	round dryrun: every job is done; ready for the accept/reject decision
-2026-11-23 21:14:02	finish	harness idle; counts={'done': 9}
